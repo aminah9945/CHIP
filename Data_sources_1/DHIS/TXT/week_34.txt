@@ -1,0 +1,384 @@
+DHIS - District Health Information System (MIS Cell)                                                                            1
+Directorate General Health Services Punjab, Pakistan
+        Weekly Feedback Report DHIS-II (23 August-29 August, 2021)
+                               Tel: [+92-99200990] e-mail: hmis.pb@Yahoo.com)
+
+                               24-Cooper Road, Lahore, Pakistan
+                                                           Summary                                     1
+  Assessment Points                                                                                    2
+ Reporting compliance                                                                                  3
+      OPD visits                                                                                       3
+                                                           Epidemic Diseases                           4
+ Anc-1 & PNC-1 Visits                                                                                  5
+                                                           Daily Indoor Patient Data                   6
+Family Planning Visits                                                                                 7
+                                                           Deaths due to Maternal                      8
+    Complications
+
+Summary: In this report, different indicators of health facility are discussed. The data of teaching/tertiary care hospitals is
+also included. The detailed analysis of week 34 of year 2021 are being presented in this report. The overall reporting compliance
+of the health facilities of Bahawalnagar, Jhelum and Rahimyar Khan out of 9 districts of Punjab which are successfully updating
+data on dhis-2 remained the target except the district D.G. Khan, Kasur and, Pakpattan, Okara and Rawalpindi. The total OPD
+Visits during week 34 of 2021 was 548.8K out of which 190.7k were reported in BHU(all), 102.1k were reported in RHC (all),
+42.2k were reported in DHQ (all), 127.2k were reported in THQ(all) and 86.7k were reported in Teaching hospitals.
+On average, 48 OPD per day visits were reported in BHU’s, 187 per day visits were reported in RHC’s, 1506 per day visits wer e
+reported in DHQ hospitals, 963 per day OPD visits were reported in THQ hospitals and 6,191 OPD per day visits were reported
+in Teaching Hospitals. It is calculated as total OPD visits by dividing the number of reporting health facilities and the tot al number
+of days excluding Sunday.
+Fifty-three diseases are reported through DHIS, out of which eleven most Epidemic diseases of 9 districts of Punjab have been
+discussed in this report through DHIS-2 software.
+Antenatal care coverage is an indicator of access and utilization of health care services during pregnancy. During week 34, the
+overall ANC-1 reported coverage in 9 districts of Punjab was 18,011 of the total expected population (3.4%). On average, the
+highest number of visits of ANC-1 has been recorded in district Rahimyar Khan and under the health facility THQ i.e. 1112
+visits.
+Delivery coverage at health facility is an indicator of utilization of delivery services provided at public health facilities. The
+overall percentage of deliveries conducted in health facilities of 9 districts of Punjab. During week 34 the highest (11%) of
+C-section cases and the highest cases (51%) of normal delivery cases were reported in district Jhelum.
+Indoor patient’s data of week 27 has shown in (fig. 8 & fig. 9) which cleared the statistics of indoor admissions and death.
+The highest number of cases of still births and neonatal deaths were reported in district Rahimyar Khan during week 34. The
+highest number of maternal deaths were recorded in district Okara i.e. 9 maternal deaths in week 34 of year 2021.
+During week 34, family planning visits reported from the public health facilities against the expected population were 8,492.
+The highest number of FP visits were reported in district Jhelum i.e. 71% visits under the health facility Basic Health Unit.
+The percentages of FP visits at health facility were calculated as total FP visits by health facility wise and divide it to the
+weekly total population (3.4%).
+
+---
+
+    2
+
+
+    ASSESSMENT POINTS
+
+
+
+    Meeting with CEO Chakwal
+regarding implementation of
+ DHIS2 in District Chakwal
+
+
+
+
+
+
+
+
+
+
+    onymace
+
+           Monitoring DHA Okara
+
+
+
+    24 EmergencyV-LaL
+       THQ HOSPITALSADIQ ABA
+
+
+
+
+
+
+
+
+
+
+    Finding of THQ Sadiqabad:
+
+    They have zero follow up.
+    Family planning clients are zero, from last 3 months.
+    When we cross check data their indoor admissions and death are not equal to disease and death data
+    from source register.
+    They should report separate ANC client and Gyne OPD patient, but they are reporting it combine.
+
+
+
+
+
+
+
+
+
+
+    DHIS2 Orientation sessions
+    at District Chakwal
+
+---
+
+                                                                                                       3
+
+                                       REPORTING COMPLAINCE
+
+Reporting compliance showed that                           Fi g .  1
+how   timely   and   regularly           the          Daily OPD Form  Daily RMNCH Form  Daily Indoor Serivces
+concerned 9 districts of Punjab are                   100% 100% 100%
+                                                                      100% 100% 100%                                     99%     100% 100%
+                                                                                                                                  85%  85% 98%
+reporting  data  to  meet  the         data                 49%  59%   84%  88%  88%     89%     70%     70%     87%
+                                                                                     80%     80%     81%     72%     72%     83%
+targets.
+
+In DHIS-2, we have three daily basis
+reporting forms to which concerned
+districts enter the data on daily basis
+and else three monthly basis forms at
+which they enter the data on monthly
+basis as well. The target for reporting
+compliance is 100% and it can be seen
+that  from  fig.   1,  the         reporting
+regularity of the district Bahawalnagar, Jhelum and district Rahimyar Khan has accurate reporting
+compliance targets for the week 34. District D.G. Khan, Kasur, Muzaffargarh, Okara and Rawalpindi did
+not meet the reporting compliance targets completely.
+
+                                                      OPD VISITS
+
+In figure 2, the total OPD Visits during                                                Fig. 2 District wise
+week 34 of year 2021 has displayed                                                      OPD Visits
+through bar chart. The total OPD                 60.0k
+Visits during week 34 of 2021 was                50.0k
+                                                 40.0k
+reported as 548.8K out of which                  30.0k
+190.7k were reported in BHU(all),                20.0k
+102.1k were reported in RHC (all),               10.0k
+42.2k were reported in DHQ (all),                0.0k
+127.2k were reported in THQ(all) and
+86.7k were reported in Teaching
+hospitals. The health facilities which
+are showing zero OPD visits is                        BHU(ALL)  RHC(ALL)  DHQ(ALL)      THQ(ALL)   THOPS
+because of they are not reporting at
+daily basis on DHIS-2 software. The highest number of OPD visits were conducted in district Rawalpindi
+under the health facility teaching hospitals during the period week 34 of year 2021.
+
+---
+
+                                                                                                                                4
+
+Health Facility Wise OPD Per Day Visits:
+
+            Fig. 3 Average OPD Per Day visits                           Fig. 3 displayed     the OPD per day visits by health
+                                                                        facility. This is calculated as ratio between the total
+                                 6191                                   OPD visits in all 9 districts of Punjab reported in
+                                  I                                     DHIS-2 software and reporting number of health
+                                                                        facilities and then divided it to the 6 week days
+                                                                        excluding Sunday. During week 34 of year 2021, 48
+                                                                        per day visits were reported in Basic Health Unit
+                                                                        (BHU’s), 187 per day visits per reported in Rural
+                     1506                                               Health Care (RHC’s), 1506 per day visits were
+                                   963                                  reported in DHQ hospitals, 963 per day visits were
+    48         187                                                      reported in THQ hospitals and 6191 per day visits
+
+ BHU(ALL)   RHC(ALL)  DHQ        THQ(ALL)        THOS                   were reported in teaching hospitals. It is to be noted
+                                                                        that, district D.G Khan, Jhelum, and Kasur are not
+reporting on daily basis at DHIS-2 Software for the health facility of DHQ, that is why, their per day health
+facility is affected.
+
+Priority Epidemic Diseases:
+
+                                                               Fig. 4
+                      Chicken-Pox
+Suspected Viral Hemorrhagic Fever
+         Suspected Infulenza H1N1
+           Suspected Dengue Fever
+ Suspected HIV/AIDS (PHC+SHC)
+          Acute Flaccid Paralysis
+      Suspected Nenonatal Tetanus
+                Suspected Measles
+              Suspected Meningits
+                                 0  50           100                 150    200         250   300  350             400
+
+                                 Suspected Suspected Suspected  Acute       Suspected Suspected Suspected Suspected
+                      Meningits             Measles Nenonatal  Flaccid      HIV/AIDS  Dengue  Infulenza  Viral   Chicken-
+                                        Tetanus                Paralysis    (PHC+SHC)  Fever  H1N1       Hemorrha  Pox
+                                                                                                         gic Fever
+ RAWALPINDI                                                    10                      73     353        9          29
+ RAHIMYAR KHAN                                                                         60
+ PAKPATTAN            2                                                                 5                           1
+ OKARA                                                                      6                 78                    4
+ MUZAFFARGARH                                  2                                                                    2
+ KASUR                                           7                                      6                           3
+ JHELUM                                        2
+ DG KHAN                                                       1            34                                      1
+ BAHAWALNAGAR                                  4               1                        5
+
+From Epidemic diseases, we mean that affects a large number of people within a community, populat ion
+or region. In above figure 4, priority epidemic diseases status of 9 districts which are successfully
+implemented on dhis-2 software, has shown through graph. According to the descriptive analysis, the
+
+---
+
+                                                                                                             5
+
+highest number of cases for suspected meningitis has reported in district Pakpattan. The highest number of
+cases for suspected measles has reported in Bahawalnagar. The highest number of suspected neonatal
+tetanus cases has reported in district Kasur. Acute Flaccid Paralysis cases has found in district Rawalpindi.
+The highest number of HIV/AIDS cases has reported from the district D.G Khan. District Rawalpindi has
+highest number of cases for suspected dengue fever. District Rawalpindi has shown highest number of cases
+for suspected influenza H1N1 and Suspected Viral Hemorrhagic fever. The highest number of chicken-pox
+cases has reported in District Bahawalnagar for the week 34 of year 2021.
+
+                                                      ANC-1 VISITS
+
+Fig. 5 showed the weekly basis visits of                          Fig. 5 ANC-1 Visits
+ANC-1 in all BHU’s, RHC’s, THQ’s and                 1800
+                                                     1600
+Teaching Hospitals for the 9 reporting               1400
+districts of Punjab in DHIS-2 Software.              1200
+The highest number of visits of ANC-1                1000
+                                                      800
+has been recorded in district Rahimyar                600
+Khan under the health facility of THQ                 400
+                                                      200
+i.e. 1112 visits during week 34. It is to             0
+be noted that DHQ hospitals of district
+D.G. Khan and Kasur, Rahimyar Khan
+are not reporting their daily basis form
+data, due to this, they appeared zero.                    BHU     RHC  DHQ  THQ      THOS
+
+Deliveries Coverage at Health
+Facility:                                                         Fig. 6 Deliveries Conducted
+                                                       60%
+The  statistics  of  delivery  coverage at             50%
+health facility (fig. 6) of 9 district of Punjab       40%
+showed that the highest number of C-                   30%
+section has reported in district Jhelum i.e.           20%
+11% C-section during the week 34 of year               10%
+2021 and also the highest number of                      0%
+normal+ VF deliveries has reported in
+district Jhelum (51%) for the week 32 of
+year 2021.
+
+District Kasur is showing 0 C-section as                   C-Sections    NORMAL DELIVERIES+VF DELIVERIES
+their DHQ Hospital is not reporting on daily
+basis in DHIS-2 Software.
+
+---
+
+                                                                6
+
+Total Number of Deliveries                              Fig. 7
+Conducted and PNC-1 Visits:                      1600
+
+In Fig. 7, the comparison between the            1400 Hult.l
+                                                 1200
+total number of deliveries conducted             1000
+with the number of PNC-1 visits in 9             800
+districts of Punjab during the week 34           600
+of  year  2021  has    shown         through     400
+multiple bar chart.                              200
+                                                   0
+According to the data reported on dhis-
+2, the highest number of deliveries
+were     reported  in  district     Rahimyar
+Khan i.e. 1439 deliveries out of which
+1439 PNC-1 visits           were reported in            TOTAL DELIVERIES  PNC-1 VISITS
+week 34 of year 2021.
+
+                                 DAILY INDOOR PATIENT DATA (IPD)
+
+           Fig. 8 Indoor Total Admissions               Fig. 9 Indoor Total Deaths
+ 8000                                                350
+ 7000                                                300
+ 6000                                                250
+ 5000                                                200
+ 4000                                                150
+ 3000                                                100
+ 2000
+ 1000                                                 50
+    0                                                  0
+
+
+
+
+
+Above Fig. 8 visualized the total admissions in Indoor and Fig. 9 represented the Indoor Total Deaths.
+
+The highest number of indoor admissions were reported in districts Rawalpindi i.e. 7459 and likewise
+highest number of indoor total deaths have reported in district Rawalpindi i.e. 289 deaths during the
+week 34 of year 2021.
+
+---
+
+  7
+
+  FAMILY PLANNING VISITS
+
+
+80%                             Fig. 10 FP Visits
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+  0%  BAHAWLNA DG KHAN  JHELUM  KASUR  MUZAFFAR  PAKPATTAN  OKARA  RAHIMYAR RAWALPIN
+        GAR                              GARH                        KHAN      DI
+BHU      24%   11%      71%       34%     27%    20%        48%      10%      20%
+  RHC     4%    3%      14%     1.50%      3%     3%        10%       6%       4%
+DHQ    0.18%             1%                       3%         2%
+THQ    0.35%    5%       3%             1.30%     8%         5%                5%
+  THOS                                                               12%       4%
+
+
+
+  Fig.  10 exhibited the weekly FP visits by health facility wise. During week 34, the overall total FP visits
+  were reported as 8492 visits out if which the highest number of FP visits were recorded in BHU’s i.e. 71%
+  in district Jhelum. These percentages were calculated as total FP visits in districts divided by the total
+  population (3.4%) reported during week 34 of year 2021.
+
+  Table: 1 Weekly Method-wise FP Clients
+
+                FP-Clients-        FP-Clients-        FP-             FP-             FP-             FP-             FP-
+   DISTRICT     COC                Condom             Clients-        Clients-        Clients-        Clients-        Clients-        FP-Clients-
+                cycles             Pieces             DMPA Inj        IUCD            Implants        POP             Tubal           Vasectomy
+                                                                                                      cycles          Ligation
+
+                             42                979              36             212               1               5               0              1
+   Bahawalnagar
+                            115                804             159             120              28              56              10              0
+   Dg Khan
+                            234                472             241              84               0               0               1              0
+   Jhelum
+                             41                259              38             105               2               6               0              0
+   Kasur
+                            269               1443             186             155               1               9               1              3
+   Muzaffargarh
+                             70               2498             112             157               0               1               1              1
+   Okara
+                             60                293              74              97               0               1               0              0
+   Pakpattan
+                             58                394              97             150               0               0              17              0
+   Rahimyar Khan
+                            338               3810             386             173              12              16               0             39
+   Rawalpindi
+
+---
+
+8
+
+NUMBER OF DEATHS DUE TO MATERNAL COMPLICATIONS
+
+
+                                  Fig. 11
+                10
+                9
+                8
+                7
+                6
+                5
+                4
+                3
+                2
+                1
+                0  BAHAWA DG KHAN JEHLUM  KASUR MUZAFFA    OKARA PAKPATT RAHIMYA RAWALPI
+                   LNAGR                         RGARH              AN    R KHAN  NDI
+MATERNALDEATHS      1                                      9                  1
+NEONATAL DEATHS     1                                                       6
+STILL BIRTHS        3             1       2                5                8
+
+                         MATERNALDEATHS   NEONATAL DEATHS  STILL BIRTHS
+
+
+In above Fig. 11, the number of maternal death, neonatal deaths and still births recorded in 9 districts of
+Punjab during the week 27 of year 2021 has shown through multiple bar chart. The highest number of
+neonatal deaths and still births were reported in district Rahimyar Khan. Likewise, the highest number of
+maternal deaths were recorded in district Okara during the week 34 of year 2021.

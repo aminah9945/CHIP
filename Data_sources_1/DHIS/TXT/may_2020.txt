@@ -1,0 +1,436 @@
+DHIS Analysis Report (May 2020)
+    Directorate General Health Services, Punjab (MIS Cell)
+     24-Cooper Road Lahore
+      Tel: [+92-99200990]
+    Email: Hmispb@yahoo.com
+
+
+    DHIS                                                                                           b
+    District Health Information System
+
+    KEY HIGHLIGHTS
+
+    Due to pandemic COVID-19, there is a clearly decline observed in healthcare services that are being reported in
+    DHIS by Health facilities including Teaching Hospitals, DHQ, THQ, Civil Hospitals, RHCs, BHUs, MCHC and
+    Dispensaries. The OPD (Out Patient Department) of THOS (Teaching Hospitals) were closed by the end of March.
+    Total OPD visits in January & February were 14 Million, but from March (11.6 Million) OPD is decreased to 6 Million
+    in May 2020. This shows there is a decrease of 41.3% in OPD for the month of May as compare to the month of
+    March 2020.
+          Similarly, a major decline is observed in rest of the major indictors that are being reported in DHIS i.e. ANC-
+    I, Deliveries, Family planning visits, Medicine Stock out and other indicators.
+
+                                      OUT PATIENT DATA
+    16         14.4                   14.5    Jan=14,353,988
+    Millions
+    14                                                 Feb=14,493,384              Total OPD Visits
+                                                       March=11,636,966            The           figure   shows  a                      graphical
+    12                                        11.6     April=7,250,938             <u>representation of OPD visits (New + </u>
+    10                                                 May=6767,201                <u>Follow Up) for first five Months of </u>
+                                                                                   2020.
+     8                                                7.3     6.8                  <u>Total </u> <u>OPD visits </u> <u>in </u> <u>January </u> <u>14 </u>
+     6                                                                             <u>million, February 14.5 million and </u>
+                                                                                   <u>March were 11.6 million whereas, in</u>
+     4                                                                             <u>April and May there were observed </u>
+     2                                                                             <u>only 7M and 6.8M respectively. This </u>
+                                                                                   <u>shows there is a decrease of 41.3% in </u>
+     0         Jan-20                 Feb-20  Mar-20  Apr-20  May-20               OPD for the month of May                                    as
+                                                                                   compare to month of March 2020,
+    due to discontinue of OPD in THOS (Teaching Hospitals) in Punjab province by the end of March.
+
+
+
+
+    1
+
+---
+
+    EPIDEMIC TOP FIVE DISEASES
+     2510000    2042158                                                                          Figure shows the number of patients of
+                2027707
+
+                1693969                                                                          top five epidemic diseases in Punjab
+     2010000                                                                                     Province for the month of January to
+                                                                                                 May.         <u>The highest number</u>                     <u>of patients </u>
+     1510000    1035125                                                                          <u>were </u> <u>found </u> <u>in </u> <u>ARI-Acute </u>        <u>(Upper) </u>
+                                                                                                 <u>Respiratory </u> <u>Infections in all </u>           <u>months</u>.
+                           811346                                                                The reported number                   of                   patients in
+                           664598
+                                     636094
+     1010000                               522033                  425948                  397452 DHIS        has           also       decreased         due  to
+                                                         367526    396881                  394575
+                                           355176        359861    362936                  351172 pandemic COVID-19.
+                                           311355        295733    241172                  247706
+                                                         188726    216877                  197614
+      510000                                             172771
+
+      10000
+                ARI        Fever Due to        Hypertension        Peptic Ulcer  Scabies
+                           other causes                    Diseases
+                           Jan       Feb       March     April  May
+
+    SUSPECTED MEASLES, TYPHOID FEVER, DIARRHEA <5 & >5 YEARS &
+    PHENOMENA >5 & <5 yrs
+
+    <u>Graph shows number of patients for the first five</u>       <u>months of 2020 i.e. January to May 2020 for Suspected </u>
+    <u>Measles, Typhoid Fever, Diarrhea <5 & >5 years and Phenomena >5 & <5 years. It is observed that Diarrhea </u>
+    <u><5 & >5 years cases are increased as compared to Aril 2020.</u>
+
+     300000
+
+
+   250000  0 1  0 2
+
+
+    200000    M 1  DAE 0 A
+
+
+    150000
+
+
+    100000    DA 0 0 2  0 M0 CAT    M0 MM0
+
+
+    50000    M                                            A
+                                                          N0    NA
+                                                                M BR  3
+    0
+Diarrhoea/DysenteryDiarrhoea/Dysentery Enteric/Typhoid    Pneumonia <5 years Pneumonia >5 years Suspected Measles
+             in <5 yrs    in >5 yrs    Fever
+                                                          April
+                                           JanFebMarch    May
+
+                                                                                                                 2
+
+---
+
+             MATERNAL AND NEONATAL CHILD HEALTH
+
+100000                                                                   45.0%                Deliveries conducted in
+ 90000          40.0% 35.1%                                              40.0%                Health Facilities
+ 80000           80868    31.9%                                          35.0%
+ 70000    91908           74913                 26.2%          24.5%     30.0%                                         The figure shows percentage of Total
+ 60000                                          63474                    25.0%                <u>Deliveries </u>  <u>conducted </u> <u>in </u>       <u>Health </u>
+ 50000                                                         61079                          <u>Facilities of Punjab for the past five </u>
+ 40000          21428                                                    20.0%                <u>months of year 2020 i.e. January to </u>
+ 30000             18389        15509                  10769             15.0%                <u>May. </u> <u>Continues</u>  <u>decline </u>    <u>can </u> <u>be </u>
+ 20000                                                          8365     10.0%                overserved. In      May, Percentage of
+ 10000                                                                    5.0%                <u>deliveries </u>  <u>conducted</u>  <u>in</u>        <u>health </u>
+     0                                                                    0.0%                facilities   was    25%.       Difference                     of
+          January  February  March              April           May                           decline      due    to         COVID                   impact
+          Normal Deliveries  Cesarean Sections  % of Total Deliveries Conducted               observed            from January to May                       is
+                                                                                              38%, a minor decline of 0.06 from
+April to May 2020 was observed. The number of C-section performed were also analyzed and it was observed that
+the highest was in January i.e. 21K and lowest was observed in May i.e. 8K.
+
+ANC-I VISITS
+
+370000    97.7%              96.1%                                                                                                              110.0%
+320000                                                   85%                                                                                    100.0%
+                                                                                                                                                90.0%
+270000    324184             318840                      283051                    68.5%                          63.6%                         80.0%
+220000                                                                                                                                          70.0%
+                                                                                     227511                                                     60.0%
+170000                                                                                                            210957                        50.0%
+120000                                                                                                                                          40.0%
+ 70000                                                                                                                                          30.0%
+                                                                                                                                                20.0%
+ 20000                                                                                                                                          10.0%
+                   Jan       Feb                         March                       April                        May
+                                                ANC-1           % of services provide
+
+This numbers are calculated from the expected pregnancies during the year (3.4% of total Population).
+90 above percentage can be seen through graph for the month of January & February. But in March there is 85%, as
+mentioned earlier that due to COVID-19 THOS (Teaching Hospitals) were closed by the end of March, so directly ANC-I visits
+decreased and in May the percentage of ANC-I visits is 64%.
+
+
+
+
+
+
+
+3
+
+---
+
+    ANC-I & DELIVERIES DECLINE PERCENTAGE WITH NUMBERS OF DSTRICTS
+
+    1-10%   ≥ 50%, 3    Increase, 3                               ≥ 50%, 3  30-49%, 2
+    Increase, 3
+                        30-49%, 2
+    No
+    Change, 1
+                                                                            20-29%, 7
+                        20-29%, 9
+
+
+
+
+
+
+    <19%, 18    <19%, 21
+
+
+
+
+    Pie  chart shows a decline percentage of ANC-I as         Pie chart shows a decline percentage of Deliveries with
+    compare to March, the total numbers of district in        the total numbers of district in percentage categories for
+    percentage categories are shown for the month of May      the month of May as compare to March 2020
+    2020.                                                     Highest number of Districts decline is in <19% Category
+
+    Highest number of district’s decline is in < 19% category.
+
+
+
+
+
+    ANC-1 Percentage Decline w.r.t March for the month of May 2020
+   Category  Number of                                 Name of District
+    Districts
+    ≥ 50%         3        Gujranwala, Lahore, Mianwali
+    30-49%        2        Gujrat, Shiekhupura
+    20-29%        9        Bahawalpur,RY khan, Layyah, Faisalabad,Sialkot, Hafizabad,Kasur,Nankana Sahib,
+                           Vehari
+                           Bahawalnagar, DG Khan, Muzaffargarh, Rajanpur, Jhang, TT Singh, Gujrat, MB Din,
+     <19%         18       Khanewal, Lodhran, Multan Vehari, Chakwal, Jhelum Rawalpindi, Khushab, Okara,
+                           Sahiwal
+  No Change       1        Chiniot
+1-10% Increase    3        Bhakkar, Sargodha, Pakpattan
+
+
+
+
+
+
+
+
+    4
+
+---
+
+                Deliveries Percentage Decline w.r.t March for the month of May 2020
+
+      Category  Number of                                       Name of District
+                Districts
+       ≥ 50%     3                Rawalpindi, Gujranwala, Lahore
+       30-49%    2                Bahawalpur, Faisalabad,
+       20-29%    7                RY Khan, Layyah, Rajanpur, TT Singh, Gujrat, Hafizabad, Pakpattan
+                                  Bahawalnagar, DG Khan, Muzaffargarh, Jhang, Chiniot,Narowal, Sialkot, MB
+        <19%     21               Din, Kasur, Shiekhupura, Nankana Sahib, Khanewal, Lodhran, Multan , Vehari,
+                                  Jhelum , Bhakkar, Khushab, Sargodha, Mianwali, Sahiwal
+    Increase     3                Okara, Chakwal, Attock
+
+200000          183627                                                       FAMILY PLANNING
+180000                    175155   158261                                    VISITS
+160000                                                                       <u>Figure </u>  <u>shows </u>  <u>a </u>  <u>graphical </u>
+140000                                       135361      122267              <u>representation of Family Planning </u>
+120000                                                                       visits for first five months of 2020.
+100000                                                                       <u>There’s a continues decline in every </u>
+ 80000                                                                       <u>next month from January to May. </u>
+ 60000                                                                       <u>Number of family planning visits for </u>
+                                                                             <u>May is 122k that shows a lowest </u>
+ 40000                                                                       <u>number</u>   <u>of visits from January to </u>
+ 20000                                                                       <u>April.</u> <u>Which is a decrease of 33% </u>
+     0                                                                       from January visits.
+                Jan       Feb     March      April   May
+
+    OBSTETRIC COMPLICATIONS
+
+                                                                   Hemorrhage                Hemorrhage
+                                                         Ante partum
+                                                                             Complication
+                                                                                 s of Abortion
+                                   Obstructed        Pregnancies                             Postpartum                Eclampsia/
+                Puerperal Rupture  Prolonged/       Ectopic                                                            Eclampsia
+    Months      Sepsis    Uterus         Labour                     (APH)                    (PPH)
+                                                                                                                       Pre 
+
+
+
+
+    January      351       378     594     357     1,759      1,269     1,031                        1,172
+
+    February     129       533     462     327     1,451      1,393     1,406                        1,110
+
+    March         84       144     437     229     1,074    839         832                           661
+
+    April         90    77         343     165     1,557    690         603                           551
+
+    May           44       201     278     134     616      736         550                           524
+
+             Above Table shows the number of Obstetric Complications for the Month of January to May.
+
+
+    5
+
+---
+
+   Still Birth, Neonatal and Maternal Deaths
+
+               Still Births                                      Neonatal & maternal Deaths
+2500                                                      140
+                                                                                              121        123
+        2019                                              120
+2000            1798  1644                                100    75    79
+
+1500                           1293      1285              80
+                                                           60          51
+1000                                                       40
+
+ 500                                                       20    6     9    7            6               4
+                                                           0
+                                                                 Jan    Feb  March       April           May
+   0
+        Jan     Feb   March    April     May                            Neonatal Deaths  Maternal Deaths
+
+   Graph shows a number of Still Births in all health      Graph shows a number of Neonatal and Maternal Deaths
+   facilities for the Month of January to May. It is       in health facilities. The number of maternal deaths have
+   observed that the number of stillbirths have been       increased in the Month of March and it ranked highest
+   decreased by 22% with respect to previous month         among past four months, whereas, in may there is a slight
+   (March).                                                decrease in neonatal but a bit increase in maternal deaths.
+
+
+
+            <u>MEDICINE STOCK OUT </u>
+
+   7.00%    6.40%
+   6.00%                              5.41%
+   5.00%
+   4.00%                    3.40%
+   3.00%         2.58%
+   2.00%              1.84%
+   1.00%
+   0.00%
+                 Jan  Feb  March  April  May
+
+            Figure shows a percentage of stock for the month of January, February, March, April and May 2020.
+
+
+   6
+
+---
+
+                                     IMMUNIZATION COVERAGE
+BCG
+
+  Category      No of      Name of Districts                   Number of Districts with Category
+ Percentage    Districts                                       Percentage wise Decrease BCG
+ 30-49%                                                                     Administered
+ 20-29%            2      Jhang,Chiniot                        1            2  2         3
+                   3      Bhakkar, Rajanpur, RYKhan
+                          Hafizabad,
+ 10-19%                   Narowal,Lahore,Lodhran,Okara,                                                  8
+                   8      Pakpattan,Sargodha, DG Khan
+                          Chakwal, Jhelum, Gujranwala,
+                          Gujrat,Sialkot,Shiekhupura,
+                          Nankana sahib, Lahore ,
+ < 9%                     Multan,Khanewal,                   20
+                          Vehari,Sahiwal, Faisalabad, TT
+                          singh, Mianwali, Khushab,
+
+                   20     Muzaffargarh, Layyah,                30-49%                20-29%
+                          Bahawalpur, Bahawalnagar
+ No change         1      MB Din,                              10-19%                < 9%
+ 1-10%                                                         No change             1-10% Increase
+ Increase          2      Rawalpindi, Attock
+
+<u>Figure shows a pie chart of BCG (Bacille Calmette-Guerin, a vaccine for tuberculosis (TB) disease) with decline </u>
+<u>percentage & total number of Districts along with categories of percentage form the Month of January to May 2020. </u>
+<u>The highest percentage of decline was observed in the category of <9% with number of 20 Districts.</u>
+
+MEASELES-I
+
+  Category      No of                Name of Districts              Number of Districts with Category
+  Percentage  Districts                                             Percentage wise Decrease Measle I
+
+  10-19%          6        Lahore, Lodhran, Pakpattan,              Administered  1  6
+                           Chiniot, TT Singh, RYKhan                        7
+                           Rawalpindi, Chakwal,
+                           Gujranwala, Hafizabad, Gujrat,
+                           Narowal, Shiekhupura, Multan,       2
+  < 10%         20         Khanewal, Vehari, Sahiwal,
+                           Faisalabad, Jhang, Mianwali,
+                           Bhakkar, Khushab, Rajanpur,
+                           Muzafargarh, Bahawalpur,
+
+  No change       2        Bahawalnagar                                                    20
+                           Attock,Sialkot
+  1-10%                    Jhelum, MB Din, Nankana
+  Increase        7        Sahib, Kasur,Okara, Sargidha             10-19%               < 10%
+                           Layyah                                   No change            1-10% Increase
+  22% Increase  1          DG Khan                                  22% Increase
+
+
+
+
+7
+
+---
+
+Figure shows a pie chart of Measles-I Vaccine provided from January to May 2020. Decline percentage is shown in
+chart with number of Districts in categories and district names in table. The highest category of decline was observed
+in <10% category. This graph shows coverage of vaccines for the Month of
+          January, February, March, April and May.
+There is slight decline observed in vaccination coverage of Measles, Rota and TT.
+
+          Measles, Rota & TT Vaccine
+          306563
+          303929
+350000                        294098
+                                     292613                             292613
+          285080                                                 291510                             286131
+                                            277822                             277822                      279324
+                270634                                                                                            267941        267554
+                                                   264624                             264624                                           265884
+                       261915                             254618                             258318                      257035               254049
+                                                                                       253103
+300000                                                244663                           248149 245630
+                                                                                              245170
+                                                                                              237435
+                                                                                                    231673
+                                                                                                    228106
+
+250000
+
+200000
+
+150000
+
+100000
+
+ 50000
+
+     0
+          Rota I          Rota II    Measle I    Measle II                       TTI          TTII
+                          Jan        February    March  April            May
+
+
+In Punjab, From January to May Rota-I and Rota –II     Vaccine     Decline Percentage from
+have decline of 15% and 13%, Measles-I and Measles-                January to May
+II have decline of 11% and 15% and TT-I & TT-II    Rota-I      15%
+have decline of 7% as also shown in table.        Rota-II      13%
+                                                 Measles-I     11%
+                                                 Measles-II    15%
+                                                    TT-I        7%
+                                                   TT-II        7%
+
+
+
+
+
+
+
+
+
+This Report would not be possible without the collaboration,        On behalf of MIS team, Mr. Farooq Ahmed (CPO), Ms. Aleena
+guidance,  and expertise  of       Dr. Haroon Jahangir Khan         Tahir (Bio Statistician), we thank to the focal persons of Districts and
+(Director General Health Services Punjab), Dr. Sohail Arshad        public health professionals who worked to improve our provincial
+Rana (DHS MIS), Dr. Imtiaz Ahmed Rana (ADHS-Statt).                 health for their tireless efforts with timely collaboration. We are better
+                                                                    prepared to address the public health challenges of today and
+The  regularly  reviews,  discussion,  and  modification  of        tomorrow. They deserve our deepest appreciation.
+methodological framework used to ensure that the Report meets
+the most rigorous statistical standards and accurately reflects the
+state of our Provincial health.                                     DHIS
+                                                                    Destrict Health Information System
+
+                                                                                                                                               8

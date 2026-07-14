@@ -1,0 +1,1290 @@
+      DHIS- DISTRICT HEALTH INFORMATION SYSTEM (MIS CELL)
+
+          DIRECTORATE GENERAL HEALTH SERVICES, PUNJAB
+
+Weekly Feedback Report DHIS-II (30 August - 5ᵗʰ September, 2021)
+          Tel: [+92-99200990 e-mail: hmis.pb@yahoo.com
+    Tel: [+92-99200990 e-mail: hmis.pb@yahoo.com
+
+
+
+
+
+    Summary:
+    In this report, different indicators of health facility are discussed. The data of teaching/tertiary care hospitals is also included. The
+    detailed analysis of week 35   of year 2021 are being presented in this report. The reporting regularity of the district
+    Bahawalnagar, Jhelum and district Rahimyar Khan has accurate reporting compliance targets for the week 35 of
+    year 2021. District D.G. Khan, Kasur, Muzaffargarh, Okara and Rawalpindi did not meet the reporting compliance
+    targets completely. District Bhakkar, Layyah and Rajanpur are recently shifted on DHIS-II software, that is why
+    there reporting compliance is below the target.
+    . The total OPD Visits during week 35 of 2021 was 539.0K out of which 186.5k were reported in BHU(all), 101.2k were reported
+    in RHC (all), 39.7k were reported in DHQ (all), 135.6k were reported in THQ(all) and 76.0k were reported in Teaching hospitals.
+    On average, 40 OPD per day visits were reported in BHU’s, 155 per day visits were reported in RHC’s, 1104 per day visits were
+    reported in DHQ hospitals, 595 per day OPD visits were reported in THQ hospitals and 1810 OPD per day visits were reported
+    in Teaching Hospitals. It is calculated as total OPD visits by dividing the number of reporting health facilities and the tot al number
+    of days excluding Sunday.
+    Fifty-three diseases are reported through DHIS, out of which eleven prone Epidemic diseases of 12 districts of Punjab on which
+    DHIS-2 is implemented successfully, have been discussed in this report through DHIS-2 software.
+    Antenatal care coverage is an indicator of access and utilization of health care services during pregnancy.
+    During week 35, the overall ANC-1 reported coverage in 12 districts of Punjab was 18,408 of the total expected population
+    (3.4%). On average, the highest number of visits of ANC-1 has been recorded in district Rahimyar Khan and under the health
+    facility BHU i.e. 1362 visits.
+    Delivery coverage at health facility is an indicator of utilization of delivery services provided at public health facilities. The
+    overall percentage of deliveries conducted in health facilities of 12 districts of Punjab. During week 35 the highest (25%) C-
+    section cases has reported in district Rawalpindi and the highest cases (75%) of normal delivery cases were reported in district
+    Bhakkar. Likewise, the highest per day C-section has recorded in district Rahimyar khan & Rahimyar Khan under the health
+    facility teaching hospitals.
+    Indoor patient’s data of week 34 has shown in (fig. 8 & fig. 9) which cleared the statistics of indoor admissions and death.
+    During week 35, family planning visits reported from the public health facilities against the expected population were 8,773.
+    The highest number of FP visits were reported in district Rajanpur i.e. 88% visits under the health facility Basic Health Unit.
+
+
+
+
+
+
+
+    1
+
+---
+
+      DHIS-II WEEKLY REPORTING COMPLIANCE PUNJAB, WEEK 35
+
+Reporting compliance showed        F i g .  1
+that how timely and regularly      Daily OPD Form  Daily RMNCH Form  Daily Indoor Services
+the concerned 12 districts of                   100% 100% 100%
+                                   98% 98% 100%                      99% 99% 100%
+                                                                         92%  99% 100%
+                                                   77% 89% 95%
+Punjab are reporting data to                               76% 86%   92%             16% 19% 88%
+                                                       82% 84% 86%
+                                                              81%    83% 86%
+                                       56%  70%  71%
+                                   No. Of Reports                                12% 45% 68%
+meet the data targets.                                                        32% 33% 47%
+
+In DHIS-2, we have three daily
+basis reporting forms to which
+concerned districts enter the
+data   on daily basis and else
+three monthly basis forms at
+which they enter the data on
+monthly basis as well.     The                       Name Of Districts
+target for reporting compliance
+is 100% and it can be seen that from fig. 1, the reporting regularity of the district Bahawalnagar, Jhelum
+and district Rahimyar Khan has accurate reporting compliance targets for the week 35. District D.G. Khan,
+Kasur, Muzaffargarh, Okara and Rawalpindi did not meet the reporting compliance targets completely.
+District Bhakkar, Layyah and Rajanpur are recently shifted on DHIS-II software, that is why there reporting
+compliance is below the target.
+
+
+Reported Patients Through OPD in Health Facility, Week 35
+
+In figure 2, the total OPD Visits                                               Fig. 2 District wise
+during week 35 of year 2021 has                                                 OPD Visits
+displayed through bar chart. The    45.0k
+total OPD Visits during week 35     40.0k
+                                      No. Of OPD Visits
+of 2021 was reported as 539K        35.0k
+                                    30.0k
+out of which 186.5k were            25.0k
+                                    20.0k
+reported in BHU(all), 101.2k        15.0k
+                                    10.0k
+were reported in RHC (all), 39.7k    5.0k
+were reported in DHQ (all),          0.0k
+135.6k were reported in THQ(all)
+and 76.0k were reported in
+Teaching hospitals. The health                         Name Of Districts
+facilities that are showing zero
+OPD visits is because of they are        BHU(ALL)      RHC(ALL)  DHQ(ALL)       THQ(ALL)  THOS
+not reporting at daily basis on
+DHIS-2 software. The highest number of OPD visits were conducted in district Rawalpindi under the health
+facility THQ (all) i.e. 42.4k OPD visits during the period week 35 of year 2021.
+
+
+2
+
+---
+
+Average OPD Per Day Visits by                                 Fig. 3 Average OPD Per Day visits
+Health Facility Wise:                             2000                                         1810
+
+Fig. 3 displayed the OPD per day visits by        1800
+                                                  1600
+health facility. This is calculated as ratio      1400
+between the total OPD visits in all 12            1200        1104
+districts  of  Punjab  reported  in  DHIS-2       1000
+software and reporting number of health                800                            595
+facilities and then divided it to the 6 week           600
+days excluding Sunday. During week 35 of               400             155
+year 2021, 40 per day visits were reported             200    40
+in Basic Health Unit (BHU’s), 155 per day                0    BHU(ALL)  RHC(ALL)  DHQ  THQ(ALL)  THOS
+visits per reported in Rural Health Care
+(RHC’s), 1104 per day visits were reported in DHQ hospitals, 595 per day visits were reported in THQ
+hospitals and 1810 per day visits were reported in teaching hospitals. It is to be noted that, district D.G
+Khan, Jhelum, and Kasur are not reporting on daily basis at DHIS-2 Software for the health facility of DHQ,
+that is why, the average per day health facility is affected.
+
+District Wise Average OPD Per
+Day Visits:                                      2500                   Fig. 4 OPD Per Day Visits
+
+Fig. 4 represented the district wise             2000
+OPD Visits by health facility wise. On
+average, the highest no. of OPD per              1500
+day visits were reported in                      1000
+Muzaffargarh under the health                    500
+facility DHQ i.e. 1966 per day OPD
+visits during the week 35 of year                 0
+2021.
+
+
+
+        Fig. 5 Per Day OPD Visits in Teaching Hospitals
+5000    4685                                           OPD Per Day Visits in Teaching
+
+4500 4000       Hospitals:
+3500                                                   Fig. 5 displayed the OPD per day visits in
+3000                                                   teaching hospitals during the week 35 of
+2500            2258                                   year 2021. It can be seen that the highest
+2000                                                   no. of OPD visits were recorded in district
+1500            1145
+1000                                                   Rahimyar Khan.
+     500
+       0
+        RAHIMYAR KHAN  RAWALPINDI  D.G KHAN
+
+                                                                                                   3
+
+---
+
+Prone Epidemic Diseases:
+
+                                                     Fig. 6
+             250
+
+             200
+
+             150
+
+             100
+
+              50
+
+               0  Suspected Suspected   Acute    Suspected Suspected Suspected                         Suspected
+
+                           Nenonata    Flaccid  HIV/AIDS     Dengue  Infulenza Suspected Suspected     Viral     Chicken-
+                  Measles  l Tetanus  Paralysis (PHC+SHC     Fever  H1N1       Diptheria  Pertusis     Hemorrha  Pox
+                                                   )                                                   gic Fever
+ Bahawalnagar     4                                            0                          0
+ Bakkhar          0                             8              2    28
+ D.G Khan                                 3     4              0               0                                 0
+ Jhelum           3                       1                                    2
+ Kasur            2        2                   12                                                                4
+ Layyah           1        1              1                    7   200                                           1
+ Muzaffargarh     5                                                  1                                           5
+ Okara            3
+ Pakpattan                                1     0                                                                2
+ Rahimyar Khan    0                       1                   184
+ Rajanpur         14
+ Rawalpindi       1                             0              61    0                                           13
+From Epidemic diseases, we mean that affects a large number of people within a community, population
+or region. In above figure 6, prone epidemic diseases status of 12             districts which are successfully
+implemented on dhis-2 software, shown through graph. According to the descriptive analysis, the highest
+number of cases for suspected measles has reported in district Rajanpur. The highest number of suspected
+neonatal tetanus cases has reported in district Kasur. The highest Acute Flaccid Paralysis cases has found
+in district D.G Khan. The highest number of HIV/AIDS cases has reported from the district Kasur. District
+Rahimyar Khan has highest number of cases for suspected dengue fever . The highest number of cases for
+the disease Suspected Influenza H1N1 has reported in district Layyah. The highest number of Suspected
+Diptheria    cases has found in district Jhelum. The highest number of chicken-pox cases has reported in
+District Rawalpindi during the week 35 of year 2021.
+
+
+
+
+
+
+
+
+
+4
+
+---
+
+DHIS-II Weekly Reported ANC-1 Visits in Health Facility, Week 35
+
+Fig. 7 showed the weekly basis          Fig. 7 ANC-1 Visits During the Week 35
+visits of ANC-1 in all BHU’s,       1600
+RHC’s, THQ’s and Teaching           1400
+Hospitals for the 12 reporting      1200
+districts of Punjab in DHIS-2       1000
+Software. The highest number of      800
+                                     600
+visits of ANC-1 has been             400
+recorded in district Rahimyar        200
+Khan under the health facility of    0
+BHU i.e. 1353 visits during week
+35. It is to be noted that DHQ
+hospitals of district D.G. Khan
+and Kasur, Rahimyar Khan are            BHU  RHC  DHQ  THQ                       THOS
+not reporting their daily basis
+form data, due to this, they appeared zero and may affect the overall statistics.
+
+
+Per Day ANC-1 Visits by             100    Fig. 8 Per Day ANC-1 Visits
+Health Facility Wise:               90
+                                    80
+Fig. 8 showed the per day Anc-      70
+                                    60
+1 visits by heath facility wise     50
+                                    40
+during the week 35 of year          30
+2021. The statistics showed         20
+                                    10
+that the highest per day ANC-1      0
+visits have reported in district
+D.G Khan (86 per day visits)
+under the health facility THQ.
+                                           PER DAY BHU     PER DAY RHC  PER DAY DHQ
+                                           PER DAY THQ     PER DAY THOS
+
+
+
+
+
+
+
+
+
+
+5
+
+---
+
+Deliveries Coverage at Health                                Fig. 9 Percentage of Deliveries Conducted During the
+Facility:                                                                  Week 35
+                                                         120%
+The statistics of delivery coverage at health            100%
+facility  (fig.  9) of 12 district  of Punjab             80%
+showed that the highest number of C-                      60%
+section has reported in district Rawalpindi               40%
+i.e. 25% C-section during the week 35 of                  20%
+year 2021 and also the highest number of                  0%
+normal+   VF     deliveries  has  reported           in
+district Bhakkar (96%) for the week 35 of
+year   2021.     These    percentages              were
+calculated as total C-section conducted and                  C-Sections    NORMAL DELIVERIES+VF DELIVERIES
+total normal deliveries conducted in each
+districts and divided by the total number of deliveries conducted in week 35 of year 2021.
+
+District Kasur and Rajanpur is showing 0 C-section as their DHQ Hospital is not reporting on daily basis in
+DHIS-2 Software. Because of this, their Normal+VF Deliveries showed 100% statistics for Normal+VF
+Deliveries which visualized the discrepancy in data reported on DHIS-2.
+
+Per Day C-section & Normal Deliveries Conducted:
+
+                 Fig. 10 Per Day C-Section Conducted                       Fig. 11 Per Day Normal Deliveries Conducted
+ 20                                                         20
+ 18                                                         18
+ 16                                                         16
+ 14                                                         14
+ 12                                                         12
+ 10                                                         10
+  8                                                          8
+  6                                                          6
+  4                                                          4
+  2                                                          2
+  0                                                          0
+
+
+
+
+Per Day DHQ  Per Day THQ  Per Day THOs    Per Day BHU  Per Day RHC  Per Day DHQ  Per Day THQ  Per Day THOS
+
+
+Fig. 10 & Fig. 11 visualized the per day C-section and normal deliveries conducted at the 12
+districts of Punjab during the week 35 of year 2021. According the descriptive analysis of C -
+section, the highest number of C-section has recorded in district Rahimyar khan and D.G Khan
+
+
+
+
+
+
+
+6
+
+---
+
+under the health facility of teaching hospital and also the highest number of per day normal
+deliveries has reported in district Rahimyar khan under the health facility of teaching hospitals.
+
+Total Number of Deliveries                           Fig. 12
+Conducted and PNC-1 Visits:                      1400
+                                                 1200
+In Fig. 12, the comparison between the total     1000
+number of deliveries conducted with  the          800
+number of PNC-1 visits in 12 districts of         600
+                                                  400
+Punjab during the week 35 of year 2021 has        200
+shown through multiple bar chart.                 0
+
+According to the data reported on dhis-2, the
+highest number of deliveries were reported
+in district Rahimyar Khan i.e. 1332 deliveries
+out of which 1328 PNC-1 visits were reported         TOTAL DELIVERIES  PNC-1 VISITS
+in week 35 of year 2021.
+
+DHIS-II Weekly Reported Daily Indoor Patient (IPD), Week 35
+
+
+        Fig. 13 Indoor Total Admissions       Fig. 14 Indoor Total Deaths
+8000                                       300
+7000                                       250
+6000
+5000                                       200
+4000                                       150
+3000                                       100
+2000
+1000                                       50
+0                                          0
+
+
+
+
+
+
+Above Fig. 13 visualized the total admissions in Indoor and Fig. 14 represented the Indoor Total Deaths.
+
+The highest number of indoor admissions were reported in districts Rahimyar Khan i.e. 7240 whereas
+the highest number of indoor total deaths has reported in district Rawalpindi i.e. 246 deaths during the
+week 35 of year 2021.
+
+
+
+
+
+
+7
+
+---
+
+DHIS-II Weekly Reported Family Planning Visits, Week 35
+
+
+
+    Fig. 15 Percentage of Family planning Visit by Health Facility Wise
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+
+
+
+
+BHU  RHC  DHQ  THQ  THOS
+
+
+
+Fig.  15 exhibited the weekly FP visits by health facility wise. During week 35, the overall total FP visits
+were reported as 8773 visits out if which the highest number of FP visits were recorded in BHU’s i.e. 88%
+in district Rajanpur. These percentages were calculated as total FP visits in districts divided by the total FP
+visits by health facility wise reported during week 35 of year 2021.
+
+Table: 1 Weekly Method-wise FP Clients
+
+
+
+DISTRICT         COC        Condom    DMPA Inj  IUCD    Implants     POP        Tubal   Vasectomy
+                 cycles     Pieces                                   cycles     Ligation
+
+Bahawlnagar       39         878       40       184         3         0          1      0
+Bhakkar           69         479       58        41         0        15          0      0
+D.G Khan         181        1200      157       109        26        51          5      0
+Jehlum           223         482      178        72         0         0          0      0
+Kasur             37         221       37        89         1         3          0      0
+Layyah            50         791       69       228         2        35          2      0
+Muzaffargarh     225        1070      196       120        10         3          1      4
+Okara             92        2633       83       100         0         0          0      0
+Pakpattan         54         200      109       109         0         0          0      0
+Rahimyar Khan     69         385       78       124         0         0         14      0
+Rajanpur          35          17       24        38         0         8          9      0
+Rawalpindi       429        3248      389       105        14        18         16      0
+
+
+
+
+
+8
+
+---
+
+Table: 2 Weekly Status of Family Planning Visits
+
+
+DISTRICT  Total FP   Total PAFP  Total PPFP     Total FP Visits     FP Visits       FP Visits PAFP
+          Visits                                < 25 yr             PPFP< 25 yr     < 25 yr
+
+
+Bahawalnagar    583     -      17     13          1
+
+Bahkkar         308     5      20     41    2     3
+
+D.G Khan        528     1      9      7     10    -
+
+Jhleum          750     19     30     33    5     -
+
+Kasur           873     18     14     55    -     -
+
+Layyah          445     8      56     48    10    3
+
+Muzaffargarh    961     2      32     51    5     -
+
+Okara           1359    12     73    115    9     6
+
+Pakpattan       384     12     44     18    -     -
+
+Rahimyar        1022    72    192    156    20    14
+Khan
+
+Rajanpur        313     37     25     21    12    8
+
+Rawalpindi      1337    16    248     91    31    6
+
+
+
+
+
+
+
+
+Disease Data Reported, in DHIS-2 Week 35
+
+
+
+
+
+Name of Disease      Bahawalnagar    Bhakkar    D.G    Jhelum    Kasur    Layyah  Muzaffargarh    Okara    Pakpattan  Rahimyar  Rajanpur    Rawalpindi
+                                                Khan                                                                   Khan
+
+Acute respiratory       10,472        4,320  10,927    8,449     12,727    5,872     16,291       13,647     5,271    17,226     2,931        14,932
+infections (ARI)
+
+Pneumonia                 55           114      382      22        3        107       513           31         41       86         8            50
+Cough >2 Wks (TB         256            83      357     183       128        54       473          270        320      267         35          355
+Susp)
+
+Chronic Obstructive      115            89      430      49        77        33       349           97         83      195         9           133
+Pulmonary Dis
+
+Asthma                   735           307     1,000    290       400       440      1,582         620        264     1,171       195          767
+
+Susp Malaria             256           120      212     387        69        97       705          199         25      209         24           61
+
+Susp Meningitis                                                              1         15           18                             10
+
+Susp dengue fever                       10                                   7                                         184                      61
+
+Seasonal Influenza ILI                 167                      200                    1                                                        96
+
+Chicken Pox                             -                  4                 1         5                       2                                13
+
+Susp Viral Hemorrhagic                           2                                                             2                                1
+Fever (CCHF)
+
+Chikungunya                             9                                                                                          2            12
+
+Fever (other causes)    2,784         1,278    7,034             5,411     2,511     11,993       3,745      1,718    5,077       762         5,358
+
+Scabies                 2,418          542     1,095  641        4,740      758      4,917        4,336      1,107    2,173       389         2,261
+
+
+
+9
+
+---
+
+
+<table>
+    <tr>
+        <td>Dermatitis</td>
+        <td>1,131</td>
+        <td>355</td>
+        <td>1,197</td>
+        <td>1,145</td>
+        <td>1,902</td>
+        <td>620</td>
+        <td>1,924</td>
+        <td>998</td>
+        <td>396</td>
+        <td>1,841</td>
+        <td>456</td>
+        <td>996</td>
+    </tr>
+    <tr>
+        <td>Cutaneous 
+Leishmaniasis</td>
+        <td></td>
+        <td>31</td>
+        <td>26</td>
+        <td></td>
+        <td>12</td>
+        <td></td>
+        <td>3</td>
+        <td>20</td>
+        <td>19</td>
+        <td></td>
+        <td>3</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Urinary Tract Infection 
+UTI</td>
+        <td>838</td>
+        <td>638</td>
+        <td>580</td>
+        <td>1,294</td>
+        <td>713</td>
+        <td>468</td>
+        <td>1,173</td>
+        <td>1,283</td>
+        <td>298</td>
+        <td>711</td>
+        <td>72</td>
+        <td>2,577</td>
+    </tr>
+    <tr>
+        <td>Sexually Transmitted 
+Infections</td>
+        <td>4</td>
+        <td>10</td>
+        <td>34</td>
+        <td>43</td>
+        <td>7</td>
+        <td>5</td>
+        <td>20</td>
+        <td>16</td>
+        <td>153</td>
+        <td>54</td>
+        <td>6</td>
+        <td>26</td>
+    </tr>
+    <tr>
+        <td>Susp Hepatitis A</td>
+        <td>3</td>
+        <td></td>
+        <td></td>
+        <td>21</td>
+        <td></td>
+        <td>5</td>
+        <td>27</td>
+        <td>33</td>
+        <td></td>
+        <td>2</td>
+        <td></td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Susp Hepatitis B</td>
+        <td>132</td>
+        <td></td>
+        <td>46</td>
+        <td>39</td>
+        <td>11</td>
+        <td>13</td>
+        <td>113</td>
+        <td>23</td>
+        <td>3</td>
+        <td>27</td>
+        <td></td>
+        <td>715</td>
+    </tr>
+    <tr>
+        <td>Susp Hepatitis C</td>
+        <td>11</td>
+        <td></td>
+        <td>40</td>
+        <td>104</td>
+        <td>41</td>
+        <td>28</td>
+        <td>273</td>
+        <td>78</td>
+        <td>142</td>
+        <td>401</td>
+        <td></td>
+        <td>768</td>
+    </tr>
+    <tr>
+        <td>Susp Hepatitis D</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Susp Hepatitis E</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Susp Measles</td>
+        <td>4</td>
+        <td>5</td>
+        <td></td>
+        <td>3</td>
+        <td>2</td>
+        <td>1</td>
+        <td>5</td>
+        <td>3</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Susp Neonatal Tetanus</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Susp Acute Flaccid 
+Paralysis AFP</td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Susp pertussis</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Susp diphtheria</td>
+        <td></td>
+        <td></td>
+        <td>20</td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Susp Corona Virus</td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+        <td></td>
+        <td>8</td>
+        <td>2</td>
+        <td>7</td>
+        <td>3</td>
+        <td></td>
+        <td>4</td>
+        <td>14</td>
+        <td>233</td>
+    </tr>
+    <tr>
+        <td>Diarrhea/Gastroenteritis</td>
+        <td>1,927</td>
+        <td>555</td>
+        <td>2,801</td>
+        <td>1,912</td>
+        <td>2,774</td>
+        <td>1,061</td>
+        <td>5,555</td>
+        <td>2,728</td>
+        <td>840</td>
+        <td>2,838</td>
+        <td>382</td>
+        <td>4,033</td>
+    </tr>
+    <tr>
+        <td>Acu Watery 
+Diarrhea/Susp Cholera</td>
+        <td>105</td>
+        <td>24</td>
+        <td>100</td>
+        <td></td>
+        <td>99</td>
+        <td>56</td>
+        <td>302</td>
+        <td>313</td>
+        <td>148</td>
+        <td>53</td>
+        <td>5</td>
+        <td>692</td>
+    </tr>
+    <tr>
+        <td>Bloody 
+Diarrhea/Dysentery</td>
+        <td>89</td>
+        <td>77</td>
+        <td>166</td>
+        <td></td>
+        <td>25</td>
+        <td>26</td>
+        <td>224</td>
+        <td>315</td>
+        <td>36</td>
+        <td>149</td>
+        <td>31</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>Susp Enteric / Typhoid 
+Fever</td>
+        <td>105</td>
+        <td>63</td>
+        <td>217</td>
+        <td>11</td>
+        <td>204</td>
+        <td>126</td>
+        <td>563</td>
+        <td>443</td>
+        <td>75</td>
+        <td>140</td>
+        <td>57</td>
+        <td>155</td>
+    </tr>
+    <tr>
+        <td>Worm Infestations</td>
+        <td>329</td>
+        <td>181</td>
+        <td>625</td>
+        <td>379</td>
+        <td>256</td>
+        <td>165</td>
+        <td>1,045</td>
+        <td>248</td>
+        <td>97</td>
+        <td>112</td>
+        <td>42</td>
+        <td>378</td>
+    </tr>
+    <tr>
+        <td>Peptic Ulcer Dis</td>
+        <td>2,372</td>
+        <td>588</td>
+        <td>670</td>
+        <td>2,442</td>
+        <td>1,277</td>
+        <td>575</td>
+        <td>1,070</td>
+        <td>2,114</td>
+        <td>1,713</td>
+        <td>1,579</td>
+        <td>97</td>
+        <td>2,097</td>
+    </tr>
+    <tr>
+        <td>Chronic Liver Dis</td>
+        <td>42</td>
+        <td>35</td>
+        <td>13</td>
+        <td>12</td>
+        <td>3</td>
+        <td>40</td>
+        <td>55</td>
+        <td>116</td>
+        <td>6</td>
+        <td>74</td>
+        <td>2</td>
+        <td>56</td>
+    </tr>
+    <tr>
+        <td>Dental Caries</td>
+        <td>938</td>
+        <td>201</td>
+        <td>868</td>
+        <td>992</td>
+        <td>691</td>
+        <td>210</td>
+        <td>722</td>
+        <td>504</td>
+        <td>592</td>
+        <td>2,160</td>
+        <td>101</td>
+        <td>1,916</td>
+    </tr>
+    <tr>
+        <td>Cataract</td>
+        <td>49</td>
+        <td>21</td>
+        <td>194</td>
+        <td>12</td>
+        <td>6</td>
+        <td>44</td>
+        <td>360</td>
+        <td>72</td>
+        <td>110</td>
+        <td>209</td>
+        <td>2</td>
+        <td>80</td>
+    </tr>
+    <tr>
+        <td>Trachoma</td>
+        <td>5</td>
+        <td>10</td>
+        <td></td>
+        <td>1</td>
+        <td>9</td>
+        <td>46</td>
+        <td>3</td>
+        <td>6</td>
+        <td>67</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Glaucoma</td>
+        <td>6</td>
+        <td>13</td>
+        <td>20</td>
+        <td></td>
+        <td>1</td>
+        <td>4</td>
+        <td>77</td>
+        <td>10</td>
+        <td>8</td>
+        <td>59</td>
+        <td></td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td>Otitis Media</td>
+        <td>267</td>
+        <td>233</td>
+        <td>281</td>
+        <td>427</td>
+        <td>264</td>
+        <td>92</td>
+        <td>702</td>
+        <td>447</td>
+        <td>83</td>
+        <td>489</td>
+        <td>129</td>
+        <td>436</td>
+    </tr>
+    <tr>
+        <td>Acute Conjunctivitis</td>
+        <td>170</td>
+        <td>26</td>
+        <td>24</td>
+        <td>62</td>
+        <td>23</td>
+        <td>84</td>
+        <td>242</td>
+        <td>118</td>
+        <td>85</td>
+        <td>499</td>
+        <td>3</td>
+        <td>129</td>
+    </tr>
+    <tr>
+        <td>Lung Cancer</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2</td>
+        <td></td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Breast cancer</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+        <td></td>
+        <td>28</td>
+        <td>3</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Prostate cancer</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td>4</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Diabetes Mellitus</td>
+        <td>518</td>
+        <td>113</td>
+        <td>475</td>
+        <td>1,031</td>
+        <td>800</td>
+        <td>530</td>
+        <td>1,612</td>
+        <td>1,000</td>
+        <td>395</td>
+        <td>2,305</td>
+        <td>42</td>
+        <td>1,712</td>
+    </tr>
+    <tr>
+        <td>Goiter</td>
+        <td></td>
+        <td>19</td>
+        <td>3</td>
+        <td>17</td>
+        <td>2</td>
+        <td>5</td>
+        <td>5</td>
+        <td>5</td>
+        <td>5</td>
+        <td>2</td>
+        <td>1</td>
+        <td>53</td>
+    </tr>
+    <tr>
+        <td>Ischemic Heart Dis</td>
+        <td>228</td>
+        <td>11</td>
+        <td>262</td>
+        <td>69</td>
+        <td>10</td>
+        <td>39</td>
+        <td>229</td>
+        <td>135</td>
+        <td>47</td>
+        <td>639</td>
+        <td>1</td>
+        <td>384</td>
+    </tr>
+    <tr>
+        <td>Hypertension</td>
+        <td>875</td>
+        <td>318</td>
+        <td>588</td>
+        <td>1,036</td>
+        <td>946</td>
+        <td>303</td>
+        <td>1,318</td>
+        <td>723</td>
+        <td>440</td>
+        <td>1,085</td>
+        <td>108</td>
+        <td>2,236</td>
+    </tr>
+    <tr>
+        <td>Depression</td>
+        <td>203</td>
+        <td>77</td>
+        <td>232</td>
+        <td>36</td>
+        <td>71</td>
+        <td>48</td>
+        <td>489</td>
+        <td>163</td>
+        <td>7</td>
+        <td>220</td>
+        <td></td>
+        <td>612</td>
+    </tr>
+    <tr>
+        <td>Epilepsy</td>
+        <td>5</td>
+        <td>1</td>
+        <td>64</td>
+        <td>1</td>
+        <td></td>
+        <td>5</td>
+        <td>68</td>
+        <td>1</td>
+        <td></td>
+        <td>28</td>
+        <td></td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>Drug Dependence</td>
+        <td>1</td>
+        <td></td>
+        <td>5</td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td>12</td>
+        <td></td>
+        <td></td>
+        <td>11</td>
+        <td></td>
+        <td>65</td>
+    </tr>
+    <tr>
+        <td>Silicosis</td>
+        <td></td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Road Traffic Accidents</td>
+        <td>1,016</td>
+        <td>214</td>
+        <td>755</td>
+        <td>617</td>
+        <td>592</td>
+        <td>531</td>
+        <td>1,652</td>
+        <td>394</td>
+        <td>319</td>
+        <td>1,684</td>
+        <td>69</td>
+        <td>1,150</td>
+    </tr>
+    <tr>
+        <td>Injuries</td>
+        <td>1,101</td>
+        <td>147</td>
+        <td>375</td>
+        <td>452</td>
+        <td>273</td>
+        <td>222</td>
+        <td>832</td>
+        <td>293</td>
+        <td>141</td>
+        <td>1,313</td>
+        <td>54</td>
+        <td>539</td>
+    </tr>
+    <tr>
+        <td>Fractures</td>
+        <td>117</td>
+        <td>26</td>
+        <td>366</td>
+        <td>32</td>
+        <td>16</td>
+        <td>25</td>
+        <td>309</td>
+        <td>39</td>
+        <td>46</td>
+        <td>961</td>
+        <td>1</td>
+        <td>306</td>
+    </tr>
+    <tr>
+        <td>Burns</td>
+        <td>39</td>
+        <td>34</td>
+        <td>196</td>
+        <td>13</td>
+        <td>34</td>
+        <td>24</td>
+        <td>74</td>
+        <td>27</td>
+        <td>38</td>
+        <td>45</td>
+        <td>6</td>
+        <td>39</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+10
+
+---
+
+Dog bite     102                  33      418     40    38    46       254       44       22    150    6       276
+
+Snake bite    3                   1        42     11    2               5        1        1                     7
+
+Susp HIV/ AIDS                    15       4            12                                12                    -
+
+Other UnUsual Disease           1,053    1,999        2,631    896    1,016    4,777    2,518          241    3,538
+Emergency Patient        1,463    2      5,400  813    664    82      4,587    2,915     340                  3,252
+Attended
+
+
+
+
+
+
+
+
+
+
+11
+
+---
+
+    EVENTS
+
+
+
+
+
+
+                                      Pre-Launching Orientation Session for Implementation of DHIS2 at District Attock
+
+                                      Focal Person:
+
+                                                 Dr. Mohsan Watto (Epidemiologist, DGHS)
+ Dr Ghazanfar Shafeeq(DHO HRM),Dr Imran Abbas(Focal    Mr. Farooq Ahmed (CPO, DGHS)
+Person),Dr Billal Anjum(The Aga Khan University) DHA-
+    Rahimyarkhan visited RHC Sanjarpur
+
+
+
+
+
+
+
+    C
+    POG YA   Italgat in Wal MeseneMe
+
+
+
+
+
+
+    ARMAN
+
+
+
+
+
+
+
+
+
+
+    DHIS2 training sessions for Medical officers and charge
+    of BHU’s of the health facilities of District Mianwali.
+
+    Focal Person: Mr. Riaz ( Statistical Officer, Mianwali)
+
+    Visited OPD, ANC and LQAS section of BHU
+    Bakhral, & Rehmatabad
+
+    Focal Person: Miss Farzana Asgar (Senior
+    Computer Operator) (District Rawalpindi)
+
+                                             BHEBIEAAHRAE
+
+
+
+
+
+
+    RL/ Web Address: bttp://216.244.74.23030mo
+    22o2o_daily      122031_monthly
+    A22020@Diaily    122031@M00h
+
+
+
+
+
+
+
+    Pre-Launching Orientation Session for Implementation of DHIS2 at District Attock.
+
+    Focal Person:
+
+                 Dr. Shakeel Goundal
+                 Mr. Farooq Ahmed (CPO, DGHS)
+                 Mr. Azizullah
+
+
+    12
+
+---
+
+13

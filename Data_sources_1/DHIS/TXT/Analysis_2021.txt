@@ -1,0 +1,408 @@
+ DHIS- DISTRICT HEALTH INFORMATION SYSTEM (MIS CELL)
+
+     DIRECTORATE GENERAL HEALTH SERVICES, PUNJAB
+
+Monthly Feedback Report DHIS-I (Januaray-October,2021)
+
+     TEL: [+92-99200990 email: hmis.pb@yahoo.com]
+
+
+      SUMMARY
+    Due to pandemic COVID-19 and dengue fever, there was a declined reporting of healthcare services in DHIS by Health
+    facilities till October 2021. The OPD (Out Patient Department) of THOS (Teaching Hospitals) were closed till the end of May.
+    On average, the highest total OPD attendance in January to October were observed in the age group of 15-49yrs. i.e. 2.11M
+    males and 2.48M females. Average no. of OPD per day visits were recorded as 43 per day visits in BHU’s, 192 per day visits
+    in RHC’s, 711 per day visits in THQ, 1611 per day visits in DHQ and 2401 per day visits were recorded in teaching hospitals
+    for the period from January to October, 2021 in Punjab. The highest OPD per capita was reported in year 2018 and it has
+    declined in year 2019- 2020 due to the covid-19 when OPDs was closed. On average, the highest stock out drugs status has
+    found in district Bhakkar (13.39%). 53 diseases were reported in DHIS -1 out of which Priority 10 diseases has compared
+    with last 9 years’ priority diseases status. Immunization coverage comparison (October 2017 vs October 2021) has also
+    shown in the report. Delivery coverage (Fig.4) showed that the highest number of deliveries were reported during the
+    month of September 2021 the highest number of Still births were reported during the month of February 2021, maternal
+    deaths during the month of May and neonatal deaths were recorded in the month of July. Disease wise deaths reported in
+    health facilities of Punjab during the period January to October 2021 showed that the highest number of deaths have been
+    reported due to the CVA/stroke. The comparison of priority disease between year 2011 to 2020 has shown in tabular form
+    through color scheme. The highest difference between priority disease has found in Diabetes Mellitus. The highest ANC-1
+    visits were reported in month of June and August also their ANC-1 percentage is greater as compared to else months. Fig.
+    11 represent the IPD Admissions & Deaths & Fig. 12 showed Surgeries Conducted in Health Facilities of Punjab (January-
+    October, 2021). Disease forecast of epidemic diseases from 2021 to 2023 have also discussed. According to the statistics
+    reported from 2017 till 2020, there are causes to spread more cases of HIV till 2023 and there may be decrease occur in
+    suspected measles cases till 2021 to 2023.
+
+              OPD (Out Patient Data) Visits Reported in Punjab (January-October,2021)
+
+      Fig. 1 showed the OPD visits (new + follow up) from                    Fig. 2 Average OPD Visits
+      January to October, 2021 of Punjab. It can be seen that
+      the highest OPD visits are reported under the age              3000                             2401
+      group 15-49 yrs.                                               2000                             1611
+                                                                     1000    43  192           711
+
+              Fig. 1 OPD Attendence (January-October, 2021)          0
+     3.00m                                                                  BHU  RHC           THQ    DHQ  THOS
+                                                                    Facility Type-wise Per day OPD Visits conducted in the
+     2.00m                                                          Health Facilities on Punjab
+
+     1.00m                                                          Fig. 2 displayed the facility type-wise average per day
+
+     0.00m                                                          OPD Visits reported in the health facilities over the
+              < 1yr       1-4 yrs  5-14 yrs  15-49 yrs  50+ yrs     period January to October 2021. According the diagram,
+
+                          Male     Female                           the highest per day visits were recorded under the
+                                                                    health facility teaching hospitals (THOS) of Punjab.
+
+---
+
+  Per Capita OPD                                                         Fig. 3 Per Capita OPD
+
+  Fig.3 showed the comparison of per capita OPD visits              2                                    1.56 1.51
+  from 2011 to (Jan-Oct, 2021). It can be seen that the           1.5                1.07 1.19 1.28 1.34           1.08 1.11
+  highest OPD per capita was reported in year 2018 and it                0.88 0.9  1
+  declined in year 2019- 2020 due to the covid-19 when              1
+  OPD was closed.                                             0.5
+
+                                                                    0
+
+
+
+
+  Delivery Coverage in Health facilities of Punjab (January-October, 2021)
+
+  (Fig.4) showed that the highest number              F i g .  4
+  of deliveries were reported during the    100000                                                                             40.00%
+  month of September 2021 the highest        90000                                                        36.33% 35.98% 35.10%
+                                             80000    34.27% 30.79% 30.33%                         33.08%                      35.00%
+  number of Still births were reported       70000                            27.48% 25.55% 28.87%                             30.00%
+                                             60000                                                                             25.00%
+  during the month of February 2021,         50000                                                                             20.00%
+  maternal deaths during the month of        40000                                                                             15.00%
+                                             30000                                                                             10.00%
+                                             20000
+  May and neonatal deaths were               10000                                                     5.00%
+  recorded in the month of July.             0                                                         0.00%
+
+
+                                                          NORMAL +VF    C-SECTION    DELIVERIES CONDUCTED (Expected 2.9%)
+
+          <u>Still Births, Maternal & Neonatal Deaths Reported in Punjab (January -October,2021)</u>
+
+          Fig. 5 Still Birth in Facility     JANUARY                    Fig. 6 Maternal & Neonatal Deaths
+  1500                                       FEBRUARY     80
+                                             MARCH        60
+  1000                                       APRIL        40
+                                                          20
+  500     I  I                               MAY          0
+                                             JUNE
+                                             JULY
+    0                                        AUGUST
+                                             SEPTEMBER
+                                             OCTOBER                    Neonatal Deaths in Facility  Maternal Deaths in Facility
+
+             Immunization Coverage in Punjab (Oct 2017 vs Oct 2021)
+
+
+
+     Fig. 8
+120%
+100%
+  80%
+  60%
+  40%
+  20%
+  0%
+     BCG  Penta-I    Penta-II    Penta-III    Measles-I  Measles-II    TT-I    TT-II
+
+                                    Oct-17    Oct-21
+
+---
+
+                ANC-1 & Family Planning Visits Reported in Punjab (January-October, 2021)
+
+Fig. 9 showed the no. of ANC-1 visits as well as              Fig. 9
+percentage of ANC-1 visits reported in Punjab
+over the period January to October 2021.            350000                                       100%
+                                                    300000    79%      82%           87%     87% 83% 90%
+                                                                   78%    77%            76%    7480%
+According to the graph, the highest ANC-1 visits    250000                       72%                %
+                                                                                                 70%
+were reported in month of June and August also      200000                                       60%
+                                                                                                 50%
+their anc-1 percentage is greater as compared to    150000                                       40%
+                                                    100000                                       30%
+else months.                                         50000                                       20%
+                                                                                                 10%
+                                                     0                                           0%
+
+
+
+
+ANC-1 (Expected Pregnancies 3.4%)    % of Service Provide
+
+
+              Fig. 10 Number of FP Visits Jan-Oct 2021
+
+    140000                                                         10%     Fig. 10 visualized the month-wise family planning
+    120000    8%                                                    8%     visits as well as Percentage of MCBA (16%) in Punjab
+    100000          7% 7% 6% 6% 6%                    6% 6% 6%      6%
+     80000                                                          5%     during the month January to October 2021.
+     60000                                                          4%
+     40000
+     20000                                                         2%
+         0                                                         0%
+
+
+
+FP VISIT    MCBA(%)
+
+
+
+Fig. 11 IPD Admissions & Deaths Reported in Health Facilities of Punjab (January-October,2021)
+
+The highest number of indoor admissions have been reported during the month of October and the highest number of deaths
+have been recorded during the month of April due to the wide spread cases of dengue fever.
+
+F i g . . 1 1
+Total Indoor Admissions    Total Indoor Deaths
+                                              750.1 k                                     753.2 k
+712.0 k                                                                                   705.9 k
+           644.9 k
+                           621.2 k
+563.4 k                           565.7 k
+                           538.9 k
+
+435.6 k
+
+
+
+
+
+
+13.2 k    14.5 k  15.5 k  12.8 k  10.7 k    13.3 k  13.8 k  13.4 k
+                                            9.8 k
+          13.0k
+
+JANUARY FEBRURARY  MARCH  APRIL  MAY  JUNE  JULY  AUGUST SEPTEMBER OCTOBER
+
+---
+
+F i g .  12 D i s e a s e  W i s e  D e a t h s  R e p o r t e d I n P u n j a b
+4093
+
+
+3226
+2932
+2527
+2191
+    2167
+    2099
+
+    1263
+        1232
+        875
+        712
+        C h r o n i c O b s t r u c t i v e … 704
+            592
+            D i a r r h o e a / D y s e n t e r … 520
+            487
+                   B u r n s 345
+                   P u l m o n a r y … 319
+                   E n t e r i c / T y p h o i d … 300
+                   M e n i n g i t i s 228
+                   O t h e r O b s t e t r i c … 159
+                         F r a c t u r e s 137
+                         V i r a l H e p a t i t i s C 104
+                         C a t a r a c t 88
+                           A c u t e A p p e n d i c i t i s 85
+                           E x t r a P u l m o n a r y … 72
+                                V i r a l H e p a t i t i s B 70
+                                P o s t p a r t u m … 70
+                                D r u g a b u s e … 54
+                                H e r n i a s 53
+                                M e n t a l D i s o r d e r 46
+                                P r e - … 43
+                                A r t h r o p a t h i e s 41
+                                         C h o l e l i t h i a s i s / … 40
+                                         A n t e p a r t u m … 38
+                                          F i b r o i d U t e r u s 35
+                                          R u p t u r e U t e r u s 35
+                                              U r o l i t h i a s i s 25
+                                              N e o n a t a l T e t a n u s 20
+                                              D N S 17
+                                              I n f l a m d i s e a s e s o f … 17
+                                                C o m p l i c a t i o n s o f … 16
+                                                U t e r i n e P r o l a p s e 16
+                                                 V i r a l H e p a t i t i s A … 14
+                                                 C h r o n i c O t i t i s M e d i a 12
+                                                        P u e r p e r a l S e p s i s 11
+                                                        E c t o p i c P r e g n a n c i e s 9
+                                                          P r o l o n g e d / O b s t r u c t … 9
+                                                          C o r n e a l O p a c i t y 7
+                                                           A c u t e F l a c c i d … 5
+                                                                M a l a r i a 3
+                                                                G l a u c o m a 2
+D i a r r h o e a / D y s e n t e r …                            V e s i c o - V a g i n a l … 0
+C h r o n i c L i v e r …
+H y p e r p l a s i a o f …
+I s c h e m i c H e a r t …
+    C o n g e s t i v e C a r d i a c …
+    C h r o n i c R e n a l …
+        D i a b e t e s M e l l i t u s
+            A s t h m a
+    H e a d I n j u r i e s
+            P n e u m o n i a < 5
+        P n e u m o n i a > 5
+        H y p e r t e n s i o n
+C V A / S t r o k e
+
+
+
+
+
+
+
+
+
+
+Surgeries Conducted in Health Facilities of Punjab (January-October, 2021)
+
+
+F i g .  1 2
+
+
+Operations under GA     Operations under Spinal Anesthesia
+
+Operations under LA     Operations under other type of Anesthesia
+50.0 k
+
+
+40.8 k 45.3 k  43.4 k 39.7 k 35.9 k  37.5 k  38.8 k
+
+                                     32.8 k  32.5 k
+
+
+
+
+18.8 k 19.5 k 20.1 k    17.4 k  19.5 k 18.9 k 21.0 k
+16.1 k 14.7 k           16.7 k    17.1 k    13.5 k
+12.6 k        11.9 k              12.0 k  13.2 k 12.4 k
+11.7 k 11.5 k 11.4 k              12.6 k
+                        10.8 k          10.3 k
+                                          10.1 k  9.7 k 10.0 k 9.8 k
+                        8.0 k                 9.6 k
+                                  7.0 k
+
+
+
+
+
+
+JANUARY  FEBRURARY  MARCH  APRIL  MAY  JUNE  JULY  AUGUST  SEPTEMBER  OCTOBER
+
+
+Stock Out of Drugs Reported in Health Facilities of Punjab (January-October, 2021)
+
+
+On average, the highest stock out drugs status has found in district Bhakkar (13.39%).
+
+
+
+F i g .  13 S t o c k O u t S t a t u s  ( J a n - o c t  2021 ) %    13.39
+
+
+
+10.09
+8.97    9.2
+        7.07
+6.34    6.27  6.34  6.37
+5.89    6.16  4.88 5.04
+
+             3.79                                        3.82
+                                                    3.53           3.64
+       2.52                2.05                               2.51                2.24
+        1.02                    1.56 1.05                                          2.5      1.42
+                  0.97                    0.87                               0.91      0.78
+        0.2            0.1 0.09 0.32           0.01                     0.71
+
+---
+
+           Disease Burden Reported in Health Facilities of Punjab (2011 vs 2020)
+
+The disease pattern has shown through color coding scheme. It can be seen that the highest priority disease
+difference has been found in Diabetes Mellitus. It was recorded in no. 11 in 2011 and reported in number 6 in year
+2020.
+
+     Sr.#                  RANK 2011                  %                      RANK 2020                   %
+     1       Acute (upper) Respiratory Infections    16.18     Acute (upper) Respiratory Infections    13.01
+             (AURI)                                            (AURI)
+
+     2       Scabies                                  3.84     Fever due to other causes                4.41
+
+     3       Fever due to other causes                3.67     Scabies                                  3.20
+
+     4       Diarrhea/Dysentery in <5 yrs             2.67     Peptic Ulcer Diseases                    3.01
+
+     5       Peptic Ulcer Diseases                    2.54     Hypertension                             2.48
+
+     6       Diarrhea/Dysentery in >5 yrs.            2.46     Diabetes Mellitus                        2.17
+
+     7       Hypertension (.462%)                     1.93     Diarrhea/Dysentery in <5 yrs             2.08
+
+     8       Asthma                                   1.89     Diarrhea/Dysentery in >5 yrs             2.04
+
+     9       Dental Caries                            1.75     Road traffic accidents                   1.61
+
+     10      Dermatitis                               1.68     Urinary Tract Infections                 1.46
+
+     11      Diabetes Mellitus                        1.50     Asthma                                   1.42
+
+     12      Urinary Tract Infections                 1.29     Dental Caries                            1.30
+
+     13      Road traffic accidents                   1.26     Dermatitis                               1.26
+
+---
+
+                                                          Disease Forecast
+
+The following diagrams showed the three years forecast analysis of the epidemic diseases in Punjab according to the statistics
+reported in 2017 to 2020. Through the visualization shown below, it can be seen that there may increase more cases of HIV till
+2023 and decrease occur in suspected measles cases till 2021 to 2023.
+
+             Suspected Meningitis               Forecast Meningitis                     suspected Measles                Forecast Measles
+             Acute Flaccid Paralysis            Forecast AFP                            Suspected HIV/AIDS               Forecast Suspected HIV/AIDS
+    40000                                                                                                                                37482
+                                                                                                                         33614
+    35000                                                                                             30992
+    30000
+    25000
+    20000
+    15000
+    10000                                                                                             8480                8253           7762
+5000                                                                                                  8944                               2063
+        0                                                                                             1776                1937           -3668
+             2017                    2018                 2019         2020                           2021                       -1275
+-5000                                                                                                                    2022            2023
+   -10000
+
+                     Seasonal Influenza H1N1                      Forecast Seasonal Influenza H1N1            Suspected Diptheria
+                     forecast Suspected Diptheria                 Suspected Pertusis                          Forecast Suspected Pertusis
+                     Suspected Viral Hemorrhagic Fever            Forecast Viral Hemorrhagic Fever            Chicken Pox
+                     Forecast Chicken Pox
+6000
+
+
+5000
+
+
+4000
+
+
+3000
+
+
+2000    1425                                    1603    1393
+
+                                                1646    1138
+1000    691
+            923                                  261    341
+         22                                       34     45
+0       2017    2018    2019    2020    72      110     175
+                                        2021    2022    2023

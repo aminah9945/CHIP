@@ -1,0 +1,266 @@
+                   DIRECTORATE GENERAL HEALTH SERVICES
+                                                                            PUNJAB-LAHORE
+                                                                        24-Cooper Road, Lahore
+                                                             Ph. 042 -99200990; email: hmis.pb@yahoo.com
+unicef
+for     child                                           DHIS2 Weekly Bulletin (Week 50, December 11-17, 2023)                           dhis2
+every
+EGARDI               PORTI It is a matter of great     Key Takeaways:
+                          pleasure for me to write          In Week 50 of 2023, a detailed analysis was conducted, exploring crucial insights
+&DI               THA this message. The                from our data report. Utilizing tables and graphs, this analysis highlighted significant
+                            tance of data planning     trends and vital indicators. Across all 36 Districts, the reporting compliance for Week
+Fr                     and implementation       is     50 stood impressively high at 97%. The total number of Outpatient Department
+                       immense. DHIS is a              (OPD) visits during this week reached 22,27,517, signifying a 3% decrease compared
+                          sion support system that     to the previous week's 22,94,730 visits in Week 49. Notably, 96% of these visits
+                         will help managers at all     counted for new OPD patients, while only 4% were follow-up visits.
+levels to make evidence based decisions. It               In terms of Facility types, the average daily OPD visits were notably higher in DHQ
+                                                       at 1,023/day visits. The highest number of OPD visits were reported in District Lahore
+will help in planning & development, strategy          (1,82,106) followed by Faisalabad (1,72,399), and Multan (1,28,410) during Week 50.
+management, Budgeting and forecasting                            Analyzing OPD age and gender demographics, females constituted 54% of visits
+about future needs. The MIS team is                    while males accounted for 46%. The majority of patients, spanning ages 15 to 49,
+worthy to implement the system in the whole            comprised the largest age group.
+province and bring reporting regularity to              Regarding documented diseases in DHIS-2 during Week 50, a total of 68
+more than 97%.                                         eases were recorded, encompassing 57% of all patient cases. Among these illnesses,
+      The performances of the district                 60% were communicable diseases, while 40% were non-communicable, focusing on
+agement teams and health facilities of the             prioritized diseases. Graphs and tables were employed to visually represent the top
+province are available for scrutiny and                10 communicable and Non Communicable diseases.
+uation on DHIS. The issues of data validity            cific Additionally, indoor admissions totaled 1,09,410, with 60% admitted due to
+                                                              diseases. Surgeries with anesthesia numbered 20,498, with 17% utilizing General
+and data accuracy needs more efforts and               Anesthesia (3,561), 50% involving Local Anesthesia (10,330), 27% employing Spinal
+hard working The doctors and paramedics                Anesthesia (5,520), and 5% utilizing other alternative anesthesia methods (1,103).
+should pay heed to the plight of data                      In the field of Maternal and Child Health in Punjab, there were a total of 213,880
+ity and accuracy, so that correct and valid            ANC visits. Among the 81,718 women, 16% (12,822) reported having Hb levels below
+figures may be made available for the                  10g/dl during ANC-1. A week-wise comparative study highlighted anemic women.
+sion makers.                                           Out of 25,594 deliveries, 80% were normal, 20% were C-sections, and only 0.1%
+                         Dr. Muhammad Ilyas Gondal     volved Vacuum/Forceps deliveries. Maternal complications in obstetrics were
+                  Director General Services Punjab     alized through a bar graph. Among the 25,315 live births, 2% had Low Birth Weight
+                                                       (<2.5 kg), 0.4% were premature, and 4% (1,000) faced complications leading to infant
+                         The weekly Bulletin would     mortality.                          (FP)
+                                                        Moreover, 48,234 Family Planning                visits were recorded during the week,
+                   have  not  been        possible     with 77% occurring in BHUs. Districts Faisalabad, Lahore and Rahimyar khan recorded
+                   without support, guidance,          the highest FP visits, with 4,280, 2,659, and 2,587FP visits, respectively.
+                   and expertise of Dr.                      The week's data not only serves as a snapshot of the current state of healthcare
+                   hammad Ilyas Gondal,                but also as a guide for future improvements and innovations in the pursuit of better
+                   rector    General        Health     public health outcomes.
+                   Services Punjab. The regular        Out Patient Data
+                   reviews,  discussion,       and
+modification of methodological framework
+used to ensure that the Weekly Bulletin meets           Age & Gender wise OPD Visits Distribution week 5o,2023    Referred Patients
+the most rigorous statistical standards and             60%                    80%                                week 50, 2023
+curately reflects the status of our Provincial          50%                    70%
+health system.                                                                 60%
+      On  behalf   of  MIS  team,  Dr.      Khalid      40%
+Mehmood (Director MIS), Dr. Muhammad                                           50%
+Mohsan Wattoo (ADHS-MIS)      Mr.           Farooq      30%                    40%
+Ahmed (CPO MIS) and Miss Rukhsana Fawad                 20%                    30%
+(Data Analyst) thank to the focal persons of                                                                      35%              2
+tricts         and public health professionals who      10%                    20%                                                   2
+worked to improve our provincial health                                        10%
+mation system with their tireless efforts and           0%    <1Y    1-4y     5-14Y  15-49y    5oy+               0%
+laboration and deserve deepest appreciation            Female  6%      9%       15%     48%     22%                 35%           65%
+for continuing efforts, to be better orientation       Male    8%     11%       18%     40%     23%                 Referred Out  Referred In
+to address the public health challenges of today
+and tomorrow.                                          Total OPD 22,27,517 visits were recorded in this week there were more females (54%)
+                                Dr. Khalid Mehmood     visits than that of males (46%). As is presented in the graph, the maximum number
+            Director Health Services (P&D and MIS)     of patients belonged to age group (15-49) y
+
+---
+
+                             DHIS2 Weekly Bulletin (Week 50, December 11-17, 2023)
+
+                          Total OPD Visits Weekly Comparison                                                        Average OPD perday Visits during week 50,2023
+
+                                                                                                     1200
+       S           %a     2       S              A    2      N              %     A                  1000                                                                          1023
+                                                                                                      800
+
+                                                                                                      600                                                                                                724
+                                                                                                                                                     566
+                                                                                                      400
+
+                                                                                                      200
+       W41   W42 W43 W44 W45 W46                         W47           W48  W49 W50                     0           38                 147
+       2023  2023       2023      2023  2023     2023   2023          2023  2023  2023                              BHU                RHC           THQ                           DHQ                   THOS
+OPD Visits Week Wise Comparative Analysis:
+Week wise comparative analysis, during week 44, the peak                                        Average OPD per day visits:
+number of OPD visits reached 23,94,623, the highest                                             In the assessment for week 50, the analysis showcased that,
+pared to other weeks. However, in the most recent week,                                         cording to the bar chart, DHQ facilities stood out with the highest
+week 50, there was a 3% decrease in OPD visits compared to                                      daily average of 1,023 OPD visits among various facility type.
+the previous week, week 49.
+
+                            Top 10 Communicable diseases week 50, 2023                                                                       Top 6 Non Communicable Diseases week 50, 2023
+ 80%                                                                                                                         40%
+ 70%                                                                                                                        35.%    35%
+ 60%     69%
+ 50%                                                                                                                         30%
+ 40%
+ 30%                                                                                                                         25%
+ 20%                    10%       10%      4%                                                                                20%
+ 10%                                                  2%     1%           1%                1%  1%           0%
+  0%                                                                                                                         19%
+            HAT                    20       m         20   2020           20                20  20           20              10%                 1%  10%                          10%         6%         s%
+
+                                                                                                                              5%
+                                                                                                                             0%
+                                                                                                                                       Fever (other Peptic Ulcer Hypertension     Diabetes     Anxiety & Dental Caries
+                                                                                                                                    causes)           Disease                     Mellitus    Depression
+
+Communicable and Non‐Communicable Diseases:                                                            versely, the highest percentage for Non-Communicable
+The data from Week 50 in 2023 from Punjab highlighted                                                  eases was Fever due to unknown causes at 35%, followed by
+cant cases of major communicable diseases. Acute Respiratory                                           Peptic Ulcer and Hypertension at 11% and 10%, respectively.
+Infection (ARI) stood out, constituting 69% of cases, followed                                         *These percentages were derived from patients visiting the OPD for
+by Scabies and Diarrhea/Gastrointestinal issues at 10%.                                                communicable and non-communicable diseases during that period.
+                                                            Suspected OPD DISEASE WISE NEW CASES WEEK 50 OF THE YEAR 2023
+sr.                Respiratory Diseases               21 Susp Naegleria                                  o    39 Susp Bloody Diarrhea/Dysentery      1,935 56 Hypertension                               51,505
+ Acute respiratory infections (ARI)    5,30,483  22 Susp       HIV/AIDS                                43 40 Susp Enteric / Typhoid Fever             3,123                           Psychiatric Diseases
+ 2 Susp Pneumonia                         4,000                            Skin Diseases                      41 Worm Infestations                12,611 57    Anxiety & Depression                       7,845
+ 3Susp Cough >2 Wks (Presumptive TB)      9,528  23 Susp        Scabies                               80,66842 Peptic Ulcer Disease                  55,76458 Epilepsy                                    1,055
+ 4 Chronic Obstructive Pulmonary Dis      7,654       Susp Dermatitis                                      43   Chronic  Liver Dis
+                                                      24                                               20,553                                         1,172 59 Drug Dependence                              559
+ 5 Asthma                                29,710  25 Susp      Cutaneous Leishmaniasis                    2                      Oral Diseases                                      Occupational Lung Diseases
+             Communicable Diseases                           Sexually Transmitted Infection                44    Dental Caries                       25,666
+                                                                                                                                                     60 Susp Silicosis                                    o
+ 6 Susp Malaria                          4,253        26 Urinary Tract Infection (UTI)                 33,770                     Eye & ENT                                          Injuries / Poisioning
+ 7 Susp Meningitis                          18        27 Susp Syphilis                                      0 45 Cataract                            4,355 61 Road Traffic Accidents                     23,925
+ 8 Susp dengue fever                     1,395        28 Susp Gonorrhea                                o 46 Trachoma                                  842 62 Injuries                                    16,194
+ 9Susp Seasonal Influenza ILI                0              Vaccine Preventable Diseases/Hepatitis            47 Glaucoma                            607 63 Fractures                                     2,825
+ 10 Susp Chicken Pox                     12 29           Susp   Hepatitis                              6,011 48 Otitis Media                         11,560 64 Burns                                        913
+ 11 Susp Viral Hemorrhagic Fever (CCHF)   0 30           Susp     Measles                                  14 49 Acute Conjunctivitis                1,694 65 Dog bite                                    4,111
+ 12Susp Chikungunya                        o          31 Susp Neonatal Tetanus                              0                Cancer Diseases            66 Snake bite                                        16
+ 13 Fever (other causes)           1,74,329 32           Susp Acute Flaccid Paralysis (AFP)                19 Susp Lung Cancer
+                                                                                                              50                                       39    Neurological/Neurosurgical
+ 14 Susp Anthrax                           o          33 Susp pertussis                                  o 51 Susp    Breast cancer                    42 67 CVA Stroke                                     127
+ 15 Susp Brucellosis                      0 34           Susp  diphtheria                                   1 Susp Prostate cancer                   o 68 Heat Stroke                                        52
+                                                                                                              52
+ 16 Susp Leprosy                            0         35 Susp Corona Virus                                 0               Endocrine Disorder                Unusual Diseases (Specify)
+ 17 Susp Rubella (CRS)                      0         36 Susp Mumps                                       13  53 Diabetes Mellitus                   49,47169
+ 18 Susp SARI                               0                Gestro Intestinal Diseases                       54 Goiter                               780
+ 19 Susp Cervical Cancer (HPV)             62         37 Susp Diarrhea/Gastroenteritis                79,769        Cardiovascular Diseases
+ 20Susp Monkey Pox                       0 38            Acu Watery Diarrhea/Susp Cholera             3,149 55 Ischemic Heart Dis                Chart Area
+
+---
+
+                         DHIS2 Weekly Bulletin (Week 50, December 11-17, 2023)
+
+ Age and Gender wise Indoor Admission Week 5o,2023                          60%       Local
+ 50%                                                                                  Anesthesia,
+ 45%                                                                        50%               50%
+ 40%                                 8
+ 35%                                                                        40%                                  Spinal
+ 30%                                                                                                             Anesthesia, 27%
+ 25%                                  ae                                    30%       General
+ 20%                                                                                  Anesthesia, 17%
+ 15%                                                                        20%
+ 10%                          e
+ 5%                                                                        10%                                                  Others, 5%
+ 0%           <5y    5-14Y    15-49Y        50-69Y            70Y+          0%
+ Female       19%      12%       48%           16%              6%                    General        Local       Spinal         Others
+ Male         25%      14%       30%           22%              9%                    Anesthesia     Anesthesia  Anesthesia
+
+ Age and Gender Wise Analysis:
+ Total indoor 1,09,410 patients were admitted during current               Surgeries with type of Anesthesia:
+ week, out of which 60% patient disease wise admitted only 1%              Throughout 20,498 surgeries, various anesthesia methods were
+ was Referred 3% indoor deaths were occurred in this week.                 employed. General anesthesia (GA) was used in 17% (3,432) of
+ Age and gender wise analysis the highest number of patients               geries, while local anesthesia (LA) was 51% (10,581). Spinal
+ were under the age group (15-49) yr. The percentage of                    thesia contributed to 26% (5,320) of procedures, with 6% (1,165)
+ male patients in this age group were 48% and male were 30%.               involving other alternative anesthesia methods.
+
+MNCH Services
+
+               ANC visits during week 50, 2023                                    Deliveries conducted by Health Facility type-wise
+
+       45%               ANC visits Hb. <1o g/dl                               60%            week (50,      2023)
+       40%                                                                     50%
+       35%        38%
+       30%                                                                     40%
+       25%                    30%                                              30%
+       20%                                                                     20%                                 0
+       15%                                  17%               14%              10%                   80
+       10%        16%                                                                                                                   ae
+                                                                                                                                        9
+    5%                                                                          0%    BHU            RHC       THQ  DHQ         THOS
+    0%
+                ANC-1         ANC-2         ANC-3             ANC-4+                              C-Sections     Normal/Forceps
+
+ANC Detail:                                                                Deliveries by Health Facilities types wise:
+Among the total 2,13,880 ANC visits this week, ANC-1                       Out of the total 25,594 deliveries, BHU accounted for 53% of
+tuted 38% (81,718) with 16% (12,822) showing Hb<10g/dl,                    normal/forceps deliveries, while THOS handled 40% of
+while ANC-2, ANC-3, and ANC-4 comprised 30% (65,183), 17%                  tions. It's important to note that these percentages are
+(37,241), and 14% (29,738) respectively.                                   based on deliveries within healthcare facilities.
+
+                                                                                      Comparative Analysis of Live Birth LBW<2.5, Premature
+               Weekly Comparative Analysis of ANC-1 Visits                                 Birth and Still Birth with previous week
+ 90000                                                                      500
+ 88000
+     86000                                                                     400         469
+     84000                                                                            421
+     82000                                         ......                      300
+ 80000
+ 78000                                                                         200
+ 76000
+     74000                                                                     100                             77  96              42
+     72000                                                                  O                                                  64
+ 70000        W41 W42 W43 W44 W45 W46 W47 W48 W49 W50                                 Live births LBW < 2.5kg  Premature Births  Stillbirths in the facility
+
+              2023 2023  2023 2023   2023 2023 2023 2023      2023 2023                              W49 2023 W50 2023
+
+---
+
+DHIS2 Weekly Bulletin (Week 50, December 11-17, 2023)
+
+
+          Weekly Comparative Study of Anemia in ANC-1 Women                                                          Maternal Complications in Obstetrics: Inpatient Admissions,
+ 15000                                                                                                   2500                                     Week 50, 2023
+ 14500
+ 14000    10                                             A                                               2000        1909
+ 13500
+ 13000          S0         A                                                                             1500
+ 12500                                             SS                    S              A
+ 12000                                                                                                   1000
+ 11500
+          W41   W42 W43 W44 W45 W46 W47 W48 W49 W50                                                      500
+          2023  2023       2023             2023 2023    2023 2023  2023                2023 2023                                   295           157        146         104          85
+
+Weekly Comparative Study of Anemia (Hb<10g/dl) in ANC‐1 Women:                                            0 Other Obstetric         Prolonged/             Pre-Eclampsia/ Postpartum  Puerperal  Rupture Uterus
+The graphical study depicting the weekly analysis of women with                                                      Complications  Obstructed    Eclampsia  Hemorrhage  Sepsis
+Hb<10g/dl revealed a 3% decline during this week compared to Week 49.                                                               Labour                   (PPH)
+                          Services wise FP Client visits Week 50, 2023                                                                        Family Planning Visits by Health Facility type wise
+ 80%                                                                                                                                                             week 50, 2023
+ 70%                       71%                                                                                90%
+ 60%                                                                                                          80%
+ 50%                                                                                                          70%    77%
+ 40%                                                                                                          60%
+ 30%                                                                                                          50%
+ 20%                                        25%                                                               40%
+ 10%      3%                                                    10%  5%                      2%               30%
+  0%      Total FP Visits <  New FP visits  No of FP     FP Clients Ref by  Total PPFP  Total PAFP            20%
+                 25 y                      Counseling           LHW                                           10%                        15%                 5%          2%                      2%
+
+Family Planning: of                                           family                                Of         0%    BHU                 RHC                 THQ         DHQ                     THOS
+In the 50th week           2023, there were 48,234                       planning visits.
+these, 3% (1,231) were by women under 25 years old. Among these
+visits, 71% (34,129) were from new clients. Family planning counseling                                  Family Planning by Health Facility type wise:
+accounted for 25% (12,250) of visits, with 85% (10,421) being new clients                               This graph illustrates the distribution of FP visits across
+and 15% (1,829) returning. 10% (4,850) were referrals by LHWs.                                          ent Health Facility types. The largest share, comprising 77% of
+tum family planning (PPFP) visits made up 5% (2,410), with 4% (88) by                                   the total visits, took place in BHUs, followed by RHCs at 15%,
+women under 25 years old. Finally, Post-Abortion Family Planning                                        THQs at 5%, DHQs at 2%, and THOS at 1%.
+(PAFP) visits were 2% (826), with 4% (40) made by women under 25.
+                                                                                                         Sr#         Babies Initiated with Total Sr#                     Information on                   Total
+                                 Week wise FP visits Comparison                                                      KMC Services                                        KMC Outcome
+ 50,000                                                                                                                                                                No. of Babies
+ 48,000                                                                                                   1          No. of Babies initiated                  55 1     received KMC &                        46
+ 46,000                                                                                                              with KMC Services                                 discharge as per
+                                                                                                                                                                       protocol
+ 44,000
+ 42,000                                                                                                              No. of Babies born in                             No. of Babies
+ 40,000                                                                                                   2          Facility initiated KMC                   68 2     received KMC &                        15
+ 38,000                                                                                                              Services                                          discharge on
+                                                                                                                                                                       request
+ 36,000          W41   W42 W43              W44  W45     W46  W47   W48 W49 W50                                                                                        No. of Babies
+                 2023 2023 2023             2023 2023    2023 2023  2023    2023        2023                         No. of Babies born                                initiated KMC&
+
+Week wise Family Planning Visits:                                                                         3          outside the Facility                     36 3     referred /                            12
+In the current week, Family Planning visits exhibit a positive trend,                                                received KMC                                      discontinued due
+periencing a 2% increase from the previous week (Week 49). Notably,                                                  Services                                          to complication
+this week records the highest number of FP visits. The overall trend,                                                                                            4     No. of Babies die                     12
+as reflected in the line graph, indicates an upward trajectory.                                                                                                        during KMC

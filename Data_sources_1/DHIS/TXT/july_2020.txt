@@ -1,0 +1,417 @@
+    DHIS Analysis Report (July 2020)
+Directorate General Health Services, Punjab (MIS Cell)
+                24-Cooper Road Lahore
+                 Tel: [+92-99200990]
+               Email: hmispb@yahoo.com
+
+
+    DHIS
+    District Health Information System
+                                                                   KEY HIGHLIGHTS
+     The report of July 2020, discern a very slight rise in healthcare services that are being reported in DHIS by
+     Health facilities including Teaching Hospitals, DHQ, THQ, Civil Hospitals, RHCs, BHUs, MCHC and
+     Dispensaries as compared to June 2020. Due to pitfall of Pandemic COVID-19, there was a clearly decline
+     observed in healthcare services till May 2020. The OPD (Out Patient Department) of THOS (Teaching
+     Hospitals) were closed by the end of March. Total OPD visits in January & February were 14 Million, but
+     from March (11.6 Million) OPD is decreased to 7 Million in June 2020
+     In July 2020, it is observed that Rural and Urban Settlements have shown an increase of 10 in OPD visits
+     as compared with June 2020. Similarly, increased is observed in rest of the major indictors that are being
+     reported in DHIS i.e. ANC-I, Deliveries, Family planning visits, Medicine Stock out and other indicators
+     for the month of July 2020.
+                                                                   OUTPATIENT DATA
+
+      9                               7.95                    Rural Settlements             The figure shows a graphical representation
+    Millions
+      8    7.59                                                                             of OPD visits (New + Follow Up) for Rural
+      7     6.82                      6.58     6.47           Urban Settlements             and Urban Settlements in Punjab. Due to
+      6                                             5.31
+      5                                                4.17  4.14  4.02  4.40               COVID-19 Pandemic, a slight increase in
+      4                                                     3.25 2.74 2.96         3.26     OPD was observed in rural as well in urban
+      3
+      2                                                                                     settlements for the month of July 2020. Total
+      1                                                                                     OPD visits in rural and urban settlements
+      0
+           January February                    March   April  May   June           July     from March to June shows a clear decline.
+    This shows there is a decrease of 35.5% in OPD for rural settlements and 38.7% in urban settlements for the
+    month of April, 36% & 48.4% for the month of May, 37.8 % & 44.1% for the month of June as compare to
+    month of March 2020, due to discontinue of OPD in THOS (Teaching Hospitals) in Punjab province by the
+    end of March. Whereas, in July there is 10% OPD increase in Rural & Urban Settlements as compared to
+    June 2020.
+
+                                                                    1
+
+---
+
+                                    EPIDEMIC TOP FIVE DISEASES
+              <u>2059025</u>
+                  <u>2035261</u>
+   2500000
+                  <u>1686832</u>
+   2000000
+
+                  <u>823099 865767 869953 1057490</u>
+   1500000
+
+                                                                                                667846
+                                                                                                638247
+   1000000                                                426653          402469                          <u>530285</u>
+                                    370788                399140          400876
+                                    362235                221783   366983 256429 246619        354908    314509 334039 361006
+                                    176272 187287  193992 207364         299256                                        329461
+                                                                         240192                246070
+                                                                         238054                230308
+                                                                                          202500
+   500000
+
+         0
+                  ARI               Hypertension          Peptic Ulcer Diseases     Scabies          Fever due to other
+                                January  February    March  April        May        June       July       causes
+   Figure shows the number of patients of top five epidemic diseases in Punjab Province for the month of
+   January to July 2020. The highest number of patients were found in ARI-Acute (Upper) Respiratory
+   Infections in all months. The reported number of patients in DHIS has also decreased due to pandemic
+   COVID-19. A bit increase has observed in month of July 2020 in top five disease as compared to June
+   2020.
+        SUSPECTED MEASLES, TYPHOID FEVER, DIARRHEA <5 & >5 YEARS & PHENOMENA >5 & <5 years
+
+              Diarrhoea/Dysentery in >5 yrs        Diarrhoea/Dysentery in <5 yrs         Enteric / Typhoid Fever
+              Pneumonia <5 years                   Pneumonia >5 years                    Suspected Measles
+                            236378 249377
+   229354
+        220453                                                                     222412
+                                                            208998
+                                         200686 201202                   202340                195634
+                                                          188377                               188615     188863 190439
+
+
+
+
+   68572    60530 73064
+47825 64551
+                       369 34322 41250 55881
+              49321
+                       18913 25933 34862    40402                                           37157
+                                            32241
+                                            19014                                           20205    19399
+                                            454 16223                                       15609    17869
+
+            554    921                                                                      178      467
+
+   JANUARY         FEBRUARY  MARCH  APRIL   MAY        JUNE                                          JULY
+   <u>This graph compares number of patients for the month of July 2020 with two quarters of 2020 i.e. January </u>
+   <u>to June 2020 for Suspected Measles, Typhoid Fever, Diarrhea <5 & >5 years and Phenomena >5 & <5 </u>
+   <u>years. The slight increase is observed in all diseases for the month of July 2020.</u>
+
+
+   2
+
+---
+
+           MATERNAL AND NEONATAL CHILD HEALTH
+
+                                                                                       45.0%     <u>Deliveries conducted in </u>
+ 105000                                                                                40.0%     Health Facilities
+           40.0%  35.1%           31.9%                        30.83%                  35.0%     The figure shows percentage
+  85000                                                 27.45%                         30.0%     of Total Deliveries conducted
+                                           26.2%  24.5%                                          in Health Facilities of Punjab
+  65000    91908                                                                       25.0%     for    the month of July 2020.
+
+ 45000              80868         74913                    67388  74628                20.0%     Continues     decline  can  be
+           21428    18389                  63474  61079                                          overserved    till         May
+
+ 25000                     15509               10769  8365  10328        1264615.0%              2020.Whereas,  In      June  &
+                                                                              10.0%              July  2020     percentage   of
+  5000                                                                         5.0%              deliveries conducted in health
+           January  February      March    April      May   June   July                          facilities was  28%     &  31%
+           Normal & VF Deliveries          C Section       %of Deliveries Conducted              respectively.  Difference   of
+                                                                                                 decline due to COVID impact
+observed from January to May is 38%, an increase of 11% in Normal & Vacuum Forceps Deliveries from
+June to July was observed. The number of C-section performed were also analyzed and it was observed that
+the highest was in January i.e. 21K and lowest was observed in May i.e. 8K, whereas, in July 51.2% increase
+was observed as compared to May 2020.
+
+                                                        ANC VISITS
+
+ 370000                                                                                110      This numbers are calculated
+
+ 320000           98     96                                        79                   100     from         the       expected
+                                     86                           77                     90     pregnancies during the year
+ 270000                                           71    65                               80     (3.4% of total Population).
+
+ 220000    326208 319203                                                                 70     90 above percentage can be
+                                     285422                                              60
+ 170000                                                       254435                 263282
+                                               236927 215355                             50     seen through graph for the
+
+ 120000                                                                                  40     month of January & February.
+                                                                                         30
+ 70000                                                                                   20     But in March there is 86%, as
+
+ 20000     January    February  March      April        May   June      July             10     mentioned earlier that due to
+
+                                ANC-1          % of service provide                             COVID-19 THOS (Teaching
+                                                                                                Hospitals) were closed by the
+end of March, so directly ANC-I visits decreased and in May the percentage of ANC-I visits were 65%,
+whereas, in June ANC-1 visits are increased by 18% as compared to May 2020. A slight increase of 4% is
+observed in July as compared to June 2020.
+
+                                                             3
+
+---
+
+<u>ANC-I & DELIVERIES DECLINE & INCREASE PERCENTAGE WITH NUMBERS OF DSTRICTS</u>
+
+                                                                       Increase,        20-29%, 2
+                       ≥ 50%, 1 20-29%, 3                                    4
+             >10%
+             Increase, 8
+                                          <19%, 8                    <10%
+                      1-10%                                        Increase,                  <19%, 18
+             Increase,                                           11
+                       14
+                                                     No
+                                                change, 1
+             ≥ 50%              20-29%                             20-29%               <19%
+             <19%               No change                          <10% Increase        Increase
+             1-10% Increase     >10% Increase
+
+Pie chart shows a decline percentage of Deliveries as       Pie chart shows a decline percentage of ANC
+compare to two quarters of year 2020, the total numbers     I as compare to two quarters of year 2020, the
+of district in percentage categories are shown for the      total  numbers    of    district  in  percentage
+month of July 2020.                                         categories are shown for the month of July
+It was observed that 8 number of district’s decline is in   2020. It was observed that 18 districts have
+<  19% category and 14 districts shown          increase    decreased ANC services and 11         district’s
+percentage from 1 to 10 %.                                  increase is in < 10% category.
+
+                                Deliveries Percentage Decline for the month of July 2020
+   Category                     Number of Districts                Name of District
+    ≥ 50%                                1      Rawalpindi
+   20-29%                                3      Faisalabad, Gujranwala, Lahore
+
+     <19%                                8      Bahawalpur, RY Khan, Gujrat, Narowal, Sialkot, MB DIN,
+                                                Chakwal, Sahiwal
+  No change                              1      Vehari
+                                                DG Khan, Rajanpur, TT Singh, Chiniot, Shiekhupura, Nankana
+1-10% Increase                           14     Sahib, Khanewal, Multan, Jhelum, Bhakkar, Khushab, Sargodha,
+                                                Pakpattan,Attock
+
+>10% Increase                                   Bahawalnagar, Layyah, Muzaffargarh, Jhang, Hafizabad, Kasur,
+                                         8      Lodhran, Mianwali
+>50% Increase                            1      Okara
+
+
+
+
+
+4
+
+---
+
+                   ANC Services Percentage Decline for the month of July 2020
+  Category    Number of Districts                                   Name of District
+   20-29%              2                          Narowal, Pakpattan
+                                                  Bahawalnagar, Bahawalpur, RYKhan, DG Khan, Layyah,
+    <19%               18                         Muzaffargarh, Rajanpur, Chiniot, Gujranwala,Lahore,
+                                                  Khanewal, Lodhran,Chakwal, Jhelum, Rawalpindi, Bhakkar,
+                                                  Sargodha, Okara
+ No Change             1                          Vehari
+ <10%                  11                         Faislabad, Jhang, TT Singh, Gujrat, Sialkot, MB Din,
+  Increase                                        Sheikhupura, Nankana Sahib, Multan, Attock, Khushab,
+  Increase             4                          Hafizabad, Kasur,Mianwali,Sahiwal
+
+                                     FAMILY PLANNING VISITS
+
+200000    184947  175308                                                     Figure   shows  a         graphical
+180000    I                  158625                     150483               representation  of       Family
+160000                                              143732
+140000                      I 136682                123003  II              Planning visits for July   2020.
+120000                                 II                                    There’s continues decline in
+100000
+ 80000                                                                       every    next   month      from
+ 60000                                                                       January to May. Number of
+ 40000
+ 20000                                                                       family   planning         visits
+ 0                                                                           increase from June(143k) and
+          January  February  March     April      May   June  July           in July 150K visits observed
+
+that shows an increase of 5% as compared to June 2020.
+                                       OBSTETRIC COMPLICATIONS
+          Puerperal                                                   Complicati                       Eclampsia
+                                       Prolonged    Pregnanci    Hemorrha             Hemorrha            Eclampsia
+                   Rupture             Obstructe                 ge (APH)             Postpartu
+                                       d Labour                                              ge (PPH)
+                                                  Ectopic      partum        Abortion
+                   Sepsis    Uterus    /               es  Ante              ons of   m                Pre -/
+
+
+
+January      351     378     594     357     1,759       1,269     1,031     1,172
+February     129     533     462     327     1,451       1,393     1,406     1,110
+March         84     144     437     229     1,074         839       832       661
+April         90      77     343     165     1,557         690       603       551
+May          44      201     278     134      616      736          550       524
+June         54       69     258     131      870      687          688       787
+July         184      96     313     154     1197      907          800       614
+
+
+5
+
+---
+
+            STILL BIRTH, NEONATAL AND MATERNAL DEATHS
+
+2500                                                                  140     Maternal Deaths  Neonatal deaths
+            2029                                                      120
+2000                1812                                 January
+                            1682 1596 1591 1574 1450     February     100
+1500                                                     March          80
+
+1000                                                     April          60
+                                                         May            40
+     500                                                 June           20
+                                                         July           0
+       0
+                            Stillbirths
+
+ Graph shows a number of Still Births in all health                    Graph shows a number of Neonatal and
+ facilities for the Month of January to July 2020. It is               Maternal  Deaths  reported  in  DHIS.  The
+ observed that the number of stillbirths have been                     number of maternal deaths have increased in
+ decreased by 8% with respect to previous month                        the Month of March & April and it ranked
+ (June).                                                               highest among past four months, whereas, in
+                                                                       July there is decrease in maternal & neonatal
+                                                                       deaths.
+
+
+         STOCK OUT OF ESSENTIAL DRUGS
+
+7.00%
+         6.40%
+
+6.00%                                6%  5.79%
+              5.41%
+
+5.00%
+
+4.00%
+              3.40%
+
+3.00%         2.58%
+
+2.00%              1.84%
+
+1.00%
+
+0.00%
+
+Figure shows a percentage of stock for the month of January, February, March, April, May, June & July 2020
+
+
+6
+
+---
+
+                                               IMMUNIZATION COVERAGE
+
+20-29% Increase               10-19% Increase  < 9% Increase      Decline               BCG Vaccine
+
+20-29% Increase,                                                  10-19%                Figure shows a pie chart of BCG (Bacille
+           1                                                Increase, 2                 Calmette-Guerin, a vaccine for tuberculosis
+                                                                                        <u>(TB) disease) with increase percentage & </u>
+                                                                                        <u>total number of Districts as compared with </u>
+Decline, 10                                                                             <u>June 2020. It was observed that 10 district </u>
+                                                                                        fall in decline category. The highest
+                                                            < 9% Increase,              <u>percentage of increase was observed in the </u>
+                                                                  23
+                                                                                        category of <9% with number of 23
+                                                                                        Districts for the month of July 2020.
+Category Percentage                            No of Districts                                 Name of Districts
+20-29% Increase                                              1                          Sialkot
+10-19% Increase                                              2                          Faislabad, TT Singh
+                                                                                        Rawalpindi, Chakwal, Gujranwala,Hafizabad, MB
+                                                                                        Din, Narowal, Lahore, SKP, Nankana, Multan,
+< 9% Increase                                              23                           Lodhran, Vehari,Okara, Jhang,Chiniot, Sargodha,
+                                                                                        Mianwali, Bhakkar, MZG, Layyah,Bahawalpur,
+                                                                                        Bahawalnagar, RY Khan
+
+Decline                                                    10                           Attock, Jhelum, Gujrat, Kasur, Khanewal, Sahiwal,
+                                                                                        Pakpattan, Khushab, DG Khan, Rajanpur
+Measle I
+
+           >50% Increase       30-49% Increase                      20-29% Increase            Figure shows a pie chart of
+           10-19% Increase     < 9% Increase                                     Decline       <u>Measle  1 vaccine with increase </u>
+                                                           30- 49% Increase, 3                 percentage & total number of
+>50% Increase, 1                                                       20- 29% Increase,       <u>Districts as compared with June </u>
+                                                                             1                 2020. It was observed that 16
+
+Decline, 16                                                       10- 19% Increase,            districts fall in decline category.
+                                                                    1                          The highest percentage of increase
+                                                                                               was observed in the category of
+                                                           < 9% Increase, 14                   <9% with number of 14 Districts
+                                                                                               for the month of July 2020.
+
+Category Percentage                            No of Districts                                 Name of Districts
+>50% Increase                                     1                               Jhang
+30-49% Increase                                   3                               Faislabad, TT Singh, Mianwali
+20-29% Increase                                   1                               Gujranwala
+10-19% Increase                                   1                               Sialkot,
+                                                                                  Attock, Hafizbad, Gujrat,Narowal, SKP,
+< 9% Increase                                        14                           Nankana,Multan,Sahiwal, Chiniot, Sargodha, Bhakkar,
+                                                                                  Rajanpur, Layyah, RY Khan
+                                                                                  Rawalpindi,Chakwal,Jhelum,MBDIN,Lahore, Kasur,
+Decline                                              16                           Lodhran, Khanewal, Vehari, Okara, Pakpattan,
+                                                                                  Khushab, DG Khan, MZG, Bahawalpur, Bahawalnagar
+                                                                  7
+
+---
+
+<u>The below graph shows coverage of vaccines for the Month of January, February, March, April, May June</u>
+<u>and July 2020. There is no major difference observed in vaccination coverage of Rota and TT, whereas, </u>
+there is a slight increase in Measle Coverage for the month of July2020.
+
+ 350000    Jan  Feb  March  April  May  June                            July
+ 300000
+ 250000
+ 200000
+ 150000
+ 100000
+      50000
+          0
+           Rota I    Rota II    Measle I    Measle II                   TT I    TT II
+
+
+
+In Punjab, for the month of July Rota-I and TT–I have                              Percentage
+<u>decrease percentage of 0.2% and 1% respectively, Rota II , </u>             Vaccine    Increase/
+<u>Measles-I and Measles-II and TT-II have increase of 1.6 %, </u>                        Decrease (%)
+<u>5.2%, 6% and 2% respectively as compared to June 2020, </u>        Rota I              0.2
+<u>also shown in table. </u>                                          Rota II             -1.6
+                                                                      Measle I            -5.2
+                                                                      Measle II           -5.9
+                                                                      TT I                0.8
+                                                                      TT II               -1.9
+
+
+
+
+
+
+
+
+This   Report  would  not   be  possible  without          the     On behalf of MIS team, Mr. Farooq Ahmed (CPO), Ms. Aleena
+collaboration, guidance, and expertise of Dr. Haroon               Tahir (Bio Statistician), we thank to the focal persons of Districts
+Jahangir  Khan  (Director   General  Health  Services              and public health professionals who worked to improve our
+Punjab), Dr. Sohail Arshad Rana (DHS MIS), Dr. Imtiaz              provincial  health  for  their  tireless  efforts  with  timely
+Ahmed Rana (ADHS-Statt).                                           collaboration. We are better prepared to address the public
+The regularly reviews, discussion, and modification of             health challenges of today and tomorrow. They deserve our
+methodological framework used to ensure that the Report            deepest appreciation.
+meets  the  most  rigorous  statistical  standards         and
+accurately reflects the state of our Provincial health.                           DHIS
+                                                                   Destrict Health Information System
+
+
+
+
+8
+
+---
+
+9

@@ -1,0 +1,3453 @@
+                                                  to.  2
+ PUBLIC HEALTH BULLETIN-PAKISTAN TH               Co n
+
+  Integrated Disease             BL               W
+                            Surveillance
+  & Response (IDSR) Report
+   Center of Disease Control
+   National Institute of Health, Islamabad AKISTAN
+
+                            http:/www.phb.nih.org.pk/
+ Integrated Disease Surveillance & Response (IDSR) Weekly Public Health Bulletin is your go-to resource
+ for disease trends, outbreak alerts, and crucial public health information. By reading and sharing this bulletin,
+ you can help increase awareness and promote preventive measures within your community.
+
+                                                     C
+
+
+    Public Health
+    Bulletin
+    Pakistan
+   Make a difference with
+    your Field work
+
+Share Your Work-and Impact Lives
+             .www.phb.nih.org.pk
+    phb@nih.org.pk
+
+
+    CD     UK Health    World Health    USAID    safetynet
+           Security
+           Agency       Organization    I
+
+---
+
+  AL
+  TH
+Public Health Bulletin - Pakistan.     NE
+
+                                       PAKISTAN
+
+
+
+
+                   Public Health Bulletin - Pakistan, Week 21, 2024
+
+                              The Public Health Bulletin has revolutionized public health information access in
+ Overview          Pakistan. No longer a mere list of illnesses, it has become a comprehensive resource
+                   empowering both healthcare professionals and citizens alike.
+
+                                   Moving beyond basic reporting, the Bulletin delves into detailed analysis of
+IDSR Reports       prevalent diseases. This includes malaria, influenza-like illness (ILI), tuberculosis (TB),
+                   acute lower respiratory infections in children under five (ALRI <5), B. diarrhea, dog bites,
+                   viral hepatitis (B, C, and D), typhoid fever, and acute watery diarrhea (AWD) including
+
+Ongoing Events     suspected cholera. Stakeholders can leverage this valuable data to tailor preventive
+                   measures and address emerging threats proactively.
+
+                                  The Bulletin also functions as an early warning system, identifying trends in
+                   disease prevalence. Recent data suggests a slight decrease in malaria, ILI, TB, and ALRI <5
+Field Reports      cases over the past week, while acute diarrhea (non-cholera), dog bites, and AWD
+                   (including suspected cholera) show a slight increase. This allows for swift public health
+                   interventions to prevent the spread of diseases like acute flaccid paralysis and brucellosis.
+
+                             For those seeking in-depth information, the Bulletin offers a wealth of resources.
+                   This week's edition features a report on the recent scabies outbreak investigation in
+                   Mardan, a commentary analyzing the alarming rise in vaping, and an epidemiological
+                   abstract evaluating the COVID-19 surveillance system in Peshawar. Additionally, the
+                   Bulletin provides advisories for public health threats like Crimean-Congo hemorrhagic
+                   fever (CCHF) and heatstroke. The Knowledge Hub section delves deeper into the
+                   devastating impact of smoking on human health.
+
+                             By staying informed through the Public Health Bulletin and utilizing its insights,
+                   everyone can contribute to a healthier Pakistan.
+
+
+  Sincerely,
+  The Chief Editor
+
+
+
+
+
+
+
+
+
+
+  NID     UK Health     World Health     USAID    safetynet
+          Security
+          Agency        Organization     I
+
+---
+
+Overview
+
+
+
+
+        •     During week 21, the most frequently reported cases were of Acute Diarrhea (Non-Cholera) followed by
+              Malaria, ILI, TB, ALRI <5 years, B. Diarrhea, dog bite, VH (B, C & D), Typhoid and AWD (S. Cholera).
+
+        •     Twenty-eight cases of AFP reported from KP, seven from Sindh, four from Punjab, three from GB, two from
+              Balochistan and one from AJK. All are suspected cases and need field verification.
+
+        •     Fifteen suspected cases of HIV/ AIDS reported from Punjab, eight from Sindh, two from KP and one from
+              Balochistan. Field investigation required to verify the cases.
+
+        •     Seven cases of Brucellosis reported from KP and five
+                                                            from Balochistan. These are suspected cases and require
+             field verification.
+
+        •     Two suspected cases of CCHF reported from Punjab. Field investigation required to verify the cases.
+
+        •     There is a slightly decreasing trend observed for Malaria, ILI, TB and ALRI <5 years while a slightly increasing
+              trend for Acute Diarrhea (Non-Cholera), Dog bite and AWD (S. Cholera) cases this week.
+
+                                  IDSR compliance attributes
+   •         The national compliance rate for IDSR reporting in 149 implemented districts is 78%
+   •         Gilgit Baltistan and AJK are the top reporting regions with a compliance rate of 99% and 98%, followed by
+             Sindh 90% and ICT 86%
+   •         The lowest compliance rate was observed in KPK.
+
+   
+<table>
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Expected Reports</th>
+      <th>Received Reports</th>
+      <th>Compliance (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Khyber Pakhtunkhwa</td>
+      <td>2740</td>
+      <td>1656</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>Azad Jammu Kashmir</td>
+      <td>382</td>
+      <td>373</td>
+      <td>98</td>
+    </tr>
+    <tr>
+      <td>Islamabad Capital Territory</td>
+      <td>35</td>
+      <td>30</td>
+      <td>86</td>
+    </tr>
+    <tr>
+      <td>Balochistan</td>
+      <td>1206</td>
+      <td>956</td>
+      <td>79</td>
+    </tr>
+    <tr>
+      <td>Gilgit Baltistan</td>
+      <td>374</td>
+      <td>371</td>
+      <td>99</td>
+    </tr>
+    <tr>
+      <td>Sindh</td>
+      <td>2085</td>
+      <td>1919</td>
+      <td>92</td>
+    </tr>
+    <tr>
+      <td>National</td>
+      <td>6822</td>
+      <td>5305</td>
+      <td>78</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+   NE     UK Health    World Health    USAID    safetynet
+          Security
+          Agency       Organization    IONAL
+
+---
+
+    Pakistan
+
+
+
+
+
+
+
+    Table 1: Province/Area wise distribution of most frequently reported suspected cases during week 21, Pakistan.
+
+    
+<table>
+    <thead>
+    <tr>
+        <th>Diseases</th>
+        <th>AJK</th>
+        <th>Balochistan</th>
+        <th>GB</th>
+        <th>ICT</th>
+        <th>KP</th>
+        <th>Punjab</th>
+        <th>Sindh</th>
+        <th>Total</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>AD (Non-Cholera)</td>
+        <td>2282</td>
+        <td>7,816</td>
+        <td>1074</td>
+        <td>541</td>
+        <td>30,487</td>
+        <td>126,513</td>
+        <td>50,079</td>
+        <td>218,792</td>
+    </tr>
+    <tr>
+        <td>Malaria</td>
+        <td>10</td>
+        <td>7,131</td>
+        <td>1</td>
+        <td>6</td>
+        <td>5,386</td>
+        <td>3,194</td>
+        <td>56,666</td>
+        <td>72,394</td>
+    </tr>
+    <tr>
+        <td>ILI</td>
+        <td>2,116</td>
+        <td>7,336</td>
+        <td>424</td>
+        <td>972</td>
+        <td>4,287</td>
+        <td>5</td>
+        <td>20,114</td>
+        <td>35,254</td>
+    </tr>
+    <tr>
+        <td>TB</td>
+        <td>46</td>
+        <td>179</td>
+        <td>68</td>
+        <td>9</td>
+        <td>484</td>
+        <td>9,734</td>
+        <td>10,705</td>
+        <td>21,225</td>
+    </tr>
+    <tr>
+        <td>ALRI &lt; 5 years</td>
+        <td>1,020</td>
+        <td>1,693</td>
+        <td>568</td>
+        <td>5</td>
+        <td>1,508</td>
+        <td>821</td>
+        <td>8,809</td>
+        <td>14,424</td>
+    </tr>
+    <tr>
+        <td>B.Diarrhea</td>
+        <td>103</td>
+        <td>2028</td>
+        <td>91</td>
+        <td>9</td>
+        <td>1,552</td>
+        <td>1,793</td>
+        <td>3,765</td>
+        <td>9,341</td>
+    </tr>
+    <tr>
+        <td>Dog Bite</td>
+        <td>109</td>
+        <td>119</td>
+        <td>14</td>
+        <td>0</td>
+        <td>622</td>
+        <td>5,587</td>
+        <td>1,940</td>
+        <td>8,391</td>
+    </tr>
+    <tr>
+        <td>VH (B, C & D)</td>
+        <td>11</td>
+        <td>107</td>
+        <td>3</td>
+        <td>2</td>
+        <td>245</td>
+        <td>0</td>
+        <td>5,015</td>
+        <td>5,383</td>
+    </tr>
+    <tr>
+        <td>Typhoid</td>
+        <td>38</td>
+        <td>774</td>
+        <td>45</td>
+        <td>2</td>
+        <td>772</td>
+        <td>2,166</td>
+        <td>1,295</td>
+        <td>5,092</td>
+    </tr>
+    <tr>
+        <td>AWD (S. Cholera)</td>
+        <td>53</td>
+        <td>341</td>
+        <td>145</td>
+        <td>8</td>
+        <td>121</td>
+        <td>3,081</td>
+        <td>17</td>
+        <td>3,766</td>
+    </tr>
+    <tr>
+        <td>SARI</td>
+        <td>212</td>
+        <td>824</td>
+        <td>229</td>
+        <td>2</td>
+        <td>1,063</td>
+        <td>0</td>
+        <td>153</td>
+        <td>2,483</td>
+    </tr>
+    <tr>
+        <td>Dengue</td>
+        <td>0</td>
+        <td>523</td>
+        <td>0</td>
+        <td>0</td>
+        <td>20</td>
+        <td>757</td>
+        <td>107</td>
+        <td>1,407</td>
+    </tr>
+    <tr>
+        <td>AVH (A&E)</td>
+        <td>10</td>
+        <td>52</td>
+        <td>13</td>
+        <td>0</td>
+        <td>336</td>
+        <td>0</td>
+        <td>655</td>
+        <td>1,066</td>
+    </tr>
+    <tr>
+        <td>Measles</td>
+        <td>21</td>
+        <td>36</td>
+        <td>10</td>
+        <td>1</td>
+        <td>503</td>
+        <td>299</td>
+        <td>192</td>
+        <td>1,062</td>
+    </tr>
+    <tr>
+        <td>CL</td>
+        <td>1</td>
+        <td>148</td>
+        <td>0</td>
+        <td>0</td>
+        <td>372</td>
+        <td>4</td>
+        <td>1</td>
+        <td>526</td>
+    </tr>
+    <tr>
+        <td>Mumps</td>
+        <td>6</td>
+        <td>57</td>
+        <td>10</td>
+        <td>0</td>
+        <td>78</td>
+        <td>0</td>
+        <td>232</td>
+        <td>383</td>
+    </tr>
+    <tr>
+        <td>Chickenpox/ Varicella</td>
+        <td>0</td>
+        <td>24</td>
+        <td>4</td>
+        <td>2</td>
+        <td>90</td>
+        <td>34</td>
+        <td>71</td>
+        <td>225</td>
+    </tr>
+    <tr>
+        <td>Chikungunya</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>152</td>
+        <td>154</td>
+    </tr>
+    <tr>
+        <td>Gonorrhea</td>
+        <td>0</td>
+        <td>95</td>
+        <td>0</td>
+        <td>0</td>
+        <td>19</td>
+        <td>0</td>
+        <td>14</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>Pertussis</td>
+        <td>2</td>
+        <td>76</td>
+        <td>5</td>
+        <td>0</td>
+        <td>22</td>
+        <td>0</td>
+        <td>3</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>Meningitis</td>
+        <td>0</td>
+        <td>4</td>
+        <td>1</td>
+        <td>0</td>
+        <td>13</td>
+        <td>21</td>
+        <td>16</td>
+        <td>55</td>
+    </tr>
+    <tr>
+        <td>AFP</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>0</td>
+        <td>28</td>
+        <td>4</td>
+        <td>7</td>
+        <td>45</td>
+    </tr>
+    <tr>
+        <td>Diphtheria (Probable)</td>
+        <td>0</td>
+        <td>22</td>
+        <td>0</td>
+        <td>0</td>
+        <td>14</td>
+        <td>3</td>
+        <td>0</td>
+        <td>39</td>
+    </tr>
+    <tr>
+        <td>Syphilis</td>
+        <td>1</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+        <td>20</td>
+        <td>29</td>
+    </tr>
+    <tr>
+        <td>HIV/AIDS</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>15</td>
+        <td>8</td>
+        <td>26</td>
+    </tr>
+    <tr>
+        <td>Brucellosis</td>
+        <td>0</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>7</td>
+        <td>0</td>
+        <td>0</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>VL</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>NT</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>4</td>
+        <td>0</td>
+        <td>1</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>CCHF</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Rubella (CRS)</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Leprosy</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+    Figure 1: Most frequently reported suspected cases during week 21, Pakistan.
+
+    250,000                                                                     W19    W20    W21
+                   218,792
+
+    200,000
+    NUMBER OF CASES
+
+    150,000
+
+
+    100,000
+              72,394
+
+    50,000          35,254
+                          21,225  14,424    9,341    8,391    5,383    5,092                          3,766
+
+    0
+AD (Non-      Malaria    ILI    TB  ALRI < 5 years  B. Diarrhea  Dog Bite  VH (B, C & D)  Typhoid     AWD (S.
+Cholera)                                                                                              Cholera)
+
+
+
+
+
+
+
+
+
+
+    NIE     UK Health     World Health     USAID    safetynet
+            Security
+            Agency        Organization     ' DE
+
+---
+
+       •  Malaria cases were maximum followed by AD (Non-Cholera), ILI, TB, ALRI<5 Years, VH (B, C, D), B. Diarrhea, dog bite, Typhoid and AVH
+          (A & E).
+       •  Malaria cases are mostly from Larkana, Khairpur and Kamber whereas AD (Non-Cholera) cases are from Dadu, Khairpur and Badin.
+Sindh  •  Eight suspected cases of HIV/ AIDS and Seven cases of AFP reported from Sindh. All are suspected cases and need field verific ation.
+       •  There is a slightly decreasing tren d observed for Malaria, ILI, ALRI<5 Years, B. Diarrhea and AVH (A & E) cases whereas a slightly increasing
+          trend for AD (Non-Cholera) cases this week.
+
+
+
+
+Table 2: District wise distribution of most frequently reported suspected cases during week 21, Sindh
+
+<table>
+    <thead>
+    <tr>
+        <th>Districts</th>
+        <th>Malaria</th>
+        <th>AD (Non-
+Cholera)</th>
+        <th>ILI</th>
+        <th>TB</th>
+        <th>ALRI &lt; 5 
+years</th>
+        <th>VH (B, C 
+& D)</th>
+        <th>B. 
+Diarrhea</th>
+        <th>Dog 
+Bite</th>
+        <th>Typhoid</th>
+        <th>AVH 
+(A&E)</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Badin</td>
+        <td>4,080</td>
+        <td>3,299</td>
+        <td>394</td>
+        <td>708</td>
+        <td>489</td>
+        <td>232</td>
+        <td>235</td>
+        <td>64</td>
+        <td>50</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Dadu</td>
+        <td>3,824</td>
+        <td>4,238</td>
+        <td>340</td>
+        <td>468</td>
+        <td>956</td>
+        <td>72</td>
+        <td>480</td>
+        <td>213</td>
+        <td>115</td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td>Ghotki</td>
+        <td>1,398</td>
+        <td>1,475</td>
+        <td>0</td>
+        <td>189</td>
+        <td>339</td>
+        <td>321</td>
+        <td>170</td>
+        <td>204</td>
+        <td>1</td>
+        <td>27</td>
+    </tr>
+    <tr>
+        <td>Hyderabad</td>
+        <td>157</td>
+        <td>981</td>
+        <td>495</td>
+        <td>32</td>
+        <td>6</td>
+        <td>38</td>
+        <td>0</td>
+        <td>0</td>
+        <td>15</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Jacobabad</td>
+        <td>1,167</td>
+        <td>1,050</td>
+        <td>310</td>
+        <td>109</td>
+        <td>491</td>
+        <td>166</td>
+        <td>168</td>
+        <td>118</td>
+        <td>82</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Jamshoro</td>
+        <td>1,792</td>
+        <td>2,934</td>
+        <td>24</td>
+        <td>395</td>
+        <td>152</td>
+        <td>148</td>
+        <td>80</td>
+        <td>15</td>
+        <td>41</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Kamber</td>
+        <td>4,131</td>
+        <td>1,863</td>
+        <td>0</td>
+        <td>940</td>
+        <td>329</td>
+        <td>169</td>
+        <td>185</td>
+        <td>161</td>
+        <td>30</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi Central</td>
+        <td>60</td>
+        <td>1,145</td>
+        <td>820</td>
+        <td>252</td>
+        <td>47</td>
+        <td>70</td>
+        <td>10</td>
+        <td>0</td>
+        <td>49</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Karachi East</td>
+        <td>59</td>
+        <td>505</td>
+        <td>191</td>
+        <td>17</td>
+        <td>10</td>
+        <td>3</td>
+        <td>8</td>
+        <td>9</td>
+        <td>7</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi Keamari</td>
+        <td>4</td>
+        <td>227</td>
+        <td>70</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Karachi Korangi</td>
+        <td>56</td>
+        <td>330</td>
+        <td>45</td>
+        <td>4</td>
+        <td>1</td>
+        <td>2</td>
+        <td>2</td>
+        <td>0</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Karachi Malir</td>
+        <td>288</td>
+        <td>2,059</td>
+        <td>2,713</td>
+        <td>119</td>
+        <td>234</td>
+        <td>74</td>
+        <td>60</td>
+        <td>55</td>
+        <td>34</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Karachi South</td>
+        <td>55</td>
+        <td>113</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>3</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi West</td>
+        <td>177</td>
+        <td>1,296</td>
+        <td>1,885</td>
+        <td>146</td>
+        <td>129</td>
+        <td>113</td>
+        <td>64</td>
+        <td>139</td>
+        <td>49</td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td>Kashmore</td>
+        <td>1,377</td>
+        <td>632</td>
+        <td>408</td>
+        <td>234</td>
+        <td>124</td>
+        <td>23</td>
+        <td>72</td>
+        <td>145</td>
+        <td>4</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Khairpur</td>
+        <td>5,251</td>
+        <td>3,476</td>
+        <td>4,405</td>
+        <td>1013</td>
+        <td>882</td>
+        <td>121</td>
+        <td>628</td>
+        <td>155</td>
+        <td>409</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Larkana</td>
+        <td>6,276</td>
+        <td>2,507</td>
+        <td>0</td>
+        <td>931</td>
+        <td>419</td>
+        <td>104</td>
+        <td>377</td>
+        <td>4</td>
+        <td>21</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Matiari</td>
+        <td>1,501</td>
+        <td>2,112</td>
+        <td>0</td>
+        <td>509</td>
+        <td>289</td>
+        <td>291</td>
+        <td>87</td>
+        <td>31</td>
+        <td>8</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Mirpurkhas</td>
+        <td>3,369</td>
+        <td>2,890</td>
+        <td>2,136</td>
+        <td>644</td>
+        <td>526</td>
+        <td>249</td>
+        <td>93</td>
+        <td>49</td>
+        <td>19</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Naushero Feroze</td>
+        <td>973</td>
+        <td>636</td>
+        <td>695</td>
+        <td>326</td>
+        <td>135</td>
+        <td>60</td>
+        <td>76</td>
+        <td>116</td>
+        <td>54</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sanghar</td>
+        <td>3,839</td>
+        <td>1,565</td>
+        <td>0</td>
+        <td>993</td>
+        <td>384</td>
+        <td>1,276</td>
+        <td>21</td>
+        <td>122</td>
+        <td>32</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Shaheed Benazirabad</td>
+        <td>1,737</td>
+        <td>2,159</td>
+        <td>0</td>
+        <td>405</td>
+        <td>334</td>
+        <td>132</td>
+        <td>82</td>
+        <td>102</td>
+        <td>159</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Shikarpur</td>
+        <td>2,031</td>
+        <td>1,334</td>
+        <td>2</td>
+        <td>222</td>
+        <td>140</td>
+        <td>729</td>
+        <td>158</td>
+        <td>52</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sujawal</td>
+        <td>1,712</td>
+        <td>668</td>
+        <td>0</td>
+        <td>120</td>
+        <td>301</td>
+        <td>81</td>
+        <td>51</td>
+        <td>39</td>
+        <td>1</td>
+        <td>81</td>
+    </tr>
+    <tr>
+        <td>Sukkur</td>
+        <td>1,589</td>
+        <td>1,417</td>
+        <td>1,001</td>
+        <td>275</td>
+        <td>189</td>
+        <td>64</td>
+        <td>154</td>
+        <td>17</td>
+        <td>13</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tando Allahyar</td>
+        <td>1,362</td>
+        <td>2,116</td>
+        <td>671</td>
+        <td>451</td>
+        <td>164</td>
+        <td>128</td>
+        <td>145</td>
+        <td>61</td>
+        <td>8</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Tando Muhammad Khan</td>
+        <td>1,557</td>
+        <td>1,437</td>
+        <td>0</td>
+        <td>319</td>
+        <td>105</td>
+        <td>0</td>
+        <td>76</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tharparkar</td>
+        <td>2,394</td>
+        <td>1,949</td>
+        <td>1,411</td>
+        <td>439</td>
+        <td>861</td>
+        <td>110</td>
+        <td>116</td>
+        <td>0</td>
+        <td>34</td>
+        <td>49</td>
+    </tr>
+    <tr>
+        <td>Thatta</td>
+        <td>2,382</td>
+        <td>1,935</td>
+        <td>2,094</td>
+        <td>32</td>
+        <td>374</td>
+        <td>114</td>
+        <td>110</td>
+        <td>68</td>
+        <td>31</td>
+        <td>411</td>
+    </tr>
+    <tr>
+        <td>Umerkot</td>
+        <td>2,068</td>
+        <td>1,731</td>
+        <td>0</td>
+        <td>413</td>
+        <td>399</td>
+        <td>125</td>
+        <td>53</td>
+        <td>0</td>
+        <td>23</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>56,666</td>
+        <td>50,079</td>
+        <td>20,114</td>
+        <td>10,705</td>
+        <td>8,809</td>
+        <td>5,015</td>
+        <td>3,765</td>
+        <td>1,940</td>
+        <td>1,295</td>
+        <td>655</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+Figure 2: Most frequently reported suspected cases during week 21 Sindh
+
+70,000                                                                 W19    W20    W21
+
+60,000         56,666
+NUMBER OF CASES
+                     50,079
+50,000
+
+40,000
+
+30,000
+                           20,114
+20,000
+                                 10,7…  8,809
+10,000                                       5,015                     3,765    1,940    1,295    655
+
+0
+          Malaria  AD (Non-    ILI    TB  ALRI < 5 years  VH (B, C & D)  B. Diarrhea  Dog Bite  Typhoid  AVH (A & E)
+                   Cholera)
+
+
+
+
+
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+            •     AD (Non-Cholera), ILI, Malaria, B. Diarrhea, ALRI <5 years, SARI, Typhoid, Dengue, AWD (S. Cholera) and TB cases were the most frequently reported
+                  diseases from Balochistan province.
+            •     AD (Non-Cholera) cases are mostly reported from Gwadar, Quetta and Kech (Turbat) while ILI cases are mostly reported from Quetta, Kech (Turbat)
+Balochistan •     and Gwadar.
+                  AD (Non-Cholera), Malaria, ALRI <5 years and Dengue cases showed a decreasing trend while ILI, B. Diarrhea, SARI, Typhoid, AWD (S. Cholera) and
+                  TB cases showed an increasing trend this week.
+            •     Five cases of Brucellosis, two cases of AFP and One suspected case of HIV/ AIDS reported from Balochistan. All are suspected cases and need field
+                  verification.
+
+
+
+    Table 3: District wise distribution of most frequently reported suspected cases during week 21, Balochistan
+
+
+    
+<table>
+    <thead>
+    <tr>
+        <th>Districts</th>
+        <th>AD Non-
+Cholera)</th>
+        <th>ILI</th>
+        <th>Malaria</th>
+        <th>B. 
+Diarrhea</th>
+        <th>ALRI &lt; 5 
+years</th>
+        <th>SARI</th>
+        <th>Typhoid</th>
+        <th>Dengue</th>
+        <th>AWD
+(S.Cholera)</th>
+        <th>TB</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Awaran</td>
+        <td>18</td>
+        <td>21</td>
+        <td>60</td>
+        <td>12</td>
+        <td>3</td>
+        <td>1</td>
+        <td>6</td>
+        <td>0</td>
+        <td>10</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Barkhan</td>
+        <td>83</td>
+        <td>53</td>
+        <td>120</td>
+        <td>11</td>
+        <td>33</td>
+        <td>4</td>
+        <td>62</td>
+        <td>0</td>
+        <td>0</td>
+        <td>19</td>
+    </tr>
+    <tr>
+        <td>Chagai</td>
+        <td>243</td>
+        <td>268</td>
+        <td>64</td>
+        <td>72</td>
+        <td>0</td>
+        <td>0</td>
+        <td>25</td>
+        <td>0</td>
+        <td>10</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Chaman</td>
+        <td>202</td>
+        <td>129</td>
+        <td>47</td>
+        <td>104</td>
+        <td>25</td>
+        <td>27</td>
+        <td>43</td>
+        <td>0</td>
+        <td>33</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Dera Bugti</td>
+        <td>48</td>
+        <td>20</td>
+        <td>81</td>
+        <td>38</td>
+        <td>9</td>
+        <td>8</td>
+        <td>19</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Duki</td>
+        <td>164</td>
+        <td>62</td>
+        <td>21</td>
+        <td>80</td>
+        <td>29</td>
+        <td>19</td>
+        <td>14</td>
+        <td>0</td>
+        <td>10</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Gwadar</td>
+        <td>592</td>
+        <td>977</td>
+        <td>243</td>
+        <td>75</td>
+        <td>0</td>
+        <td>0</td>
+        <td>34</td>
+        <td>207</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Harnai</td>
+        <td>78</td>
+        <td>8</td>
+        <td>77</td>
+        <td>74</td>
+        <td>139</td>
+        <td>0</td>
+        <td>7</td>
+        <td>0</td>
+        <td>12</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Hub</td>
+        <td>405</td>
+        <td>37</td>
+        <td>239</td>
+        <td>52</td>
+        <td>6</td>
+        <td>0</td>
+        <td>5</td>
+        <td>5</td>
+        <td>2</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Jaffarabad</td>
+        <td>208</td>
+        <td>126</td>
+        <td>1114</td>
+        <td>62</td>
+        <td>45</td>
+        <td>37</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>72</td>
+    </tr>
+    <tr>
+        <td>Jhal Magsi</td>
+        <td>340</td>
+        <td>329</td>
+        <td>535</td>
+        <td>8</td>
+        <td>19</td>
+        <td>5</td>
+        <td>10</td>
+        <td>0</td>
+        <td>6</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>Kachhi (Bolan)</td>
+        <td>83</td>
+        <td>22</td>
+        <td>105</td>
+        <td>33</td>
+        <td>12</td>
+        <td>70</td>
+        <td>15</td>
+        <td>0</td>
+        <td>6</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kalat</td>
+        <td>34</td>
+        <td>3</td>
+        <td>24</td>
+        <td>7</td>
+        <td>5</td>
+        <td>2</td>
+        <td>21</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kech (Turbat)</td>
+        <td>531</td>
+        <td>1002</td>
+        <td>890</td>
+        <td>78</td>
+        <td>120</td>
+        <td>122</td>
+        <td>1</td>
+        <td>309</td>
+        <td>2</td>
+        <td>NR</td>
+    </tr>
+    <tr>
+        <td>Kharan</td>
+        <td>188</td>
+        <td>378</td>
+        <td>53</td>
+        <td>63</td>
+        <td>0</td>
+        <td>15</td>
+        <td>4</td>
+        <td>0</td>
+        <td>7</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Khuzdar</td>
+        <td>81</td>
+        <td>115</td>
+        <td>102</td>
+        <td>27</td>
+        <td>1</td>
+        <td>3</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Killa Abdullah</td>
+        <td>146</td>
+        <td>79</td>
+        <td>24</td>
+        <td>77</td>
+        <td>22</td>
+        <td>14</td>
+        <td>25</td>
+        <td>0</td>
+        <td>0</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Killa Saifullah</td>
+        <td>242</td>
+        <td>0</td>
+        <td>177</td>
+        <td>111</td>
+        <td>141</td>
+        <td>8</td>
+        <td>47</td>
+        <td>0</td>
+        <td>6</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kohlu</td>
+        <td>152</td>
+        <td>221</td>
+        <td>99</td>
+        <td>87</td>
+        <td>18</td>
+        <td>56</td>
+        <td>28</td>
+        <td>0</td>
+        <td>27</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Lasbella</td>
+        <td>378</td>
+        <td>74</td>
+        <td>450</td>
+        <td>27</td>
+        <td>90</td>
+        <td>NR</td>
+        <td>9</td>
+        <td>2</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Loralai</td>
+        <td>228</td>
+        <td>291</td>
+        <td>53</td>
+        <td>55</td>
+        <td>33</td>
+        <td>111</td>
+        <td>25</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Mastung</td>
+        <td>209</td>
+        <td>136</td>
+        <td>141</td>
+        <td>45</td>
+        <td>66</td>
+        <td>24</td>
+        <td>11</td>
+        <td>0</td>
+        <td>17</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Naseerabad</td>
+        <td>237</td>
+        <td>27</td>
+        <td>322</td>
+        <td>14</td>
+        <td>16</td>
+        <td>0</td>
+        <td>35</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Nushki</td>
+        <td>229</td>
+        <td>23</td>
+        <td>19</td>
+        <td>59</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Panjgur</td>
+        <td>115</td>
+        <td>82</td>
+        <td>140</td>
+        <td>70</td>
+        <td>115</td>
+        <td>18</td>
+        <td>16</td>
+        <td>0</td>
+        <td>8</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Pishin</td>
+        <td>443</td>
+        <td>397</td>
+        <td>36</td>
+        <td>249</td>
+        <td>51</td>
+        <td>28</td>
+        <td>38</td>
+        <td>0</td>
+        <td>95</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Quetta</td>
+        <td>549</td>
+        <td>1184</td>
+        <td>27</td>
+        <td>99</td>
+        <td>76</td>
+        <td>33</td>
+        <td>70</td>
+        <td>0</td>
+        <td>22</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Sherani</td>
+        <td>29</td>
+        <td>71</td>
+        <td>16</td>
+        <td>13</td>
+        <td>21</td>
+        <td>38</td>
+        <td>15</td>
+        <td>0</td>
+        <td>5</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sibi</td>
+        <td>150</td>
+        <td>305</td>
+        <td>358</td>
+        <td>45</td>
+        <td>110</td>
+        <td>71</td>
+        <td>48</td>
+        <td>0</td>
+        <td>30</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sohbat pur</td>
+        <td>250</td>
+        <td>8</td>
+        <td>691</td>
+        <td>68</td>
+        <td>155</td>
+        <td>18</td>
+        <td>32</td>
+        <td>0</td>
+        <td>4</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Surab</td>
+        <td>52</td>
+        <td>191</td>
+        <td>7</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>51</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Usta Muhammad</td>
+        <td>710</td>
+        <td>94</td>
+        <td>571</td>
+        <td>67</td>
+        <td>85</td>
+        <td>28</td>
+        <td>6</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Washuk</td>
+        <td>122</td>
+        <td>132</td>
+        <td>21</td>
+        <td>48</td>
+        <td>0</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Zhob</td>
+        <td>116</td>
+        <td>183</td>
+        <td>78</td>
+        <td>44</td>
+        <td>222</td>
+        <td>46</td>
+        <td>19</td>
+        <td>0</td>
+        <td>1</td>
+        <td>37</td>
+    </tr>
+    <tr>
+        <td>Ziarat</td>
+        <td>161</td>
+        <td>253</td>
+        <td>99</td>
+        <td>51</td>
+        <td>23</td>
+        <td>18</td>
+        <td>22</td>
+        <td>0</td>
+        <td>24</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>7,816</td>
+        <td>7,336</td>
+        <td>7,131</td>
+        <td>2,028</td>
+        <td>1,693</td>
+        <td>824</td>
+        <td>774</td>
+        <td>523</td>
+        <td>341</td>
+        <td>179</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+    Figure 3: Most frequently reported suspected cases during week 21, Balochistan
+
+    9,000          7,816                                                           W19  W20  W21
+    8,000                   7,336    7,131
+    7,000
+    NUMBER OF CASES
+    6,000
+    5,000
+    4,000
+    3,000                                 2,028    1,693
+    2,000                                               824    774                      523    341
+    1,000                                                                                         179
+    0
+             AD (Non-Cholera)  ILI    Malaria  B. Diarrhea  ALRI < 5 years  SARI    Typhoid  Dengue  AWD (S. Cholera)  TB
+
+
+
+
+    NIE     UK Health     World Health     USAID    safetynet
+            Security
+            Agency        Organization     ' DE
+
+---
+
+          •     Cases of AD (Non-Cholera) were maximum followed by Malaria, ILI, B. Diarrhea, ALRI<5 Years, SARI, Typhoid, dog bite, Measles and TB
+ Khyber         cases.
+          •     AD (Non-Cholera), Malaria, B. Diarrhea and Measles cases showed an increasing trend while ILI, ALRI<5 Years, SARI and TB cases showed
+Pakhtunkhwa     a decreasing trend this week.
+          •     Twenty-eight cases of AFP reported from KP. All are suspected cases and need field verification.
+          •     Seven cases of Brucellosis and Two suspected cases of HIV/ AIDS reported from KP. Field investigation required to verify the cases.
+          •
+
+
+
+    Table 4: District wise distribution of most frequently reported suspected cases during week 21, KP
+    
+<table>
+    <thead>
+    <tr>
+        <th>Districts</th>
+        <th>AD (Non-
+Cholera)</th>
+        <th>Malaria</th>
+        <th>ILI</th>
+        <th>B. Diarrhea</th>
+        <th>ALRI 
+&lt;5 
+Years</th>
+        <th>SARI</th>
+        <th>Typhoid</th>
+        <th>Dog Bite</th>
+        <th>Measles</th>
+        <th>TB</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Abbottabad</td>
+        <td>1,184</td>
+        <td>39</td>
+        <td>96</td>
+        <td>17</td>
+        <td>53</td>
+        <td>32</td>
+        <td>31</td>
+        <td>24</td>
+        <td>14</td>
+        <td>31</td>
+    </tr>
+    <tr>
+        <td>Bajaur</td>
+        <td>685</td>
+        <td>323</td>
+        <td>33</td>
+        <td>51</td>
+        <td>229</td>
+        <td>48</td>
+        <td>2</td>
+        <td>16</td>
+        <td>26</td>
+        <td>25</td>
+    </tr>
+    <tr>
+        <td>Bannu</td>
+        <td>843</td>
+        <td>1,720</td>
+        <td>4</td>
+        <td>25</td>
+        <td>14</td>
+        <td>5</td>
+        <td>76</td>
+        <td>2</td>
+        <td>38</td>
+        <td>29</td>
+    </tr>
+    <tr>
+        <td>Battagram</td>
+        <td>117</td>
+        <td>0</td>
+        <td>144</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Buner</td>
+        <td>639</td>
+        <td>294</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>15</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Charsadda</td>
+        <td>1,758</td>
+        <td>320</td>
+        <td>402</td>
+        <td>248</td>
+        <td>66</td>
+        <td>3</td>
+        <td>66</td>
+        <td>0</td>
+        <td>29</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Chitral Lower</td>
+        <td>272</td>
+        <td>15</td>
+        <td>50</td>
+        <td>21</td>
+        <td>22</td>
+        <td>15</td>
+        <td>12</td>
+        <td>11</td>
+        <td>3</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Chitral Upper</td>
+        <td>152</td>
+        <td>9</td>
+        <td>13</td>
+        <td>6</td>
+        <td>7</td>
+        <td>6</td>
+        <td>17</td>
+        <td>3</td>
+        <td>1</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>D.I. Khan</td>
+        <td>1,853</td>
+        <td>330</td>
+        <td>0</td>
+        <td>25</td>
+        <td>14</td>
+        <td>0</td>
+        <td>0</td>
+        <td>3</td>
+        <td>88</td>
+        <td>40</td>
+    </tr>
+    <tr>
+        <td>Dir Lower</td>
+        <td>1,094</td>
+        <td>202</td>
+        <td>3</td>
+        <td>84</td>
+        <td>97</td>
+        <td>0</td>
+        <td>95</td>
+        <td>13</td>
+        <td>9</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>Dir Upper</td>
+        <td>463</td>
+        <td>14</td>
+        <td>63</td>
+        <td>4</td>
+        <td>8</td>
+        <td>0</td>
+        <td>7</td>
+        <td>0</td>
+        <td>6</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>Haripur</td>
+        <td>1,738</td>
+        <td>30</td>
+        <td>320</td>
+        <td>37</td>
+        <td>79</td>
+        <td>24</td>
+        <td>35</td>
+        <td>13</td>
+        <td>30</td>
+        <td>27</td>
+    </tr>
+    <tr>
+        <td>Karak</td>
+        <td>350</td>
+        <td>212</td>
+        <td>37</td>
+        <td>0</td>
+        <td>17</td>
+        <td>0</td>
+        <td>13</td>
+        <td>42</td>
+        <td>27</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Khyber</td>
+        <td>381</td>
+        <td>178</td>
+        <td>15</td>
+        <td>106</td>
+        <td>30</td>
+        <td>18</td>
+        <td>56</td>
+        <td>36</td>
+        <td>6</td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>Kohat</td>
+        <td>57</td>
+        <td>57</td>
+        <td>22</td>
+        <td>0</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kohistan Lower</td>
+        <td>259</td>
+        <td>3</td>
+        <td>0</td>
+        <td>7</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kohistan Upper</td>
+        <td>733</td>
+        <td>3</td>
+        <td>35</td>
+        <td>12</td>
+        <td>18</td>
+        <td>0</td>
+        <td>20</td>
+        <td>2</td>
+        <td>2</td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td>Kolai Palas</td>
+        <td>62</td>
+        <td>5</td>
+        <td>0</td>
+        <td>16</td>
+        <td>9</td>
+        <td>5</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>L & C Kurram</td>
+        <td>19</td>
+        <td>0</td>
+        <td>57</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Lakki Marwat</td>
+        <td>779</td>
+        <td>215</td>
+        <td>0</td>
+        <td>20</td>
+        <td>2</td>
+        <td>0</td>
+        <td>12</td>
+        <td>28</td>
+        <td>7</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>Malakand</td>
+        <td>909</td>
+        <td>18</td>
+        <td>67</td>
+        <td>62</td>
+        <td>28</td>
+        <td>27</td>
+        <td>10</td>
+        <td>0</td>
+        <td>14</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Mansehra</td>
+        <td>865</td>
+        <td>5</td>
+        <td>514</td>
+        <td>15</td>
+        <td>85</td>
+        <td>41</td>
+        <td>29</td>
+        <td>0</td>
+        <td>9</td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td>Mardan</td>
+        <td>1,386</td>
+        <td>21</td>
+        <td>11</td>
+        <td>26</td>
+        <td>255</td>
+        <td>0</td>
+        <td>0</td>
+        <td>6</td>
+        <td>3</td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>Mohmand</td>
+        <td>272</td>
+        <td>179</td>
+        <td>60</td>
+        <td>56</td>
+        <td>4</td>
+        <td>23</td>
+        <td>6</td>
+        <td>8</td>
+        <td>8</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>NWA</td>
+        <td>3</td>
+        <td>3</td>
+        <td>0</td>
+        <td>7</td>
+        <td>3</td>
+        <td>15</td>
+        <td>1</td>
+        <td>0</td>
+        <td>7</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Nowshera</td>
+        <td>2,808</td>
+        <td>80</td>
+        <td>45</td>
+        <td>54</td>
+        <td>2</td>
+        <td>5</td>
+        <td>27</td>
+        <td>16</td>
+        <td>36</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Orakzai</td>
+        <td>53</td>
+        <td>26</td>
+        <td>10</td>
+        <td>11</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Peshawar</td>
+        <td>4,774</td>
+        <td>87</td>
+        <td>658</td>
+        <td>323</td>
+        <td>86</td>
+        <td>61</td>
+        <td>108</td>
+        <td>0</td>
+        <td>65</td>
+        <td>34</td>
+    </tr>
+    <tr>
+        <td>SD Peshawar</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>SD Tank</td>
+        <td>18</td>
+        <td>37</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Shangla</td>
+        <td>646</td>
+        <td>433</td>
+        <td>0</td>
+        <td>4</td>
+        <td>16</td>
+        <td>0</td>
+        <td>6</td>
+        <td>31</td>
+        <td>3</td>
+        <td>75</td>
+    </tr>
+    <tr>
+        <td>SWA</td>
+        <td>77</td>
+        <td>168</td>
+        <td>187</td>
+        <td>28</td>
+        <td>64</td>
+        <td>148</td>
+        <td>56</td>
+        <td>15</td>
+        <td>4</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Swabi</td>
+        <td>2,091</td>
+        <td>55</td>
+        <td>935</td>
+        <td>40</td>
+        <td>259</td>
+        <td>128</td>
+        <td>21</td>
+        <td>235</td>
+        <td>51</td>
+        <td>59</td>
+    </tr>
+    <tr>
+        <td>Swat</td>
+        <td>2,495</td>
+        <td>49</td>
+        <td>110</td>
+        <td>47</td>
+        <td>20</td>
+        <td>0</td>
+        <td>20</td>
+        <td>95</td>
+        <td>4</td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td>Tank</td>
+        <td>212</td>
+        <td>75</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tor Ghar</td>
+        <td>93</td>
+        <td>150</td>
+        <td>0</td>
+        <td>30</td>
+        <td>7</td>
+        <td>14</td>
+        <td>7</td>
+        <td>10</td>
+        <td>1</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Upper Kurram</td>
+        <td>347</td>
+        <td>30</td>
+        <td>396</td>
+        <td>166</td>
+        <td>8</td>
+        <td>443</td>
+        <td>18</td>
+        <td>11</td>
+        <td>6</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>30,487</td>
+        <td>5,386</td>
+        <td>4,287</td>
+        <td>1,552</td>
+        <td>1,508</td>
+        <td>1,063</td>
+        <td>772</td>
+        <td>622</td>
+        <td>503</td>
+        <td>484</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+    Figure 4: Most frequently reported suspected cases during week 21, KP
+
+                                                                         W19  W20  W21
+    35,000
+                   30,487
+    30,000
+    NUMBER OF CASES
+    25,000
+    20,000
+    15,000
+    10,000
+    5,000                5,386    4,287  1,552    1,508    1,063         772    622    503    484
+    0
+    AD (Non-             Malaria    ILI    B. Diarrhea  ALRI < 5 years  SARI    Typhoid  Dog Bite  Measles    TB
+    Cholera)
+
+
+
+    NID     UK Health     World Health     USAID    safetynet
+            Security
+            Agency        Organization     ' DE
+
+---
+
+   ICT: The most frequently reported cases from Islamabad were ILI followed by AD (Non-Cholera) and B. Diarrhea. ILI showed a
+   decreasing trend while AD (Non-Cholera) and B. Diarrhea showed a slightly increasing trend in cases this week.
+   AJK: AD (Non-Cholera) cases were maximum followed by ILI, ALRI <5 years, SARI, Dog bite, B. Diarrhea, AWD (S. Cholera), TB, Typhoid
+ ICT, AJK & GB and Measles cases. Cases of AD (Non-Cholera), ILI, Dog bite, B. Diarrhea, and Measles showed an increasing trend while ALRI <5 years,
+   AWD (S. Cholera), TB and Typhoid showed a decreasing trend this week. One case of AFP reported from AJK. It is a suspected case
+   and needs field verification.
+   GB: AD (Non-Cholera) cases were the most frequently reported diseases followed by ALRI <5 Years, ILI, SARI, AWD (S. Cholera), B.
+   Diarrhea, TB and Typhoid cases. Increasing trend for AD (Non-Cholera), AWD (S. Cholera), B. Diarrhea and Typhoid cases while
+   decreasing trend for ALRI <5 Years, ILI, SARI and TB cases observed this week. Three suspected cases of AFP reported from GB. They
+   need field verification.
+
+
+
+   Figure 5: Most frequently reported suspected cases during week 21, ICT
+
+   1,200                                                                 W19  W20  W21
+                  972
+   1,000
+   NUMBER OF CASES
+   800
+
+   600                                                                   541
+
+   400
+
+   200
+                                                                                   9
+     0
+                  ILI                                      AD (Non-Cholera)    B. Diarrhea
+
+   Figure 6: Week wise reported suspected cases of ILI, ICT
+
+
+3,000  ILI
+
+2,500
+ NUMBER OF CASES
+2,000
+
+1,500
+
+1,000
+
+500
+
+  0
+ W2
+ W3
+ W4
+ W5
+ W6
+ W7
+ W8
+ W23  W33  W51  W9  W17
+ W24
+ W25
+ W26
+ W27
+ W28
+ W29
+ W30
+ W31
+ W32 W34
+ W35
+ W36
+ W37
+ W38
+ W39
+ W40
+ W41
+ W42
+ W43
+ W44
+ W45
+ W46
+ W47
+ W48
+ W49
+ W50 W52  W10
+ W11
+ W12
+ W13
+ W14
+ W15
+ W16 W18
+ W19
+ W20
+ W22  W1  W21
+
+ 2nd Quarter  3rd Quarter 2023  4TH Quarter 2023  1st Quarter 2024  2nd Quarter 2024
+ 2023
+
+ Figure 7: Most frequently reported suspected cases during week 21, AJK
+
+ W19  W20  W21
+2,500  2,282
+ 2,116
+2,000
+ NUMBER OF CASES
+1,500
+
+ 1,020
+1,000
+
+500
+ 212  109  103  53  46  38  21
+
+  0
+ AD (Non-  ILI  ALRI < 5 years  SARI  Dog Bite  B. Diarrhea  AWD (S.  TB  Typhoid  Measles
+ Cholera)  Cholera)
+
+
+   NIE     UK Health     World Health    USAID    safetynet
+           Security
+           Agency        Organization
+
+---
+
+  Figure 8: Week wise reported suspected cases of ILI and AD (Non-Cholera) AJK
+
+
+ILI  AD (Non-Cholera)
+4,500
+4,000
+3,500
+NUMBER OF CASES
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+0
+W2  W5
+W3
+W4 W6
+W7
+W8
+W22  W24  W49  W9
+W23  W25
+W26
+W27
+W28
+W29
+W30
+W31
+W32
+W33
+W34
+W35
+W36
+W37
+W38
+W39
+W40
+W41
+W42
+W43
+W44
+W45
+W46
+W47
+W48 W50
+W51
+W52  W10
+W11
+W12
+W13
+W14
+W15
+W16
+W17
+W18
+W19
+W20
+W1  W21
+
+2nd Quarter  3rd Quarter 2023  4TH Quarter 2023  1st Quarter 2024  2nd Quarter 2024
+2023
+
+
+Figure 9: Most frequent cases reported during Week 21, GB
+
+W19  W20  W21
+1200  1,074
+
+1000
+NUMBER OF CASES
+800
+
+600  568
+424
+400
+229
+200  145  91  68  45
+
+0
+AD (Non-Cholera)  ALRI < 5 years  ILI  SARI  AWD (S. Cholera)  B. Diarrhea  TB  Typhoid
+
+Figure 10: Week wise reported suspected cases of ALRI, GB
+
+AD (Non-Cholera)
+1400
+1200
+1000
+NUMBER OF CASES
+800
+600
+400
+200
+0
+W2
+W3
+W4
+W5
+W6
+W7
+W8
+W23  W38  W9 W11
+W24
+W25
+W26
+W27
+W28
+W29
+W30
+W31
+W32
+W33
+W34
+W35
+W36
+W37 W39
+W40
+W41
+W42
+W43
+W44
+W45
+W46
+W47
+W48
+W49
+W50
+W51
+W52  W10 W12
+W13
+W14
+W15
+W16
+W17
+W18
+W19
+W20
+W22  W1  W21
+
+2nd Quarter  3rd Quarter 2023  4TH Quarter 2023  1st Quarter 2024  2nd Quarter 2024
+2023
+
+
+
+
+  NIE     UK Health    World Health     USAID    safetynet
+          Security
+          Agency       Organization     I
+
+---
+
+  Punjab
+    •     AD (Non-Cholera) cases were maximum followed by TB, dog bite, Malaria, AWD (S. Cholera), Typhoid, B. Diarrhea, ALRI<5 Years and Dengue cases.
+    •     AD (Non-Cholera), TB, dog bite, Malaria, Typhoid, B. Diarrhea, ALRI<5 Years and Dengue cases showed a decreasing trend this week.
+    •     Four cases of AFP reported from Punjab. All are suspected cases and need field verification.
+    •     Fifteen suspected cases of HIV/ AIDS and Two suspected cases of CCHF reported from Punjab. Field investigation required to verify the cases.
+
+
+
+    Figure 11: Most frequently reported suspected cases during week 21, Punjab.
+
+                                                                               W19  W20  W21
+    140,000        126,513
+
+    120,000
+
+    100,000
+    NUMBER OF CASES
+
+     80,000
+
+     60,000
+
+     40,000
+
+     20,000               9,734    5,587    3,194    3,081    2,166            1,793    821    757
+
+     0
+     AD (Non-             TB       Dog Bite    Malaria    AWD (S.  Typhoid     B. Diarrhea  ALRI < 5 years  Dengue
+     Cholera)                                             Cholera)
+
+
+
+  Table 5: Public Health Laboratories confirmed cases of IDSR Priority Diseases during Epid Week 21
+
+  Sindh  Balochistan  KPK  ISL  GB
+
+  Diseases
+  Total  Total  Total  Total  Total  Total  Total  Total  Total  Total
+  Test  Positive  Test  Positive  Test  Positive  Test  Positive  Test  Positive
+
+AWD (S. Cholera)   3  0  -  -  4  0  -  -  -  -
+AD (Non-Cholera)  71  1  -  -  -  -  -  -  -  -
+  Malaria      3,205 172 -  -  -  -  -  -  -  -
+  CCHF             -  -  3  0  1  0  2  0  -  -
+  Dengue         778 13  -  -  1  0  7  0  -  -
+  VH (B)       3,404 90  0  0  -  -  -  - 221 10
+  VH (C)       3,475 308 0  0  -  -  -  - 164 1
+  VH (A&E)         -  -  -  -  4  1  -  -  -  -
+   Covid- 19       -  - 22  0  -  - 13  0 350 0
+  HIV            105  0  -  -  -  -  -  -  -  -
+  Diphtheria       -  -  -  -  1  1  -  -  -  -
+  Influenza A      0  0  0  0  0  0 14  0  0  0
+  TB              65  0  -  -  -  -  -  -  -  -
+  Syphilis        82  0  -  -  -  -  -  -  -  -
+   Pertussis  -  -  -  -  -  -  -  -  -  -
+  Typhoid  -  -  -  -  -  -  -  -  -  -
+  Mumps  -  -  -  -  -  -  0  0  -  -
+  Measles  -  -  -  -  -  -  -  -  -  -
+  Chikungunya  -  -  -  -  -  -  2  0  -  -
+
+
+
+
+
+    NIE     UK Health    World Health    USAID    safetynet
+            Security
+            Agency       Organization
+
+---
+
+IDSR Reports Compliance
+  •  Out OF 158 IDSR implemented districts, compliance is low from KPK. Green color showing >50% compliance while red color is <50% compliance
+
+
+
+  Table 6: IDSR reporting districts Week 21, 2024
+
+
+Provinces/Regions  Districts  Total Number of  Number of Reported   Compliance Rate (%)
+Reporting Sites  Sites for current week
+
+Abbottabad             111 104 94%
+Bannu                  234 124 53%
+Battagram               63 15  24%
+Buner                   34 29  85%
+Bajaur                  44 26  59%
+Charsadda               59 53  90%
+Chitral Upper           34 28  82%
+Chitral Lower           35 35 100%
+D.I. Khan              114 108 95%
+Dir Lower               74 73  99%
+Dir Upper               53 40  75%
+Hangu                   22  0   0%
+Haripur                 72 66  92%
+Karak                   35 35 100%
+Khyber                  64 17  27%
+Kohat                   61 61 100%
+Kohistan Lower          11 11 100%
+Kohistan Upper          20 20 100%
+Kolai Palas             10 10 100%
+Lakki Marwat            70 70 100%
+Lower & Central Kurram  40  3   8%
+Khyber  Upper Kurram    42 25  60%
+Pakhtunkhwa  Malakand   42 34  81%
+Mansehra               136 98  72%
+Mardan                  80 75  94%
+Nowshera                55 55 100%
+North Waziristan       380  1   0%
+Peshawar               151 127 84%
+Shangla                 65 14  22%
+Swabi                   63 62  98%
+Swat                    77 74  96%
+South Waziristan       134 54  40%
+Tank                    34 31  91%
+Torghar                 14 14 100%
+Mohmand                 86 40  47%
+SD Peshawar              5  1  20%
+SD Tank                 58  4   7%
+Orakzai                 68 19  28%
+Mirpur                  37 36  97%
+Bhimber                 20 20 100%
+Kotli                   60 60 100%
+Muzaffarabad            45 45 100%
+Poonch                  46 46 100%
+Haveli                  39 39 100%
+
+
+  NE     UK Health     World Health     USAID    safetynet
+         Security
+         Agency        Organization     u
+
+---
+
+Azad Jammu            Bagh                40    40    100%
+Kashmir               Neelum              39    38     97%
+                      Jhelum Vellay       29    22     76%
+                      Sudhnooti           27    27    100%
+Islamabad Capital     ICT                 21    21    100%
+Territory             CDA                 14     9     64%
+
+                      Gwadar              25    25    100%
+                      Kech                40    33     83%
+                      Khuzdar             20    18     90%
+                      Killa Abdullah      18    14     78%
+                      Lasbella            55    55    100%
+                      Pishin              48    35     73%
+                      Quetta              43    28     65%
+                      Sibi                36    36    100%
+                      Zhob                39    26     67%
+                      Jaffarabad          16    16    100%
+                      Naserabad           32    32    100%
+                      Kharan              30    30    100%
+                      Sherani             15    14     93%
+                      Kohlu               75    33     44%
+                      Chagi               35    25     71%
+                      Kalat               41    40     98%
+                      Harnai              17    17    100%
+Balochistan           Kachhi (Bolan)      35    35    100%
+                      Jhal Magsi          26    26    100%
+                      Sohbat pur          25    25    100%
+                      Surab               32    32    100%
+                      Mastung             45    45    100%
+                      Loralai             33    24     73%
+                      Killa Saifullah     28    27     96%
+                      Ziarat              29    22     76%
+                      Duki                31    31    100%
+                      Nushki              32    29     91%
+                      Dera Bugti          45    16     36%
+                      Washuk              46    13     28%
+                      Panjgur             38    19     50%
+                      Awaran              23    14     61%
+                      Chaman              25    23     92%
+                      Barkhan             20    20    100%
+                      Hub                 33    32     97%
+                      Musakhel            41    12     29%
+                      Usta Muhammad       34    34    100%
+                      Hunza               32    30     94%
+                      Nagar               20    20    100%
+                      Ghizer              40    40    100%
+Gilgit Baltistan      Gilgit              40    39     98%
+                      Diamer              62    62    100%
+                      Astore              54    54    100%
+
+
+
+NE     UK Health     World Health    USAID    safetynet
+       Security                      m
+       Agency        Organization
+
+---
+
+          Shigar                  27     27     100%
+          Skardu                  52     52     100%
+          Ganche                  29     29     100%
+          Kharmang                18     18     100%
+          Hyderabad               73     37      51%
+          Ghotki                  64     64     100%
+          Umerkot                 43     43     100%
+          Naushahro Feroze       107     62      58%
+          Tharparkar             282    242      86%
+          Shikarpur               60     60     100%
+          Thatta                  52     52     100%
+          Larkana                 67     66      99%
+          Kamber Shadadkot        71     71     100%
+          Karachi-East            23     19      83%
+          Karachi-West            20     20     100%
+          Karachi-Malir           37     37     100%
+          Karachi-Kemari          18      6      33%
+          Karachi-Central         11      7      64%
+          Karachi-Korangi         18     13      72%
+          Karachi-South            4      4     100%
+          Sujawal                 54     54     100%
+          Mirpur Khas            106     99      93%
+          Badin                  124    120      97%
+Sindh     Sukkur                  63     63     100%
+          Dadu                    90     88      98%
+          Sanghar                100    100     100%
+          Jacobabad               44     43      98%
+          Khairpur               169    164      97%
+          Kashmore                59     59     100%
+          Matiari                 42     42     100%
+          Jamshoro                68     68     100%
+          Tando Allahyar          54     54     100%
+          Tando Muhammad Khan     40     40     100%
+          Shaheed Benazirabad    122    122     100%
+
+
+*********************
+
+
+
+
+
+
+
+
+
+
+NID     UK Health     World Health    USAID    safetynet
+        Security
+        Agency        Organization
+
+---
+
+<u>Public Health Events and Surveillance Reports</u>
+<u>PHB -Pakistan</u>
+
+
+
+
+
+
+
+   Polio Resurgence: Renewed                                         A note
+                                                                                     from Field Activities.
+   Vigilance and Collaboration
+   Needed                                                            <u>Scabies Outbreak Investigation in UC Gujar </u>
+                                                                     <u>Garhi, District Mardan, Khyber </u>
+               A serious setback in Pakistan's fight against         <u>Pakhtunkhwa, April – May, 2024</u>
+   polio has emerged with the confirmation of a new                  Dr. Sadia Liaqat,
+   case of wild poliovirus type 1 (WPV1) in Shikarpur                <u>Fellow FETP Frontline 20</u>th<u>Cohort </u>
+   district,   Sindh      province.   This           unfortunate     Dr. Muhammad Mussadiq
+   development marks the fourth polio case reported in               <u>Fellow FETP Frontline20th Cohort</u>
+   the country this year, raising concerns about the                 Dr. Majid Salim
+   continued vulnerability of children to this crippling             Technical Support Officer, DGHS, KP
+   disease.
+
+               The  affected  child,  a  2.5-year-old       from     <u>Introduction</u>
+   Birkhan UC, Shikarpur, experienced paralysis on May                          Millions worldwide suffer from scabies, a
+   11th, highlighting the devastating and irreversible               contagious skin condition caused by the tiny mite
+   impact of polio. Genetic sequencing of the virus                  Sarcoptes scabiei, var. hominis, the human itch mite.
+   isolated from the child's stool samples revealed a                This  highly     contagious      condition     is  particularly
+   connection to the imported YB3A cluster. This strain,             prevalent in hot, densely populated areas and low-
+   eradicated from Pakistan in mid-2021, remains active              income settings. While scabies can lead to serious
+   in Afghanistan, suggesting cross-border transmission              complications if left untreated, prompt management
+   as the likely source of reintroduction.                           can effectively control its spread.
+
+                         The government has swiftly responded by     <u>Background</u>
+   deploying teams from the National and Provincial
+   Polio Emergency Operations Centres to conduct a                              District Mardan, Pakistan, with a population
+   thorough investigation into this case. Additionally, a            exceeding 2.7 million, has historically experienced
+   large-scale vaccination campaign is being launched                scabies outbreaks. This report investigates a recent
+   across 66 districts, commencing on June 3rd. This                 scabies outbreak in UC Gujar Garhi, Mardan, which
+   initiative aims to vaccinate over 16.5 million children           began in the 20th epidemiological week with 80
+   and bolster their immunity against poliovirus.                    reported cases. The outbreak escalated to 101 cases
+
+                  This latest case serves as a stark reminder of     by  May    26th,   prompting     the           formation  of  a
+   the  importance of sustained vaccination             efforts,     multidisciplinary team to investigate its cause, extent,
+   particularly     targeting   underprivileged              and     and implement control measures.
+   malnourished children who are more susceptible to                 <u>Objectives</u>
+   the virus due to weak immune systems. The Pakistan
+   Polio Programme urges all segments of society,                        1.     To Assess the magnitude and severity of the
+   including parents, religious leaders, teachers, and                          scabies outbreak in UC Gujar Garhi.
+   community elders, to play a vital role in ensuring
+   complete vaccination coverage for all children under                  2.     To Implement effective control measures to
+   five years of age.                                                           manage the outbreak.
+                                                                         3.     To    Develop       strategies      for   long-term
+                   By working together, Pakistan can effectively                prevention of future outbreaks.
+   combat this debilitating disease and safeguard the
+   health of its future generations.
+
+
+
+   NIE     UK Health    World Health    USAID    safetynet
+           Security
+           Agency       Organization
+
+---
+
+Methodology                                                             practices and overcrowded living conditions emerged
+                                                                        as  potential    contributing  factors.  Additionally,  a
+                   This cross-sectional, descriptive study aimed to     scarcity of medication hampered timely treatment
+assess scabies outbreak among residents of UC Gujar                     and control efforts and lack of community awareness
+Garhi,  Tehsil      Mardan,        Pakistan.   Data  collection         regarding    scabies    transmission  and      prevention
+occurred between April 26th and May 26th, 2024. A                       measures allowed the outbreak to flourish.
+multifaceted        approach       was  employed,         utilizing
+interviews     with  both          confirmed   and        suspected     <u>Public Health Response </u>
+scabies cases to gain insights into their experiences
+and     perspectives.         Additionally,           self-designed                 A robust response strategy was implemented to
+questionnaires collected key demographic and health                     control the outbreak:
+information from participants. Medical records from                         •      Case Identification and Isolation:      Prompt
+healthcare facilities were reviewed to supplement
+clinical data. Line listings facilitated the identification                        identification and isolation of individuals
+and recruitment of participants within the study area.                             with scabies symptoms prevented further
+While clinical diagnosis served as the primary method                              transmission.
+for scabies identification, this study acknowledges the                     •      Contact Tracing: Meticulous contact tracing
+limitation of not incorporating confirmatory biopsies.                             identified and examined close contacts of
+Data analysis was performed using Microsoft Excel for                              confirmed cases for early detection and
+efficient organization and summarization.                                          treatment.
+Case Definitions                                                            •      Treatment    Provision: Essential    scabicide
+ •             Suspected Case: Individuals residing in UC                          medications     were  administered  to     all
+               Gujar Garhi exhibiting symptoms like a rash                         confirmed    cases  and  their  contacts    to
+               or lesions with intense nocturnal itching,                          eradicate the scabies mite.
+               typically affecting specific body areas (finger              •      Environmental       Sanitation:      Extensive
+               webs, wrists, elbows, etc.).                                        cleaning,  fumigation, and disinfection     of
+ •             Confirmed Case: Individuals diagnosed with                          living spaces were undertaken to eliminate
+               scabies based on clinical presentation or skin                      the mites from the environment. Emphasis
+               scraping biopsy.                                                    was placed on personal hygiene and proper
+ •             Alert Threshold: Twice the average number                           laundering      techniques    to       prevent
+               of scabies cases reported over the preceding                        infestation.
+
+ •             three weeks for a particular location.                   <u>Conclusion</u>
+               Outbreak  Threshold:     A      cluster  of    cases
+               exceeding the alert threshold in a single                           The scabies outbreak investigation in UC
+               location, indicating a significant increase in           Gujar Garhi District identified 101 cases with a higher
+
+<u>Results</u> scabies incidence.                                       attack rate in females. The investigation revealed
+                                                                        person-to-person      transmission      within  localized
+               The outbreak investigation identified 101                clusters,    highlighting  the  importance  of    hygiene
+scabies cases among a population of 49,571 in UC                        practices and adequate living conditions in outbreak
+Gujar Garhi District. The affected individuals ranged                   control. Additionally, a scarcity of medication and a
+widely in age, from 1 to 80 years old, with a median                    lack     of  community     awareness     about   scabies
+age of 28 years. Children aged 0-9 (n=20) and adults                    transmission     and prevention    contributed   to   the
+aged 30-39 (n=17) were particularly impacted. With                      outbreak's spread.
+13 males and 80 females affected (1:6), the attack rate                 <u>Recommendations:</u>
+was significantly higher for females (3.1 per 100,000)
+compared to males (0.5 per 100,000), Consistent                                      To prevent future outbreaks, a multi-pronged
+symptomatology, characterized by rashes and lesions,                    approach is recommended:
+was observed in all cases.                                                  1.     Community       Engagement:   Foster    active
+
+               The  investigation    also  revealed       localized                participation through meetings with local
+clusters       of infection,            suggesting person-to-person                leaders    and  health    committees.     This
+transmission        within    these  areas.    Poor         hygiene                collaborative        approach         enhances
+                                                                                   intervention effectiveness and sustainability.
+
+
+C     UK Health    World Health    USAID    safetynet
+      Security
+      Agency       Organization
+
+---
+
+    2.     Targeted       Interventions:  Identify            and     additives.  These  can irritate  the  lungs,     damage
+           prioritize          high -risk             populations     delicate tissues, and potentially contribute to a range
+           (overcrowded        housing,       migrant    workers,     of health problems. The long-term consequences of
+           limited   healthcare     access)   and         deliver     inhaling these unknown substances remain largely
+           tailored outreach and support services.                    unclear, posing a significant threat to public health.
+    3.     School-Based Prevention: Integrate scabies
+           prevention and hygiene practices into the                          This          commentary delves deeper into the
+           school curriculum to instil lifelong habits of             alarming rise of youth vaping in Pakistan, exploring
+           cleanliness and empower children as agents                 the  growing  prevalence  of  this  practice  among
+           of change.                                                 adolescents, the concerning health risks associated
+    4.     Digital Health Tools: Leverage mobile apps                 with  it,   and  the  factors  that  contribute  to its
+           or                 SMS platforms to disseminate health     popularity.   By         understanding the scope of the
+           education,     facilitate   consultations,         and     problem, we can then propose solutions to mitigate
+           monitor treatment adherence, particularly in               this growing public health crisis and safeguard the
+           remote areas.
+    5.     Robust    Surveillance:     Implement           robust     health of Pakistan's future generation.
+           systems to monitor trends, track outbreaks,                <u>Vaping's Grip on Pakistani Youth</u>
+           and identify emerging hotspots for timely
+           interventions and resource allocation.                                 The global e-cigarette and vape market are
+    6.     Healthcare     Provider     Training: Invest        in     experiencing tremendous growth, with a projected
+           training for healthcare providers at all levels            compound annual growth rate of 30.6% from 2023 to
+           to  improve diagnosis,                 management, and     2030².  This     boom  extends   to  Southeast    Asian
+           adherence      to   standardized             treatment     countries, including Pakistan, which is emerging as a
+           protocols.
+                                                                      major vaping business hub. According to estimates,
+Commentary.                                                           revenue from e-cigarettes in Pakistan is expected to
+                                                                      reach $77.2 million by 2024, reflecting a growth rate
+                                                                      of 1.39% ³.
+<u>Alarming Rise of Vaping in Pakistan: A </u>
+<u>Public Health Crisis</u>                                                       A troubling lack of awareness regarding the
+                                                                      contents and health risks of vaping devices is further
+Dr. Waqar Ahmed                                                       amplifying this   concerning   trend.  A  2017 cross-
+SafetyNet, NIH                                                        sectional study conducted by medical students in
+Islamabad                                                             Karachi revealed that many participants were using
+<u>The Deceptive Allure of Vaping: A Growing </u>                     these   devices   without  fully  understanding     the
+<u>Threat to Pakistani Youth</u>                                      potential consequences ⁴. This highlights the urgent
+                                                                      need   for  educational  campaigns     to  bridge   the
+           In 2003, electronic cigarettes, or vapes, burst            knowledge gap and discourage youth from vaping.
+onto  the    scene  with       a  promise     of      revolution.                 Beyond the lack of awareness, the appeal of
+Marketed     as   a safer      alternative    to      traditional     flavored e-liquids further exacerbates the issue. The
+cigarettes, these battery-powered devices offered a                   wide variety of flavors, often mimicking fruits and
+seemingly cleaner way to deliver nicotine – a highly                  candy,  makes     vaping   particularly  attractive  to
+addictive stimulant found in tobacco¹. Users inhaled                  adolescents. However, recent research paints a grim
+a flavored vapor instead of smoke, creating an illusion               picture of the potential dangers lurking within these
+of  reduced      harm.    However,            this  initial  hype     seemingly harmless flavors 5.
+surrounding vaping's safety has been rapidly eroded
+by a growing body of scientific evidence.                                           Studies have shown that the chemicals and
+                                                                      additives present in e-liquids can have a multitude of
+           Mounting research now paints a concerning                  detrimental effects on the body. These substances
+picture. Far from being a harmless alternative, vaping                can damage the body's cells at a fundamental level,
+exposes users to a complex cocktail of chemicals and                  reduce antioxidant defenses        that protect against
+
+
+NIL     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+cellular damage, and contribute to a range of health                 deceptive  allure     of   flavoured  liquids   further
+problems⁵.    This   includes     increased      risk         of     compounds the problem.     These         pleasant-tasting
+cardiovascular  diseases,      respiratory  issues      like         options mask the harmful chemicals within, making
+chronic obstructive pulmonary disease (COPD), and                    vaping seem less hazardous and more appealing to
+even oral health complications such as gum disease                   young people ⁸.
+and oral cancer 5.
+                                                                                      Fortunately, Pakistan can learn from the
+                         The potential long-term consequences of     proactive measures taken by other nations. Countries
+vaping, particularly for adolescents whose bodies are                like India and China have recognized the potential
+still developing, remain a cause for serious concern.                dangers of vaping and implemented decisive actions.
+With continued research, a clearer picture of these                  India has taken a particularly strong stance with a
+effects is likely to emerge. However, the current body               complete ban on electronic smoking in 2019⁹. In
+of evidence necessitates immediate action to curb                    China, e-cigarettes existed in a regulatory grey area
+the rising trend of youth vaping in Pakistan.                        before 2018, followed by a stepwise tightening:
+<u>A Gateway to Further Risk?</u>                                    minimum age sales ban (2018), online sales ban
+                                                                     (2019), classification as tobacco products (2021), and
+                       Studies suggest a concerning link between     a nationwide flavored          e-cigarette ban in October
+baseline    e-cigarette  use   and the resurgence             of     2022.¹⁰         Some Asian countries/territories, such as
+marijuana consumption among individuals with a                       Singapore, Thailand and Hong Kong SAR, have banned
+history of marijuana use⁶. This phenomenon, known                    the  sale  of  e-cigarettes  of  any  flavour.11    These
+as the "gateway effect," suggests that e-cigarette use               examples serve as a blueprint for Pakistan to emulate
+may act as a stepping stone for individuals to                       in its fight against the growing threat of youth vap ing.
+transition                  back to more harmful substances like     <u>Combating the Vaping Epidemic</u>
+marijuana.    This  highlights   the  critical  need         for
+comprehensive       regulations   on  vaping           products.     A multi-pronged approach is crucial to address the
+These regulations should not only address the health                 concerning rise of youth vaping in Pakistan. Here's a
+risks associated with vaping itself but also consider                breakdown of key areas for intervention:
+the potential for it to act as a gateway to more                     Government Regulations and Policies:
+addictive and dangerous drugs.                                            •     Public   Awareness    Campaigns:        Launch
+                                                                                targeted   public   awareness        campaigns
+<u>Pakistan at a Crossroads: Vaping and the </u>                                utilizing various media channels (television,
+<u>Shadow of Cigarettes</u>                                                     radio, social media) to educate the public,
+                                                                                particularly youth, about the health risks
+                Pakistan stands at a critical juncture, facing a                associated with vaping 12. These campaigns
+situation eerily reminiscent of the past widespread                             can leverage testimonials from former vape
+acceptance of cigarettes. Decades ago, the dangers                              users and healthcare professionals to create
+of smoking were not fully understood, leading to a                              a compelling narrative.
+public  health  crisis   that            continues to this day⁷.          •     Vaping         Restrictions:         Implement
+Similarly,                the long-term health effects of vaping                comprehensive     restrictions   on    vaping,
+remain unclear. However, unlike cigarettes, there is                            including a ban on the sale and marketing of
+still an opportunity to act decisively before a full-                           flavored   e-liquids,  which  are particularly
+                                                                                attractive to young people¹³. Additionally,
+blown vaping epidemic takes hold in Pakistan.                                   consider restricting vaping in public places
+
+                  The lack of restrictions on vaping in Pakistan                such as restaurants, parks, and workplaces,
+is   particularly   concerning.   Unlike    many           other                aligning with existing smoke-free air laws¹⁴.
+countries, e-cigarettes are readily available, with no                    •     Taxation and Pricing Strategies:      Increase
+limitations   on    use,  advertisement,              promotion,                taxes         on vaping products to deter use,
+sponsorship,   or   even  packaging⁸.  This      free       rein                particularly    among ₁₅       price-sensitive
+                                                                                demographics like youth    . This strategy can
+creates a perfect storm, making vaping devices all the                          generate   revenue that    can be     directed
+more enticing to a vulnerable youth population. The
+
+
+NIE     UK Health     World Health    USAID    safetynet
+        Security
+        Agency        Organization
+
+---
+
+        towards       public   health   initiatives          and             Revenue           Expectation,       Research           Report
+        research on vaping's long-term effects.                              2030     <u>https://www.linkedin.com/pulse/e-cigarettes-</u>
+Individual and Community Action:                                     3.      <u>market-share-size- insights- 2023- latest- trend/</u>(2023).
+                                                                             E- Cigarettes-
+ •      Social        Media Campaigns:             Encourage and             Pakistan     <u>https://www.statista.com/outlook/cmo/tobac</u>
+        support social media campaigns led by youth                          <u>co- products/e- cigarettes/pakistan</u>
+        groups,       health     organizations,       and            4.      Shaikh A, Ansari HT, Ahmad Z et al. Knowledge and
+        influencers to raise awareness about the                             Attitude of Teenagers Towards Electronic Cigarettes in
+                                                                             Karachi, Pakistan. Cureus 9(7), 8–11 (2017).
+        dangers of vaping and promote a healthy                      5.      Ebersole J, Samburova V, Son Y et al. Harmful chemicals
+        lifestyle¹⁶.  These    campaigns  can            utilize             emitted      from  electronic    cigarettes   and       potential
+        creative content and interactive elements to                         deleterious effects in the oral cavity (Vol. 18). Tobacco
+        engage a younger audience.                                           Induced          Diseases,  International     Society   for    the
+                                                                             Prevention of Tobacco Induced Diseases (USA) (2020).
+ •      Healthcare    Professional      Education            and     6.      Wong SW, Lohrmann DK, Middlestadt SE, Lin HC. Is E-
+        Intervention:      Integrate    vaping         cessation             cigarette use a gateway to marijuana use? Longitudinal
+        counselling        into   routine                medical             examinations of initiation, reinitiation, and persistence
+                                                                             of       e- cigarette  and  marijuana         use. Drug    Alcohol
+        consultations. Train healthcare professionals                        Depend. 208, 107868 (2020).
+        to identify signs of vaping use, discuss the                 7.      Cummings KM, Brown A, O'Connor R. The cigarette
+        associated health risks, and offer support                           controversy. Cancer Epidemiol. Biomark. Preven. 16(6),
+        and resources to those seeking to quit¹⁷.                            1070–1076 (2007).
+ •      School-Based           Programs:               Implement     8.      Campaign for Tobacco-Free Kids. Pakistan Tobacco
+                                                                             control                                                       laws
+        educational        programs  within  the  school                     <u>https://www.tobaccocontrollaws.org/legislation/pakist</u>
+        curriculum to educate students about the                             <u>an</u>
+        dangers of vaping and equip them with                        9.      Chakma JK, Kumar H, Bhargava S, Khanna T. The e-
+        refusal skills to resist peer pressure¹⁸. These                      cigarettes ban in India: an important public health
+                                                                             decision. Lancet Public Health 5(8), e426 (2020).
+        programs can also promote healthy lifestyle                  10.     Weng X, et al. Tob Control 2024;0:1–7. doi:10.1136/tc-
+        choices and encourage physical activity.                             2023-058312
+Research and Knowledge Building:                                     11.     Van der Eijk Y, Tan Ping Ping G, Ong SE, et al. E- cigarette
+ •      Longitudinal Studies:               Conduct longitudinal             markets and policy responses in Southeast Asia: a
+                                                                             scoping          review.    Int   J   Health   Policy    Manag
+        studies specifically focused on the Pakistani                        2022;11:1616–24.
+        population to understand the long-term                       12.     Urgent action needed to protect children and prevent
+        health        consequences   of  vaping   in        this             the                    uptake                  of              e-
+                                                                             cigarettes       <u>https://www.who.int/news/item/14-12-</u>
+        particular demographic. This research can                            <u>2023-urgent-action- needed- to- protect- children- and-</u>
+        inform future policy decisions and public                            <u>prevent- the- uptake- of- e- cigarettes</u>
+        health interventions.                                        13.     Centers for Disease Control and Prevention. Youth E-
+ •      Collaboration      and    Knowledge      Sharing:                    cigarette        Use.  Centers    for  Disease        Control  and
+                                                                             Prevention.        <u>https://www.cdc.gov/tobacco/tobacco-</u>
+        Foster        international  collaboration          with             <u>features/back- to- school.html</u>
+        countries like India and China, which have                   14.     World Health Organization. E- cigarettes. World Health
+        implemented successful vaping bans and                               Organization.                     <u>https://www.who.int/news-</u>
+        regulations, to learn from their experiences                         <u>room/questions-and-answers/item/tobacco-e-</u>
+                                                                             <u>cigarettes</u>
+        and adapt best practices for the Pakistani                   15.     Wagstaff, K., & Chaloupka, F. J. (2000). The impact of
+        context.                                                             cigarette taxes on                  smoking. The Future of Tobacco
+                By implementing these comprehensive measures and             Control,                                                  261-282.
+            fostering a collaborative effort between government,     16.     <u>https://pubmed.ncbi.nlm.nih.gov/22345242/</u>
+                                                                             American Lung Association. Social Media Advocacy
+healthcare professionals,      educational   institutions,                   Toolkit.    <u>https://www.lung.org/media</u>
+and the general public, Pakistan can effectively curb                17.     Campaign for Tobacco-Free Kids. Smokefree Air Laws.
+            the rise of youth vaping and safeguard the health of             <u>https://www.tobaccofreekids.org/</u>
+                                                                     18.     Centers for Disease Control and Prevention. Tips from
+its future generations.                                                      Former Smokers. Centers for Disease Control and
+                                                                             Prevention.
+<u>References:</u>                                                           <u>https://www.cdc.gov/tobacco/campaign/tips/index.ht</u>
+                                                                             <u>ml</u>
+ 1.     Dinardo P, Rome ES. Vaping: the new wave of nicotine
+        addiction. Cleve. Clin. J. Med. 86(12), 789–798 (2019).
+ 2.     Zion Market Research. E- Cigarettes Market Share, Size,
+        Insights,     Latest Trend Analysis, Progression Status,
+
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+Abstarct.                                                         building for personnel, and conducting regular system
+                                                                  evaluations to ensure continuous improvement.
+<u>COVID-19 Surveillance System Evaluation </u>                   Keywords:       COVID-19,   Surveillance   System,
+<u>of District Peshawar, Khyber Pakhtunkhwa, </u>
+<u>Pakistan, 2022</u>                                             Evaluation, Public Health, District Peshawar, SARS-
+                                                                  CoV-2,         Pandemic   Response,   Data   Quality,
+Dr. Saima Tahir                     Dr. Majid Salim               Epidemiological Patterns
+Fellow 14th cohort FELTP.           TSO, KPK                      Knowledge Hub
+
+<u>Background:</u>       Robust  surveillance  systems  are
+critical for monitoring and responding to public health           <u>Unveiling the Shadow Lurking Behind the </u>
+emergencies.     This    study         evaluates the COVID-19     <u>Smoke: </u>  <u>The </u> <u>Devastating </u> <u>Impact </u>     <u>of </u>
+surveillance system in District Peshawar, Pakistan,               <u>Smoking</u>
+within the context of the global pandemic caused by                                      Cigarettes, once cloaked in a veil of enticing
+SARS-CoV-2.                                                       flavors and social acceptance, conceal a far grimmer
+<u>Methods:</u> A descriptive study was conducted in              reality. Smoking is a highly addictive and destructive
+District Peshawar from November to December 2022.                 habit that inflicts a heavy burden on health, silently
+The evaluation employed the Centre for Disease                    wreaking havoc on nearly every organ in body. This
+Control and Prevention (CDC) guidelines, assessing                article delves into the dark side of smoking, unveiling
+the    system's    attributes    against  criteria  such   as     the devastating diseases it can cause and urging you
+                                                                  to consider a smoke-free future, a future brimming
+simplicity, flexibility, representativeness, timeliness,          with health and vitality.
+data   quality,    acceptability,   sensitivity,     positive
+predictive value, and stability.                                  <u>A Catalogue of Cancers: A Grim Toll</u>
+<u>Results:</u> The      evaluation  revealed  strengths   in                              Smoking stands as the leading culprit behind
+several key areas. The system achieved high scores for            preventable cancer deaths worldwide. The insidious
+representativeness (86%), ensuring capture of data                carcinogens (cancer-causing agents) harbored within
+from   diverse     populations.      Timeliness  (78%)    and     tobacco                          smoke wreak havoc on DNA, triggering
+sensitivity (99.972%) were also noteworthy, reflecting            uncontrolled cell growth and the formation of tumors.
+                                                                  While the lungs bear the brunt of this assault,
+prompt case detection and minimal false-positive                  succumbing to lung cancer at a significantly higher
+rates. However, weaknesses were identified in other               rate  in                         smokers compared to non-smokers, the
+attributes.     Simplicity  (76%)    and  flexibility   (47%)     dangers extend far beyond the respiratory system.
+indicated       a  structured    but  potentially     complex     Smoking significantly amplifies risk                    of developing
+process with limited adaptability. Acceptability (72%)            cancers of the mouth, throat, larynx (voice box),
+and data quality (82%) were deemed moderate,                      esophagus (food pipe), bladder, kidneys, pancreas,
+suggesting room for improvement in stakeholder                    stomach, cervix, and even certain types of leukemia.
+cooperation and data accuracy. Notably, stability                 <u>Beyond </u>  <u>the </u>  <u>Lungs: </u> <u>A </u> <u>Cardiovascular </u>
+(77%)  highlighted       vulnerability    due    to financial     <u>Onslaught</u>
+constraints.
+<u>Conclusion:</u>        The COVID-19 surveillance system in                            Smoking doesn't just target lungs; it launches
+                                                                  a multi-pronged attack on heart and blood vessels,
+District   Peshawar         demonstrated       strengths   in     paving the way for a multitude of cardiovascular
+capturing diverse data, timely case detection, and low            diseases. The noxious chemicals in cigarettes elevate
+false-positive       rates.    However,   the        system's     blood pressure, constrict arteries through a process
+complexity,        limited    adaptability,   and   financial     known as atherosclerosis                    (plaque   buildup),  and
+sustainability present challenges. Recommendations                significantly increase the risk of blood clots forming
+include enhancing testing strategies, strengthening               within them.    This                   unholy trinity translates to a
+laboratory capacity, improving contact tracing efforts,           dramatically    heightened   risk           of        suffering heart
+securing financial resources, investing in capacity               attacks, strokes, and peripheral artery disease (PAD),
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+a condition that reduces blood flow to the legs and                              Set a Quit Date and Stick to It: Pick a date in the near
+feet, significantly impacting mobility and overall well-                         future and mark it on calendar. This provides a clear
+being.                                                                           target and a sense of urgency.
+<u>A </u> <u>Breath </u> <u>Stolen: </u> <u>Chronic </u> <u>Obstructive </u>     Tell  Support System: Inform     family, friends, and
+                                                                                 colleagues   about    decision   to   quit.     Their
+<u>Pulmonary Disease (COPD)</u>                                                  encouragement and understanding can be a powerful
+
+Smoking is       the     primary culprit                     behind COPD, a      motivator.
+progressive lung disease that makes the simple act of                            Identify Triggers: Recognize situations or emotions
+breathing        an      increasingly    difficult       struggle.  The          that make you crave a cigarette. It could be social
+airways become inflamed and narrowed, while the air                              gatherings,  stress,  or  boredom.  Develop    coping
+sacs in the lungs are damaged, all leading to a                                  mechanisms like taking a brisk walk, chewing gum, or
+relentless cycle of chronic coughing, shortness of                               deep breathing exercises to manage these triggers.
+breath, and wheezing. In severe cases, COPD can                                  Cleanse Environment: Remove all cigarettes, lighters,
+significantly            limit  daily    activities      and    drastically      and ashtrays from home, car, and workplace. This
+diminish quality of life.                                                        eliminates temptation and reinforces commitment.
+                                                                                 Explore   Nicotine    Replacement   Therapy   (NRT):
+<u>A Multitude of Other Health Problems: A </u>                                  Consider using NRT products like patches, gum,
+<u>Far-Reaching Detriment</u>                                                    lozenges, or inhalers. These provide controlled doses
+                                                                                 of nicotine to help manage withdrawal symptoms.
+The       detrimental           effects  of  smoking cast     a        long      Consult a       doctor to determine the most suitable
+shadow, extending far beyond these major diseases.                               option for you.
+It        weakens        immune  system,     leaving          you      more      Find Healthy Distractions:       Replace smoking with
+susceptible        to    a      range    of  infections  [4].      It   can      healthier alternatives that occupy hands and mind.
+exacerbate         diabetes,     contribute          to        osteoporosis      Take up a new hobby, exercise regularly, or spend time
+(weakening of bones), and increase risk of developing                            in nature.
+eye diseases like macular degeneration and cataracts.
+Perhaps most alarmingly, smoking during pregnancy                                      Quitting smoking is a life-changing
+can inflict harm on the developing foetus, increasing                                  decision. By following these tips and
+the risk of premature birth, low birth weight, and the                                 staying committed, you can become
+devastating sudden infant death syndrome (SIDS).                                       smoke-free and breathe easier, both
+<u>The Road to a Smoke-Free Life: Reclaiming </u>                                             literally and figuratively
+<u>Health</u>                                                                    Join a Support Group: Connecting with others who
+
+Quitting smoking is the single most important step                               are also quitting can provide invaluable support and
+you can take to improve health and prevent these                                 share experiences. Online forums or local support
+debilitating diseases. The path to a smoke-free life                             groups can be a great resource.
+may seem daunting, but you are not alone. Numerous                               Reward self:   Celebrate  milestones!     Acknowledge
+resources        and     support         groups  are     available       to      progress and reward self for staying smoke-free. This
+empower you on journey. Talk to doctor about                                     reinforces positive behaviour.
+smoking cessation programs, medications that can aid                             Don't Get Discouraged by Slips:     A slip-up doesn't
+the process, and nicotine replacement therapies that                             mean you've failed. Analyse what triggered it and
+can help manage withdrawal symptoms. Remember,                                   recommit to goal. Remember, quitting is a process,
+quitting         smoking        is  not  just  a  sacrifice;   it's      an      and setbacks are a normal part of the journey.
+investment in a longer, healthier, and more vibrant                              Seek  Professional    Help: Don't  hesitate  to  seek
+life.                                                                            professional help from a doctor or therapist. They can
+                                                                                 provide personalized guidance, address underlying
+                              Quitting smoking is a marathon, not a sprint,      issues, and prescribe medications to aid quit attempt.
+but it's absolutely achievable with the right approach.                          Remember the Benefits: Keep the positive outcomes
+Here are some tips to help                              you on a smoke-free      in mind. Quitting smoking improves health, saves
+journey:                                                                         money,   and boosts   energy   levels.  Visualize the
+                                                                                 healthier,  happier you   and  let  that  image  fuel
+                                                                                 motivation.
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+National Institute of Health: Advisori es
+
+                                                                                No.F.1-22/Advisory/CDC/2024
+                                                                                                   22 May 2024
+         Advisory for Prevention and Control of Crimean Congo
+                      Haemorrhagic Fever (CCHF)
+
+Background:
+
+ Crimean-Congo haemorrhagic fever (CCHF) is caused by a tick-borne virus (Nairovirus) of the Bunyaviridae family.
+The virus causes severe viral haemorrhagic fever outbreaks in humans, with a case fatality rate of 10-40%. Globally, three
+billion people are at risk of CCHF, with 10,000 to 15,000 infections and five hundred fatalities reported annually. Since the
+diagnosis of the first human case of CCHF in Pakistan in 1976, sporadic cases have continued to occur in various geographical
+regions of the country. Though Balochistan remains the most affected province due to unregulated/ unchecked cross-border
+animal transportation, but cases have been reported from other parts of the country every year. During the year 2023, a total
+of 101 confirmed cases of CCHF have been reported across the country with 25% case fatality.
+
+Purpose:
+
+ In the wake of high disease transmission and risk due to anticipated increased human -animals interaction during
+upcoming Eid-ul-Azha, it is imperative to be vigilant about the situation and take necessary steps to interrupt the transmission
+of CCHF. The objective of this advisory is to sensitize human and animal health care authorities and other relevant stakeholders
+to further strengthen and improve the level of preparedness for the prevention and control of CCHF.
+
+Case Definition:
+
+ Suspected: Any person with sudden onset of fever over 38° C or more for > 3 days and less than 10 days. especially
+ in CCHF endemic area and with a contact history (History of contact with confirmed patient, animal, raw meat, tick
+ bite, or visit to cattle markets.
+ Probable: Suspected case with history of febrile illness of 10 days or less with epidemiological link to CCHF endemic
+ areas and ANY two of the following: thrombocytopenia less than 50,000/mm³ petechial or purpuric rash, epistaxis,
+ hematemesis, hemoptysis, blood in urine and/or stool, ecchymosis, and gum bleeding.
+ Confirmed: Suspected/probable case with laboratory confirmation of CCHF (PCR)
+ Reservoir: Ticks, especially of the Hyalomma genus are both reservoir and vector for the CCHF virus. Numerous wild
+ and domestic animals, such as cattle, goats, sheep, rats, and hares, serve as amplifying hosts for the virus. Birds are
+ generally resistant except for ostriches.
+
+Mode of Transmission:
+
+ The CCHF virus is transmitted to people either by tick bites or through contact with infected animal blood or tissues
+during and immediately after slaughter. Transmission to humans occurs through contact with infected ticks or animal blood.
+CCHF can be transmitted from an infected person to another person by contact with infectio us blood, secretions, aerosol, or
+body fluids. Hospital- acquired CCHF infections can also occur due to poor IPC practices, improper sterilization of medical
+equipment, reuse of injection needles, and use of contaminated medical supplies.
+
+Incubation period:
+
+ Following infection by a tick bite, the incubation period is usually 1-3 days, with a maximum of 9 days. The incubation
+period following contact with infected blood or tissues is usually 5-6 days, with a documented maximum of 13 days.
+
+
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization    DEV
+
+---
+
+Risk Groups
+
+ Animal herders, livestock workers, and slaughterhouse workers, veterinarians in endemic areas are at risk of CCHF.
+Healthcare workers in hospitals and endemic areas are at risk of infection due to unprotected contact with infectious blood
+and body fluids.
+
+Clinical presentation:
+
+ The onset of CCHF is sudden with initial signs and symptoms including headache, high -grade fever, back pain, joint
+pain, abdominal pain, diarrhea, and vomiting. Red eyes, flushed face, red throat, and petechiae (red spots) on the palate with
+bleeding from gums are common. Symptoms may also include jaundice and in severe cases, changes in mood and altered
+sensorium which may be replaced by drowsiness and lethargy after two to four days of illness. As the disease progresses, large
+areas of severe bruising, severe nosebleeds, and uncontrolled bleeding at injection sites can be seen, beginning on about the
+fourth day of illness and lasting for about two weeks. In patients who recover, improvement generally begins on the ninth or
+tenth day after the onset of illness.
+
+ The presenting complaints, signs, and symptoms of CCHF cases may mimic Dengue Haemorrhagic Fever (DHF).
+Considering its transmission dynamics (human -to -human) and high mortality, it is imperative to exclude CCHF through a
+careful epidemiological history/ clinical examination of the patient while strictly observing infection control measures.
+
+Treatment:
+
+ General supportive care with treatment of symptoms is the main approach for managing CCHF patients. Early
+initiation of treatment with antiviral drug ribavirin has apparent benefits, both oral and intravenous formulations seem to be
+effective.
+
+Preventive and Control measures:
+
+ There is currently no safe and effective vaccine available for human use. In the absence of vaccine, the only way to
+reduce infection in people is by reducing risk factors and educating community on preventive measures. Public health advice
+should focus on several aspects.
+
+A) Reducing the risk of infection in community:
+
+ 1. Reducing the risk of infection transmission from tick-to-human while visiting high risk areas:
+
+                •     Wear protective clothing (long sleeves, long trousers).
+                •     Wear light coloured clothing to allow easy detection of ticks on the clothes. • Regularly examine clothing
+                      and skin for ticks; if found, remove them safely.
+                •     Use approved acaricides on clothing.
+                •     Use approved insect repellent on the skin. Insect repellents are the most effective in warding off ticks in
+                      human populations.
+                •     Avoid visiting areas where ticks are abundant and seasons (warmer temperatures) when they are most
+                      active.
+
+ II. Reducing the risk of infection transmission from animal-to-human:
+
+                •     Wear gloves and other protective clothing while handling animals or their tissues in
+                •     endemic areas, notably during slaughtering, butchering and culling procedures in slaughterhouses or at
+                      home. •
+                •     Quarantine animals (Possibly 30 days) before they enter slaughterhouses or routinely treat animals with
+                      acaricides prior to slaughter.
+                •     Inject Ivermectin to animals with ticks, 24-30 days before slaughtering.
+
+ III. Reducing the risk of infection transmission from human-to-human in community:
+
+                •     Avoid close physical contact with CCHF -infected people.
+
+
+NIE     UK Health     World Health    USAID    safetynet
+        Security
+        Agency        Organization
+
+---
+
+      •     Wear gloves and protective equipment when taking care of ill people. • Wash hands with soap regularly
+            after caring for or visiting ill people.
+      •     Observe safe burial practices by avoiding contact with mucus membranes & body fluids of deceased
+            patient and use of appropriate PPEs while touching deceased person.
+
+B) Controlling infection in health-care settings:
+ •     Health-care workers caring for patients should adopt standard precautions regardless of diagnosis. These
+       include basic hand hygiene, use of personal protective  equipment, safe injection practices and
+       environmental cleaning & disinfection.
+ •     Samples of suspected CCHF cases should be collected, triple packaged and transported by a trained health
+       staff and handled in suitably equipped labs.
+
+C) Controlling vector in livestock:
+ •     CCHF infections are usually asymptomatic in animals and no vaccines is available for use in animals.
+ •     Furthermore, tick vectors are numerous and widespread, so tick control with acaricides (chemicals intended
+       to kill ticks) is an important option for well-managed livestock production facilities.
+ •     The bird Lalli/Mynah (important in picking and eating ticks from skin of animals is a natural method which
+       could help control populations of ticks) must not be shot or killed and be put under endange red species.
+ •     Liquid formulation of acaricides should be sprayed on animal herds for prevention of tick infestation and
+       can be injected in cracks and crevices of the area.
+ •     Lime powder or acaricides can be applied on farm premises to reduce the tick population and prevent re-
+       infection of the animals.
+
+Laboratory Diagnosis and NIH Support:
+ •     Physicians should provide maximum clinical information especially possible contact history, date of onset
+       of symptoms and sample collection when requesting for lab testing. Clinical summary must accompany the
+       sample and packaged in a separate plastic zipper bag in the second layer of triple package.
+ •     Lab tests for CCHF should be recommended to those who fulfill criteria of suspected case definition, details
+       are also available at NIH website (www.nih.org.pk). Testing suspected patient samples presents an extreme
+       biohazard risk and should only be conducted
+ •     under maximum biological containment conditions. Safe disposal of lab waste should be followed
+ •     strictly.
+ •     Sample from suspected CCHF patients should be collected by trained phlebotomist with full
+ •     preventive measures using appropriate personal protective equipment (PPEs). Recommended samples for
+       testing are 3-5 cc venous blood in vacutainer or serum separator vial.
+ •     CCHF can be diagnosed by:
+             ▪     Reverse transcriptase polymerase chain reaction (RT -PCR) assay
+             ▪     Enzyme-linked immunosorbent assay (ELISA)
+ •     Suspected human CCHF samples must immediately be transported in triple package maintaining cold
+ •     chain to Provincial Public Health Reference Laboratories (PPHRLs) or Department of Virology, Public
+ •     Health Laboratories Division, NIH, Islamabad. For any further assistance in this context, the CDC (051 -
+       9255237 and Fax No. 051-9255099) and Virology Department of Public Health Laboratories Division (051-
+       9255082), NIH may be contacted.
+
+
+
+
+
+
+
+
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+National Institute of Health: Advisories
+
+                                                                     No.F.1-22/Advisory/CDC/2024
+                                                                                              22 May 2024
+        Advisory for Prevention and Treatment of Heat/Sun Stroke
+
+Introduction:
+
+         In the recent years, Pakistan is experiencing severe climate changes due to global warming including heat wave. Each
+year the vulnerability and impact of heat wave is increasing in the country which may results in increased morbidity and
+mortality due to heat stroke. It is pertinent to take immediate necessary measures in this regard. Avoiding exposure to direct
+sunlight and rehydration can prevent the complications of heatstroke.
+
+Objectives:
+
+         The objective of this advisory is to sensitize health care authorities to take in time appropriate actions for
+preparedness and prevention of heatstroke.
+
+Background:
+
+         Heat stroke is a medical emergency and is a form of hyperthermia in which the body temperature is elevated
+dramatically and can be fatal if not promptly and properly treated. The body's temperature rises rapidly, the sweating
+mechanism fails and the body becomes unable to cool down. Consequently, the body temperature can rise to 106°F or higher
+within 10 to 15 minutes.
+
+         The body normally generates heat as a result of metabolism, and is usually able to dissipate the heat by radiation of
+heat through the skin or by evaporation of sweat. However, in high environmental temperature, humidity or vigorous physical
+exertion under the sun, the body may not be able to sufficiently dissipate the heat and the body temperature rises. Another
+cause of heat stroke is dehydration. A dehydrated person may not be able to sweat fast enough to dissipate heat, which also
+causes the body temperature to rise.
+
+Clinical presentation:
+
+         Common signs and symptoms of heat stroke include profuse sweating or the absence of sweating, with hot red or
+flushed dry skin, weakness/lethargy, chills, throbbing headache, high body temperature, hallucinations, confusion/dizziness
+and slurred speech. Heat stroke can cause death or permanent organ damage or disabil ity if not properly treated in time.
+Infants, elderly persons, individuals with certain comorbidities, athletes, pregnant females and outdoor workers are at high
+risk for heat stroke.
+
+Management:
+
+Victims of heat stroke must receive immediate treatment. The following steps are recommended:
+
+  i.     If a person shows signs of possible heat stroke, professional medical treatment should be obtained immediately. The
+         most critical step is the lowering of the temperature of the patients. The patients should be moved to sh ady area,
+         unnecessary clothing should be removed and cool tepid water should be applied to the skin while soaking remaining
+         clothes with water.
+ ii.     Notify the emergency services immediately as severe cases often require hospitalization and Intravenous re -
+         hydration.
+iii.     Promote sweat evaporation by placing the patient before fan and ice packs under the armpits and groin.
+ iv.     If the patient is able to drink liquids, he/ she should be given plenty of cool water or other cool beverages that do
+         not contain alcohol or caffeine.
+  v.     Maintain intravenous fluids and hospitalize if required.
+
+
+
+NIE    UK Health     World Health     USAID    safetynet
+       Security
+       Agency        Organization     I
+
+---
+
+vi.     Monitor body temperature with a thermometer and continue cooling efforts until the body temperature drops to
+        101°F to 102°F. Antipyretics may be given once the body temperature drops to 101°F or below.
+
+Preventive measures:
+
+       Heat/sun stroke is a preventable condition. Following common preventive measures can be taken by the health
+authorities including:
+
+       a.     Public should be educated through awareness messages to drink plenty of water while limiti ng time in direct
+              sunlight in hot/humid weather or in places with high environmental temperatures, avoid becoming dehydrated
+              and to refrain from vigorous physical activities in hot and humid weather.
+       b.     Public should be made aware of early signs/symptoms of dehydration and subsequent evolving signs and
+              symptoms of heat/sun stroke such as muscle cramps, nausea, vomiting, light-headedness and even heart
+              palpitations.
+       c.     Persons working under the sun should prevent dehydration and heat stroke by taking time out of t he sun and
+              drinking plenty of water/ fluids. The patients should avoid use of alcohol and caffeine containing soft drinks
+              and/or tea), which may exacerbate dehydration.
+       d.     Public should be encouraged to consume salty foods, wear hats and light-colored, lightweight and loose clothes
+              during the hot/humid environmental conditions.
+
+       The health authorities should arrange first aid points in case of emergency situation at prominent points with sufficient
+essential medical supplies. The hospital should establish "Heat Stroke Centres" and stockpile enough medical supplies
+including intravenous fluids during or before anticipated heat wave in the area.
+
+
+
+
+
+
+
+
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security     Organization    WI
+        Agency
+                                       DE
+
+---
+
+he
+B
+2
+
+  STOPSMOKING
+  WORLD NO TOBACCO DAY
+
+  31 MAY
+
+
+
+
+
+
+
+
+
+
+ Stop... you are burning your life flower.
+
+ www.phb.nih.org.pk
+
+
+ C     UK Health     World Health    USAID    safetynet
+       Security
+       Agency        Organization    DEV

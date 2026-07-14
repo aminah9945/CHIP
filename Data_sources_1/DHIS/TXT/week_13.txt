@@ -1,0 +1,325 @@
+DIRECTORATE GENERAL HEALTH SERVICES
+           PUNJAB LAHORE
+      24-Cooper Road, Lahore
+    Ph. 042 -99200990; email: <u>hmispb@yahoo.com</u>
+   unicef    DHIS-2 Weekly Bulletin Week 13 (Mar, 24~Mar,30) 2025    dhis2
+   for every child
+
+
+                             It  is   a  matter of                  great     Key Findings: Health Indicators Analysis:
+                             Pleasure for me to writethis                     Highlights:                                                        Reporting Compliance
+                             message. Theimportance of                        In Week 13 of 2025, a thorough analysis was carried out            Red indicates district compliance below 85%,
+                             data        planning                     and     to draw key insights from the data. Using tables and               orange shows 85-95%, and green marks district
+                             implementation        is                         graphs, the report highlighted important trends and
+                             immense.                                         indicators.     Across  all   36  districts,  the    reporting     compliance above 95%
+    DHIS is a decision support system thatwill     help                       compliance for Week 13 was notably low at 68%, mainly              Punjab Map - OPD Compliance
+    managers      at                 all levels to make evidence based        due to the strike across Punjab, which impacted routine            Reporting Rate
+    decisions.    It  will     help      in   planning                  &     reporting activities. A decline was also observed across
+    development,            strategy                          management,     all        key indicators as a result of the strike. The total
+    Budgeting and forecasting about future needs.                             number of Outpatient Department (OPD) visits during
+                                                                              this week reached 1,537,738, signifying a 04% decrease
+    The MIS team is praise-worthy to implement the                            compared to the previous week. Notably, 95% of these
+    system    in  the whole         province  and                   bring     visits accounted for new OPD patients, while only 5%
+    reporting regularity tomore than 97%.                                     were follow-up visits.
+    The performances of the district management                               In terms of Facility types, the average daily OPD visits
+    teams and health facilities of the province are                           were notably higher in THOS at 946/day visits. The
+    available for scrutiny and evaluation on DHIS.                            highest number of OPD visits were reported in District
+    The issues of data validityand data accuracy                              Lahore (177,512) followed by Faisalabad (103,866), and
+    needs more        efforts                    and hard working The         Multan (102,796) during 13 week of 2025.                           Ty
+    doctors and paramedics should pay heed to                                 Analyzing OPD age and gender demographics, females
+    the plight of data qualityand accuracy, so that                           constituted 54% of visits while males accounted for 46%.
+    correct and valid figures may be made available                           The majority of patients, spanning ages 15 to 49,
+    for the decisionmakers.                                                   comprised the largest age group.
+                                                                              During Week 13, data recorded in DHIS2 highlighted a
+                                                                              total of 68 diseases, accounting for 50% of all reported
+                                         Dr. Muhammad Ilyas Gondal            patient    cases.  Of   these,           51% were communicable
+                                  Director General Services Punjab            diseases,    while  the       remaining   49%  were  non-
+                                                                              communicable diseases, with an emphasis on prioritized             Punjab Map - IPD Compliance
+                                                                              conditions. To     enhance understanding,      graphs      and
+                                                                              tables were utilized to present the top 10 communicable            Reporting Rate
+                                                                              and non-communicable diseases.
+                                                                              Additionally, indoor admissions totaled 96,994, with
+                                                                              64% admitted due to specific diseases. Surgeries with
+                                                                              anesthesia numbered 18,567, with 19% utilizing General
+                              The     weekly  Bulletin would                  Anesthesia   (3,435),   52% involving Local         Anesthesia
+                      SHAH    have       not  been        possible            (9,648), 25% employing Spinal Anesthesia (4,669), and
+                              without support, guidance,and                   4% utilizing other alternative anesthesia methods (815).
+                              expertise of Dr. Muhammad                       Regarding Maternal and Child Health services in Punjab,
+                              Ilyas      Gondal,          Director            recent data indicates a total of 112,671 Antenatal Care
+                              General         Health  Services                (ANC) visits were recorded. Among these visits, 39,643
+                              Punjab.                                         women      attended,    with      18%     (7,144)    reporting
+
+     discussion,     and      The        regular          reviews,            Hemoglobin (Hb) levels below 10g/dl during their first
+     framework    used tomodification of methodological                       ANC visit. A week-wise comparative analysis showed the
+     meets the    most       ensure that the Weekly Bulletin                  rate of anemia among pregnant women. Out of 12,006
+     accurately         rigorous    statistical standards      and            deliveries, 67% occurred naturally, while 33% were
+     system.      reflects the status of our Provincialhealth                 conducted through Cesarean sections, and only 0.23%
+                             On behalf of MIS team, Dr. KhalidMehmood         involved     Vacuum/Forceps       deliveries.      Visualizing
+     (Director MIS), Dr. Muhammad Mohsan Wattoo                               maternal complications in obstetrics through a bar graph
+     (ADHS-MIS) Mr. Farooq Ahmed (CPO MIS) and                                showcased important insights. Among the 11,801 live                Punjab Map - RMNCH Compliance
+     Miss Rukhsana Fawad(Data Analyst) thank to the                           births, 2% (188) were classified as Low Birth Weight
+     focal   persons    of   Districts   and    public      health            (below 2.5 kg), 0.4% (50) were premature, and 3% (311)             Reporting Rate
+     professionals who worked to improve our provincial                       experienced complications leading to infant mortality.
+     health information system with      their tireless    efforts            Moreover, 23,265 Family Planning (FP) visits were
+     andcollaboration and deserve deepest appreciation                        recorded during this week, with 59% occurring in BHUs.
+     for continuing   efforts,   to be   better   orientation   to            Districts Sialkot, Multan and Okara recorded the highest
+     address  the    public  health   challenges of   today    and            FP  visits,  with   2,308,    2,104,  and  1,698    FP visits,
+     tomorrow.                                                                respectively.
+                                                                              The data from this week provides a clear picture of the
+                                                                              current healthcare situation and highlights areas for
+                                                Dr. Khalid Mehmood            future improvements. The ongoing strike has also
+                                          Director Health Services            affected     healthcare       delivery,   impacting    overall
+                                                     (P&D and MIS)            outcomes
+                                                                              <u>Suspected Diseases Alert in week 13, 2025:</u>                                      TAT
+
+                                                                                  Neonatal tetanus              Naegleria
+                                                                                  Measles                       MERS-COV
+                                                                                  Pertussis
+
+---
+
+                                                                        Out-Patients Department Detail:
+
+    <u>Age and Gender Wise Analysis:</u>                 Distribution of OPD Visits by Age and Gender, Week         <u>Referred Patients:</u>                                    Analysis of Referred Patient Statistics:
+    Total OPD 1,537,738 visits were               60%                        13, 2025 Female Male                   Total Referred Patients: 1,982                        60%   Week 13, 2025
+    recorded in this week there were                                                51%                             OPD-Cases Ref out: 38% (763 patients)
+    more females (54%) visits than                50%                                   43%                         were referred out to other healthcare                 50%             50% 50%
+    that    of   males  (46%).      As  is        40%                                                               facilities or institutions.                           40%
+    presented    in  the  graph,    the           30%                                                     25%       Referred In: 62% (1,219 patients) were                30%    38%
+    maximum number of patients                    20%                             14%                 22%           referred           into  the  healthcare facility
+    belonged to age group (15- 49) y.                    8%   9%             13%                                    from other sources.                                   20%
+                                                  10%                                                               Source of Referrals:
+                                                  0%                                                                Referred           from  LHW   (Lady       Health     10%
+    <u>OPD Visits Week Wise </u>                         <1Y  1-4y           5-14Y  15-49y            50y+          Workers): 50% (612 patients)                              0% Cases Ref out  Ref From - LHWRef From - Other
+    <u>Comparative Analysis:</u>                         Comparative Analysis of Weekly OPD Visits                  Referred           from  Other  HFs       (Health                           HF
+    During week 07 of 2025, OPD visits                                                                              Facilities): 50% (607 patients)
+    peaked at 2,303,028, the highest                                                                                 <u>Average OPD per day </u>
+    recorded    compared  to        all other
+    weeks. However, by week 13, there                    A              A                                            <u>visits:</u>                                           Average OPD perday Visits during week 13,
+                                                                                                                     In the assessment for week                       1000                      2025    946
+    was a 4% decrease in OPD visits               M                                 A                                                                                                                   II
+    compared to the previous week. A                                                        A                  A     13, the analysis showcased                        800                              876
+    continuous   decline   has           been                                                                        that, according to the bar                        600
+    observed in OPD visits, mainly due to                                                                            chart, THOS facilities stood                                               475
+    the ongoing strike across Punjab,                                                                                out with the highest daily                        400
+    which   has   disrupted          services     Wk 06-  Wk 07-  Wk 08-  Wk 09-  Wk 10-  Wk 11-  Wk 12-  Wk 13-     average of 946 OPD visits                         200       15  59
+    throughout the province.                       2025    2025    2025    2025    2025    2025    2025    2025      among various facility type.                             BHU    RHC        THQ     DHQ  THOS
+                                    <u>Specialty wise OPD new cases:</u>
+                                    The graph illustrates the distribution of OPD visits across various specialties:
+
+
+800,000    A 10  Speciality wise OPD new cases during week 13, 2025
+700,000
+600,000
+500,000          S0 0
+400,000
+300,000              10 1A0 0 10 TAT P0   2 20 20 20 2 1 10 10 16 0 10 S1
+200,000
+100,000                                                                  1R
+      o    2 20 20 20 00 80 20 Ee Am 2               80 20 0 20 80 2 20 80 20
+
+
+
+
+
+
+
+
+        <u>Classification of OPD Suspected Diseases</u>Su sp OPD Comm unicable Diseases, Week 13, 2025
+        Communicable Diseases                               Skin Diseases                                        Respiratory Diseases
+        Susp M al aria            1.662          9 Scabies                              39.140 15 Acute (upper) Respiratory Infections (AURI)    242.663
+        Acute Conjunctivitis      1.541                  Waterborne Diseases                    16 Cough >2 Wks (Presump tive TB)                  9.827
+        Susp dengue fever        568 10             Diarrhea/Gastroenteritis            52.710 17 Pneumonia                                        3.236
+        Susp M eningitis          41 11             Worm Infestations                           Vaccine Preven table Diseases/ Hepatitis 7.306
+     5 Chicken Pox                14 12             Susp Enteric /   Typhoid               Fever 1s Susp Hepatitis 1.256                           8,983
+     6 Susp HIV/AIDS              13 13              Acu Watery              Diarrhea/Susp      19 Susp Measles Cholera 422                          294
+     7  Susp Rubella (CRS)            5          S exually Tran smitted In fection s            20 Susp Acute Flaccid Paraly sis AFP                   6
+    s Susp Cervical Cancer (HPV)   5 14             Urinary  Tract Infection            22.840 21 Susp pertussis UTI                                   2
+                                                                                                22 Susp diphtheria                                     1
+                                                Susp O PD Non-Com mu nicable Diseases, Week 13, 2025
+               Respiratory Diseases                       Eye & ENT Diseases                                     Psychiatric Diseases
+        Asthma                           20.832  10 Otitis Media                         8,148  20 Anxiety & Depression                            9.122
+     2 Chronic Obstructive Pulmonary Dis  6.779  11 Cat aract                         5.443 21         Epilepsy                                    1,687
+        Communicable Diseases                12       Glaucoma                             711  22 Drug Dependence                                   721
+    3 Fever (other causes)           114,303 13       Trachoma                             429                   Injuries/Poisoning
+                  Skin Diseases                              Oral Disease                   23      Road Traffic Accidents                        21,468
+    4 Dermatitis                      10,693 14     Dental  Caries                      19,764 24 Injuries                                        13.122
+        Gastro In testinal Diseases                        Cancer Diseases                  25       Dog   bite                                    4.419
+    5 Peptic Ulcer Disease               38.058  15 Lung Cancer                         190 26        Fractures                                    3.831
+    6 Chronic Liver Dis                3.755 16     Breast can cer                          91  27 Burns                                             854
+    7 Bloody DiarrheaDysentery              399  17 Prostate cancer                      11 28     Snake   bite                                       35
+               Endocrine Disorder                      Cardiovascular Diseases                                Neurological/Neurosurgical
+    s Diabetes Mellitus                   42.403 18 Ischemic Heart Dis                   9.420  29 CVA Stroke                                    695
+    9 Goitα                        255           19 Hypertension                         41.585
+
+     <u>Weekly Comparative Study of Communicable Diseases:</u>
+
+                                          Weekly Comparative Study of Communicable Diseases
+
+---
+
+<u>Communicable and Non-Communicable Diseases:</u>
+The data from Week 13 in 2025 from Punjab highlighted significant cases of major communicable diseases. Acute Respiratory Infection (AURI) stood out, constituting 62%
+of cases, followed by Diarrhea/Gastrointestinal issues and Scabies at 13% and 10%. Conversely, the highest percentage for Non- Communicable Diseases was Fever due to
+unknown causes at 30%, followed by Diabetes and Hypertension both at 10% respectively. *These percentages were derived from patients visiting the OPD for
+communicable and non-communicable diseases during that period.
+ Week 13, 2025: Leading Communicable Diseases                     Week 13, 2025: Leading Non-Communicable
+                                                                  Diseases
+                                                           35%    30%
+                                                           30%
+                                                           25%
+                                                           20%
+                                                           15%       11% 11% 10%
+                                                           10%                  6% 5% 5% 3% 3%           2%
+                                                            5%
+                                                            0%    20  20  20  20  20 T 208  NA  2        20
+
+
+
+
+
+
+
+                                                                                    INDOOR PATIENTS DETAIL
+
+ <u>Age and Gender Wise Analysis</u>  :                              Demographic Distribution of Indoor Admissions,    <u>Surgeries with type of </u>                            Surgeries Categorized by Anesthesia Type:
+ A total of 96,994 indoor patients                                                   Week 13, 2025    <u>Anesthesia:</u>                                                                       Week 13, 2025
+ were admitted during the week.                 45%                                                  Throughout 18,567 surgeries,                             60%
+ Of  these,  64%  were  admitted                40%                                                  various    anesthesia  methods                                              52%
+ based on specific diseases. Only               35%                                                  were       employed.                             General 50%
+                                                30%
+ 1%  (1,150)  of  patients  were                25%                                                  anesthesia (GA) was used in                                40%
+ referred, while 3% (2,970) indoor              20%                                                  19% (3,435) of surgeries, while                            30%                          25%
+ deaths were recorded. Age and                  15%                                                  local anesthesia (LA) was 52%                              20%  19%
+ gender analysis revealed that 52%              10%                                                  (9,648).    Spinal     anesthesia
+ of admitted patients were female                5%                                                                             contributed to 25% (4,669) of 10%                                      4%
+ and 48% were male, with the                     0%     <5y          5-14Y  15-49Y    50-69Y  70Y+   procedures,            with  4%                     (815)   0%
+ majority falling within the 15–49         Female       22%            11%     42%       17%    8%   involving   other            alternative                        General     Local       Spinal  Others
+ age group. In this age category .         Male         28%            12%     28%       22%   10%   anesthesia methods.                                             Anesthesia  Anesthesia  Anesthesia
+ <u>Suspected INDOOR Diseases</u>
+                                                        DISEASE WISE INDOOR ADMISSION WEEK 13 OF YEAR 2025
+  sr.             Medicine                                                            ENT                                                                            Gynaecological
+   1 Dianhea                                           9,354 23 Chronic Otitis Media                 51                     43 Fibroid Uterus                                      146
+   2 Pneumonia                                         2,188 24 DNS                                  53                     44 Inflam Diseases of Female Pelvic Organs (PD)        245
+   3 Bloody Dianhea/Dysentery                                52                  Cancer Diseases     45                        Uterine Prolapse                                     23
+   4 Acute Watery Dianhea / Cholera                         212     25 Breast Cancer                 60                     46 Vesico -Vaginal Fistula                              48
+   5 Asthma                                            1,966 26 Prostate Cancer                       6                                                              Surgical
+   6 Chronic Obstructive A irways                           855      Vaccine Preventable diseases/hepatitis                 47 A cu Appendicitis                                   489
+   7 Pulmonary Tuberculosis                                 348     27 Neonatal Tetanus               3                     48 Burns                                               371
+   8 Extra Pulmonary Tuberculosis                            90    28 Acu Flaccid Paralysis (AFP)     2                     49 Cholelithiasis / Cholecystitis                      342
+   9 Sus Enteric / Typhoid Fever                            933     29 Measles                      250                     50 Hernias                                             388
+  10 Diabetes Mellitus                                 1,909 30 Malaria                           29 51                        Hyperplasia ofProstate                               24
+  11 Chronic Liver Disease                             1,033 31 Viral Hepatitis A                    36                     52 Urolithiasis                                         76
+  12 Chronic Renal Disease                             3,323 32 Viral Hepatitis B                    21                                                                 Psychiatric Diseases
+              Cardiac Diseases                                     33 Viral Hepatitis C              70                     53 Drug A buse                                          47
+  13 Congestive Cardiac Failure (CCF)                       743    34 Viral Hepatitis E               1                     54 Psychiatric Disorde                                  55
+  14 Hypertension                                         2,200             Communicable Diseases                                                                Obstetrics/Maternal Complications
+  15 Is chemic Heart Disease (IHD)                     2,263 35 Dengue fever                          4                     55 Anti Partum Hemonhage (APH)                         141
+  16 Valvular Heart Dis                                     257     36 Seasonal Influenza I L I       1                     56 Complication ofAbortion                             183
+              Orthopedic Diseases                                  37 Diptheria                       3                     57 Ectopic Pegnancies                                   53
+  17 Arthropathies                                          152     38 Pertussis                      2                     58 PostpartumHemonhage (PPH)                           103
+  1s Fractures                                          1072 39 Mening itis                          78                     59 Pre-Eclampsia/Eclampsia                              99
+                        Eye                                         40 Rabies                        11                     60 Prolonged/ Obstructed Labour                        122
+  19 Cataract                                               462             Neur ological/Neurosurgical                     61 Puerperal Sepsis                                     39
+  20 Comeal Opacity                                          24     41 CVA Stroke                712 62                        Rupture  Uterus                                      17
+  21 Glaucoma                                                27     42 Head Injury               671 63                        Other Obstetric Complications                     1,275
+  22 Allergic Conjunctivitis                                  2
+
+                                                                                    RMNCH DETAIL
+
+
+ <u>ANC Detail:</u>               ANC Observations - Week 13, 2025               <u>Weekly Analysis </u> <u>of </u> <u>First </u> 80,000    Weekly Trend of ANC-1 Visits
+ Among     the          total                                                    <u>Antenatal </u> <u>Care </u> <u>(ANC-1) </u>
+ 112,671   ANC         visits     40%    ANC visits Hb. <10 g/dl                 <u>Visits</u>                                    70,000
+ this   week,           ANC-1                                                    In the 13th week of 2025, 60,000                           S0  10  O 0
+ constituted           39,643     30%    35%                                     ANC-1            visits               dropped by 50,000               SA
+ with   18%           (7,144)                   30%                              11%              compared      to            the 40,000
+ showing           Hb<10g/dl,     20%                  20%                       previous                 week.                 A 30,000                                S
+ while ANC-2, ANC-3,                         18%                      15%        downward trend in visits 20,000
+ and ANC-4 comprised 10%
+ 33,972,   21,978,        and                                                    has been observed, mainly                   10,000
+ 17,078 respectively.             0%     ANC-1  ANC-2  ANC-3          ANC-4+     due to the ongoing strike                     0 Wk            06 Wk 07 Wk 08 Wk 09 Wk10 Wk 11 Wk 12 Wk 13
+                                                                                 across Punjab.                                             2025  2025  2025  2024  2024  2025  2025  2025
+
+---
+
+  Maternal      and   Child      Health         Monitoring Maternal and Child Health Outcome     <u>Mode of Deliveries:</u>                       28 (0.23%),….
+  Metrics Overview:                                         Week 13,2025                         Throughout      the      past
+  The bar graph illustrates key                                                                  week in Punjab, a total of
+  maternal      and  child   health                                                              12,006  deliveries       were
+  indicators         The       data                                                              documented.             Among
+  represents a comprehensive                                                                     these, 67% (8,068) were
+  assessment    of       healthcare                                                              normal deliveries,        33%
+  utilization   and        outcomes                                                              (3,910) were C-sections,
+  across various stages of the                                                                   and a very small fraction
+  maternal      and  child   health
+  field.                                                                                         of  0.23% (28) involved
+Deliveries        by         Health                                                              vacuum/forceps.
+<u>Facilities types wise:</u>               Deliveries conducted by Health Facility type-wise    Total Deliveries, Live Births and PNC-1 Visits in Health Facilities
+Within      this total     count of                           week 13, 2025                                    Total Deliveries, Live Births and PNC-1 Visits
+ 12,006       deliveries,       BHU    3,000          C-SectionsNormal/Forceps                       14,000                    in HF during         13,2025 k
+facilitated     23%   (2,808)    of    2,500    BA          SA                    1E S0              12,000                    12,014             11,801
+normal/forceps          deliveries,    2,000                1                                        10,000                                                8,847
+whereas THOS managed 15%               1,500                                                          8,000
+(1,758)     of    C-sections.  It's    1,000          1A          S1 1                                6,000
+important to note that these             500                                                          4.000
+percentages are derived from                                                                         2,000
+deliveries      occurring    within             BHU   RHC   THQ   DHQ             THOS                           Total Deliveries      Live births      PNC 1 visits
+healthcare facilities
+
+ <u>Live Births and Maternal Deaths:</u>
+ This week, 4 maternal deaths were reported. Out of 11,801 live births, 3% (311 newborns) did not survive due to childbirth complications. Additionally, 2% (188 newborns)
+ were classified as low birth weight (under 2.5 kg), and 0.4% (50 newborns) were born prematurely.
+ <u>Obstetrics/Maternal Complications:</u>                                                       Neonatal        <u>Deaths with Complications:</u>
+
+                                            Maternal Complications in Obstetrics: Inpatient
+                                                       Admissions, Week 13, 2025                                 Neonatal Deaths with Complications week 13, 2025
+
+
+
+
+
+
+
+
+
+
+ <u>Family Planning:</u>
+ <u>Services </u>    <u>Wise </u> <u>Family </u>               Services wise FP Client visits week 13, 2025                       <u>Method wise Family Planning:</u>    Method wise Family Planning week 13, 2025
+ <u>Planning:</u>                                                                                                                 Regarding the methods used during
+ In the 13th week of 2025,                              18k    16k                                                                family   planning  visits,  condoms
+ there                 were 23,265 family               16k                                                                       were    the  most  common 7,984
+ planning visits. Of these, 2%                          14k                                                                       (44%) followed by COC cycles 5,648
+ (569) were by women under                              12k                                                                       (31%).   Less    popular    methods
+ 25, and 69% (16,038) were                              10k                                                                       included POP cycles (1%), implants
+ new      clients.             Counseling                8k           5k                                                          and tubal ligation both at 0.33% and
+ visits   accounted               for 23%                6k
+ (5,297), with 86% being new                             4k                     2k      1k                                569     0.20% respectively.
+ clients and 14% returning.                              2k                                                 187
+ Referrals by LHWs made up                               0k
+ 8%      (1,798),              postpartum                      New FP vts No of FPFP Clients Ref Total PPFP Total PAFP  Total FP
+ visits 4% (909), and post -                                          visits    by LHW  visits              visits   Visits < 25 y
+                                                                      Counseling
+ abortion visits 1% (187).                                            (new/Old)
+<u>Week wise Family Planning Visits:</u>                                                                                                                     <u>Family Planning by Health Facility type wise:</u>
+In the current week, Family Planning (FP) visits have declined by 4% compared to                                                                     Family Planning Visits by Health Facility type
+the previous week. The overall downward trend is largely due to the ongoing                                                                                              wise week 13, 2025
+strike across Punjab, which has disrupted service delivery.
+                                                                                                                                            70%
+                     Analyzing Weekly Trends in Family Planning Visits
+                                                                                                                                            60%
+60,000                                                                                                                                      50%      59%
+
+50,000                                                                                                                                      40%
+
+40,000               SA           SA                SA         %A     %a                                                                30%
+
+30,000                                                                                                                                      20%                          14%     15%       8%
+20,000                                                                          BA            Ca                    SA                  10%                                                              4%
+
+10,000                                                                                                                                     0%        BHU                 RHC     THQ       DHQ  THOS
+
+      0  Wk 06   Wk 07                 Wk 08             Wk 09        Wk10   Wk 11   Wk 12   Wk 13                                      This graph illustrates the distribution of FP visits across different Health Facility
+
+          2025    2025                        2025        2024        2024    2025    2025    2025                                      types. The largest share, comprising 59% of the total visits, took place in BHUs,
+                                                                                                                                        followed by RHCs at 14%, THQs at 15%, DHQs at 8% and THOS at 4%..

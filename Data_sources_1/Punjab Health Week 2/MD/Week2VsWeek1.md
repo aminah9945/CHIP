@@ -1,0 +1,1598 @@
+# High BP
+
+There was a significant increase in high BP in all districts of Punjab during Health Week2 as compared to Health week1.
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>Hypertension HW1 (%)</th>
+        <th>Hypertension HW2 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>9.50</td>
+<td>20.20</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>10.50</td>
+<td>21.20</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>11.80</td>
+<td>26.50</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>9.70</td>
+<td>22.10</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>10.20</td>
+<td>24.90</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>7.20</td>
+<td>18.00</td>
+    </tr>
+<tr>
+        <td>D G Khan</td>
+<td>5.20</td>
+<td>13.20</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>11.10</td>
+<td>21.40</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>9.70</td>
+<td>24.60</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>13.50</td>
+<td>25.30</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>11.60</td>
+<td>20.30</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>10.30</td>
+<td>21.30</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>12.10</td>
+<td>21.00</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>11.70</td>
+<td>27.00</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>13.80</td>
+<td>20.70</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>9.60</td>
+<td>19.80</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>9.80</td>
+<td>19.60</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>10.10</td>
+<td>24.60</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>12.00</td>
+<td>15.60</td>
+    </tr>
+<tr>
+        <td>Mandi B.Din</td>
+<td>13.60</td>
+<td>28.90</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>12.20</td>
+<td>25.20</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>11.30</td>
+<td>21.00</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>7.70</td>
+<td>15.80</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>9.80</td>
+<td>20.10</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>9.30</td>
+<td>21.90</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>9.60</td>
+<td>21.30</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>10.10</td>
+<td>24.00</td>
+    </tr>
+<tr>
+        <td>R Y Khan</td>
+<td>15.00</td>
+<td>21.90</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>8.10</td>
+<td>16.20</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>8.10</td>
+<td>21.90</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>10.50</td>
+<td>20.40</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>11.90</td>
+<td>23.40</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>12.30</td>
+<td>21.20</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>10.40</td>
+<td>17.10</td>
+    </tr>
+<tr>
+        <td>T.T Singh</td>
+<td>17.50</td>
+<td>20.10</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>11.00</td>
+<td>19.60</td>
+    </tr>
+  </tbody>
+</table>
+
+*Figure 63: High BP-District wise change in Frequency of Health week1 and Health Week 2*
+
+---
+
+# BSR
+
+District-wise pattern of high BSR during Health Week1 and 2 is shown below. Bahawalnagar, Chakwal, Chiniot, Gujranwala, Kasur, Lahore, Mianwali, Muzaffargarh, Narowal and Sheikhupura showed an increase in High BSR cases during Health Week 2.
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>High BSR HW1 (%)</th>
+        <th>High BSR HW2 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>11.0</td>
+<td>11.2</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>14.2</td>
+<td>16.8</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>15.1</td>
+<td>14.1</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>10.5</td>
+<td>9.2</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>15.0</td>
+<td>16.1</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>13.5</td>
+<td>15.0</td>
+    </tr>
+<tr>
+        <td>D G Khan</td>
+<td>10.8</td>
+<td>7.6</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>15.6</td>
+<td>14.8</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>16.5</td>
+<td>17.9</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>19.1</td>
+<td>18.6</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>17.5</td>
+<td>15.4</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>17.1</td>
+<td>13.1</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>18.5</td>
+<td>15.5</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>12.6</td>
+<td>15.1</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>17.3</td>
+<td>15.2</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>14.8</td>
+<td>14.4</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>17.0</td>
+<td>18.9</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>14.8</td>
+<td>12.2</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>14.0</td>
+<td>10.5</td>
+    </tr>
+<tr>
+        <td>Mandi B.Din</td>
+<td>19.7</td>
+<td>15.0</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>11.0</td>
+<td>12.5</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>17.1</td>
+<td>15.6</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>10.5</td>
+<td>11.9</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>15.5</td>
+<td>15.5</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>14.5</td>
+<td>15.5</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>13.6</td>
+<td>13.3</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>12.0</td>
+<td>12.4</td>
+    </tr>
+<tr>
+        <td>R Y Khan</td>
+<td>13.7</td>
+<td>13.3</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>11.0</td>
+<td>9.2</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>11.9</td>
+<td>12.0</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>15.3</td>
+<td>14.5</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>17.5</td>
+<td>16.3</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>16.5</td>
+<td>18.1</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>15.3</td>
+<td>14.5</td>
+    </tr>
+<tr>
+        <td>T.T Singh</td>
+<td>19.5</td>
+<td>16.3</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>16.7</td>
+<td>13.1</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 64: High BSR-District wise change in Frequency of Health week1 and Health Week 2
+
+Page 82 of 99
+
+# SECOND HEALTH WEEK REPORT - FEBRUARY 2018
+
+## BMI>25
+
+Almost all the districts showed an increasing trend of overweight BMI during Health week2.
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>BMI (More Than normal) HW1 (%)</th>
+        <th>BMI more than Normal HW2 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>42.5</td>
+<td>45.5</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>38.5</td>
+<td>39.2</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>41.0</td>
+<td>45.8</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>33.0</td>
+<td>41.5</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>43.5</td>
+<td>51.5</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>41.0</td>
+<td>50.5</td>
+    </tr>
+<tr>
+        <td>D G Khan</td>
+<td>30.5</td>
+<td>35.0</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>47.5</td>
+<td>56.5</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>49.5</td>
+<td>57.5</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>47.5</td>
+<td>62.0</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>41.0</td>
+<td>54.0</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>38.5</td>
+<td>45.0</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>49.5</td>
+<td>54.0</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>44.0</td>
+<td>51.0</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>40.5</td>
+<td>49.5</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>39.5</td>
+<td>41.0</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>52.5</td>
+<td>57.0</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>35.0</td>
+<td>40.5</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>34.5</td>
+<td>41.0</td>
+    </tr>
+<tr>
+        <td>Mandi B.Din</td>
+<td>49.5</td>
+<td>56.5</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>34.5</td>
+<td>43.5</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>43.5</td>
+<td>47.5</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>35.5</td>
+<td>36.0</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>48.5</td>
+<td>56.5</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>38.5</td>
+<td>57.5</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>37.5</td>
+<td>45.0</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>36.0</td>
+<td>44.0</td>
+    </tr>
+<tr>
+        <td>R Y Khan</td>
+<td>39.5</td>
+<td>42.5</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>25.5</td>
+<td>39.5</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>46.0</td>
+<td>50.0</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>36.5</td>
+<td>49.0</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>48.5</td>
+<td>53.0</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>49.0</td>
+<td>57.5</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>47.5</td>
+<td>55.5</td>
+    </tr>
+<tr>
+        <td>T.T Singh</td>
+<td>49.0</td>
+<td>52.5</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>50.0</td>
+<td>47.0</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 65: BMI Overweight-District wise change in Frequency of Health week 1 and Health Week 2
+
+---
+
+# Anaemia
+
+The population of Health Week2 was found less anaemic as compared to screened population of Health Week1.
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>Anaemia HW1 (%)</th>
+        <th>Anemia HW2 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>56</td>
+<td>42</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>62</td>
+<td>54</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>59</td>
+<td>45</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>55</td>
+<td>41</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>53</td>
+<td>41</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>60</td>
+<td>35</td>
+    </tr>
+<tr>
+        <td>D G Khan</td>
+<td>69</td>
+<td>43</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>57</td>
+<td>43</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>58</td>
+<td>44</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>57</td>
+<td>39</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>52</td>
+<td>32</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>47</td>
+<td>34</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>53</td>
+<td>47</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>61</td>
+<td>48</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>59</td>
+<td>51</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>54</td>
+<td>45</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>49</td>
+<td>35</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>61</td>
+<td>37</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>69</td>
+<td>44</td>
+    </tr>
+<tr>
+        <td>Mandi B.Din</td>
+<td>49</td>
+<td>47</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>63</td>
+<td>43</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>54</td>
+<td>37</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>68</td>
+<td>48</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>48</td>
+<td>38</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>65</td>
+<td>41</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>48</td>
+<td>36</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>60</td>
+<td>35</td>
+    </tr>
+<tr>
+        <td>R Y Khan</td>
+<td>53</td>
+<td>36</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>75</td>
+<td>52</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>50</td>
+<td>37</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>52</td>
+<td>42</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>48</td>
+<td>39</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>55</td>
+<td>44</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>56</td>
+<td>40</td>
+    </tr>
+<tr>
+        <td>T.T Singh</td>
+<td>52</td>
+<td>43</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>54</td>
+<td>48</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 66: Anaemia-District wise change in Frequency of Health week1 and Health Week 2
+
+# Deranged PEFR
+
+There was a significant decrease in number of cases having deranged PEFR during Health Week2 as compared to Health Week1.
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>PEFR Deranged HW1 (%)</th>
+        <th>PEFR Deranged HW2 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>29</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>47</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>20</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>55</td>
+<td>29</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>68</td>
+<td>21</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>36</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>D G Khan</td>
+<td>20</td>
+<td>4</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>44</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>42</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>43</td>
+<td>7</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>54</td>
+<td>28</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>42</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>40</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>46</td>
+<td>18</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>40</td>
+<td>17</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>45</td>
+<td>13</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>25</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>48</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>43</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Mandi B.Din</td>
+<td>46</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>51</td>
+<td>18</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>29</td>
+<td>17</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>42</td>
+<td>4</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>38</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>20</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>34</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>30</td>
+<td>19</td>
+    </tr>
+<tr>
+        <td>R Y Khan</td>
+<td>28</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>34</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>42</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>51</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>49</td>
+<td>19</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>47</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>27</td>
+<td>21</td>
+    </tr>
+<tr>
+        <td>T.T Singh</td>
+<td>36</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>73</td>
+<td>17</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 67: Deranged PEFR-District wise change in Frequency of Health week1 and Health Week 2
+
+---
+
+# Malaria
+
+There were significantly low cases of malaria during Health Week2 as compared to Health Week1.
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>Malaria HW1 (%)</th>
+        <th>Malaria HW2 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>0.40</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>0.70</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>0.60</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>1.10</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>1.40</td>
+<td>0.20</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>0.05</td>
+<td>0.20</td>
+    </tr>
+<tr>
+        <td>Dera Ghazi Khan</td>
+<td>0.60</td>
+<td>0.40</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>0.90</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>2.80</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>0.40</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>1.30</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>0.40</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>1.60</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>0.30</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>0.80</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>0.60</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>1.00</td>
+<td>0.15</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>0.40</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>1.70</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>0.70</td>
+<td>0.15</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>1.30</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>0.10</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>0.60</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>0.20</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>1.60</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>1.10</td>
+<td>0.20</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>0.70</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>Rahim Yar Khan</td>
+<td>0.40</td>
+<td>0.15</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>2.40</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>0.20</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>1.20</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>1.70</td>
+<td>0.20</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>1.50</td>
+<td>0.15</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>0.10</td>
+<td>0.05</td>
+    </tr>
+<tr>
+        <td>T.T Singh</td>
+<td>0.30</td>
+<td>0.10</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>0.30</td>
+<td>0.10</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 68: Malaria-District wise change in Frequency of Health week1 and Health Week 2
+
+# Hepatitis B
+
+There was a slight decreasing trend of Hepatitis B reactive cases during Health Week2 as compared to Health Week1.
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>Hepatitis B HW1 (%)</th>
+        <th>Hepatitis B HW2 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>0.60</td>
+<td>0.60</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>2.20</td>
+<td>1.20</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>3.70</td>
+<td>1.70</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>1.90</td>
+<td>0.70</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>1.40</td>
+<td>0.50</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>4.50</td>
+<td>1.20</td>
+    </tr>
+<tr>
+        <td>Dera Ghazi Khan</td>
+<td>8.00</td>
+<td>6.70</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>3.20</td>
+<td>0.90</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>2.20</td>
+<td>0.60</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>2.40</td>
+<td>1.00</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>2.70</td>
+<td>1.50</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>6.50</td>
+<td>3.10</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>1.80</td>
+<td>0.60</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>2.70</td>
+<td>0.60</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>3.00</td>
+<td>1.50</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>1.60</td>
+<td>0.90</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>0.90</td>
+<td>0.60</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>2.10</td>
+<td>1.60</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>4.50</td>
+<td>2.20</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>3.80</td>
+<td>1.00</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>1.40</td>
+<td>1.00</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>3.00</td>
+<td>2.00</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>6.00</td>
+<td>4.00</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>3.00</td>
+<td>1.50</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>1.20</td>
+<td>0.60</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>3.40</td>
+<td>1.90</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>5.40</td>
+<td>1.20</td>
+    </tr>
+<tr>
+        <td>Rahim Yar Khan</td>
+<td>3.40</td>
+<td>2.50</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>8.90</td>
+<td>4.90</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>0.80</td>
+<td>0.90</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>2.70</td>
+<td>1.00</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>4.40</td>
+<td>1.80</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>1.00</td>
+<td>1.00</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>1.50</td>
+<td>0.90</td>
+    </tr>
+<tr>
+        <td>T.T Singh</td>
+<td>9.60</td>
+<td>1.20</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>3.30</td>
+<td>1.50</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 69: Hepatitis B-District wise change in Frequency of Health week1 and Health Week 2
+
+---
+
+# Hepatitis C
+
+There was a slight decreasing trend of Hepatitis C reactive cases during Health Week2 as compared to Health Week1.
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>Hepatitis C HW1 (%)</th>
+        <th>Hepatitis C HW2 (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>3.5</td>
+<td>4.0</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>12.0</td>
+<td>8.5</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>11.5</td>
+<td>15.5</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>5.5</td>
+<td>5.0</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>5.0</td>
+<td>4.0</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>32.0</td>
+<td>23.5</td>
+    </tr>
+<tr>
+        <td>Dera Ghazi Khan</td>
+<td>6.5</td>
+<td>5.5</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>31.0</td>
+<td>24.5</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>17.0</td>
+<td>13.5</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>17.5</td>
+<td>15.5</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>42.0</td>
+<td>35.5</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>28.0</td>
+<td>15.0</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>7.0</td>
+<td>4.5</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>12.5</td>
+<td>10.5</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>21.5</td>
+<td>23.5</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>13.0</td>
+<td>8.0</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>12.5</td>
+<td>12.5</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>10.0</td>
+<td>7.5</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>24.0</td>
+<td>19.5</td>
+    </tr>
+<tr>
+        <td>Mandi Bahuddin</td>
+<td>24.5</td>
+<td>15.0</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>4.5</td>
+<td>4.0</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>18.5</td>
+<td>21.5</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>12.5</td>
+<td>11.5</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>36.0</td>
+<td>32.0</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>6.0</td>
+<td>5.5</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>23.0</td>
+<td>18.5</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>20.0</td>
+<td>21.5</td>
+    </tr>
+<tr>
+        <td>Rahim Yar Khan</td>
+<td>18.5</td>
+<td>19.5</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>9.5</td>
+<td>7.5</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>6.5</td>
+<td>7.5</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>37.5</td>
+<td>22.0</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>25.0</td>
+<td>19.5</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>16.0</td>
+<td>15.5</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>15.5</td>
+<td>14.5</td>
+    </tr>
+<tr>
+        <td>T.T Singh</td>
+<td>33.5</td>
+<td>24.5</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>33.0</td>
+<td>23.5</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 70: Hepatitis C-District wise change in Frequency of Health week1 and Health Week 2
+
+Page 84 of 99
+84

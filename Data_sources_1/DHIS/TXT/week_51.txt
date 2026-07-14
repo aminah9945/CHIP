@@ -1,0 +1,807 @@
+DHIS- DISTRICT HEALTH INFORMATION SYSTEM (MIS CELL)
+
+<u>DIRECTORATE GENERAL HEALTH</u>                SERVICES, PUNJAB
+DHIS-II  th                       th
+Weekly Feedback Report DHIS-II (19 December – 25 December, 2022)
+Tel: [+92-99200990 e-mail: hmis.pb@yahoo.com
+Tel: [+92-99200990 e-mail: hmis.pb@yahoo.com
+
+
+
+
+Summary:
+
+In the weekly report, various indicators of health facilities have been discussed and the data of teaching/tertiary care hospitals
+are also included. The detailed analysis of week 51 of year 2022 is being presented in this report. The daily reporting regularity
+of  district sahiwal and vehari are 99% (highest among all districts) whereas the reporting compliance target is 100%.
+    “
+The total OPD Visits during week 51 of 2022 were approximately 2.1 million (2,123,423) out of which 698K (697,831) were
+reported from BHU’s, 319K (318,558) from RHC’s, 483K (483,183) from THQ hospitals, 219K (219,311) from DHQ(all) and 405K
+(404,510) were reported from Teaching hospitals.
+
+Sixty diseases were reported through DHIS-2. Antenatal care coverage is an indicator of access and utilization of RMNCH
+services has been also analyzed.
+
+<u>During week 51, the overall ANC-1 reporting of Punjab was 64,775 against the total expected population (3.4%). Overall, the </u>
+<u>highest number of visits of ANC-1 have been recorded at BHU’s from district Faisalabad as. 5,334. Delivery coverage at health </u>
+<u>facility is an indicator of utilization of delivery services provided at public h ealth facilities. During week 50 the highest (46%) </u>
+C-section cases has reported in district Lahore.
+
+
+
+
+
+
+
+
+
+
+1
+
+---
+
+           DHIS-II WEEKLY REPORTING COMPLIANCE PUNJAB, WEEK 51
+
+           Fig. 1 Daily Forms Reporting Compliance
+    120
+    100             72 72 73 77 77 78 78 79 80 81 82 82 85 86 86 89 90 90 91 91 92 92 94 95 96 98 98 98 99 99
+     80                69
+ 60 41 44        44 54 57
+     40
+     20
+     0
+
+
+
+
+
+     REPORTED PATIENTS THROUGH OPD IN HEALTH FACILITY, WEEK 51
+
+                                                                                Fig. 2 Average OPD Per Day Visits at Health Facility
+     Average OPD Per Day Visits (Health                                1,600                                  1,406      1,498
+     Facility Wise                                                     1,400
+
+     On average, 47        per  day  visits                 were       1,200
+     reported at Basic Health Unit (BHU’s),                            1,000
+     168 at Rural Health Care (RHC’s), 634 at                            800                     634
+     THQ hospitals, 1,406                       at DHQ hospitals         600
+     and 1,498 at teaching hospitals in the                              400                 168
+     province. (Fig. 2)                                                  200       47
+                                                                     -
+                                                                                   BHU(ALL)  RHC(ALL)  THQ(ALL)  DHQ     THOS
+                                                                                                                 -
+         Fig. 3 Average Per Day OPD Visits in Teaching
+         4,515             Hospitals                                                         Average OPD Per Day Visits Per
+
+5,000             3,866                                                                      Teaching Hospital
+4,500
+4,000                      2,570                                                             Fig. 3 displays the Average OPD per day
+3,500                               1,817                                                    visits per teaching hospitals during the
+3,000                               1,293               1,315
+2,500                                                   1,105                                week 51 of year 2022. The highest no. of
+2,000                                                                688           676
+1,500                                                                       504              Average OPD per day visits was reported
+1,000
+  500                                                                                        from district Rahimyar Khan.
+    -
+
+
+
+
+
+
+
+    2
+
+---
+
+                   Table: 1 District Wise Number of Reported Patients Through DHIS-2, WEEK 50
+
+ DISTRICT          OPD VISITS BY FACILITY TYPE WISE                          AVERAGE PER DAY OPD VISITS BY FACILITY TYPE WISE
+                   BHU        RHC        THQ          DHQ        THOS        BHU          RHC        THQ              DHQ                THOS
+                   BHU        RHC        THQ          DHQ        THOS        BHU          RHC        THQ              DHQ                THOS
+ Attock              14712       4346        18293       5519                       40        121             610                920
+ Bahawalnagar        20738      11143        15590      11148                       34        186             650              1,858
+ Bahawalpur          20346      13324        20833                  30836           46        185             868                          2,570
+ Bhakkar             14254       4242         5951      10216                       61        141             331              1,703
+ Chakwal             15564      10790        14903      12442                       41        163             621              2,074
+ Chiniot              9027       1728         5119       9904                       42         96             427              1,651
+ D.G Khan            23550      16731         9694                                  74        310             808
+ Faisalabad          54250      16340        48945                  39465           54        182           1,360                          1,316
+ Gujranwala          20176      10591        20049                   6052           37        147           1,114                            504
+ Gujrat              19275       6333        17897                                  37        117             497
+ Hafizabad            6562       3525                    3908                       34         84                                651
+ Jhang                8757       4988         7021      12362                       25         83             390              2,060
+ Jhelum              13349      10512         6382        153                       46        292             532                 26
+ Kasur               20672      10467        15775       2359                       43        159             657                393
+ Khanewal            17153      11342         7435        183                       35        210             413                 31
+ Khushab              7164       4129         9943       4151                       28        138             414                692
+ Lahore               3535        882         8208                 185311           16         29             152                          1,817
+ Layyah               8369       4304        22454      13536                       39        120             624              2,256
+ Lodhran             23191       3653         5905                                  81        152             492
+ Mandi
+ Bahauddin            9316       3772         4233       1645                       32         70             235                274
+ Mianwali            14783      15213        10133       8297                       59        254             563              1,383
+ Multan              31249      11734        11107      17925       33142           64        244             926              2,988        1,105
+ Muzaffargarh        27356      17700        25385      15040                       63        227           1,058              2,507
+ Nankana Sahib        6625       5813         7956      10131                       23        138             663              1,689
+ Narowal             13546       7959         2389      14325                       40        190                              2,388
+ Okara               14277       1778        10230      13173                       25         30             853              1,098
+ Pakpattan           15808       6980          368      10085                       48        233              61              1,681
+ Rahimyar Khan       40889      19695        25288                  27089           66        173           1,405                           4,515
+ Rajanpur            13470      11896         8028       4075                       70        283             669                679
+ Rawalpindi          21229       6810        33786                  38800           36        142             804                           1,293
+ Sahiwal             25651      16471         5539                  12383           56        250             923                             688
+ Sargodha            54200       5730        27623                  23195           69         80             460                           3,866
+ Sheikhupura         17413       7035        17016      21076                       36        168             709              3,513
+ Sialkot             18490       4166        11796                                  35        116             492
+ Toba Tek Singh      22423       9327        11784       6387                       53        194             655              1,065
+ Vehari              30492      17109        10125      11271                       69        204             844              1,879
+ TOTAL/AVERAGE        698K       319K         483K       219K        405K           47        168             634               1406         1498
+Table: 1 shows the district wise total OPD Visits by health facility and Average OPD per day visits reported. During week 51 of year 2022 the daily
+OPD reporting forms of THOS (Gujrat & DG khan, Sialkot), DHQ hospital Lodhran       remained zero. The highest number of OPD visits were noted in
+district Lahore (185,311) from Teaching hospitals.
+
+
+
+
+
+
+
+3
+
+---
+
+Table :2 DISEASE DATA REPORTED on DHIS-2 (WEEK 51, 2022)
+
+OPD  OPD  TOTAL
+OPD  Susp  Susp
+DISTRICT  OPD  Cough  OPD  Acute  OPD  Enteric  OPD  OPD
+>2 Wks  OPD  Seasonal  Flaccid  Susp  /  Susp  Susp
+Chicken  OPD  (TB  Cutaneous  Influenza  Paralysis  Corona  Typhoid  HIV/  Hepatitis
+Pox  Chikungunya  Susp)  Leishmaniasis  ILI  AFP  Virus  Fever  AIDS  A
+Attock           279        4    43      2 328
+Bahawalnagar  1  317  5          81   2  1 407
+Bahawalpur       432     15      42     16 505
+Bhakkar           42             23      9  74
+Chakwal     2     81  9       2  47        141
+Chiniot          176            166        342
+D.G Khan         137             12        149
+Faisalabad  1    735        1    96     68 901
+Gujranwala       264             88        352
+Gujrat     10    380     21 1   158      3 573
+Hafizabad        117     16 2    26     30 191
+Jhang             88    114      64        266
+Jhelum      1    373          1  28     29 432
+Kasur         1  367             94      4 466
+Khanewal         298          1  59      1 359
+Khushab       1   60 11 114      22        208
+Lahore  276  11  12  1662  6  61  2028
+Layyah            85             71 136 16 308
+Lodhran    18    102     10      75        205
+Mandi  117
+Bahauddin  1  1  97  13  4  1
+Mianwali   3    108   1   121 15 248
+Multan          542        98 39 679
+Muzaffargarh    620       239 13 872
+Nankana  333
+Sahib   36  182       115
+Narowal  4  105       3 234 12 358
+Okara  13   127 10  3  73    226
+Pakpattan   313  4     26 1  344
+Rahimyar  480
+Khan            419  3       58
+Rajanpur          3          50           53
+Rawalpindi      463         129      10  602
+Sahiwal     16  218         316          550
+Sargodha       2 692 1 48 20 77  13  15  868
+Sheikhupura  1  214         118          333
+Sialkot      8  309 24 182  292   2      817
+Toba Tek  106
+Singh            64        5            37
+Vehari          236   7                136         5    384
+TOTAL  74  46  9321  99  540  11  28  4977  159  350  15605
+
+
+
+  4
+
+---
+
+OPD  TOTAL
+ DISTRICT  OPD-Susp  OPD-Susp  OPD-Susp  OPD-Susp  OPD  OPD-Susp  OPD-Susp Viral  Susp
+Susp  OPD-Susp  Neonatal  Hemorrhagic  dengue  OPD-Susp
+Hepatitis B  Hepatitis C  Hepatitis D  Hepatitis E  Measles  Meningitis  Tetanus  Fever (CCHF)  fever  diphtheria
+ Attock          2    4        181  187
+ Bahawalnagar  111  135      1      247
+ Bahawalpur     74  114 8 1 11  16  224
+ Bhakkar  0
+ Chakwal     128  128                  1    257
+ Chiniot      10   37                        47
+ D.G Khan           1           9            10
+ Faisalabad  382  854              1   5   1242
+ Gujranwala   57  124    1            12 1  195
+ Gujrat      143  186                       329
+ Hafizabad     7    7         1              15
+ Jhang         1    1         1          4    7
+ Jhelum       23   44      1          34    102
+ Kasur       527  551             47   7   1132
+ Khanewal      8   21                        29
+ Khushab      40   85        24             149
+ Lahore       74   79 6 15           112    286
+ Layyah       18    6                        24
+ Lodhran     109  103                       212
+ Mandi  32
+ Bahauddin       8  20      3 1
+ Mianwali      156 159           2 317
+ Multan        184 316    3     27 530
+ Muzaffargarh  248  91  3       39 381
+ Nankana  401
+ Sahib  111  217  73
+ Narowal  8   23     31
+ Okara    3   10 2   2 17
+ Pakpattan    82     82
+ Rahimyar  375
+ Khan  17  279  31  48
+ Rajanpur  0
+ Rawalpindi   865 863        17 1745
+ Sahiwal      215 272       236  723
+ Sargodha     343 502 12 16  92  965
+ Sheikhupura  243  46     2  14  305
+ Sialkot      108 188       2 86 384
+ Toba Tek  5
+ Singh  5
+ Vehari  2  15  17
+ TOTAL  4225  5553  29  51  4  59  9  50  1017  7  11004
+
+
+
+
+
+
+
+
+
+  5
+
+---
+
+          Diarrhea/Gastr  Diarrhea/Susp Diarrhea/Dyse  Conjunctivitis    OPD - Asthma    OPD - Cataract
+                     OPD - Bloody                      OPD - Acute       OPD - Breast
+                                                       OPD - Acute
+  OPD - Susp                                                          respiratory        OPD - Burns
+  pertussis oenteritis OPD - Acu                                      infections
+DISTRICT             Cholera
+                     Watery                                                          cancer
+            OPD                        ntery                         (ARI)                         TOTAL
+
+
+ Attock          4     1063              11      61     10298      327      4      62      17     11847
+ Bahawalnagar          1407     104     118     241     10974      822             10     103     13779
+ Bahawalpur            2262      24     112     993     15056     1759             18     541     20765
+ Bhakkar                717      63      60      23      8797      504             15      75     10254
+ Chakwal               1392              29     192     11058      266             38      83     13058
+ Chiniot               1224     814      34     262      6479      500             11      51      9375
+ D.G Khan              1216               6      88     13353      924             45      44     15676
+ Faisalabad            4741     467     354     265     48333     2731    184     126      63     57264
+ Gujranwala            4529       3             199     18239      896             24     313     24203
+ Gujrat                2107               6      20     13112     1147             23             16415
+ Hafizabad              498      14      64     200      5319      290              3     182      6570
+ Jhang                 1099     382      38      29      4272      773             17      25      6635
+ Jhelum                1266       7              79     10528      425             32      13     12350
+ Kasur                 2433     422       4      15     15794      870             15     101     19654
+ Khanewal              1362      60     251     137      9554      899              4      30     12297
+ Khushab               1641      66      26      90      8545      593             16      12     10989
+ Lahore                3669     880     101     270     10114     1478      8      58     453     17031
+ Layyah                 944      32      31     235      8678      561              4     123     10608
+ Lodhran               1791      15     146      42     10663     1061             13      94     13825
+ Mandi                                                                                             7716
+ Bahauddin              515               3       8      6768      418              1       3
+ Mianwali        2     1496      93      18     253     13355      593             32       3     15845
+ Multan                5221                     267     23821     1830            132     510     31781
+ Muzaffargarh          5040      77      79     347     21308     1591             20     538     29000
+ Nankana                                                                                           8894
+ Sahib                 1501              76      19      6865      330             11      92
+ Narowal                945       5       5      45      8462      520             26      42     10050
+ Okara                 1825      81     174      56      9833      416             11      58     12454
+ Pakpattan              874      15      59     411     10243      626              5     204     12437
+ Rahimyar                                                                                         26434
+ Khan                  2072       7     154     249     22407     1407             14     124
+ Rajanpur              1844       5       8      58     11575     1364             38       8     14900
+ Rawalpindi            1789              34      80     21923      785             31     132     24774
+ Sahiwal               1517      26      41      49     18916      655             42      27     21273
+ Sargodha              2149      51      31      93     19834     1316     12      37    1274     24797
+ Sheikhupura     3     4215      27      17     614     10847      486             24     228     16461
+ Sialkot               1291      89     272      21      9304      623    106      50     131     11887
+ Toba Tek                                                                                         18013
+ Singh                 1033      68      47      33     16418      396              9       9
+ Vehari                2317      10      94      87     19685     1563             39      12     23807
+ TOTAL           9    71005    3907    2503    6131    490730    31745    314    1056    5718    613118
+
+
+
+
+
+
+  6
+
+---
+
+OPD  TOTAL
+OPD  Chronic  OPD
+DISTRICT  Chronic  Obstructive  OPD  OPD  OPD  Fever
+Liver  Pulmonary  Dental  OPD  OPD  Diabetes  Dog  OPD-Drug  OPD  (other
+Dis  Dis  Caries  Depression  Dermatitis  Mellitus  bite  Dependence  Epilepsy  causes)
+Attock         9   57   530   30   186   444   76       16   1896   3244
+Bahawalnagar  42  130   737   85   546  1164   33        5   2311   5053
+Bahawalpur    18  328  1076  798  1610  2046   86  28  306   5912  12208
+Bhakkar        1   42   522   44   333   423   84        2   3186   4637
+Chakwal            70   665  116   315  1121   77            5993   8357
+Chiniot        2  176   444  377   169   815   68            2840   4891
+D.G Khan          118   359   79  1332   378  250        9   7967  10492
+Faisalabad  1390  817  3475  336  1337  4995  203  59  201  10402  23215
+Gujranwala    35   38  1051  680   313  1890   64  10   11   4352   8444
+Gujrat        80   65   811  107   541  1674  126        5   5404   8813
+Hafizabad          93   362    7   305   375    9            1224   2375
+Jhang         25  581   457  280   761   856   76        5   3718   6759
+Jhelum         9   43   563   98   718   747   22              67   2267
+Kasur          4   64   610   67   695  1360  138        4   4896   7838
+Khanewal       3  101   514   18   542   663   93            3584   5518
+Khushab       37   99   568  134   251   648  110       22   2524   4393
+Lahore       296  769  1044  509   951  2302  142 164  295   7424  13896
+Layyah        44  138   583  197   274   829   95        2   3217   5379
+Lodhran        6   50   482   78   724   751   39       12   2314   4456
+Mandi  2002
+Bahauddin     10   49  222  157   192   417   28       5    922
+Mianwali      42   17  609   73   500   971  236       4   4630   7082
+Multan         5  325  694  176  1502  2033   95   7  30  10057  14924
+Muzaffargarh  83  359  786  824  1225  3117  196  42  68  14641  21341
+Nankana  5106
+Sahib    82  92  438  18 182 1542  91  1  2660
+Narowal  11  26  704  17  90  930  69     4673 6520
+Okara    59  49  368   5 199  641  22  2  2579 3924
+Pakpattan    51  510 209 204  534  68     2278 3854
+Rahimyar  8902
+Khan  39  161  835  125  1987  1068  198  26  39  4424
+Rajanpur         972   362  559 1010   460  166 129  2  8324  11984
+Rawalpindi   89  151  1659  565  413  3844   74 40  63  4834  11732
+Sahiwal      26  159   852   54  774  1271  119      8  2984   6247
+Sargodha  233  311  1343  84  896  2021  137  13  7  2619  7664
+Sheikhupura  24  136  1160  228  503  2488  182  4  12  7059  11796
+Sialkot      15  201   513   39  264   994  101 12  16  1762   3917
+Toba Tek  5375
+Singh     7    43    504    84    932    937    47         11    2810
+Vehari   63   659    836    75   1113   1699    83          4    5801   10333
+TOTAL  2789  7540  27248  7332  23889  48448  3703  534  1167  162288  284938
+
+
+
+
+
+
+
+
+  7
+
+---
+
+TOTAL
+OPD
+DISTRICT  OPD  OPD  OPD  Peptic
+OPD  OPD  OPD  OPD  OPD  Ischemic  Lung  Otitis  Ulcer  OPD
+Fractures  Glaucoma  Goiter  Hypertension  Injuries  Heart Dis  Cancer  Media  Dis  Pneumonia
+Attock         68  2 30   554  295  111         94  1105   52   2311
+Bahawalnagar  100  5  2  1209  654  344        126  1127  203   3770
+Bahawalpur  180  208  15  1763  544  1166  1026  1967  733  7602
+Bhakkar         6  1      484  366   22        118   503  190   1690
+Chakwal       197 26     1538  484  268        156   779    2   3450
+Chiniot       118 57      971  284  257    7    87   398  216   2395
+D.G Khan       14    11   523  229   23        651  1407  206   3064
+Faisalabad    435  4 22  4630  728 1098  148  1128  5316  228  13737
+Gujranwala  36  3  2998  756  682  286  2090  103  6954
+Gujrat         57        1651  520   45        138  1882   17   4310
+Hafizabad       2 20  6   543   82    1        269   392   88   1403
+Jhang          67  2 183  952  523   37        288   311  138   2501
+Jhelum         30    16  1363  259   30        267  2137   84   4186
+Kasur          15  2  1  1623  215   11        105   999  560   3531
+Khanewal  3  10  826  217  12  239  665  68  2040
+Khushab        21     5   884  321  188        116  1768  156   3459
+Lahore        158 37  9  1411  408  188        199  1757 1260   5427
+Layyah          1  5  4   725  211  158         79   381  164   1728
+Lodhran         7    29   786  107   18        290   881  151   2269
+Mandi  1946
+Bahauddin      14           497  126    5   46  1151  107
+Mianwali       45       4  1400  446   90  293  1896  226  4400
+Multan        168   80 185 2828  637  705  907  2269  239  8018
+Muzaffargarh  210  100  5  1550  852  145  868  1230  181  5141
+Nankana  2549
+Sahib      75  24  52  797  266  255   52   954  74
+Narowal    64  15   1 1031  395  170  217  1303 124  3320
+Okara  6  2  556  212  31  251  924  28  2010
+Pakpattan  28  24  19  736  152  198  327  1653  97  3234
+Rahimyar  4856
+Khan        163 48  56  1104  720   424 473  1806   62
+Rajanpur     31  3   2   668  272       216  1378   34   2604
+Rawalpindi  221  7  90  6268  354  1797  95  2064  407  11303
+Sahiwal      23      1  1667  216   127 181  2659   37   4911
+Sargodha    587 437  5  2843  504   601 229  1375  327   6908
+Sheikhupura  87  1  24  1149  592   116 687   573  266   3495
+Sialkot      36 86  95  1145  306   235 194  1316   58   3471
+Toba Tek  4364
+Singh                1   1530    217      1         131   2342   142
+Vehari   80          3   2117    394    581         398   2608   316    6497
+TOTAL  3353  1196  889  53320  13864  10140  155  11227  53366  7344  154854
+
+
+
+  8
+
+---
+
+OPD  TOTAL
+Urinary  OPD
+DISTRICT  OPD  OPD  OPD  Tract  OPD  Monkey  OPD
+Prostate  OPD  Snake  Susp  OPD  Infection  OPD-Worm  Monkey Pox  Pox  Monkey Pox
+cancer  Scabies  bite  Malaria  Trachoma  UTI  Infestations  (Suspected)  (Probable)  (Confirmed)
+Attock       4   616  3   42       906  241 10 1822
+Bahawalnagar    1553  3  289  10   394  241   2490
+Bahawalpur      4508  6  814  43   960  565   6896
+Bhakkar          691      92   1   658  395   1837
+Chakwal          821       3  25  1100  201   2150
+Chiniot          896     177   5   350  232   1660
+D.G Khan        1361     416   3  1093 1471   4344
+Faisalabad  45  7253  3  119  66  1607  964  10057
+Gujranwala      3106     382   3  2130  226   5847
+Gujrat          1591      42       924  337   2894
+Hafizabad        850          13   230   89   1182
+Jhang           1406  1  260       478  135   2280
+Jhelum           602  3  467      1024  415   2511
+Kasur           3750       9  30   509  277   4575
+Khanewal        1364      29   1   500  292   2186
+Khushab         1052       5      1005  237   2299
+Lahore       4  2333     226 186  1039  224   4012
+Layyah          1046      52   4   442  120   1664
+Lodhran  1929  10  9  441  572  2961
+Mandi  1110
+Bahauddin      601   36   363   110
+Mianwali       831  210   849   364  2254
+Multan        5254   55 48 1297 796  7450
+Muzaffargarh  4548  366  1016  1104  7034
+Nankana  3370
+Sahib      2158   105 11  877  219
+Narowal    2499 1 141  6  536  507  3690
+Okara      2320    58     797   88 16 3279
+Pakpattan  1377   236 96  615  275  2599
+Rahimyar  3931
+Khan         2603  1  170   9   685  463
+Rajanpur     1533     279  13   646  453     2924
+Rawalpindi   1467      50  15  2276  405     4213
+Sahiwal      1862      71   5   529  203     2670
+Sargodha  1  2762  1  195  26  1769  995  1  5750
+Sheikhupura  2672  4  179   4   384  166     3409
+Sialkot      2479      84 107   644  296     3610
+Toba Tek  2480
+Singh       1489   1    53   11    484    442
+Vehari      3256   4    78   11   1053    460         6    4868
+TOTAL  54  76439  31  5800  761  30610  14580  26  1  6  128308
+
+
+
+
+
+
+
+  9
+
+---
+
+DHIS-II WEEKLY REPORTED ANC-1 VISITS IN HEALTH FACILITY, WEEK 51 (Table: 3)
+
+
+DISTRICT          ANC-1 VISITS BY FACILITY TYPE WISE              AVERAGE PER DAY ANC-1 VISITS BY
+                                                                  FACILITY TYPE WISE
+                  BHU      RHC        THQ     DHQ        THOS     BHU   RHC   THQ        DHQ      THOS
+Attock              745         89        234      99              2     2          8       17
+Bahawalnagar       1479        383        262     113              2     6         11       19
+Bahawalpur         1288        502        214             285      3     7          9             24
+Bhakkar             784        262        139     164              3     9          8       27
+Chakwal             705        327        176      59              2     5          7       10
+Chiniot            1127        162        149     120              5     9         12       20
+D.G Khan           1714        384        199                      5     7         17
+Faisalabad         2747        725        959             271      3     8         27              9
+Gujranwala         1420        486        418                      3     7         23
+Gujrat              969        160        337              55      2     3          9              9
+Hafizabad           294        130                 31              2     3                   5
+Jhang               946        197        246      78              3     3         14       13
+Jhelum              341        104         20      14              1     3          2        2
+Kasur              2287        376        184                      5     6          8
+Khanewal           1404        272        351     110              3     5         20       18
+Khushab             331         91         30      22              1     3          1
+Lahore              175         30        118            1020      1     1          2             10
+Layyah              528        111        217      14              2     3          6        2
+Lodhran            1187        156        169      94              4     7         14       16
+Mandi
+Bahauddin           561        156         20     108              2     3          1     18
+Mianwali            453        227        114     110              1     4          6     18
+Multan             1279        183        383     173      90      3     4         32     29          3
+Muzaffargarh       1087        258        418     105              4     3         17     18
+Nankana Sahib       379        153         74      61              1     4          6     10
+Narowal             575        183        350     199              2     4         58     33
+Okara              1417        180        140     217              2     3         12     18
+Pakpattan           774         61         37     112              2     2          6     19
+Rahimyar Khan      2164        609        511             125      3     5         28                21
+Rajanpur            558        139        192                      3     3         16
+Rawalpindi         1281        385        753              24      2     8         18                 1
+Sahiwal            1161        368         96             299      3     6         16                17
+Sargodha            970        272        331             141      1     4          6                24
+Sheikhupura        1203        442        391     219              2    11         16     37
+Sialkot             681        131        486                      1     4         20
+Toba Tek Singh     1080        344        175     302              3     7         10     50
+Vehari             1204        427         94     184              3     5          8     31
+TOTAL/AVERAGE     37298       9465       8987    2708    2310      2     5         12     17          9
+
+
+
+
+
+
+
+
+
+
+10
+
+---
+
+    Deliveries Coverage at Health Facility
+
+    Fig. 4 Percentage of Deliveries Conducted During the Week 51
+120%
+100%
+ 80%
+ 60%
+ 40%
+ 20%
+  0%
+
+
+
+
+    C-Sections    NORMAL DELIVERIES+VF DELIVERIES
+
+
+
+    The statistics of delivery coverage at health facility (fig. 4) of Punjab showed that the highest i.e. 46% C-section has
+    been reported from district Lahore.
+
+    Total Number of Deliveries Conducted and PNC-1 Visits
+
+                                                   Fig. 5
+    6000
+    5000
+    4000
+    3000
+    2000
+    1000
+       0
+
+
+
+
+  ANC-1 VISITS  PNC-1 VISITS  TOTAL DELIVERIES
+
+  According to the data reported on DHIS-2(Fig. 5), the highest number of deliveries were reported in district Rahimyar Khan i i.e.
+  1,150 whereas PNC-1 and ANC-1 visits were 3,446 and 1,145
+
+  DHIS-II WEEK LY REPORTED INDOOR PATIENT (IPD), WEEK 51
+
+  Fig. 6 Indoor Total Admissions
+  43338
+  50000
+  45000
+  40000
+  35000
+  30000
+  25000  13318
+  11224
+  20000
+  15000  6663
+  5638
+  5386
+  5309
+  5142
+  4975
+  4597
+  4366
+  3978
+  3223
+  3105
+  2740
+  2687
+  2556
+  2318
+  2183
+  2140
+  1865
+  1750
+  1740
+  1727
+  1693
+  1410
+  1342
+  1316
+  1278
+  10000  4456407918039039491264
+  5000
+  0
+
+
+
+
+    11
+
+---
+
+        Fig. 7 Indoor Total Deaths
+                                  881
+1000
+ 800                              485
+ 600
+ 400                              107 136 159 190 213 240
+ 200    8 8 10 12 14 16 18 18 21 22 28 31 33 41 45 53 53 54 61 62 69 70 74 76 90    0 0 0
+   0
+
+
+
+
+
+      Fig. 6 visualizes the total admissions in Indoor and Fig. 7 represented the Indoor Total Deaths during the week 51 of year 2022.The
+    highest number of indoor admissions were reported in district Lahore i.e. 43,338 and also the highest number of indoor total deaths has reported
+    in district Lahore i.e. 881 deaths during the week 51 of year 2022.
+
+      DHIS-II WEEKLY FAMILY PLANNING VISITS, WEEK 51
+
+      Fig. 8 Percentage of Family Planning Visit by Health Facility Wise
+
+  100%
+   80%
+   60%
+   40%
+   20%
+    0%
+
+
+
+
+
+
+    BHU  RHC
+
+
+
+    Fig. 9 Percentage Of Family Planning Visit By Health Facility Wise
+
+ 60%
+ 50%
+ 40%
+ 30%
+ 20%
+ 10%
+  0%
+
+
+
+
+
+                               THQ  DHQ  THOS
+
+    Fig. 8 & 9 exhibit the percentage of Punjab weekly FP visits by facility type wise. During week 51, the overall total FP visits were
+    reported as 36,378. The highest number of FP visits were recorded in district Bhawalnagar i.e. 89% FP Visits under the health
+    facility Basic Health Units
+
+
+
+
+
+
+
+    12
+
+---
+
+                             Table: 4 Weekly Method-wise FP Clients
+
+District           COC                 Condom     DMPA          IUCD        Implants     POP             Tubal    Vasectomy
+                   cycles              Pieces     Inj                                    cycles          Ligation
+Attock                          205     450              204         132         3                  3
+Bahawalnagar                    170     254              121         115         7                  9
+Bahawalpur                       77     205              141          81         4                  3            3
+Bhakkar                          83     301              115          54
+Chakwal                         123     240              173          56         2                  5
+Chiniot                          59     181               67          66                            5
+D.G Khan                        135      81              177          73                            7
+Faisalabad                      440     275               88          90                           68
+Gujranwala                      113     213               80          89                            4
+Gujrat                          136     207              129          92                            7            2
+Hafizabad                        57     134               29          42                            4
+Jhang                           158     194               82          41         1                  7            1
+Jhelum                          166     200              221         116                                         2
+Kasur                           117     120               94          83         2                 32
+Khanewal                        139     387              115          75         1                 13           30
+Khushab                          51     166               49          40         1
+Lahore                           94     355              160          64         2                 16            5
+Layyah                           13     136              111          79                            3             2
+Lodhran                         230     215               67          92                           14            3
+Mandi Bahauddin                 104     152              109          73         3                  1
+Mianwali                        146     226              100          94                           11            6
+Multan                          545     776              302         210
+Muzaffargarh                    317     287              193         114                            4
+Nankana Sahib                   147     102               74          42         6                  1            1
+Narowal                         135     184              101          62                            5
+Okara                           112     240               82          47         1                  2
+Pakpattan                       106     163              113          69         4                  5
+Rahimyar Khan                   220     217              123         116                           29            9
+Rajanpur                        180     262              168          22                           29
+Rawalpindi                      307     384              375          94                           17
+Sahiwal                          81     265              144          31                            6
+Sargodha                        402     556              207         103         2                 12             1
+Sheikhupura                     167     346              173          98                           16
+Sialkot                         279     334              176         100                            9             1
+Toba Tek Singh                  174     319              141          55                           34            1
+Vehari                          324     529              240         107         2                  3            9
+
+Total              6,312               9,656      5,044         2,917       41           384             72       4
+
+
+13
+
+---
+
+Table: 5 Weekly Status of Family Planning Visits
+
+FP  FP  FP
+Total  Total  FP  Total  FP  FP-Total
+DISTRICT  FP  FP  Total  PAFP  Total  PPFP <  Total
+Visits  Visits <  PAFP  <25yr  PPFP  25 y
+25 y
+Attock          1043  62   9     61   2  1177
+Bahawalnagar     813   2   2     18   1   836
+Bahawalpur       674  32   2      8   3   719
+Bhakkar          470  27  44 11  64  11   627
+Chakwal          959  41         13      1013
+Chiniot          526   7         33       566
+D.G Khan         569  35  14     26       644
+Faisalabad      3069 143  87 13 183  13  3508
+Gujranwala       909  32  12     82      1035
+Gujrat           954       7     21       982
+Hafizabad        358   5                  363
+Jhang            561   4          1       566
+Jhelum           801  33  17     29   4   884
+Kasur           1123  70  27     43   1  1264
+Khanewal         832  41         28   4   905
+Khushab          244   1   8     21       274
+Lahore           990  55  58    131   4
+Layyah           506  14   1     10   2   533
+Lodhran          874  12  13      4       903
+Mandi Bahauddin  465   2   9     15       491
+Mianwali         970  59  22 5   47   5  1108
+Multan          2204  28   3     76   5  2316
+Muzaffargarh    1021  30         53      1104
+Nankana Sahib    591   3         41       635
+Narowal          548  15   4     29   9   605
+Okara           1322  37   8     36      1403
+Pakpattan        533   5   6     36       580
+Rahimyar Khan   1728  46  85 7  225  14  2105
+Rajanpur         967  39   4     39      1049
+Rawalpindi      1339  55        123  12  1529
+Sahiwal         1141  61   9     32      1243
+Sargodha        1538  98  12     87  15  1750
+Sheikhupura     1240  46  15     46      1347
+Sialkot         1113  13  93    288      1507
+Toba Tek Singh  1324  49  33     68      1474
+Vehari  2059  65  26  141  5  2296
+Total          36378 1267 630 36 2158 110 39341
+
+
+
+  14

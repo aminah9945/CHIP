@@ -1,0 +1,3253 @@
+                                                 bod  g
+PUBLIC HEALTH BULLETIN-PAKISTAN TH               2e 209
+
+ Integrated Disease             BL
+                           Surveillance
+ & Response (IDSR) Report
+  Center of Disease Control
+  National Institute of Health, Islamabad AKISTAN
+
+                           http:/www.phb.nih.org.pk/
+Integrated Disease Surveillance & Response (IDSR) Weekly Public Health Bulletin is your go-to resource
+for disease trends, outbreak alerts, and crucial public health information. By reading and sharing this bulletin,
+you can help increase awareness and promote preventive measures within your community.
+
+
+
+
+
+
+   Public Health
+   Bulletin
+   Pakistan
+  Make a difference with
+   your Field work
+
+   C    Share Your Workand Impac t Lives
+
+                      www.phb.nih.org.pk
+                          phb@nih.org.pk
+
+
+
+   CD     UK Health     World Health    USAID    safetynet
+          Security
+          Agency        Organization    I
+
+---
+
+   HEAL
+   TH
+Public Health Bulletin - Pakistan.     :  F NE
+
+                                       PAKISTAN
+
+
+
+
+
+
+
+  Overview                      Public Health Bulletin - Pakistan, Week 02, 2024
+                    This week's bulletin reveals critical trends and insights relevant to public health
+                    in Pakistan:
+ IDSR Reports
+                              The latest public health bulletin highlights critical trends and insights
+                    impacting Pakistan. This week, reported cases of Acute Diarrhea (Non-
+ Ongoing Events     Cholera), Influenza-like Illness (ILI), and Malaria have reached concerning
+                    levels, prompting heightened public health vigilance. Suspected Brucellosis
+                    cases in Khyber Pakhtunkhwa (KP) warrants close monitoring. All reported
+                    cases are currently suspected and require thorough field investigation.
+ Field Reports
+                                   This edition showcases the remarkable evolution of Pakistan's public
+                    health system. It highlights the country's landmark initiative to enhance early
+                    outbreak detection and response, as well as its pioneering role in global
+                    pandemic preparedness, as evidenced by the inaugural Health Security
+                    Summit, 2024. The Islamabad Declaration of the Global Health Security
+                    Summit and report on the NID anti-polio campaign in Rawalpindi are included
+                    in this edition. Empowering individuals is crucial for disease control, and the
+                    editor provides an update on the One Health initiative, a holistic approach to
+                    global health security.
+                    .
+
+                                                                                Sincerely,
+                                           The Chief Editor
+
+
+
+
+
+
+
+
+
+
+   NID     UK Health    World Health    USAID    safetynet
+           Security
+           Agency       Organization    WI
+                                          DE
+
+---
+
+Overview
+
+
+
+
+           •     During week 2, the most frequently reported cases were of Acute Diarrhea (Non-Cholera)
+
+                followed by Malaria, ILI, ALRI <5 years, TB, VH (B, C & D), B. Diarrhea, Typhoid, SARI and dog
+
+                 bite.
+
+           •     Twenty cases of AFP reported from KP and seven from Sindh. All are suspected cases and need
+
+                field verification.
+
+           •     Five suspected cases of Brucellosis reported from KP. Field investigation required to verify the
+
+                 cases.
+
+                         IDSR compliance attributes
+
+    •     The national compliance rate for IDSR reporting in 124 implemented districts is 73%
+    •     AJK, Gilgit Baltistan and Sindh are the top reporting regions with a compliance rate of 89% followed by
+          Baluchistan 76%
+    •     The lowest compliance rate was observed in KPK.
+
+    
+<table>
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Expected Reports</th>
+      <th>Received Reports</th>
+      <th>Compliance (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Khyber Pakhtunkhwa</td>
+      <td>2760</td>
+      <td>1512</td>
+      <td>55</td>
+    </tr>
+    <tr>
+      <td>Azad Jammu Kashmir</td>
+      <td>382</td>
+      <td>340</td>
+      <td>89</td>
+    </tr>
+    <tr>
+      <td>Islamabad Capital Territory</td>
+      <td>70</td>
+      <td>42</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>Balochistan</td>
+      <td>1179</td>
+      <td>899</td>
+      <td>76</td>
+    </tr>
+    <tr>
+      <td>Gilgit Baltistan</td>
+      <td>390</td>
+      <td>349</td>
+      <td>89</td>
+    </tr>
+    <tr>
+      <td>Sindh</td>
+      <td>2088</td>
+      <td>1855</td>
+      <td>89</td>
+    </tr>
+    <tr>
+      <td>National</td>
+      <td>6869</td>
+      <td>4993</td>
+      <td>73</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+    CD     UK Health     World Health     USAID    safetynet
+           Security
+           Agency        Organization     I
+
+---
+
+Pakistan
+
+
+
+
+
+Table 1: Province/Area wise distribution of most frequently reported suspected cases during week 02, Pakistan.
+
+<table>
+    <thead>
+    <tr>
+        <th>Diseases</th>
+        <th>AJK</th>
+        <th>Balochistan</th>
+        <th>GB</th>
+        <th>ICT</th>
+        <th>KP</th>
+        <th>Punjab</th>
+        <th>Sindh</th>
+        <th>Total</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>AD (Non-Cholera)</td>
+        <td>1,067</td>
+        <td>5,068</td>
+        <td>418</td>
+        <td>176</td>
+        <td>10,147</td>
+        <td>42,744</td>
+        <td>30,464</td>
+        <td>90,084</td>
+    </tr>
+    <tr>
+        <td>Malaria</td>
+        <td>63</td>
+        <td>4,719</td>
+        <td>1</td>
+        <td>0</td>
+        <td>2,344</td>
+        <td>2,077</td>
+        <td>39,291</td>
+        <td>48,504</td>
+    </tr>
+    <tr>
+        <td>ILI</td>
+        <td>3,743</td>
+        <td>9,069</td>
+        <td>600</td>
+        <td>1,086</td>
+        <td>6,833</td>
+        <td>123</td>
+        <td>25,533</td>
+        <td>46,987</td>
+    </tr>
+    <tr>
+        <td>ALRI &lt; 5 years</td>
+        <td>1,862</td>
+        <td>2,675</td>
+        <td>923</td>
+        <td>0</td>
+        <td>2,229</td>
+        <td>NR</td>
+        <td>13,969</td>
+        <td>21,649</td>
+    </tr>
+    <tr>
+        <td>TB</td>
+        <td>77</td>
+        <td>121</td>
+        <td>61</td>
+        <td>6</td>
+        <td>298</td>
+        <td>NR</td>
+        <td>11,349</td>
+        <td>11,921</td>
+    </tr>
+    <tr>
+        <td>VH (B, C & D)</td>
+        <td>18</td>
+        <td>103</td>
+        <td>2</td>
+        <td>0</td>
+        <td>53</td>
+        <td>NR</td>
+        <td>5,649</td>
+        <td>5,825</td>
+    </tr>
+    <tr>
+        <td>B.Diarrhea</td>
+        <td>55</td>
+        <td>1,188</td>
+        <td>54</td>
+        <td>1</td>
+        <td>476</td>
+        <td>982</td>
+        <td>3,004</td>
+        <td>5,760</td>
+    </tr>
+    <tr>
+        <td>Typhoid</td>
+        <td>17</td>
+        <td>670</td>
+        <td>54</td>
+        <td>0</td>
+        <td>444</td>
+        <td>1,906</td>
+        <td>1,110</td>
+        <td>4,201</td>
+    </tr>
+    <tr>
+        <td>SARI</td>
+        <td>534</td>
+        <td>1,243</td>
+        <td>445</td>
+        <td>0</td>
+        <td>1,423</td>
+        <td>NR</td>
+        <td>407</td>
+        <td>4,052</td>
+    </tr>
+    <tr>
+        <td>Dog Bite</td>
+        <td>22</td>
+        <td>122</td>
+        <td>0</td>
+        <td>0</td>
+        <td>180</td>
+        <td>NR</td>
+        <td>1,486</td>
+        <td>1,810</td>
+    </tr>
+    <tr>
+        <td>AVH(A&E)</td>
+        <td>26</td>
+        <td>26</td>
+        <td>8</td>
+        <td>0</td>
+        <td>158</td>
+        <td>NR</td>
+        <td>742</td>
+        <td>960</td>
+    </tr>
+    <tr>
+        <td>Measles</td>
+        <td>3</td>
+        <td>34</td>
+        <td>11</td>
+        <td>0</td>
+        <td>348</td>
+        <td>NR</td>
+        <td>75</td>
+        <td>471</td>
+    </tr>
+    <tr>
+        <td>CL</td>
+        <td>0</td>
+        <td>201</td>
+        <td>0</td>
+        <td>0</td>
+        <td>218</td>
+        <td>27</td>
+        <td>0</td>
+        <td>446</td>
+    </tr>
+    <tr>
+        <td>Mumps</td>
+        <td>18</td>
+        <td>74</td>
+        <td>18</td>
+        <td>0</td>
+        <td>50</td>
+        <td>NR</td>
+        <td>286</td>
+        <td>446</td>
+    </tr>
+    <tr>
+        <td>AWD (S. Cholera)</td>
+        <td>44</td>
+        <td>198</td>
+        <td>78</td>
+        <td>0</td>
+        <td>28</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>348</td>
+    </tr>
+    <tr>
+        <td>Pertussis</td>
+        <td>4</td>
+        <td>181</td>
+        <td>11</td>
+        <td>0</td>
+        <td>42</td>
+        <td>NR</td>
+        <td>9</td>
+        <td>247</td>
+    </tr>
+    <tr>
+        <td>Dengue</td>
+        <td>0</td>
+        <td>0</td>
+        <td>12</td>
+        <td>0</td>
+        <td>4</td>
+        <td>NR</td>
+        <td>80</td>
+        <td>96</td>
+    </tr>
+    <tr>
+        <td>Chickenpox/ Varicella</td>
+        <td>0</td>
+        <td>11</td>
+        <td>6</td>
+        <td>1</td>
+        <td>49</td>
+        <td>49</td>
+        <td>24</td>
+        <td>91</td>
+    </tr>
+    <tr>
+        <td>Gonorrhea</td>
+        <td>0</td>
+        <td>36</td>
+        <td>7</td>
+        <td>0</td>
+        <td>10</td>
+        <td>NR</td>
+        <td>22</td>
+        <td>75</td>
+    </tr>
+    <tr>
+        <td>AFP</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>20</td>
+        <td>NR</td>
+        <td>7</td>
+        <td>32</td>
+    </tr>
+    <tr>
+        <td>Meningitis</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>5</td>
+        <td>NR</td>
+        <td>15</td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td>Syphilis</td>
+        <td>0</td>
+        <td>9</td>
+        <td>8</td>
+        <td>0</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>NT</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>10</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>VL</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>4</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Diphtheria (Probable)</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>4</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Brucellosis</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>5</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>HIV/AIDS</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>3</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+Figure 1: Most frequently reported suspected cases during week 02, Pakistan.
+
+
+
+
+120,000    W52    W1    W2
+
+
+100,000
+       90,084
+NUMBER OF CASES
+
+80,000
+
+
+60,000
+          48,504  46,987
+
+40,000
+
+                        21,649
+20,000                        11,921
+                                    5,825    5,760    4,201    4,052    1,810
+
+0
+AD (Non-  Malaria    ILI    ALRI < 5 years  TB  VH (B, C & D)  B. Diarrhea  Typhoid  SARI    Dog Bite
+Cholera)
+
+
+
+
+
+
+
+
+
+
+NIN     UK Health     World Health     USAID    safetynet
+        Security
+        Agency        Organization     I
+
+---
+
+           •  Malaria cases were maximum followed by AD (Non-Cholera), ILI, ALRI<5 Years, TB, VH (B, C, D), B. Diarrhea, dog bite, Typhoid and AVH
+    Sindh  •  (A&E).
+              Malaria cases are from Larkana, Khairpur and Dadu whereas AD cases are mostly from Dadu, Khairpur and Badin.
+           •  Seven cases of AFP reported from Sindh. All are suspected cases and need field verification.
+           •  There is an increasing trend in cases observed for Malaria, AD (Non- Cholera), ILI, ALRI<5 Years, and VH (B, C, D) cases this week.
+
+
+
+    Table 2: District wise distribution of most frequently reported suspected cases during week 02, Sindh
+    
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICTS</th>
+        <th>Malaria</th>
+        <th>AD 
+(Non-
+Cholera)</th>
+        <th>ILI</th>
+        <th>ALRI &lt; 
+5 years</th>
+        <th>TB</th>
+        <th>VH (B, C & D)</th>
+        <th>B. Diarrhea</th>
+        <th>Dog Bite</th>
+        <th>Typhoid</th>
+        <th>AVH(A&E)</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Badin</td>
+        <td>1,875</td>
+        <td>1,871</td>
+        <td>657</td>
+        <td>801</td>
+        <td>862</td>
+        <td>297</td>
+        <td>203</td>
+        <td>61</td>
+        <td>37</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Dadu</td>
+        <td>3,271</td>
+        <td>2,619</td>
+        <td>230</td>
+        <td>1,175</td>
+        <td>474</td>
+        <td>6</td>
+        <td>445</td>
+        <td>76</td>
+        <td>233</td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td>Ghotki</td>
+        <td>271</td>
+        <td>431</td>
+        <td>0</td>
+        <td>633</td>
+        <td>161</td>
+        <td>243</td>
+        <td>65</td>
+        <td>154</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Hyderabad</td>
+        <td>167</td>
+        <td>903</td>
+        <td>781</td>
+        <td>98</td>
+        <td>127</td>
+        <td>43</td>
+        <td>35</td>
+        <td>0</td>
+        <td>19</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Jacobabad</td>
+        <td>1,328</td>
+        <td>640</td>
+        <td>507</td>
+        <td>753</td>
+        <td>173</td>
+        <td>565</td>
+        <td>108</td>
+        <td>111</td>
+        <td>18</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Jamshoro</td>
+        <td>1,657</td>
+        <td>1,122</td>
+        <td>91</td>
+        <td>290</td>
+        <td>288</td>
+        <td>104</td>
+        <td>55</td>
+        <td>12</td>
+        <td>49</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Kamber</td>
+        <td>2,968</td>
+        <td>1,150</td>
+        <td>0</td>
+        <td>530</td>
+        <td>906</td>
+        <td>284</td>
+        <td>144</td>
+        <td>48</td>
+        <td>57</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi Central</td>
+        <td>44</td>
+        <td>1,020</td>
+        <td>2,540</td>
+        <td>150</td>
+        <td>848</td>
+        <td>382</td>
+        <td>14</td>
+        <td>0</td>
+        <td>78</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Karachi East</td>
+        <td>108</td>
+        <td>673</td>
+        <td>496</td>
+        <td>75</td>
+        <td>14</td>
+        <td>0</td>
+        <td>13</td>
+        <td>6</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi Keamari</td>
+        <td>6</td>
+        <td>232</td>
+        <td>131</td>
+        <td>39</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>6</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi Korangi</td>
+        <td>56</td>
+        <td>206</td>
+        <td>109</td>
+        <td>4</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi Malir</td>
+        <td>59</td>
+        <td>631</td>
+        <td>2,574</td>
+        <td>322</td>
+        <td>64</td>
+        <td>17</td>
+        <td>59</td>
+        <td>29</td>
+        <td>25</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Karachi South</td>
+        <td>24</td>
+        <td>104</td>
+        <td>14</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi West</td>
+        <td>145</td>
+        <td>811</td>
+        <td>749</td>
+        <td>167</td>
+        <td>93</td>
+        <td>24</td>
+        <td>38</td>
+        <td>43</td>
+        <td>27</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>Kashmore</td>
+        <td>1,659</td>
+        <td>449</td>
+        <td>964</td>
+        <td>347</td>
+        <td>245</td>
+        <td>28</td>
+        <td>46</td>
+        <td>212</td>
+        <td>13</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Khairpur</td>
+        <td>4,312</td>
+        <td>2,571</td>
+        <td>4,309</td>
+        <td>1,483</td>
+        <td>880</td>
+        <td>661</td>
+        <td>568</td>
+        <td>178</td>
+        <td>189</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Larkana</td>
+        <td>5,139</td>
+        <td>1,410</td>
+        <td>5</td>
+        <td>881</td>
+        <td>820</td>
+        <td>161</td>
+        <td>199</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Matiari</td>
+        <td>998</td>
+        <td>1,025</td>
+        <td>13</td>
+        <td>634</td>
+        <td>588</td>
+        <td>502</td>
+        <td>64</td>
+        <td>30</td>
+        <td>11</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Mirpurkhas</td>
+        <td>2,047</td>
+        <td>1,818</td>
+        <td>4,008</td>
+        <td>937</td>
+        <td>651</td>
+        <td>164</td>
+        <td>70</td>
+        <td>55</td>
+        <td>12</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Naushero Feroze</td>
+        <td>689</td>
+        <td>563</td>
+        <td>999</td>
+        <td>185</td>
+        <td>360</td>
+        <td>79</td>
+        <td>48</td>
+        <td>96</td>
+        <td>62</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sanghar</td>
+        <td>2,369</td>
+        <td>1,535</td>
+        <td>54</td>
+        <td>558</td>
+        <td>1268</td>
+        <td>806</td>
+        <td>58</td>
+        <td>176</td>
+        <td>39</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Shaheed Benazirabad</td>
+        <td>1,191</td>
+        <td>1,438</td>
+        <td>0</td>
+        <td>596</td>
+        <td>328</td>
+        <td>123</td>
+        <td>71</td>
+        <td>31</td>
+        <td>143</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Shikarpur</td>
+        <td>1,662</td>
+        <td>708</td>
+        <td>3</td>
+        <td>198</td>
+        <td>94</td>
+        <td>200</td>
+        <td>82</td>
+        <td>108</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sujawal</td>
+        <td>454</td>
+        <td>154</td>
+        <td>0</td>
+        <td>108</td>
+        <td>53</td>
+        <td>0</td>
+        <td>27</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sukkur</td>
+        <td>1,814</td>
+        <td>899</td>
+        <td>2,033</td>
+        <td>387</td>
+        <td>426</td>
+        <td>152</td>
+        <td>162</td>
+        <td>32</td>
+        <td>5</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tando Allahyar</td>
+        <td>821</td>
+        <td>1,054</td>
+        <td>1,122</td>
+        <td>399</td>
+        <td>412</td>
+        <td>259</td>
+        <td>107</td>
+        <td>2</td>
+        <td>12</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Tando Muhammad 
+Khan</td>
+        <td>557</td>
+        <td>520</td>
+        <td>0</td>
+        <td>200</td>
+        <td>397</td>
+        <td>36</td>
+        <td>54</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tharparkar</td>
+        <td>1,749</td>
+        <td>1,833</td>
+        <td>2,060</td>
+        <td>991</td>
+        <td>535</td>
+        <td>30</td>
+        <td>108</td>
+        <td>0</td>
+        <td>30</td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>Thatta</td>
+        <td>1,039</td>
+        <td>989</td>
+        <td>1,084</td>
+        <td>581</td>
+        <td>14</td>
+        <td>149</td>
+        <td>80</td>
+        <td>24</td>
+        <td>9</td>
+        <td>677</td>
+    </tr>
+    <tr>
+        <td>Umerkot</td>
+        <td>803</td>
+        <td>1,085</td>
+        <td>0</td>
+        <td>447</td>
+        <td>266</td>
+        <td>334</td>
+        <td>81</td>
+        <td>0</td>
+        <td>29</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>39,282</td>
+        <td>30,464</td>
+        <td>25,533</td>
+        <td>13,969</td>
+        <td>11,349</td>
+        <td>5,649</td>
+        <td>3,004</td>
+        <td>1,486</td>
+        <td>1,110</td>
+        <td>742</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+    Figure 2: Most frequently reported suspected cases during week 02 Sindh
+
+45,000                                                                     W52    W1    W2
+                   39,282
+40,000
+    NUMBER OF CASES
+35,000                   30,464
+30,000                         25,533
+25,000
+20,000
+                                     13,969
+15,000                                     11,349
+10,000                                           5,649
+ 5,000                                                                     3,004    1,486    1,110    742
+     0
+          Malaria  AD (Non-    ILI    ALRI < 5 years  TB  VH (B, C & D)  B. Diarrhea  Dog Bite  Typhoid  AVH (A & E)
+                   Cholera)
+
+
+
+
+
+
+    NIE     UK Health     World Health    USAID    safetynet
+            Security
+            Agency        Organization
+
+---
+
+                •     ILI, AD (Non-Cholera), Malaria, ALRI <5 years, SARI, B. Diarrhea, Typhoid, CL, AWD (S. Cholera) and Pertussis were
+                      the most frequently reported diseases from Balochistan province.
+Balochistan     •     Trend for ILI, Malaria and ALRI <5 years cases remained almost same this week.
+                •     Cases of Pertussis were reported in high numbers from Kohlu and Jhal Magsi and CL from Quetta and Jaffarabad. All
+                      are suspected cases and need field investigation to verify the cases.
+
+   ..
+
+     Table 3: District wise distribution of most frequently reported suspected cases during week 02, Balochistan
+
+
+   
+<table>
+    <thead>
+    <tr>
+        <th>Districts</th>
+        <th>ILI</th>
+        <th>AD Non-
+Cholera)</th>
+        <th>Malaria</th>
+        <th>ALRI &lt; 5 
+years</th>
+        <th>SARI</th>
+        <th>B. 
+Diarrhea</th>
+        <th>Typhoid</th>
+        <th>CL</th>
+        <th>AWD 
+(S.Cholera)</th>
+        <th>Pertussis</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Awaran</td>
+        <td>46</td>
+        <td>40</td>
+        <td>61</td>
+        <td>1</td>
+        <td>3</td>
+        <td>13</td>
+        <td>6</td>
+        <td>0</td>
+        <td>2</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Barkhan</td>
+        <td>182</td>
+        <td>90</td>
+        <td>27</td>
+        <td>163</td>
+        <td>11</td>
+        <td>5</td>
+        <td>56</td>
+        <td>0</td>
+        <td>23</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Chagai</td>
+        <td>397</td>
+        <td>142</td>
+        <td>21</td>
+        <td>5</td>
+        <td>0</td>
+        <td>49</td>
+        <td>25</td>
+        <td>0</td>
+        <td>15</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Chaman</td>
+        <td>172</td>
+        <td>78</td>
+        <td>5</td>
+        <td>21</td>
+        <td>54</td>
+        <td>60</td>
+        <td>38</td>
+        <td>4</td>
+        <td>7</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>Dera Bugti</td>
+        <td>51</td>
+        <td>56</td>
+        <td>171</td>
+        <td>42</td>
+        <td>11</td>
+        <td>49</td>
+        <td>15</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Duki</td>
+        <td>64</td>
+        <td>93</td>
+        <td>12</td>
+        <td>48</td>
+        <td>56</td>
+        <td>47</td>
+        <td>5</td>
+        <td>2</td>
+        <td>8</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Gwadar</td>
+        <td>652</td>
+        <td>306</td>
+        <td>62</td>
+        <td>5</td>
+        <td>3</td>
+        <td>32</td>
+        <td>3</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Harnai</td>
+        <td>19</td>
+        <td>80</td>
+        <td>57</td>
+        <td>173</td>
+        <td>0</td>
+        <td>18</td>
+        <td>1</td>
+        <td>0</td>
+        <td>10</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Hub</td>
+        <td>249</td>
+        <td>199</td>
+        <td>199</td>
+        <td>98</td>
+        <td>82</td>
+        <td>52</td>
+        <td>5</td>
+        <td>9</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Jaffarabad</td>
+        <td>157</td>
+        <td>184</td>
+        <td>477</td>
+        <td>51</td>
+        <td>22</td>
+        <td>48</td>
+        <td>7</td>
+        <td>46</td>
+        <td>0</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Jhal Magsi</td>
+        <td>344</td>
+        <td>283</td>
+        <td>541</td>
+        <td>47</td>
+        <td>12</td>
+        <td>5</td>
+        <td>4</td>
+        <td>0</td>
+        <td>1</td>
+        <td>27</td>
+    </tr>
+    <tr>
+        <td>Kachhi (Bolan)</td>
+        <td>107</td>
+        <td>231</td>
+        <td>199</td>
+        <td>19</td>
+        <td>101</td>
+        <td>17</td>
+        <td>46</td>
+        <td>1</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kalat</td>
+        <td>3</td>
+        <td>21</td>
+        <td>20</td>
+        <td>11</td>
+        <td>3</td>
+        <td>14</td>
+        <td>25</td>
+        <td>10</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kech (Turbat)</td>
+        <td>1,194</td>
+        <td>332</td>
+        <td>238</td>
+        <td>151</td>
+        <td>1</td>
+        <td>40</td>
+        <td>1</td>
+        <td>1</td>
+        <td>NR</td>
+        <td>NR</td>
+    </tr>
+    <tr>
+        <td>Kharan</td>
+        <td>429</td>
+        <td>117</td>
+        <td>22</td>
+        <td>3</td>
+        <td>4</td>
+        <td>42</td>
+        <td>3</td>
+        <td>0</td>
+        <td>9</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Khuzdar</td>
+        <td>108</td>
+        <td>60</td>
+        <td>26</td>
+        <td>0</td>
+        <td>3</td>
+        <td>30</td>
+        <td>9</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Killa Saifullah</td>
+        <td>7</td>
+        <td>103</td>
+        <td>112</td>
+        <td>136</td>
+        <td>32</td>
+        <td>62</td>
+        <td>21</td>
+        <td>9</td>
+        <td>1</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Kohlu</td>
+        <td>631</td>
+        <td>250</td>
+        <td>89</td>
+        <td>53</td>
+        <td>165</td>
+        <td>77</td>
+        <td>32</td>
+        <td>9</td>
+        <td>8</td>
+        <td>53</td>
+    </tr>
+    <tr>
+        <td>Lasbella</td>
+        <td>111</td>
+        <td>245</td>
+        <td>397</td>
+        <td>141</td>
+        <td>47</td>
+        <td>24</td>
+        <td>1</td>
+        <td>15</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Loralai</td>
+        <td>388</td>
+        <td>121</td>
+        <td>55</td>
+        <td>46</td>
+        <td>114</td>
+        <td>54</td>
+        <td>33</td>
+        <td>3</td>
+        <td>0</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Mastung</td>
+        <td>302</td>
+        <td>175</td>
+        <td>55</td>
+        <td>105</td>
+        <td>105</td>
+        <td>35</td>
+        <td>35</td>
+        <td>7</td>
+        <td>12</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>Musa Khel</td>
+        <td>143</td>
+        <td>64</td>
+        <td>94</td>
+        <td>50</td>
+        <td>21</td>
+        <td>27</td>
+        <td>26</td>
+        <td>0</td>
+        <td>17</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>Naseerabad</td>
+        <td>1</td>
+        <td>243</td>
+        <td>327</td>
+        <td>41</td>
+        <td>1</td>
+        <td>19</td>
+        <td>54</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Panjgur</td>
+        <td>115</td>
+        <td>116</td>
+        <td>100</td>
+        <td>154</td>
+        <td>10</td>
+        <td>36</td>
+        <td>8</td>
+        <td>2</td>
+        <td>27</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Pishin</td>
+        <td>203</td>
+        <td>4</td>
+        <td>2</td>
+        <td>32</td>
+        <td>4</td>
+        <td>15</td>
+        <td>5</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Quetta</td>
+        <td>1,289</td>
+        <td>356</td>
+        <td>19</td>
+        <td>99</td>
+        <td>4</td>
+        <td>50</td>
+        <td>25</td>
+        <td>56</td>
+        <td>5</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sherani</td>
+        <td>165</td>
+        <td>56</td>
+        <td>0</td>
+        <td>0</td>
+        <td>144</td>
+        <td>25</td>
+        <td>13</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sibi</td>
+        <td>282</td>
+        <td>169</td>
+        <td>292</td>
+        <td>75</td>
+        <td>33</td>
+        <td>37</td>
+        <td>35</td>
+        <td>10</td>
+        <td>25</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>Sohbat pur</td>
+        <td>31</td>
+        <td>242</td>
+        <td>520</td>
+        <td>182</td>
+        <td>37</td>
+        <td>34</td>
+        <td>51</td>
+        <td>5</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Surab</td>
+        <td>126</td>
+        <td>72</td>
+        <td>27</td>
+        <td>18</td>
+        <td>23</td>
+        <td>2</td>
+        <td>36</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Usta Muhammad</td>
+        <td>209</td>
+        <td>285</td>
+        <td>369</td>
+        <td>294</td>
+        <td>10</td>
+        <td>52</td>
+        <td>18</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Washuk</td>
+        <td>315</td>
+        <td>66</td>
+        <td>36</td>
+        <td>0</td>
+        <td>4</td>
+        <td>47</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Zhob</td>
+        <td>303</td>
+        <td>112</td>
+        <td>68</td>
+        <td>385</td>
+        <td>121</td>
+        <td>43</td>
+        <td>9</td>
+        <td>0</td>
+        <td>2</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>Ziarat</td>
+        <td>274</td>
+        <td>77</td>
+        <td>19</td>
+        <td>26</td>
+        <td>2</td>
+        <td>28</td>
+        <td>18</td>
+        <td>0</td>
+        <td>20</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>9,069</td>
+        <td>5,068</td>
+        <td>4,719</td>
+        <td>2,675</td>
+        <td>1,243</td>
+        <td>1,188</td>
+        <td>670</td>
+        <td>201</td>
+        <td>198</td>
+        <td>181</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+   Figure 3: Most frequently reported suspected cases during week 02, Balochistan
+
+   10,000         9,069                                                          W52  W1                   W2
+   9,000
+   NUMBER OF CASES
+   8,000
+   7,000
+   6,000                   5,068    4,719
+   5,000
+   4,000
+   3,000                                 2,675
+   2,000                                      1,243    1,188
+   1,000                                                    670                       201         198        181
+   0
+             ILI    AD (Non-        Malaria  ALRI < 5 years  SARI  B. Diarrhea  Typhoid    CL     AWD (S.    Pertussis
+                    Cholera)                                                                      Cholera)
+
+
+
+   NID     UK Health    World Health     USAID    safetynet
+           Security
+           Agency       Organization     u
+
+---
+
+                 •     Cases of AD (Non-Cholera) were maximum followed by ILI, Malaria, ALRI<5 Years, SARI, B. Diarrhea, Typhoid,
+ Khyber                Measles, TB and CL cases.
+ Pakhtunkhwa     •     AD (Non-Cholera), ILI, and Malaria cases showed a decline trend this week.
+                 •     Twenty suspected cases of AFP reported from KP this week. Field investigation required to verify the cases.
+                 •     Five suspected cases of Brucellosis reported from KP. Field investigation required to verify the cases.
+
+
+
+
+    Table 4: District wise distribution of most frequently reported suspected cases during week 02, KP
+    
+<table>
+  <thead>
+    <tr>
+      <th>Districts</th>
+      <th>AD (Non-
+Cholera)</th>
+      <th>ILI</th>
+      <th>Malaria</th>
+      <th>ALRI &lt;5 Years</th>
+      <th>SARI</th>
+      <th>B. Diarrhea</th>
+      <th>Typhoid</th>
+      <th>Measles</th>
+      <th>TB</th>
+      <th>CL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Abbottabad</td>
+      <td>281</td>
+      <td>117</td>
+      <td>1</td>
+      <td>17</td>
+      <td>30</td>
+      <td>4</td>
+      <td>4</td>
+      <td>0</td>
+      <td>24</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Bajaur</td>
+      <td>89</td>
+      <td>31</td>
+      <td>31</td>
+      <td>20</td>
+      <td>15</td>
+      <td>14</td>
+      <td>3</td>
+      <td>4</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Bannu</td>
+      <td>407</td>
+      <td>0</td>
+      <td>659</td>
+      <td>25</td>
+      <td>5</td>
+      <td>6</td>
+      <td>46</td>
+      <td>2</td>
+      <td>26</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Battagram</td>
+      <td>78</td>
+      <td>391</td>
+      <td>7</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Buner</td>
+      <td>140</td>
+      <td>1</td>
+      <td>121</td>
+      <td>71</td>
+      <td>0</td>
+      <td>2</td>
+      <td>1</td>
+      <td>0</td>
+      <td>3</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Charsadda</td>
+      <td>479</td>
+      <td>687</td>
+      <td>196</td>
+      <td>216</td>
+      <td>98</td>
+      <td>19</td>
+      <td>22</td>
+      <td>4</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Chitral Lower</td>
+      <td>164</td>
+      <td>93</td>
+      <td>5</td>
+      <td>22</td>
+      <td>77</td>
+      <td>13</td>
+      <td>8</td>
+      <td>1</td>
+      <td>6</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Chitral Upper</td>
+      <td>49</td>
+      <td>17</td>
+      <td>1</td>
+      <td>26</td>
+      <td>9</td>
+      <td>2</td>
+      <td>13</td>
+      <td>0</td>
+      <td>6</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>D.I. Khan</td>
+      <td>473</td>
+      <td>0</td>
+      <td>130</td>
+      <td>41</td>
+      <td>34</td>
+      <td>10</td>
+      <td>0</td>
+      <td>63</td>
+      <td>18</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Dir Lower</td>
+      <td>655</td>
+      <td>4</td>
+      <td>462</td>
+      <td>266</td>
+      <td>1</td>
+      <td>62</td>
+      <td>21</td>
+      <td>20</td>
+      <td>17</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Dir Upper</td>
+      <td>206</td>
+      <td>213</td>
+      <td>2</td>
+      <td>16</td>
+      <td>11</td>
+      <td>1</td>
+      <td>19</td>
+      <td>5</td>
+      <td>19</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Hangu</td>
+      <td>83</td>
+      <td>175</td>
+      <td>181</td>
+      <td>5</td>
+      <td>56</td>
+      <td>3</td>
+      <td>3</td>
+      <td>11</td>
+      <td>8</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td>Haripur</td>
+      <td>646</td>
+      <td>691</td>
+      <td>1</td>
+      <td>156</td>
+      <td>56</td>
+      <td>5</td>
+      <td>24</td>
+      <td>4</td>
+      <td>25</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Karak</td>
+      <td>201</td>
+      <td>93</td>
+      <td>43</td>
+      <td>26</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+      <td>49</td>
+      <td>11</td>
+      <td>45</td>
+    </tr>
+    <tr>
+      <td>Khyber</td>
+      <td>66</td>
+      <td>160</td>
+      <td>7</td>
+      <td>21</td>
+      <td>5</td>
+      <td>14</td>
+      <td>3</td>
+      <td>4</td>
+      <td>3</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>Kohat</td>
+      <td>69</td>
+      <td>46</td>
+      <td>23</td>
+      <td>0</td>
+      <td>8</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Kohistan Lower</td>
+      <td>59</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>2</td>
+      <td>0</td>
+      <td>5</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Kohistan Upper</td>
+      <td>174</td>
+      <td>55</td>
+      <td>0</td>
+      <td>9</td>
+      <td>0</td>
+      <td>8</td>
+      <td>0</td>
+      <td>8</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Kolai Palas</td>
+      <td>65</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+      <td>29</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>L & C Kurram</td>
+      <td>2</td>
+      <td>86</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>4</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Lakki Marwat</td>
+      <td>214</td>
+      <td>3</td>
+      <td>97</td>
+      <td>88</td>
+      <td>0</td>
+      <td>9</td>
+      <td>9</td>
+      <td>9</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Malakand</td>
+      <td>395</td>
+      <td>18</td>
+      <td>10</td>
+      <td>63</td>
+      <td>32</td>
+      <td>53</td>
+      <td>21</td>
+      <td>21</td>
+      <td>1</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td>Mansehra</td>
+      <td>255</td>
+      <td>467</td>
+      <td>0</td>
+      <td>39</td>
+      <td>50</td>
+      <td>9</td>
+      <td>20</td>
+      <td>5</td>
+      <td>7</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Mardan</td>
+      <td>511</td>
+      <td>96</td>
+      <td>16</td>
+      <td>357</td>
+      <td>2</td>
+      <td>21</td>
+      <td>0</td>
+      <td>7</td>
+      <td>13</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Mohmand</td>
+      <td>89</td>
+      <td>87</td>
+      <td>46</td>
+      <td>12</td>
+      <td>27</td>
+      <td>13</td>
+      <td>13</td>
+      <td>0</td>
+      <td>0</td>
+      <td>54</td>
+    </tr>
+    <tr>
+      <td>Nowshera</td>
+      <td>492</td>
+      <td>250</td>
+      <td>48</td>
+      <td>26</td>
+      <td>21</td>
+      <td>11</td>
+      <td>8</td>
+      <td>18</td>
+      <td>20</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td>Orakzai</td>
+      <td>1</td>
+      <td>9</td>
+      <td>2</td>
+      <td>5</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Peshawar</td>
+      <td>1,504</td>
+      <td>978</td>
+      <td>16</td>
+      <td>245</td>
+      <td>136</td>
+      <td>92</td>
+      <td>36</td>
+      <td>43</td>
+      <td>3</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td>SD DI Khan</td>
+      <td>6</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>SD Peshawar</td>
+      <td>0</td>
+      <td>32</td>
+      <td>3</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>SD Tank</td>
+      <td>1</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Shangla</td>
+      <td>191</td>
+      <td>0</td>
+      <td>38</td>
+      <td>13</td>
+      <td>0</td>
+      <td>0</td>
+      <td>15</td>
+      <td>2</td>
+      <td>28</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>SWA</td>
+      <td>31</td>
+      <td>334</td>
+      <td>63</td>
+      <td>94</td>
+      <td>61</td>
+      <td>16</td>
+      <td>45</td>
+      <td>3</td>
+      <td>0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Swabi</td>
+      <td>455</td>
+      <td>844</td>
+      <td>9</td>
+      <td>176</td>
+      <td>31</td>
+      <td>5</td>
+      <td>7</td>
+      <td>23</td>
+      <td>28</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Swat</td>
+      <td>1,135</td>
+      <td>383</td>
+      <td>11</td>
+      <td>95</td>
+      <td>0</td>
+      <td>50</td>
+      <td>0</td>
+      <td>21</td>
+      <td>24</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Tank</td>
+      <td>359</td>
+      <td>108</td>
+      <td>84</td>
+      <td>28</td>
+      <td>0</td>
+      <td>1</td>
+      <td>76</td>
+      <td>5</td>
+      <td>4</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Tor Ghar</td>
+      <td>57</td>
+      <td>0</td>
+      <td>29</td>
+      <td>20</td>
+      <td>15</td>
+      <td>9</td>
+      <td>11</td>
+      <td>0</td>
+      <td>0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Upper Kurram</td>
+      <td>65</td>
+      <td>364</td>
+      <td>0</td>
+      <td>19</td>
+      <td>614</td>
+      <td>17</td>
+      <td>6</td>
+      <td>10</td>
+      <td>2</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Total</td>
+      <td>10,147</td>
+      <td>6,833</td>
+      <td>2,344</td>
+      <td>2,229</td>
+      <td>1,423</td>
+      <td>476</td>
+      <td>444</td>
+      <td>348</td>
+      <td>298</td>
+      <td>218</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+    Figure 4: Most frequently reported suspected cases during week 02, KP
+
+                                                                                     W52        W1  W2
+14,000
+12,000             10,147
+10,000
+    NUMBER OF CASES
+ 8,000                   6,833
+ 6,000
+ 4,000                        2,344  2,229    1,423
+ 2,000                                             476                   444         348        298    218
+    0
+      AD (Non-           ILI    Malaria  ALRI < 5 years  SARI  B. Diarrhea  Typhoid  Measles    TB     CL
+      Cholera)
+
+
+
+    NIE     UK Health     World Health     USAID    safetynet
+            Security
+            Agency        Organization     u
+
+---
+
+                    ICT: The most frequently reported cases from Islamabad were ILI followed by AD (Non-Cholera). ILI cases showed a downward
+                    trend in cases this week.
+  ICT, AJK & GB     AJK: ILI cases were maximum followed by ALRI <5 years, AD (Non-Cholera), SARI, TB, Malaria, B. Diarrhea, AWD (S. Cholera),
+                    AVH (A&E) and dog bite cases. Cases of ILI, AD (Non-Cholera), and SARI showed an almost same trend in cases this week.
+                    GB: ALRI<5 years cases were the most frequently reported diseases followed by ILI, SARI, AD (Non-Cholera), AWD (S. Cholera),
+                    TB, B. Diarrhea and Typhoid. Increasing trend for ALRI<5 years, SARI and AD (Non-Cholera) cases observed this week.
+
+
+
+
+
+    Figure 5: Week wise reported suspected cases of ILI, ICT
+
+2,000                                                       W52  W1  W2
+1,800
+    NUMBER OF CASES
+1,600
+1,400
+1,200              1,086
+1,000
+  800
+  600
+  400                                                       176
+  200                                                                6
+    0
+                   ILI                                      AD (Non-Cholera)    TB
+
+
+    Figure 6: Week wise reported suspected cases of ILI, ICT
+
+
+3,000  ILI
+2,500
+  NUMBER OF CASES
+2,000
+1,500
+1,000
+  500
+  0
+  W4  W2
+  W5
+  W6
+  W7
+  W8
+  W9  W12  W33  W1
+  W10
+  W11 W13
+  W14
+  W15
+  W16
+  W17
+  W18
+  W19
+  W20
+  W21
+  W22
+  W23
+  W24
+  W25
+  W26
+  W27
+  W28
+  W29
+  W30
+  W31
+  W32 W34
+  W35
+  W36
+  W37
+  W38
+  W39
+  W40
+  W41
+  W42
+  W43
+  W44
+  W45
+  W46
+  W47
+  W48
+  W49
+  W50
+  W51
+  W3  W52
+
+  1st Quarter 2023  2nd Quarter 2023  3rd Quarter 2023  4TH Quarter 2023  1st Quarter 2024
+
+
+
+
+    Figure 7: Most frequently reported suspected cases during week 02, AJK
+
+                                                                                             W52  W1  W2
+    4,000          3,743
+    3,500
+    NUMBER OF CASES
+    3,000
+    2,500
+    2,000               1,862
+    1,500                                 1,067
+    1,000                                      534
+      500                                         77                      63    55           44    26    22
+      0
+                   ILI    ALRI < 5 years  AD (Non-  SARI    TB    Malaria       B. Diarrhea  AWD (S.  AVH (A & E)  Dog Bite
+                                          Cholera)                                           Cholera)
+
+
+
+
+
+
+    NIE     UK Health    World Health    USAID    safetynet
+            Security
+            Agency       Organization
+
+---
+
+Figure 8: Week wise reported suspected cases of ILI and ALRI<5 years AJK
+
+4,500  ILI  ALRI < 5 years
+4,000
+3,500
+NUMBER OF CASES
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+0
+W4W5W6W7W8W9W10  W19  W32  W1 W2 W40 W41 W42 W43 W44 W46 W47 W48 W49 W50 W51 W52 W45
+W11
+W12
+W13
+W14
+W15
+W16
+W17
+W18 W20
+W21
+W22
+W23
+W24
+W25
+W26
+W27
+W28
+W29
+W30
+W31  W33
+W34
+W35
+W36
+W37
+W38
+W3  W39
+
+1st Quarter 2023  2nd Quarter 2023  3rd Quarter 2023  4TH Quarter 2023  1st Quarter 2024
+
+Figure 9: Most
+frequent cases reported during Wk 02, GB
+
+
+              W52  W1  W2
+  1000        923
+       900
+       800
+       700       600
+       600
+       500          445    418
+       400
+       300
+       200
+       100                    78    61    54    54
+         0
+              ALRI < 5 years    ILI    SARI  AD (Non-Cholera)  AWD (S. Cholera)    TB    B. Diarrhea    Typhoid
+
+
+  Figure 10: Week wise reported suspected cases of ALRI, GB
+
+
+1000  ALRI < 5 years
+900
+NUMBER OF CASES
+800
+700
+600
+500
+400
+300
+200
+100
+0
+W3W4W5W6W7W8W9W10  W17  W37  W1 W40 W41 W42 W43 W44 W45 W46 W47 W48 W49 W50 W51 W52 W2
+W11
+W12
+W13
+W14
+W15
+W16 W18
+W19
+W20
+W21
+W22
+W23
+W24
+W25
+W26
+W27
+W28
+W29
+W30
+W31
+W32
+W33
+W34
+W35
+W36 W38
+W39
+
+1st Quarter 2023  2nd Quarter 2023  3rd Quarter 2023  4TH Quarter 2023  1st Quarter 2024
+
+
+
+
+
+
+  NIN     UK Health    World Health    USAID    safetynet
+          Security
+          Agency       Organization
+
+---
+
+  Punjab
+                       •     Cases of AD (Non-Cholera) were the most frequently reported followed by Malaria, Typhoid, B. Diarrhea, Chickenpox and
+                             ILI.
+                       •     AD (Non-Cholera) and Typhoid cases showed a decline trend this week.
+                       •     .
+
+    Figure 11: District wise distribution of most frequently reported suspected cases during week 02, Punjab
+
+                                                                                                 W52  W1  W2
+        60,000
+        NUMBER OF CASES
+
+        50,000
+                            42,744
+
+        40,000
+
+        30,000
+
+        20,000
+
+        10,000
+                                  2,077    1,906    982                                          123        49
+        0
+              AD (Non-Cholera)    Malaria    Typhoid    B. Diarrhea                              ILI    Chickenpox/ Varicella
+
+
+
+
+
+
+  Table 5: Public Health Laboratories confirmed cases of IDSR Priority Diseases during Epid W
+  eek 02
+
+  Sindh  Balochistan  KPK  ISL  GB  Punjab
+  Diseases  Total  Total  Total  Total  Total  Total  Total  Total  Total  Total  Total   Total
+  Test  Positive  Test  Positive  Test  Positive  Test  Positive  Test  Positive  Test  Positive
+  AWD (S. Cholera)           95    0  -  -  3  0   0  0    -  -  -  -
+  AD (Non-Cholera)           95    0  -  -  0  0   1  0    -  -  -  -
+  Malaria                 2,697  735  -  -  0  0   0  0    0  0  -  -
+  CCHF                        -    -  5  0  1  0   0  0    -  -  -  -
+  Dengue                      6    2  -  -  0  0   3  0    -  -  -  -
+  MPOX                        -    -  -  -  1  0   0  0    -  -  -  -
+Acute Viral Hepatitis(B)    582  129  -  -  0  0   1  0  132  0  -  -
+Acute Viral Hepatitis(A)      -    -  -  -  0  0   1  0    -  -  -  -
+Acute Viral Hepatitis(E)      -    -  -  -  0  0  36  0    -  -  -  -
+Acute Viral Hepatitis(C)  1,222  252  -  -  0  0  35  2  132  0  -  -
+  Typhoid                   516    2  -  -  0  0   9  0    -  -  -  -
+  Covid- 19                   -    - 81 15  6  0 460  1    -  -  -  -
+  HIV                        91    0  -  -  0  0   8  0    -  -  -  -
+  Measles                     -    -  -  -  0  0   1  0    -  -  -  -
+  Pertussis                   -    -  -  -  0  0   5  0    -  -  -  -
+  Diphtheria                  -    -  -  -  1  0   2  0    -  -  -  -
+  Influenza A                 -    -  -  - 40  3 643 77    -  -  -  -
+  TB                        158   15  -  -  0  0   -  -    -  -  4  2
+
+
+
+
+
+
+
+
+
+
+    NIE     UK Health    World Health    USAID    safetynet
+            Security
+            Agency       Organization
+
+---
+
+IDSR Reports Compliance
+  •  Out OF 125 IDSR implemented districts, compliance is low from KPK. Green color showing >50% compliance while red color is <50% compliance
+
+
+
+  Table 6: IDSR reporting districts Week 02, 2024
+
+
+Provinces/Regions  Districts  Total Number of  Number of Reported   Compliance Rate (%)
+Reporting Sites  Sites for current week
+
+Abbottabad                        110 104  95%
+Bannu                             244 105  43%
+Battagram                          63  20  32%
+Buner                              34  26  76%
+Bajaur                             44  16  36%
+Charsadda                          59  54  92%
+Chitral Upper                      34  27  79%
+Khyber Pakhtunkhwa  Chitral Lower  35  34  97%
+D.I. Khan                          94  88  94%
+Dir Lower                          74  74 100%
+Dir Upper                          52  38  73%
+Hangu                              22  22 100%
+Haripur                            71  59  83%
+Karak                              35  32  91%
+Khyber                             64  14  22%
+Kohat                              61  61 100%
+Kohistan Lower                     11  11 100%
+Kohistan Upper                     20  20 100%
+Kolai Palas                        10  10 100%
+Lakki Marwat                       70  70 100%
+Lower & Central Kurram             40   4  10%
+Upper Kurram                       42   9  21%
+Malakand                           48  37  77%
+Mansehra                          136  71  56%
+Mardan                             80  57  88%
+Nowshera                           54  54  91%
+North Waziristan                  380   0   0%
+Peshawar                          153 123  80%
+Shangla                            65  13  20%
+Swabi                              63  62  98%
+Swat                               76  71  93%
+South Waziristan                  134  42  31%
+Tank                               34  30  88%
+Torghar                            14  14 100%
+Mohmand                            86  25  29%
+SD DI Khan                         19   2  11%
+SD Peshawar                         5   3  60%
+SD Tank                            58   1   2%
+Orakzai                            68   9  13%
+Mirpur                             37  37 100%
+Bhimber                            20  20 100%
+Kotli                              60  60 100%
+Muzaffarabad                       45  43  96%
+Poonch                             46  46 100%
+
+
+  NIE     UK Health     World Health     USAID    safetynet
+          Security
+          Agency        Organization     u
+
+---
+
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="5">Azad Jammu Kashmir</th>
+      <th>Haveli</th>
+      <th>39</th>
+      <th>34</th>
+      <th>87%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bagh</td>
+      <td>40</td>
+      <td>40</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Neelum</td>
+      <td>39</td>
+      <td>37</td>
+      <td>95%</td>
+    </tr>
+    <tr>
+      <td>Jhelum Vellay</td>
+      <td>29</td>
+      <td>29</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Sudhnooti</td>
+      <td>27</td>
+      <td>27</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Islamabad Capital Territory</td>
+      <td>ICT</td>
+      <td>35</td>
+      <td>21</td>
+      <td>60%</td>
+    </tr>
+    <tr>
+      <td>CDA</td>
+      <td>35</td>
+      <td>21</td>
+      <td>60%</td>
+    </tr>
+    <tr>
+      <td rowspan="35">Balochistan</td>
+      <td>Gwadar</td>
+      <td>25</td>
+      <td>23</td>
+      <td>92%</td>
+    </tr>
+    <tr>
+      <td>Kech</td>
+      <td>39</td>
+      <td>27</td>
+      <td>69%</td>
+    </tr>
+    <tr>
+      <td>Khuzdar</td>
+      <td>20</td>
+      <td>18</td>
+      <td>90%</td>
+    </tr>
+    <tr>
+      <td>Killa Abdullah</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Lasbella</td>
+      <td>55</td>
+      <td>54</td>
+      <td>98%</td>
+    </tr>
+    <tr>
+      <td>Pishin</td>
+      <td>62</td>
+      <td>6</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>Quetta</td>
+      <td>43</td>
+      <td>18</td>
+      <td>42%</td>
+    </tr>
+    <tr>
+      <td>Sibi</td>
+      <td>36</td>
+      <td>35</td>
+      <td>97%</td>
+    </tr>
+    <tr>
+      <td>Zhob</td>
+      <td>39</td>
+      <td>33</td>
+      <td>85%</td>
+    </tr>
+    <tr>
+      <td>Jaffarabad</td>
+      <td>16</td>
+      <td>16</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Naserabad</td>
+      <td>32</td>
+      <td>32</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Kharan</td>
+      <td>30</td>
+      <td>29</td>
+      <td>97%</td>
+    </tr>
+    <tr>
+      <td>Sherani</td>
+      <td>15</td>
+      <td>15</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Kohlu</td>
+      <td>75</td>
+      <td>71</td>
+      <td>95%</td>
+    </tr>
+    <tr>
+      <td>Chagi</td>
+      <td>35</td>
+      <td>30</td>
+      <td>86%</td>
+    </tr>
+    <tr>
+      <td>Kalat</td>
+      <td>41</td>
+      <td>40</td>
+      <td>98%</td>
+    </tr>
+    <tr>
+      <td>Harnai</td>
+      <td>17</td>
+      <td>17</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Kachhi (Bolan)</td>
+      <td>35</td>
+      <td>35</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Jhal Magsi</td>
+      <td>26</td>
+      <td>24</td>
+      <td>92%</td>
+    </tr>
+    <tr>
+      <td>Sohbat pur</td>
+      <td>25</td>
+      <td>25</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Surab</td>
+      <td>32</td>
+      <td>32</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Mastung</td>
+      <td>45</td>
+      <td>44</td>
+      <td>98%</td>
+    </tr>
+    <tr>
+      <td>Loralai</td>
+      <td>33</td>
+      <td>28</td>
+      <td>85%</td>
+    </tr>
+    <tr>
+      <td>Killa Saifullah</td>
+      <td>28</td>
+      <td>27</td>
+      <td>96%</td>
+    </tr>
+    <tr>
+      <td>Ziarat</td>
+      <td>29</td>
+      <td>20</td>
+      <td>69%</td>
+    </tr>
+    <tr>
+      <td>Duki</td>
+      <td>31</td>
+      <td>26</td>
+      <td>84%</td>
+    </tr>
+    <tr>
+      <td>Nushki</td>
+      <td>32</td>
+      <td>0</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Dera Bugti</td>
+      <td>45</td>
+      <td>21</td>
+      <td>47%</td>
+    </tr>
+    <tr>
+      <td>Washuk</td>
+      <td>46</td>
+      <td>19</td>
+      <td>41%</td>
+    </tr>
+    <tr>
+      <td>Panjgur</td>
+      <td>38</td>
+      <td>18</td>
+      <td>47%</td>
+    </tr>
+    <tr>
+      <td>Awaran</td>
+      <td>23</td>
+      <td>7</td>
+      <td>41%</td>
+    </tr>
+    <tr>
+      <td>Chaman</td>
+      <td>24</td>
+      <td>22</td>
+      <td>92%</td>
+    </tr>
+    <tr>
+      <td>Barkhan</td>
+      <td>20</td>
+      <td>20</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Hub</td>
+      <td>33</td>
+      <td>33</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Usta Muhammad</td>
+      <td>34</td>
+      <td>34</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td rowspan="7">Gilgit Baltistan</td>
+      <td>Hunza</td>
+      <td>32</td>
+      <td>29</td>
+      <td>91%</td>
+    </tr>
+    <tr>
+      <td>Nagar</td>
+      <td>20</td>
+      <td>20</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Ghizer</td>
+      <td>40</td>
+      <td>40</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Gilgit</td>
+      <td>40</td>
+      <td>40</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Diamer</td>
+      <td>78</td>
+      <td>41</td>
+      <td>53%</td>
+    </tr>
+    <tr>
+      <td>Astore</td>
+      <td>54</td>
+      <td>54</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Shigar</td>
+      <td>27</td>
+      <td>27</td>
+      <td>100%</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+NE     UK Health     World Health    USAID    safetynet
+       Security
+       Agency        Organization
+
+---
+
+          Skardu                  52     51      98%
+          Ganche                  29     29     100%
+          Kharmang                18     18     100%
+          Hyderabad               73     32      44%
+          Ghotki                  64     64     100%
+          Umerkot                 43     31      72%
+          Naushahro Feroze       107     62      58%
+          Tharparkar             282    248      88%
+          Shikarpur               60     60     100%
+          Thatta                  53     52      98%
+          Larkana                 67     67     100%
+          Kamber Shadadkot        71     71     100%
+          Karachi-East            23     22      96%
+Sindh     Karachi-West            20     20     100%
+          Karachi-Malir           37     17      46%
+          Karachi-Kemari          18      7      39%
+          Karachi-Central         11     11     100%
+          Karachi-Korangi         18      9      50%
+          Karachi-South            4      4     100%
+          Sujawal                 54     29      54%
+          Mirpur Khas            106    104      98%
+          Badin                  127    113      89%
+          Sukkur                  64     59      92%
+          Dadu                    90     89      99%
+          Sanghar                100    100     100%
+          Jacobabad               44     41      93%
+          Khairpur               169    165      98%
+          Kashmore                59     58      98%
+          Matiari                 42     41      98%
+          Jamshoro                68     68     100%
+          Tando Allahyar          54     48      89%
+          Tando Muhammad          40     40     100%
+          Khan
+          Shaheed Benazirabad    124    123     99%
+
+
+
+
+******************************
+
+---
+
+<u>Public Health Events and Surveillance Reports</u>
+<u>PHB -Pakistan</u>
+
+
+
+
+
+
+   <u>A Note from Field Activities.</u>                                                                                      <u>being of its citizens by proactively bolstering its </u>
+   Pakistan Embarks on Landmark                                                                                              <u>preparedness and response capabilities for public </u>
+                                                                                                                             <u>health emergencies of any nature. The 7-1-7 Alliance </u>
+   <u>Initiative to Enhance Early Outbreak </u>                                                                              <u>for </u> <u>Early </u> <u>Action, in its very essence, transcends </u>
+   <u>Detection and Response</u>                                                                                             <u>national boundaries, serving as a beacon of proactive </u>
+                                                                                                                             <u>public health initiative for the entire region, offering </u>
+   Dr. Mumtaz Ali Khan Chief,                                                                                                <u>invaluable lessons and best practices for other nations </u>
+   Center for Disease Control                                                                                                <u>as they strive to strengthen their own epidemic </u>
+   (CDC), Pakistan, National                                                                                                 <u>control measures.</u>
+   Institute of Health.                                                                                                      <u>Pakistan </u>          <u>Pioneering </u>  <u>Global </u>
+
+                      In a landmark initiative aimed at bolstering                                                           <u>Pandemic </u>          <u>Preparedness </u>  <u>at </u>
+   <u>its public health infrastructure, the Islamic Republic of </u>                                                         Inaugural                 Health              Security
+   <u>Pakistan embarks on a significant undertaking the </u>                                                                 <u>Summit 10</u>          th <u>and 11</u>th <u>Jan, 2024 </u>
+   <u>establishment of the "7-1-7 Alliance for Early Action."</u>
+   <u>This pivotal endeavor, spearheaded by the esteemed </u>                                                                <u>Islamabad</u>
+   <u>National Institutes</u>            <u>of </u> <u>Health </u> <u>(NIH) </u>                    <u>Pakistan and </u>                 The inaugural Global Health Security Summit
+   <u>propelled by the vital collaboration of Resolve to Save </u>                                                           (GHSS) unfolded in the vibrant Pakistani capital last
+   <u>Lives </u> <u>(RTSL), </u> <u>aspires </u>    <u>to </u> <u>dramatically </u> <u>reduce </u>           <u>the </u>     week, marking a pivotal moment in the global fight
+   <u>temporal lag between outbreak identification and </u>                                                                  against                   infectious   dis eases.   Under     Pakistan's
+   subsequent containment efforts.                                                                                           esteemed leadership, the summit convened a diverse
+    Guided by the World Health Organization's Early                                                                          array of experts, policymakers, and stakeholders from
+   <u>Action </u>     <u>Review </u> <u>and </u>    <u>the </u> <u>transformative </u>                     <u>7-1-7 </u>     across the globe, united in their pursuit of a unified
+   <u>framework, the Alliance is resolutely committed to </u>                                                                approach to pandemic preparedness and response.
+   the pursuit of the following objectives:                                                                                                                A Charter for a Safer Future: The summit's
+    •                 <u>Enhanced Surveillance Systems: Within the </u>                                                      central     objective     resonated                 with  ambition  and
+                      <u>stringent timeframe of seven days, a robust </u>                                                    urgency: the articulation of a comprehensive Global
+                      <u>and comprehensive network of surveillance </u>                                                      Pandemic                  Charter.     This   landmark         document,
+                      mechanisms                                   will                            be                        envisioned as a cornerstone of international health
+                      <u>implemented, strategically </u>                         <u>designed </u>             <u>to </u>     security, will delineate clear roles, responsibilities,
+                      <u>effectively detect burgeoning outbreaks in </u>                                                     rights, and privileges for participating nations in times
+                      their nascent stages.                                                                                  of          crisis.       By  fostering  collaboration    and  shared
+    •                 <u>Expedited </u>  <u>Notification </u>      <u>and </u>                       <u>Response: A </u>     responsibility, the charter aims to create a robust
+                      <u>streamlined </u>                                           <u>and efficient system for the </u>     framework safeguarding populations worldwide from
+                      <u>reporting and activation of critical r esponse </u>                                                 future health threats.
+                      <u>protocols will be established, ensuring the </u>                                                                Building                   Resilience   Through    Unity:
+                      <u>swift notification of public health authorities </u>                                                Recognizing the interconnectedness of our world, the
+                      <u>within a mere one day of outbreak detection.</u>                                                    summit emphasized the need for a unified and
+    •                 Targeted                   and               Timely                                Control             proactive                 approach     to  mitigating     health threats
+                      Measures: Leveraging                         the                                  combined             through                   international       collaboration.        This
+                      <u>expertise </u> <u>of </u> <u>NIH </u> <u>Pakistan </u>                    <u>and RTSL, the </u>     commitment to global solidarity was evident in the
+                      <u>Alliance will implement strategically tailored </u>                                                 calls for:
+                      <u>interventions </u>         <u>with </u> <u>utmost </u>                   <u>haste, thereby </u>                 Enhanced                   information        sharing    and
+                      <u>minimizing </u>  <u>the </u>          <u>spread </u> <u>of </u> <u>disease </u>     <u>and </u>     collaborative emergency responses : Caretaker Prime
+                      mitigating its potential consequences.                                                                 Minister                  Anwaar-ul-Haq Kakar advocated           for an
+   <u>Through </u>    <u>this </u> <u>concerted </u>           <u>and </u> <u>resolute </u> <u>endeavor, </u>                inclusive framework, emphasizing these cornerstones
+   <u>Pakistan </u>   <u>unequivocally </u>           <u>reaffirms </u>       <u>its </u>             <u>unwavering </u>     of effective preparedness.
+   <u>commitment to safeguarding the health and well-</u>
+
+
+   NIE     UK Health    World Health    USAID    safetynet
+           Security
+           Agency       Organization
+
+---
+
+            Equitable   access to  resources:      Pakistani                           A shared vision for global health security:
+officials           highlighted the crucial need for funding     Beyond national interests, the summit aimed to
+mechanisms to support nations in need, ensuring no               establish a world where health security is a universal
+country is left behind in the pursuit of health security.        right. Dr. Hani Jokhdar, Saudi Deputy Health Minister,
+            Strengthened  national     health       systems:     reaffirmed the importance of the Global Health
+Addressing  disparities   in  preparedness           between     Security Agenda (GHSA) as a roadmap for collective
+developed and developing nations was a central                   action.
+concern. The summit focused on building robust                                             A Call to Action, a Legacy of Hope: The
+national health systems, efficient resource allocation,          inaugural GHSS stands as a watershed moment in
+and equitable access to healthcare.                              global  health  security.           By       fostering meaningful
+            Real-time   information    sharing           and     dialogue and collaboration, the summit has paved the
+collaborative  research:  The      importance  of      joint     way for a future where nations stand united against
+efforts,    including   the   establishment    of         an     the ever-evolving threats to our shared health and
+international            network of health laboratories, was     well-being. The tangible outcomes - a robust Global
+emphasized as a key defense against emerging                     Pandemic Charter and a renewed commitment to
+threats.                                                         collective action - offer a beacon of hope for a safer
+                                                                 and healthier world.
+
+                                                                         Ministry of National Health Services,
+                                                                         Regulations and Coordination
+                                                                         Government of Pakistan
+                                                                          GLOBAL HEALTH
+                                                                         SECURITY SUMMIT
+                                                                         10th & 11th January 2024
+                        TOGETHER FOR A                                      Islamabad-Pakistan
+                        HEALTHY PLANET
+
+                          The Global Health Security Summit 2024, hosted by Pakistan, convened a pivotal gather ing of experts and
+leaders to architect a future of enhanced pandemic preparedness. Distinguished as the inaugural host, Pakistan
+spearheads this unprecedented effort by crafting a comprehensive Global Pandemic Charter. This ambitious
+document will delineate precise roles, responsibilities, and rights for nations, forging a collective commitment to
+global health security.
+                        ISLAMABAD CHARTER ON GLOBAL HEALTH SECURITY 2024
+                                       ‘Together for a Healthy Planet’
+We, the participants of the ‘ Global Health Security Summit’, gathered in Islamabad, Pakistan, on 10-11 January, 2024:
+                           RECOGNISE that the unprecedented growth in the population globally, rapid urbanization, climate change,
+environmental degradation, and the growing threat of antimicrobial resistance are incessantly disrupting the delicate
+balance of the microbial ecosystem;
+                             EMPHASISE that the extensive movement of people and goods worldwide each year also entails risks such
+as the spread of infectious agents and their vectors and enhances the possibility of contr ibuting to the spread of
+existing and new pathogens in the coming years with potential for another pandemic;
+            EXPRESS concern that natural disasters, health emergencies, epidemics, and extreme weather events are
+becoming increasingly frequent and cause extensive damage and that strengthening of International Health
+Regulation (IHR) capacities is vital to prevent, detect, and respond to these threats effectively and promptly
+            WELCOME the ongoing negotiations in World Health Organization (WHO) on targeted amendments of IHR
+2005 and on drafting a Pandemic Agreement to strengthen prevention, preparedness, response, and recovery from
+pandemics and health emergencies;
+                          STRESS that pandemics, health emergencies, and weak health systems cost lives and pose significant risks
+to the global economy and social well-being today;
+
+
+ND     UK Health    World Health    USAID    safetynet
+       Security
+       Agency       Organization    ONALDE
+
+---
+
+    HIGHLIGHT the need for collective efforts and global solidarity to deal with the complex challenges posed
+by the recent pandemic and health emergencies as a result of climatic changes and extreme weather events (e.g.
+heatwaves, flooding) and in this regard underscore the need to foster health in climate change adaptation efforts,
+underlining that resilient and people-centered health systems are necessary to protect the health of all people, in
+particular those living in developing countries and small island developing states;
+    ACKNOWLEDGE that achieving global health security is a shared responsibility, necessitating collaboration
+among regions, countries, sectors, and individuals thereby enhancing interaction across disciplines and societies;
+    VALUE the need for strong global, regional, and national partnerships for Sustainable Development Goals
+(SDGs), which engages all relevant stakeholders to collaboratively support the efforts of Member States to achieve
+health-related SDGs, including universal health coverage (UHC);
+    UNDERLINE that food security and food safety, adequate nutrition and sustainable, resilient and diverse
+nutrition-sensitive food systems are important elements for healthier populations;
+    COMMIT to making the world a healthier, equitable, and safer place requiring actions and active
+engagement by all, including the humanitarian, developmental, public, and private sectors across the framework for
+global health security;
+    FOCUS on the urgent need to prepare for and respond to health emergencies, by developing resilient health
+systems, ensuring primary health care (PHC), advancing towards UHC, and taking concrete actions for adaptation to
+and mitigation of climate change impacts;
+    MARK priority to emergency health preparedness and response systems, as well as strengthening of
+capacities at sub-national, national, regional, and international levels, including to mitigate the impacts of climate
+change and natural disasters on health.
+Therefore, we, the participants of the Global Health Security Summit 2024, deliberating the future directions for
+enhanced global health security, commit to work together and learn from each other to build an equitable, resilient,
+and sustainable system to ensure global health security and CALL ON:
+ ●  the Heads of State and Government of all countries, supported by the Ministers of Health, Ministers of
+    Finance, other governmental ministers, parliamentarians, regulators, civil society organizations, academic
+    institutions, private sector, and relevant stakeholders to develop National Health Security Compacts for
+    expressing commitments based on IHR 2005 and ensuring effective implementation;
+ ●  the development partners and relevant international organizations, including the WHO, other United
+    Nations Agencies, Bilateral Donors, Multilateral Development Banks, Global Health Initiatives, Foundations,
+    and Philanthropists to coordinate and support countries’ efforts, in particularly of developing countries, by
+    providing financial resources to implement evidence-based national strategies and national actions plans
+    on health security (NAPHS), including inter alia based on 'One Health’ approach, following an integrated
+    approach that includes global best practices, transfer of technologies, institutional reforms and inclusive
+    policy dialogue for strengthened and resilient health systems;
+ ●  the states and governments to promote equitable distribution of and increased access to quality, safe,
+    effective, affordable, and essential medicines, including generics, vaccines, commodities, diagnostics, and
+    health technologies to ensure affordable quality health services and their timely delivery;
+ ●  the states and governments to improve availability, affordability, and efficiency of health products by
+    increasing transparency of prices of medicines, vaccines, medical devices, diagnostics, assistive products,
+    cell- and gene-based therapies, and other health technologies across the value chain, including through
+    improved regulations and building constructive engagement and a stronger partnership with relevant
+    stakeholders, including industries, private sector, and civil society, in accordance with national and regional
+    legal frameworks and contexts, to address the global concern on high prices of some health products and
+    in this regard encourage WHO to continue its efforts to biennially convene the WHO Fair Pricing Forum with
+
+
+
+
+NIL     UK Health     World Health    USAID    safetynet
+        Security                      WI
+        Agency        Organization    ONAL
+
+---
+
+    Member States and all relevant stakeholders to discuss the affordability and transparency of prices and costs
+    relating to health products; and,
+ ●  the international community, international financial institutions, and donors to provide necessary funding
+    for ensuring health security for millions of people in developing countries, least developed countries, and
+    small island developing states through new and innovative financing mechanisms.
+All partners and stakeholders to expeditiously facilitate the following actions at the national and sub -national levels,
+considering local and national contexts, needs, and priorities:
+ ●  Development and strengthening of public health functions under IHR 2005 to build countries' capacities
+    and for early detection of outbreaks through efficient surveillance systems coupled with robust response
+    mechanisms to control disease outbreaks at their source;
+ ●  Scaling up efforts to strengthen national and international cooperation at the highest possible levels that
+    ensure timely, sustainable, and equitable access to quality, safe, effective, affordable,
+    and essential health services, vaccines, medicines, commodities, diagnostics, health technologies, and
+    therapeutics products;
+ ●  Expansion of coverage of quality, safe, effective, affordable, accessible, and integrated essential health
+    services based on PHC and UHC by improving infrastructure, increasing workforce availability and
+    productivity, and availability of essential medicines, supplies, and health technologies, while considering
+    equitable distribution and efficient resource use;
+ ●  Enhance political ownership at all levels towards national health security by strengthening and integrating
+    information and disease surveillance and response systems, undertaking regular assessments at national
+    and sub-national levels, advancing research and the application of digital health, and conducting periodic
+    external evaluations;
+ ●  Development of synergies among UHC, health security, and health well -being through strong governance
+    at all levels, policy and programmatic reforms, and legislation, to ensure quality services for all including
+    vulnerable groups residing within national territories that include hard-to-reach communities as well as
+    marginalized populations;
+ ●  Incorporating evidence-informed policy options for climate adaptation and mitigation strategies, thereby
+    enabling governments to prevent or reduce the health risks associated with climatic change and
+    environmental degradation;
+ ●  Enhanced domestic financing, as appropriate, for essential health services and public health functions to
+    improve national health security as well as financial assistance by development partners as a catalyst
+    towards financial sustainability, transparency, and responsiveness;
+
+All partners and stakeholders to expeditiously facilitate actions at the global level that include:
+ ●  Establish a high-level advocacy forum on a voluntary basis to champion the cause of global health security.
+    The forum will meet on an annual basis to review the status, deliberate and future strategic direction for
+    countries, institutions, and organizations;
+ ●  Institute WHO-led pandemic agreement by the inter-governmental negotiating body, based on Equity and
+    Global Solidarity to foster international cooperation to strengthen pandemic prevention, preparedness,
+    response, and health systems recovery, with the understanding that no one is safe until everyone is safe;
+ ●  Establish a sustainable post-emergency pandemic financing mechanism with pooling of funds and
+    immediate disbursement of funds to developing countries in an emergency, and meeting agreed triggers
+    and disbursement linked indicators;
+ ●  Foster consensus for institutional reforms related to multiple vertical international financing streams for
+    sustainable, government-led, integrated health services and public health functions.
+                                                                       Islamabad, the 11th of January 2024
+
+
+
+NIL     UK Health     World Health    USAID    safetynet
+        Security
+        Agency        Organization
+
+---
+
+Letter to the Editor:                                                                                                               comprehensive                    planning  and  execution  of                                     the
+                                                                                                                                    <u>campaign.</u>
+<u>Successful National Immunization Day </u>
+<u>(NID) Campaign in Rawalpindi </u>                                                                                                                  Effective         Public   Awareness:                                       Through
+                                                                                                                                    <u>targeted awareness campaigns, the government and </u>
+<u>Demonstrates Commitment to Eradicating </u>                                                                                      <u>its </u>                                                 <u>partners educated the community about the </u>
+<u>Polio.</u>                                                                                                                       <u>importance </u> <u>of </u>    <u>polio </u> <u>vaccination. </u> <u>This </u>            <u>proactive </u>
+                                                                                                                                    <u>approach fostered understanding and acceptance of </u>
+                                                                                                                                    <u>the vaccine, contributing to high immunization rates.</u>
+Mr. Muhammad Nadeem
+District           Superintendent                                                                                                                     Strong            Partnerships:   The                                      campaign
+Vaccination                                                                                                                         <u>benefited from the collaborative efforts of various </u>
+DHA, Rawalpindi                                                                                                                     <u>stakeholders, including the World Health Organization </u>
+                                                                                                                                    <u>(WHO), UNICEF, and NGOs. This collective approach </u>
+Dr. Ehsan Ghani                                                                                                                     <u>ensured the campaign's reach and effectiveness.</u>
+District health Officer (Preventive Services)                                                                                                         While the January 2024 campaign represents
+DHA, Rawalpindi                                                                                                                     <u>a significant milestone, the fight against polio remains </u>
+                                                                                                                                    <u>ongoing. The presence of the virus in environmental </u>
+                 The  National   Immunization                                        Day                          (NID)             <u>samples underscores the need for sustained vigilance </u>
+<u>January </u>    <u>2024 </u> <u>Anti -Polio </u>  <u>Campaign </u>                <u>in </u>                <u>District </u>     <u>and continued immunization efforts.</u>
+<u>Rawalpindi stands as a resounding victory in the fight </u>                                                                      <u>Therefore, it is imperative to:</u>
+<u>against this debilitating disease. With a remarkable </u>
+<u>98% coverage rate, over 9,93,908</u>                                                                  <u>doses of polio </u>                 •     <u>Maintain </u>  <u>high </u> <u>immunization </u>                      <u>coverage : </u>
+<u>vaccine were administered to children under five </u>                                                                                              <u>Sustaining the current momentum is crucial </u>
+<u>years old. This achievement is particularly noteworthy </u>                                                                                        <u>to ensuring all children are protected from </u>
+<u>considering the recent detection of poliovirus in </u>                                                                                             <u>polio. </u> <u>Regular </u> <u>NIDs </u> <u>and </u>               <u>supplementary </u>
+<u>environmental samples in Rawalpindi, highlighting </u>                                                                                             <u>immunization </u>           <u>activities </u> <u>are </u> <u>essential </u>  <u>in </u>
+<u>the </u>  <u>crucial </u>  <u>role </u>  <u>of </u>  <u>continued </u> <u>vigilance </u>                         <u>and </u>                       achieving this goal.
+<u>immunization efforts.</u>                                                                                                                    •     <u>Continue </u>  <u>public </u>  <u>awareness: </u>                        <u>Ongoing </u>
+
+<u>The </u>  <u>campaign's </u> <u>success can be </u>                                  <u>attributed </u> <u>to </u> <u>a </u>                       <u>community engagement and education are </u>
+<u>multifaceted approach:</u>                                                                                                                         <u>vital </u>                                   <u>to maintaining public understanding </u>
+                                                                                                                                                      and support for polio eradication efforts.
+                 Tireless       Dedication of Vaccinators:                                                         Over                         •     <u>Strengthen surveillance and monitoring: </u>
+<u>3000 </u>     <u>dedicated </u> <u>vaccinators </u>  <u>and </u>                        <u>support </u>        <u>staff </u>                       <u>Closely monitoring environmental samples </u>
+<u>tirelessly </u>                                                               <u>navigated door-to-door and established </u>                       <u>and potential polio cases is crucial for early </u>
+<u>fixed vaccination booths at key locations, ensuring </u>                                                                                           <u>detection and swift containment measures.</u>
+<u>maximum reach and accessibility. Their commitment </u>                                                                           <u>By maintaining this unwavering commitment and </u>
+<u>to protecting vulnerable children is commendable.</u>                                                                            <u>adopting a comprehensive approach, the success </u>
+
+                                                                                    Exemplary Community Engagement: The             <u>achieved in Rawalpindi can be replicated nationwide, </u>
+<u>high </u> <u>coverage </u>   <u>rate </u> <u>reflects </u> <u>the </u> <u>commendable </u>                                       <u>ultimately leading to Pakistan's complete eradication </u>
+<u>cooperation </u>           <u>and </u>   <u>support </u> <u>of </u>  <u>the </u>                          <u>Rawalpindi </u>     <u>of polio.</u>
+<u>community. </u>            <u>Recognizing </u>           <u>the </u>   <u>importance </u>                         <u>of </u>     Knowledge Hub
+<u>immunization, parents actively participated in the </u>
+<u>campaign, ensuring their children received the vital </u>                                                                        <u>One </u>      <u>Health: </u>    <u>A Holistic </u>              <u>Approach </u>              <u>to </u>
+<u>polio vaccine.</u>
+                                                                                                                                    <u>Global Health Security</u>
+                                                                                 Government's Proactive Leadership: The
+<u>Government </u>            <u>of </u>    <u>Punjab </u>  <u>provided </u>         <u>unwavering </u>                                               One Health, a collaborative, multidisciplinary
+<u>leadership and resources, contributing significantly to </u>                                                                     <u>approach, is increasingly recognized as a cornerstone </u>
+<u>the campaign's success. Their commitment to public</u>                                                                           <u>of global health security. It transcends traditional </u>
+<u>health </u>   <u>and </u>  <u>polio </u> <u>eradication </u> <u>is </u>  <u>evident </u>        <u>in </u> <u>the </u>           <u>sectoral </u>  <u>boundaries, </u>          <u>acknowledging </u>            <u>the </u> <u>intricate </u>
+                                                                                                                                    <u>interconnectedness between human health, animal </u>
+
+
+NIE     UK Health     World Health    USAID    safetynet
+        Security
+        Agency        Organization
+
+---
+
+<u>health, and the health of our ecosystems (World </u>                                                                <u>Empowering </u>            <u>Individuals </u>  <u>and </u>                       <u>Communities: </u>
+<u>Health Organization, 2023). This holistic perspective </u>                                                          <u>Individuals and communities can actively contribute </u>
+<u>equips </u>     <u>us </u> <u>to </u> <u>address </u> <u>complex, </u>                   <u>interconnected </u>     <u>to the success of One Health by:</u>
+<u>challenges </u>            <u>like </u>  <u>zoonotic </u> <u>diseases, </u> <u>antimicrobial </u>                         •      <u>Practicing good hygiene, including frequent </u>
+<u>resistance, and the health impacts of climate change, </u>
+<u>which threaten the well-being of both humans and </u>                                                                            handwashing and respiratory etiquette.
+<u>animals.</u>                                                                                                              •      <u>Ensuring </u>  <u>proper </u> <u>vaccination </u> <u>of </u> <u>pets </u>      <u>to </u>
+                                                                                                                                    prevent zoonotic disease transmission.
+<u>Collaborative </u>                       <u>Synergy: </u>  <u>One </u>  <u>Health </u>          <u>fosters </u>           •      <u>Avoiding </u>  <u>contact </u>     <u>with </u>  <u>wild </u>            <u>animals, </u>
+<u>collaboration between diverse disciplines, including </u>                                                                        <u>particularly those known to harbor zoonotic </u>
+<u>human medicine, veterinary medicine, environmental </u>                                                                          pathogens.
+<u>science, and public health (World Organization</u>                                                  <u>for </u>           •      <u>Supporting </u> <u>sustainable </u> <u>farming </u>                     <u>practices </u>
+<u>Animal Health, 2023). This synergy allows experts to </u>                                                                        <u>that minimize environmental impact and </u>
+<u>collectively identify and address the root causes of </u>                                                                        promote animal well-being.
+<u>health challenges, promoting a more comprehensive </u>                                                                    •      <u>Staying informed about the health impacts </u>
+<u>and effective approach than any single discipline </u>                                                                           <u>of climate change and taking individual and </u>
+<u>could achieve.</u>                                                                                                               <u>community-level </u>          <u>action </u>     <u>to </u> <u>mitigate </u>  <u>its </u>
+
+<u>Real-World Applications: One Health is not merely a </u>                                                                         <u>effects.</u>
+<u>theoretical framework; it is actively shaping solutions </u>                                                        <u>A Shared</u>                                               <u>Future: By embracing the One Health </u>
+<u>to </u>                                                   <u>pressing global health issues. Consider these </u>     <u>approach </u>  <u>and </u>  <u>working </u>     <u>collaboratively </u>                 <u>across </u>
+<u>examples:</u>                                                                                                       <u>disciplines, we can create a healthier future for all. </u>
+
+                   <u>Zoonosis Prevention: One Health initiatives </u>                                                 <u>This </u> <u>holistic </u> <u>perspective, </u> <u>grounded </u>         <u>in </u> <u>scientific </u>
+                   <u>are instrumental in preventing the spread of </u>                                                <u>evidence and fueled by collective action, offers a </u>
+                   <u>zoonotic diseases like rabies, avian influenza, </u>                                             <u>powerful framework for safeguarding human, animal, </u>
+                   <u>and the recent COVID-19 pandemic. This </u>                                                      <u>and environmental health, ensuring a more resilient </u>
+                   <u>involves </u>         <u>improving </u> <u>animal </u>   <u>health </u>          <u>and </u>     <u>and sustainable future for generations to come.</u>
+                   <u>welfare, minimizing human -animal contact, </u>                                                  <u>References:</u>
+                   <u>and </u> <u>developing </u>             <u>innovative </u> <u>vaccines </u>      <u>and </u>
+                   <u>diagnostics </u>      <u>(World </u>    <u>Health </u>                 <u>Organization, </u>     •     <u>Food and Agriculture Organization of the United </u>
+                   <u>2023).</u>                                                                                             <u>Nations. (2019, April 15). Antimicrobial </u>
+
+                   <u>Antimicrobial </u>    <u>Resistance:</u>                   <u>The </u>       <u>growing </u>           resistance: A global threat.
+                   threat                   of           antimicrobial                          resistance                   <u>https://www.woah.org/en/what-we-do/global-</u>
+                   <u>necessitates a One Health approach. This </u>                                                    •     initiatives/one-health/
+                   <u>involves reducing antibiotic overuse in both </u>                                                      <u>Intergovernmental Panel on Climate Change. </u>
+                   <u>human and veterinary medicine, developing </u>                                                         <u>(2023). Climate Change 2023: Impacts, </u>
+                   <u>alternative </u>           <u>strategies </u>        <u>for </u>           <u>infection </u>           Adaptation and Vulnerability.
+                   <u>prevention and treatment, and promoting </u>                                                     •     https://www.ipcc.ch/report/ar6/syr/
+                   <u>responsible antibiotic stewardship practices </u>                                                      <u>World Health Organization. (2023, July 14). One </u>
+                   <u>(Food and Agriculture Organization, 2019).</u>                                                         <u>Health. https://www.woah.org/en/what-we-</u>
+                                                                                                                             do/global-initiatives/one-health/
+                   <u>Climate Change and Health:</u>                                            <u>One Health </u>     •     <u>World Organization for Animal Health. (2023, </u>
+                   <u>plays a crucial role in mitigating the health </u>                                                     <u>January 19). One Health: A collaborative </u>
+                   <u>impacts of climate change, such as the </u>                                                            approach to health for all.
+                   <u>increased </u>        <u>prevalence </u>             <u>of </u>         <u>vector-borne </u>           <u>https://www.woah.org/en/what-we-do/global-</u>
+                   <u>diseases, </u>        <u>food </u>      <u>insecurity, </u>      <u>and </u> <u>extreme </u>           <u>initiatives/one-health/</u>
+                   <u>weather </u>          <u>events. </u>   <u>By </u>   <u>developing </u>          <u>and </u>
+                   <u>implementing adaptation strategies, we can </u>
+                   <u>protect the health of humans and animals </u>
+                   from                     these             environmental                         shifts
+                   <u>(Intergovernmental </u>                 <u>Panel </u>            <u>on </u>  <u>Climate </u>
+                   <u>Change, 2023).</u>
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+One Health    VI
+
+
+
+
+
+
+
+
+
+
+  VI
+
+
+  One Health is anintegrated, unifying approach
+  n that aimsto
+  sustainablybalanceand optimizethe healthof people, animals
+  and ecosystems.
+
+                 www.phb.nih.org.pk
+                                               phb@nih.org.pk
+
+
+
+
+  https://phb.nih.org.pk/    https://twitter.com/NIH_Pakistan
+
+  phb@nih.org.pk             f https://www.facebook.com/NIH.PK/
+
+
+
+  NIE     UK Health    World Health    USAID    safetynet
+          Security                     WI
+          Agency       Organization    ONAL

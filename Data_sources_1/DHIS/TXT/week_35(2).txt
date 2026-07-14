@@ -1,0 +1,267 @@
+                   DIRECTORATE GENERAL HEALTH SERVICES
+                                                                       PUNJAB-LAHORE
+                                                                   24-Cooper Road, Lahore
+                                                        Ph. 042 -99200990; email: hmis.pb@yahoo.com
+unicef
+for every child                                    DHIS2 Weekly Bulletin (Week 35, Aug 26~ Sep 01, 2024)                              dhis2
+EGARDI             PORTI It is a matter of great Key Takeaways:                                          Punjab Map - OPD Compliance
+&DI                THA pleasure for me to write             In Week 35th of 2024, a detailed analysis was       Reporting Rate
+                       this message. The           conducted, exploring crucial insights from our data
+                                tance of data planning report. Utilizing tables and graphs, this analysis
+Fr                             and implementation is highlighted significant trends and vital indicators.
+                       immense. DHIS is a          In Week 35, reporting compliance across all 36 dis‐
+                           sion support system that tricts stands at 92%, marking a 1% drop from the pre‐
+                               will help managers at all vious week's 93%. The total number of Outpatient
+levels to make evidence based decisions. It will Department (OPD) visits during this week reached
+help in planning & development, strategy 2,272,386, signifying a 3% decrease compared to the
+management, Budgeting and forecasting previous week's 2,352,987 visits in Week 34. No‐
+about future needs. The MIS team is                tably, 96% of these visits accounted for new OPD
+worthy to implement the system in the whole patients, while only 4% were follow‐up visits.
+                                                        In terms of Facility types, the average daily OPD
+province and bring reporting regularity to visits were notably higher in THOS at 1,051/day visits.                                     Daily OPD Form
+                                                                                                                                      (Reporting Rate)
+more than 97%.                                     The highest number of OPD visits were reported in                           Wk35, 2024
+The performances of the district                   District Lahore (260,857) followed by Faisalabad                                   0-85(8)
+agement teams and health facilities of the (192,113), and Multan (119,797) during Week 35.                                            85·95(15)
+province are available for scrutiny and                        Analysing OPD age and gender demographics,                             95·100 (13)
+uation on DHIS. The issues of data validity females constituted 55% of visits while males ac‐
+and data accuracy needs more efforts and counted for 45%. The majority of patients, spanning
+hard working The doctors and paramedics ages 15 to 49, comprised the largest age group.
+should pay heed to the plight of data quality                     Regarding documented diseases in DHIS‐2
+and accuracy, so that correct and valid            during Week 35, a total of 68 diseases were
+ures may be made available for the decision recorded, encompassing 54% of all patient cases.
+                                                   Among these illnesses, 55% were communicable
+makers.            Dr. Muhammad Ilyas Gondal diseases, while 45% were non‐communicable, fo‐
+                                                   cusing on prioritized diseases. Graphs and tables
+                          Director General Services Punjab were employed to visually represent the top 10
+                                                   communicable and non‐Communicable diseases.
+                   The weekly Bulletin would       Additionally,   indoor  admissions            totalled
+                   have   not  been              possible 282,299, with 57% admitted due to specific dis‐
+                   without support, guidance, eases. Surgeries with anesthesia numbered 22,278,
+                   and expertise of Dr.            with 20% utilizing General Anesthesia (4,372), 49%
+                   hammad Ilyas Gondal,            involving Local Anesthesia (10,960), 26% employ‐          Daily Indoor and Surgeries
+                                                                                                             Services (Reperting Rate)
+                   rector    General   Health ing Spinal Anesthesia (5,895), and 5% utilizing other          Wi35, 2824
+                                                   alternative anesthesia methods (1,051).                     0-85(6)
+                   Services Punjab. The regular                                                                85·95 (20)
+                   reviews,  discussion,      and       In the field of Maternal and Child Health in Pun‐      95- s0 ()
+modification of methodological framework jab, there were a total of 208,373 ANC visits. Among
+used to ensure that the Weekly Bulletin meets the 71,007 women, 17% (11,827) reported having Hb              Punjab Map - RMNCH
+the most rigorous statistical standards and        levels below 10g/dl during ANC‐1. A week‐wise com‐        Compliance Reporting Rate
+                                                   parative study highlighted that anaemic women were
+curately reflects the status of our Provincial also represented in the clustered bar graph. Out of
+health system.                                     23,455 deliveries, 77% were normal, 23% were C‐sec‐
+On       behalf    of           MIS team, Dr. Khalid tions, and only 0.32% involved Vacuum/Forceps deliv‐
+Mehmood (Director MIS), Dr. Muhammad eries. Maternal complications in obstetrics neonatal
+Mohsan Wattoo (ADHS-MIS) Mr. Farooq death due to complication were visualized through a
+Ahmed (CPO MIS) and Miss Rukhsana Fawad bar graph. Among the 23,212 live births, 2% had Low
+(Data Analyst) thank to the focal persons of Birth Weight (<2.5 kg), 0.6% were premature, and 4%
+Districts and public health professionals who (973) faced complications leading to infant mortality.
+worked to improve our provincial health                      Moreover, 44,470 Family Planning (FP) visits
+mation system with their tireless efforts and      were recorded during the week, with 75% occur‐
+collaboration and deserve deepest                  ring in BHUs. Districts, Sialkot, Chakwal and Fai‐
+tion for continuing efforts, to be better          salabad recorded the highest FP visits, with
+                                                   3,726, 3,427, and 3,198 FP visits, respectively.           Daily RMNCH Form
+tation to address the public health challenges                                                                (Reporting Rate)
+                                                            The week's data not only serves as a snapshot    Wk35,224
+of today and tomorrow.                             of the current state of healthcare but also as a            0-85(4)
+                                      Dr. Khalid Mehmood guide for future improvements and innovations in      85·95 (12)
+                                                                                                               95·100 (20)
+      Director Health Services (P&D and MIS) the pursuit of better public health outcomes.
+
+---
+
+                    DHIS2 Weekly Bulletin (Week 35, Aug 26~ Sep 01, 2024)
+
+        Distribution of OPD Visits by Age and Gender, Week 35, 2024                       Average OPD perday Visits during week 35, 2024
+60%
+50%                                                                           1200                       1,043                     1,051
+40%                                                                           1000                       II
+30%                                                                            8oo
+20%                                                                            600                       519
+10%                                                                            400
+ 0%        <1Y    1-4y    5-14Y    15-49y    5oy+                              200         35    139
+Female     6%       8%      13%       51%     21%                                o        BHU    RHC     THQ  DHQ                  THOS
+Male       8%      10%      16%       42%     23%
+
+Age and Gender Wise Analysis:                                                 Average OPD per day visits:
+Total OPD 2,272,386 visits were recorded in this week there were              In the assessment for week 35, the analysis showcased that,
+more females (55%) visits than that of males (45%). As is presented           according to the bar chart, THOS facilities stood out with
+in the graph, the maximum number of patients belonged to age                  the highest daily average of 1,051 OPD visits among various
+group (15‐49) y.                                                              facility type.
+
+    Classification of Patients by                                                Speciality wise OPD new cases during week 35, 2024
+           Disease Transmission: (CD vs
+                NCD) Week 35, 2024      1400k
+60%                                     1200k
+50%       55%                           1000k    1A
+                                     8ook
+40%                 45%              6ook
+30%                                      400k      1 16 16                          0 1 18×8 ¥÷8 ¥
+20%                                  200k                                             1                  18 18 4 1 5₁₅ ¥ ¥ X
+                                     ok
+                                     Geneal!                           Meithe                    Thet
+10%                                              pelanis                                         ENT
+                                                                       Otthers
+                                                                       come
+                                                                                 Shkin                   Piay
+                                                                                      Surgery            t Tbn
+                                                                                          Dental
+                                                                                                 Eve                               Conolsy
+                                                                                                              the
+                                                                                                 c            Hny
+0%         CD       NCD                                                                          C Uroy Homeo
+
+
+                                                              Week 35, 2o24: Leading Non-Communicable Diseases
+70% Week 35, 2o24: Leading Communicable Diseases       35%    32%
+60% 62%                                                30%
+50%                                                    25%
+40%                                                    20%
+30%                                                    15%       12% 10%      9%
+20%        15% 11%   6%                                10%                           6%  6%  5%  5%
+10%                      2%  2%   1% 0.7%       0.3%
+ 0%                                       0.4%          5%                                         3%         3%
+       NAT  20  80 2020  20  20 2020  20    20 20 NA    0%     20 20  20     202     20  20  20   2 20        20
+
+
+
+
+
+
+
+Communicable and Non‐Communicable Diseases:
+The data from Week 35 in 2024 from Punjab highlighted significant cases of major communicable diseases. Acute Upper Respiratory
+Infection (AURI) stood out, constituting 62% of cases, followed by Diarrhea/Gastroenteritis issues at 15% and Scabies 11%, Conversely,
+the highest percentage for Non‐Communicable Diseases was Fever due to unknown causes at 32%, followed by Peptic Ulcer and
+Hypertension at 12% and 10%, respectively. *These percentages were derived from patients visiting the OPD for communicable and
+non‐communicable diseases during that period.
+
+---
+
+  DHIS2 Weekly Bulletin (Week 35, Aug 26~ Sep 01, 2024)
+
+
+120,000  S 80 SA  SA  Weekly Comparitive study of Communicable Diseaseas
+100,000  S0  %A  Wk 33Wk 34 Wk 35
+80,000
+60,000  8A N0 1A  s ATE  80
+40,000  SA  SA SAS  1A c0 S0  AT O $  A 8  AE A  A 0 16  AT  S  90  O 3
+20,000  R bA
+
+Diarrhea/Gastr.  Scabies  Urinary Tract  Worm  Suspected  Cough >2 Wks  Acute  Susp Malaria  Susp Enteric  AWD/Susp  Pneumonia  Susp dengue  Susp Measles
+Infection UTI  Infestations  Hepatitis  (Pres.TB)  Conjunctivitis  Typhoid Fever  ACholera  fever
+
+62  Weekly Comparitive study of Communicable Diseaseas
+Wk 33 Wk 34Wk 35
+
+28
+21     21 19     18
+           13 13
+   6 8   o  o       4 3 1 3 2 1 1 1 5 1 1  o  1  1   2  1 2  o 2  o
+
+Susp Meningitis  Chicken Pox  Susp Acute Flaccid  Susp HIV/ AIDS  Susp Cervical  Susp diphtheria  Cutaneous  Seasonal Influenza  Susp Neonatal  Susp Crimean  Susp Monkey Pox
+Paralysis AFP  Cancer (HPV)  Leishmaniasis  ILI  Tetanus  Congo
+Hemorrhagic Fever
+(CCHF)
+
+Surgeries Categorized by Anesthesia Type:  Demographic Distribution of Indoor Admissions, Week 35, 2024
+Week 35, 2024  60%
+
+60%      49%   50%
+50%            40%
+40%            30%
+30%  20%  26%  20%
+20%            10%
+10%          <5y 5% 0%                         5-14Y 15-49Y 50-69Y 70Y+
+ 0% General  Local  Spinal  Others  Female  20%  11%  50%  14%  5%
+
+Anesthesia  Anesthesia  Anesthesia  Male  26%  13%  32%  20%  9%
+
+MNCH Services
+
+ANC Observations - Week 35, 2024  Comparison of Anemia Among Women Attending First
+Antenatal Care
+40%  ANC visits  100,000  15%  15%  16%  16%  16%  16%  17%  17%  20%
+
+30%  34%  31%  Hb. <10 g/dl  80,0o0  %0  %A  1AT  SAT  SA  15%
+
+20%  60,000  %A  1AT  NA  10%
+40,000
+
+10%  17%  19%  16%  20,000  5%
+0%
+0%  Wk 28 Wk 29 Wk 30 Wk31 Wk32 Wk33 Wk34 Wk35
+ANC-1  ANC-2  ANC-3  ANC-4+  ANC 1 ANC1 Hb. <10 g/dl
+
+
+  ANC Detail:
+  Among the total 208,373 ANC visits this week, ANC‐1 constituted 34% (71,007) with 17% (11,827) showing Hb<10g/dl, while ANC‐
+  2, ANC‐3, and ANC‐4 comprised 31% (64,398), 19% (40,029), and 16% (32,939) respectively.
+
+---
+
+DHIS2 Weekly Bulletin (Week 35, Aug 26~ Sep 01, 2024)
+
+
+           Distribution of Delivery Modes in week 35, 2024                         Deliveries conducted by Health Facility type-wise week
+           17,967                                                                  35, 2024
+  20000     (77%)                                                        10,000    C-Sections  Normal/Forceps
+  18000
+  16000                                                                  8,000     168
+  14000
+  12000                                                                  6,000
+  10000                         5,412
+   8000                         (23%)                                    4,000                 A 1A          0 R8
+   6000                                                                               1              1
+   4000                                         76                       2,000
+   2000                                         (0.32%)
+      o
+           Normal     C-Sections                Vacuum/Forceps                     BHU  RHC    THQ   DHQ       THOS
+
+Deliveries by Health Facilities types wise:                              (8,865) of Normal/forceps deliveries, while THOS handled
+Out of a total of 23,455 deliveries, 77% were normal,                    10% (2,268) of C‐sections. It's important to note that these
+23% were C‐sections, and only 0.32% involved the use of                  percentages are based on deliveries within healthcare fa‐
+Vacuum/Forceps.       However, BHU accounted for 38%                     cilities.
+                  Neonatal Deaths with Complications week 35, 2024            Maternal Complications in Obstetrics: Inpatient Admissions, Week 35,
+500        464                                                           2,500               2023
+450                                                                           2,126
+400
+350                                                                      2,000
+300
+250            171                                                       1,500
+200
+150                       97 92 91                                       1,000
+100                                             54   4                 2   500     259
+ 50                                                                                     212  188  177  163  103  93                               68
+ o         20   20        20 20 20              20  20                20
+                                                    20                        2020  20  20   20   20   202  20   20                               202
+              00          10                                                        20  202   20   20   20
+
+
+Neonatal Death due to complications:                                       Eclampsia/ Eclampsia. Additionally, 4% (973) of newborns didn't
+This week, we sadly recorded 03 maternal deaths. One was due               make it out of the 23,212 total live births due to complications
+to Postpartum Hemorrhage (PPH) and one resulted from Pre‐                  during childbirth.
+          Services wise FP Client visits week 35, 2024                           Method wise Family Planning Clients Visits week
+
+35,000              29,044                                                 20,000    18,362          35, 2024
+30,000                                                                     18,000
+25,000                                                                     16,000
+                                                                           14,000
+20,000                                                                     12,000              8,483
+                                                                           10,000
+15,000                                                                      8,000                   5,671
+10,000                        8,817                                         6,000                        2,693
+                                                                            4,000
+ 5,000    925                           3,017  2,576      453               2,000                             315  75     44  7
+
+         Total FP   New FP  No of FP   FP Clients Total PPFP Total PAFP              20        20   0    0    20   20     2   20
+      Visits < 25 y  visits  visits    Ref by LHW  visits  visits
+                           Counseling
+                           (new/Old)
+
+Family Planning:                                                           (7,281) being new clients and 17% (1,536) returning. 07% (3,017)
+In the 35th week of 2024, there were 44,470 family planning                were referrals by LHWs. Postpartum family planning (PPFP)
+visits. Of these, 2% (925) were by women under 25 years old.               visits made up 6% (2,576), with 3% (74) by women under 25 years
+Among these visits, 65% (29,044) were from new clients. Family             old. Finally, Post‐Abortion Family Planning (PAFP) visits were 1%
+planning counseling accounted for 20% (8,817) of visits, with 83%          (453), with 8% (36) made by women under 25.

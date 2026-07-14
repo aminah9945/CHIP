@@ -1,0 +1,3519 @@
+Analysis of  some important indicators is
+being  presented  in  the  form  of  tables
+and  graphs.  It  is  an  attempt  to  present
+the  provincial  situation  followed  by
+District and Health Facility wise status
+
+
+
+
+
+DHIS ANNUAL
+REPORT 2015
+
+
+
+
+
+
+
+
+
+
+MIS Cell DIRECTORATE GENERAL HEALTH
+SERVICES PUNJAB 24 Cooper Road Lahore
+
+---
+
+DHIS ANNUAL REPORT 2015|                                  DHISZ
+                                                          DISTRICT HEALTH
+                                                          INFORMATION SYSTEM
+
+Message from the Director General Health Services, Punjab
+
+
+
+
+
+
+
+
+
+
+It is matter of greater pleasure for me to write this message. The importance
+of data directed decisions is immense. DHIS is a decision support system that will
+help  managers  at  all  levels  to  make  evidence  based  decisions.  It  will  help  in
+planning & development, strategy management. Budgeting and forecasting about
+future needs. The MIS team is praise‐worthy to implement the system in the whole
+province  and  bring  reporting  regularity  to  more  than  95%.  The  working  of  the
+district management team and performance of the health facilities of the province
+will be available for security and evaluation through DHIS. The issue of data validity
+and  data  quality  needs more  effort and  hard work.  The  doctors  and  paramedics
+should pay heed to the plight of data quality and accuracy.
+Dr. Mukhtar Hussain Syed
+
+
+
+
+
+
+
+
+
+
+a
+
+---
+
+               DHIS ANNUAL REPORT 2015|                                         DHIS
+                                                                                DISTRICT HEALTH
+                                                                                INFORMATION SYSTEM
+    Foreword
+
+            The  raw  data  on  a  prescribed  format  from  public  health  care  facilities  is
+    regularly  received  on monthly  basis  in  District MIS  Cells where it  is  entered  into
+    DHIS Software in every district of the Punjab. This data is scrutinized and examined
+    in detail by the Provincial MIS cell after transmitting electronically by Districts MIS
+    Cells.
+                 In  the following  paragraphs, analysis  of  some important indicators is  being
+    presented  in  the  form  of  tables  and  graphs.  It  is  an  attempt  to      present  the
+    provincial  situation followed  by  division  and  district wise  status. The  intention  of
+    this report, and those in future, is to speak to aspects of health in the population,
+    as well as to a specific issue or theme. It will serve to define some key public health
+    issues of the day and consider how they can be approached. We hope this report
+    would  be  helpful  in  making  decisions  by  provincial,  divisional          and  district
+    managers.
+
+
+          Dr Ahmad Nadeem Zaka
+Director Health Services (MIS)
+
+
+
+
+
+
+
+
+
+
+    b
+
+---
+
+                             DHIS ANNUAL REPORT 2015|     DHIS
+                                               DISTRICT HEALTH
+                                            INFORMATION SYSTEM
+Table of Contents
+Executive Summary ....................................................................................................................................................... 1
+Introduction .................................................. ................................................................................................................. 3
+  Overview of DHIS Program ........................................................................................................................ 3
+  Important Features of DHIS ...................................................................................................................... 3
+  Salient Features of Report .............................................................. ........................................................... 3
+Importance of Record Keeping and Data Management ................................................................................................ 4
+Number of Functional and Reporting Health Facilities by District & Type .................................................................... 5
+  List of THQs/Civil Hospitals in Punjab ........................................................................................................ 6
+  List of DHQs Hospitals in Punjab ................................................................................................................ 7
+  List of Teaching Hospitals in Punjab ........................................................................................................... 8
+Year‐Wise Comparison of Important Indicators ............................................................................................................ 9
+Reporting Compliance .......................................................................................................................................... 9
+  Per Capita OPD Attendance ............................................................................................................................ 9
+  Total OPD visits ....................................................................................................................................... 9
+                              .............................................................. ..............................................................
+  Antenatal Care Services                                     9
+  Deliveries Conducted at Health Facilities ................................................................................................. 10
+  Caesarean Section .................................................................................................................................. 10
+  Number of Anaemic Women Coming for ANC‐1 ...................................................................................... 11
+  Frequency of Low Birth Weight (LBW) Babies .......................................................................................... 11
+  Stock out ............................................................................................................................................... 11
+  Family Planning Visit ............................................................................................................................... 12
+  Proportion of Staff Position Filled .............................................................. .............................................. 12
+  Lab Utilization (In‐door) .......................................................................................................................... 12
+  Lab Utilization (OPD) ............................................................................................................................... 12
+  Epidemic Disease Cases .......................................................................................................................... 13
+  Comparison of Top Ten Diseases (2010‐2014) ......................................................................................... 14
+ Acute Respiratory Infection ................................................................................................................................ 14
+ Fever due to other Causes .................................................................................................................................. 14
+ Scabies ....................................................... ......................................................................................................... 15
+ Peptic Ulcer Disease ............................................................................................................................................ 15
+ Diarrhoea/Dysentery in <5 yrs ............................................................................................................................ 16
+ Diarrhoea/Dysentery in >5 yrs ............................................................................................................................ 16
+ Hypertension ...................................................................................................................................................... 17
+ Dental Caries ....................................................................................................................................................... 17
+ Asthma ................................................................................................................................................................ 18
+ Diabetes Mellitus ................................................................................................................................................ 18
+Per Capita OPD Attendance in 2015 ............................................................................................................................ 19
+  District wise Comparison of Per Capita OPD Attendance ......................................................................... 19
+  Facility Type wise Average Number of OPD Visits(per day per health facility) ........................................... 19
+District wise Average new case per day of OPD visits ................................................................................................. 20
+Patients Distribution by Gender and Age .................................................................................................................... 20
+Disease Pattern ............................................... ............................................................................................................. 21
+  Communicable and Non‐Communicable Diseases .............................................................. ..................... 22
+  Number and Percentage of Priority diseases Cases .............................................................................. 22
+  District wise Incidence Rate (per 1,000 populations) of Top 5 Diseases .................................................... 24
+Antenatal Care Coverage ............................................................................................................................................. 27
+  District wise Percentage of ANC‐1 Visits(Out of expected population3.4%) . Error! Bookmark not defined.
+Facility type wise of ANC‐1 visits (per month per health facility) ................................................................................ 27
+Percentage of Anaemia among ANC‐1 Attendance ..................................................................................................... 28
+
+
+
+c
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+                                 DISTRICT HEALTH
+                                 INFORMATION SYSTEM
+                 Deliveries Conducted at the Health Facilities .............................................................................................................. 28
+    Facility type wise of Deliveries Conducted (per month per health facility) .......................................... 29
+    District wise Percentage of Deliveries Conducted at Health Facilities ....................................................... 29
+                           Obstetric Complications .......................................................................................................................... 29
+    Caesarean Section .................................................................................................................................. 30
+    Frequency of Low Birth Weight (LBW) Babies .......................................................................................... 30
+    Neonatal Mortality Rate .......................................................................... Error! Bookmark not defined.1
+    Complications of Neonatal Deaths .............................................................. ............................................ 31
+    Lab Services Utilization ................................................................................................................................................ 32
+      Bed Occupancy Rate .................................................................................................................................................... 34
+      Average Length of Stay ................................................................................................................................................ 34
+    Hospital Death Rate ..................................................................................................................................................... 35
+                      Family Planning Visits ...................................................................................................... Error! Bookmark not defined.
+    District‐wise Number of Commodities Distributed ................................................................................... 36
+    Human Resource ................................................ ......................................................................................................... 37
+Stock out Status .............................................. ............................................................................................................. 40
+
+
+
+
+
+
+
+
+
+
+    d
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+                 Executive Summary
+              The  provision  of  timely  and  effective  health  care  services  is  the  key  objective  of  any
+country’s  health  system.  To  maintain  the  health  system  in  a  good  functioning  status  it  is
+imperative  to  regularly monitor it  through an efficient Health  Information System. This  system
+should be able to provide timely and qualitative information for evidence based decision making
+process. Realizing the impact of this very important factor especially in the public health sector
+government initiated a nationally standardized data generation system at all levels called Health
+Management Information System (HMIS) in early 90s.This system has been modified to District
+Health  Information  System  (DHIS)  in  2006.  DHIS  now  have  a  much  wider  scope  than  the  old
+HMIS.  The  upgraded  version  of  DHIS  was  implemented  at  district  levels  in  2009.  But  as  this
+implementation was  supposed  to  be  carried  out  by  the  provincial health  departments  thus  its
+timeframe  varied  from  province  to  province.  It  was  encouraging  to  note  that  Punjab  Health
+Department took the lead to implement this program in all its 36 districts by September 2009.
+              In this report, different indicators are discusses. The data of  teaching/tertiary care hospitals is
+also  included.  In  first  portion  of  report, <u>the  year  wise  comparison  of  </u>important  indicators  is
+presented in the form of graphs. The overall trend in all indicators have increased during 2015.
+                  The detailed analysis of 2015 data is presented in this report. The overall reporting compliance
+of the health facilities in Punjab remained above the target since 2010 and in 2015 the reporting
+compliance was above 99%. The  total OPD in 2015 was 113 million. The per capita OPD in 2015
+was  1.2 which  had  increased from the  previous  years.  On  average,  per  day  OPD  attendance  in
+teaching/tertiary hospitals was  77280. In DHQs 32896, THQs 49928, in RHCs 49237 and in BHUs
+114708 visits were  reported. In age and gender wise analysis,  the percentage of female patients
+was higher (54%) and  the highest number of patients was  reported in age group  15‐49 years in
+which female were 27% and male were 20%.
+                      Forty‐three diseases are reported through DHIS. The patients of reported diseases constitute
+overall 49% of the total patients in 2015 while rest of the 51% was reported under the category
+of “others”. Out of the 43 priority diseases, 19 are communicable and 24 are non‐communicable.
+The proportion of communicable diseases was 58% while the non‐communicable diseases were
+42%.  Top  five  disease  were  acute  (upper)  respiratory  infection,             fever  due  to  other  causes,
+scabies,  peptic  ulcer  disease and Diarrhoea/Dysentery in <5 yrs. The incidence  rate of  top five
+diseases was calculated and presented in the form of graphs. The year wise comparison of top
+ten diseases is presented in  the form of graphs. The median index is calculated for 2010‐2014
+and it is compared with 2015 data.
+                  Antenatal care coverage is an indicator of access and utilization of health care services during
+<u>pregnancy. During 2015,  the overall ANC‐1 coverage in Punjab was 108% of  the  total expected </u>
+<u>population (3.4%). Out  of  the  total ANC‐1 women,  20% were  reported with  hemoglobin levels </u>
+less than 10g/dl
+              Delivery coverage at health facility is an indicator of utilization of delivery services provided at
+<u>public  health  facilities.  The  overall  percentage  of  deliveries  conducted  in  Health  Facilities  of </u>
+<u>Punjab during 2015 was 30% of  the  total expected population (2.9%). An analysis was done  to </u>
+<u>show the facility wise average number of deliveries conducted per month. The average number </u>
+<u>of deliveries was 515 per month per  teaching/tertiary care hospitals, in DHQs hospitals 204, in </u>
+1
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+<u>THQs  62,  in  RHCs  39  and  in  BHUs  10  deliveries  per  month.  Out  of</u>      <u>the  total  deliveries,  the </u>
+<u>deliveries  with  obstetric  complications  were  only  9%  and  deliveries  with  C‐section  constitute </u>
+<u>15%  of  the  total  deliveries.  Out  of  the  total  live  births,  4%  babies  were  born  with  low  birth </u>
+<u>weight (<2.5kg). Neonatal mortality  rate was calculated and it  was found 1.5% of  the  total live </u>
+births.
+  Lab services utilization indicates utilization of laboratory services at the facility and also gives
+a measure of the proportion of patients receiving diagnostic services from the laboratory of the
+health facility. In 2015, of the total OPD patients (113 million), 116million patients availed the lab
+services and in indoor, of the total admissions (5 million).outdoor, of the total OPD Patients (111
+million).
+Bed  occupancy  rate  indicates  utilization  of  hospital  indoor  services.  It  may  also  indicate
+quality  of  care.  Annual  BOR  are  used  to  evaluate  or  compare  how   hospitals  or  individual
+specialties are using their resources. The BOR during 2015 was 77%. Average length of stay is the
+measure of the average duration of hospital stay of admitted patients. This indicator reflects on
+the  intensity  of  care  delivered  to  hospitalized  patients  and  the  probable  burden  on  hospital
+resources. The ALS was 2 in 2015.
+                  Hospital  death  rate  is  the  measure  of  the  proportion  of  hospital  deaths  among  admitted
+patients. During 2015, of the total admissions in indoor, 2% deaths were occurred.
+        Stock out status measures the percent of health facilities that experienced a stock‐out of any
+tracer drugs/medicines for any number of days at any time of the year. The overall percentage of
+drugs out of stock was 7 %.
+         During 2015, 14% eligible couples availed the family planning services from the public sector
+health facilities against the expected population (16% MCBA).
+
+
+
+
+
+
+
+
+
+
+2
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION STSTEM
+
+
+
+                                  Introduction
+    Overview of DHIS Program
+             District  Health  Information  System  (DHIS)  is  a  mechanism  of  data  collection,  transmission,
+    processing, analysis and information feedback  to  the first level care facilities & secondary level
+    health  care  facilities.  DHIS  provides  a  baseline  data  for  district  planning  implementation  and
+    monitoring on major indicators of disease pattern, preventive services and physical resources.
+     The  revised  system,  unlike  the  previous  system, would gather and  collate  information from
+    Secondary  level  hospitals  (District  Headquarter  Hospitals  (DHQs)  and  Tehsil  Headquarter
+    Hospitals (THQs)).
+
+    Important Features of DHIS
+
+    DHIS is a district – based Routine Health Information System
+     x  Responds  to  the  information  need  of  the  District  health  system’s  performance
+        monitoring function both at district and province levels
+     x  DHIS provides minimum set of indicators
+     x  Promotes / Supports evidence based decision ‐ making at local level & provincial level
+     x  Cater to the important routine health information needs of the federal & provincial levels
+        for monitoring policy implementation
+     x  DHIS is an improved version of HMIS as it incorporates many indicators from HMIS.
+
+    Salient Features of Report
+
+               DHIS is fully implemented and functional in all Districts  of  Punjab  province  since  2009,  thus
+    there  is  a  regular  need  of  data  analysis  for  promoting  evidence         based  decision  making  and
+    improvement in data quality.
+    The  overall  purpose  of  this  feedback  report  is  to  provide  basic  analyses  of  important
+    performance indicators to the district managers and facility in‐charges. This would then ensure
+    the identification of problem areas or best practices, problem analysis and planning of solutions,
+    implementation of the solutions, monitoring the implementation and evaluating the solutions.
+    This report shall assist the district, provincial & national health managers to analyze the health
+    situation,  their services (e.g. EPI, TB‐Dots, Malaria, Hepatitis, MCH & Family Planning Services),
+    availability  of  drugs/  supplies,  essential  equipment  and  utilities  etc. Other  users  of  this  report
+    would be the district, provincial and national managers who are some way or the other involved
+    in improving the health services and have a role in the overall health care delivery system.
+
+
+
+
+
+    3
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                             DISTRICT HEALTH
+                             INFORMATION SYSTEM
+
+
+
+Importance of Record Keeping and Data Management
+                    Knowledge is power and change into wisdom when knowledge is applied. When information
+is  processed  on  scientific  basis  using  statistical  tools  and  appropriate  methods  on  data  new
+knowledge  is  generated.  So  data  management  is  the  core  activity          in  production  of  new
+knowledge.  Record  keeping  and  data  management  are  intertwined  together  to  produce
+verifiable, reproducible and publishable knowledge.
+               Modern  facilities  of  IT  and  communication  have  not  only  reduced  distances  among
+organization, institutions and learned academia but have also led to use of information in short
+and long decision making. On the basis of this relationship between academia and departments
+working in  the field  research has flourished. It has given immense opportunities  to  the human
+mind. The example of dengue epidemic of 2011 is an example of this relationship when all the
+departments of Punjab and academic institutions joined hands  to help  the government  to face
+the dire situation.
+Health  is  a  huge  subject  consisting  of  diverse  fields  of  which medicine  is  only  a  part.  In
+Pakistan it has become imperative to strengthen the links between the departments working to
+improve health and prevent disease and to reduce morbidity, disability and death. It is essential
+to use IT and health for capturing data on health and indicators of health, process the data and
+produce information which can lead to use of this information for evidence based management.
+    DHIS  is  a  humble  beginning  but  has a  capacity  to  become  a full‐fledged  health  information
+system which is being utilized in developed countries. If we can convince the medical academia
+of  Punjab  to join  hands with MIS  Cell (Directorate General Health Services) which is managing
+DHIS  and  start  sending  monthly  reports  about  health  and  disease from  teaching  hospitals  of
+Punjab we can fulfil the basic objective of DHIS. Only then it will be possible to give a complete
+picture of state of health and disease in the Province.
+
+
+
+
+
+
+
+
+
+4
+
+---
+
+
+<table>
+    <thead>
+    <tr>
+        <th colspan="13">DHIS ANNUAL REPORT 2015|</th>
+    </tr>
+    </thead>
+    <tr>
+        <td colspan="13">Number of Functional and Reporting Health Facilities by District & Type 
+Table 1:</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>District</td>
+        <td>THOS</td>
+        <td>DHQ</td>
+        <td>THQ</td>
+        <td>RHC</td>
+        <td>BHU</td>
+        <td>MCH</td>
+        <td>Disp.</td>
+        <td>SHC</td>
+        <td>TBC</td>
+        <td>Total</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Bahawalnagar</td>
+        <td>0</td>
+        <td>1</td>
+        <td>4</td>
+        <td>10</td>
+        <td>102</td>
+        <td>7</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>125</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Bahawalpur</td>
+        <td>1</td>
+        <td>0</td>
+        <td>4</td>
+        <td>11</td>
+        <td>73</td>
+        <td>10</td>
+        <td>5</td>
+        <td>0</td>
+        <td>2</td>
+        <td>106</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Rahimyar Khan</td>
+        <td>1</td>
+        <td>0</td>
+        <td>3</td>
+        <td>19</td>
+        <td>104</td>
+        <td>7</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>136</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>D.G Khan</td>
+        <td>1</td>
+        <td>0</td>
+        <td>3</td>
+        <td>10</td>
+        <td>50</td>
+        <td>5</td>
+        <td>23</td>
+        <td>0</td>
+        <td>0</td>
+        <td>92</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Layyah</td>
+        <td>0</td>
+        <td>1</td>
+        <td>5</td>
+        <td>3</td>
+        <td>39</td>
+        <td>2</td>
+        <td>21</td>
+        <td>0</td>
+        <td>0</td>
+        <td>71</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Muzaffargarh</td>
+        <td>0</td>
+        <td>1</td>
+        <td>3</td>
+        <td>13</td>
+        <td>72</td>
+        <td>3</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>97</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Rajanpur</td>
+        <td>0</td>
+        <td>1</td>
+        <td>3</td>
+        <td>6</td>
+        <td>33</td>
+        <td>1</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>46</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Faisalabad</td>
+        <td>2</td>
+        <td>1</td>
+        <td>5</td>
+        <td>13</td>
+        <td>168</td>
+        <td>5</td>
+        <td>6</td>
+        <td>12</td>
+        <td>0</td>
+        <td>212</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Jhang</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>9</td>
+        <td>58</td>
+        <td>6</td>
+        <td>8</td>
+        <td>0</td>
+        <td>1</td>
+        <td>85</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Toba Tek Singh</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>8</td>
+        <td>70</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>84</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Chiniot</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>36</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>46</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Gujranwala</td>
+        <td>1</td>
+        <td>0</td>
+        <td>3</td>
+        <td>10</td>
+        <td>93</td>
+        <td>10</td>
+        <td>22</td>
+        <td>0</td>
+        <td>1</td>
+        <td>140</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Gujrat</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>10</td>
+        <td>90</td>
+        <td>7</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>111</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Narowal</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>7</td>
+        <td>57</td>
+        <td>4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>1</td>
+        <td>75</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Sialkot</td>
+        <td>2</td>
+        <td>0</td>
+        <td>4</td>
+        <td>6</td>
+        <td>88</td>
+        <td>15</td>
+        <td>18</td>
+        <td>0</td>
+        <td>1</td>
+        <td>134</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Hafizabad</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>6</td>
+        <td>32</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>44</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Mandi Bahauddin</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>9</td>
+        <td>49</td>
+        <td>4</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>65</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Kasur</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>12</td>
+        <td>82</td>
+        <td>8</td>
+        <td>23</td>
+        <td>0</td>
+        <td>1</td>
+        <td>129</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Lahore</td>
+        <td>17</td>
+        <td>1</td>
+        <td>3</td>
+        <td>6</td>
+        <td>36</td>
+        <td>50</td>
+        <td>42</td>
+        <td>0</td>
+        <td>0</td>
+        <td>155</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Okara</td>
+        <td>0</td>
+        <td>2</td>
+        <td>2</td>
+        <td>10</td>
+        <td>96</td>
+        <td>4</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>116</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Sheikhupura</td>
+        <td>0</td>
+        <td>1</td>
+        <td>4</td>
+        <td>7</td>
+        <td>79</td>
+        <td>4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>99</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Nankana Sahib</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>6</td>
+        <td>48</td>
+        <td>4</td>
+        <td>18</td>
+        <td>0</td>
+        <td>0</td>
+        <td>79</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Khanewal</td>
+        <td>0</td>
+        <td>1</td>
+        <td>3</td>
+        <td>7</td>
+        <td>82</td>
+        <td>4</td>
+        <td>17</td>
+        <td>0</td>
+        <td>0</td>
+        <td>114</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Lodhran</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>4</td>
+        <td>48</td>
+        <td>1</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>61</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Multan</td>
+        <td>1</td>
+        <td>0</td>
+        <td>5</td>
+        <td>8</td>
+        <td>82</td>
+        <td>5</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>105</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Pakpattan</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td>5</td>
+        <td>53</td>
+        <td>2</td>
+        <td>6</td>
+        <td>0</td>
+        <td>1</td>
+        <td>69</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Sahiwal</td>
+        <td>2</td>
+        <td>0</td>
+        <td>1</td>
+        <td>11</td>
+        <td>75</td>
+        <td>2</td>
+        <td>16</td>
+        <td>0</td>
+        <td>0</td>
+        <td>107</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Vehari</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>14</td>
+        <td>74</td>
+        <td>4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>99</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Attock</td>
+        <td>0</td>
+        <td>1</td>
+        <td>5</td>
+        <td>5</td>
+        <td>62</td>
+        <td>4</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>80</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Chakwal</td>
+        <td>0</td>
+        <td>1</td>
+        <td>3</td>
+        <td>10</td>
+        <td>64</td>
+        <td>1</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>83</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Jhelum</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>6</td>
+        <td>45</td>
+        <td>6</td>
+        <td>8</td>
+        <td>0</td>
+        <td>0</td>
+        <td>68</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Rawalpindi</td>
+        <td>3</td>
+        <td>0</td>
+        <td>6</td>
+        <td>8</td>
+        <td>98</td>
+        <td>12</td>
+        <td>6</td>
+        <td>0</td>
+        <td>0</td>
+        <td>133</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Bhakkar</td>
+        <td>0</td>
+        <td>1</td>
+        <td>3</td>
+        <td>4</td>
+        <td>39</td>
+        <td>2</td>
+        <td>12</td>
+        <td>13</td>
+        <td>0</td>
+        <td>74</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Khushab</td>
+        <td>0</td>
+        <td>1</td>
+        <td>4</td>
+        <td>5</td>
+        <td>42</td>
+        <td>7</td>
+        <td>8</td>
+        <td>0</td>
+        <td>0</td>
+        <td>67</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Mianwali</td>
+        <td>0</td>
+        <td>1</td>
+        <td>3</td>
+        <td>10</td>
+        <td>40</td>
+        <td>5</td>
+        <td>14</td>
+        <td>0</td>
+        <td>0</td>
+        <td>73</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Sargodha</td>
+        <td>1</td>
+        <td>0</td>
+        <td>9</td>
+        <td>11</td>
+        <td>124</td>
+        <td>5</td>
+        <td>7</td>
+        <td>0</td>
+        <td>0</td>
+        <td>157</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Grand Total</td>
+        <td>33</td>
+        <td>27</td>
+        <td>109</td>
+        <td>302</td>
+        <td>2483</td>
+        <td>224</td>
+        <td>319</td>
+        <td>26</td>
+        <td>14</td>
+        <td>3537</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2"></td>
+        <td colspan="12"></td>
+    </tr>
+    <tr>
+        <td colspan="12">5</td>
+    </tr>
+</table>
+    DHIS
+                     DISTRICT HEALTH
+                  INFORMATION STSTEM
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+                                   List of THQs/Civil Hospitals in Punjab
+
+     Table 2:
+Sr   Facility Name                   Sr     Facility Name                    Sr  Facility Name
+District: Bahawalnagar               40     THQ Hospital Noshehra Vikran     District: Pakpattan
+1  THQ Hospital, Haroon Abad         District: Gujrat                        76 THQ Hospital, Arifwala Arifwala
+2    THQ Hospital, Chishtian         41     THQ Hospital Kharian             District: Sahiwal
+
+3  THQ Hospital, Fort Abbas.         42  CIVIL Hospital, Kotla Arab Ali Khan 77 THQ Hospital Chichawatni
+ 4   THQ Hospital, Minchinabad       43     Civil Hospital Dinga             District: Vehari
+District: Bahawalpur           44 CIVIL        Hospital Jalalpur Jattan      78 THQ Mailsi
+ 5   THQ Hospital, Ahmadpur East     District: Narowal                       79  THQ Burewala
+6  THQ Hospital, Hasilpur.       45 THQ      Shakargarh                      District: Attock
+ 7   THQ KhairPur Tamewali           District: Sialkot                       80  THQ Hospital Fateh Jang
+8  THQ Yazman                  46 CIVIL        Hospital    Daska             81 THQ Hassan Abdal
+ 9   CIVIL Hospital Bahawalpur       47     THQ Hospital Pasrur              Tehsil: Hazro
+District: Rahimyar Khan          48 THQ      Kotli       Loharan             82 THQ Hospital Hazro
+10   THQ Hospital Liaquatpur         49     THQ Sambrial                     83  THQ Hospital Jand
+11  THQ Hospital Sadiqabad           District: Hafizabad                     84 THQ Hospital PindiGheb
+12   THQ Hospital Khanpur            50     THQ Pindi Bhattian               District: Chakwal
+District: D.G Khan                   District: Mandi Bahauddin               85 THQ ChoaSaiden Shah
+13   THQ Hospital Tauns              51     THQ Hospital                     86  City Hospital Talagang
+14  CIVIL Hospital Fort Munroo       District: Kasur                         87 THQ TALAGANG
+15   CIVIL Hospital Sakhi Sarwar     52     THQ, Hospital Chunian            District: Jhelum
+District: Layyah                     53  THQ Hospital Pattoki                88 THQ Hospital PD Khan
+16   THQ Hospital Chowk Azam         District: Lahore                        89  THQ Hospital Sohawa
+17  THQ Hospital Kot Sultan          54  Govt. Hospital Shahdra              District: Rawalpindi
+18   THQ Hospital Karor              55     GMH Pathi Ground                 90  THQ Hosp Gujar Khan
+19  THQ Hospital FatehPur            56  GMH Chohan Road                     91 THQ Hosp Kahuta
+20   THQ Hospital Choubara           District: Okara                         92  THQ Kotli Sattian
+District: Muzaffargarh               57  THQ Hospital Depalpur               93 THQ Hosp: Murree
+21   THQ Hospital Alipur             58     THQ Hospital Havali Lakha        94  THQ Hospital Taxila
+22  THQ Jatoi                        District: Sheikhupura                   95 THQ Hospital Kallar Syedan
+23   THQ Hospital KotAdu             59     THQ Hospital Ferozewala          District: Bhakkar
+District: Rajanpur                   60  THQ Hospital SharaqPur Sharif       96 THQ Hospital Kalurkot, Kalurkot
+24   Civil Hospital Shah WALI        61     THQ Hospital Muridke             97  THQ Hospital Mankera, Mankera
+
+
+6
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+25  THQ Hospital Rojhan                62  THQ Hospital Safdarabad                 98 THQ Hospital, Daryakhan
+26     THQ Hospital Jampur             District: Nankana Sahib                     District: Khushab
+District: Faisalabad                   63  THQ Shahkot                             99 THQ Hospital Khushab Khushab
+27     THQ Hospital ChakJhumra         64     THQ Sangla Hill                      100  THQ Hospital Noor PurThal
+28  THQ Hospital Jaranwala             65  Civil Hospital Sangla Hill              101 THQ Hospital Qaidabad
+29     THQ Hospital Tandilian wala     District: Khanewal                          102  THQ Hospital Naushera
+30  THQ Hospital Sumundri              66  THQ Hospital Jahanian                   District: Mianwali
+31     Govt. General Hospital          67     THQ Hospital Kabir Wala              103  THQ Hospital Isa Khel
+       Samanabad
+District: Jhang                        68  THQ Hospital Mian Channu                104 THQ Level Hospital Kalabagh
+32     THQ Hospital Shorkot            District: Lodhran                           105  THQ Hospital Piplan
+33  THQ Ahmed purSial                  69  THQ Hospital KehrorPacca                District: Sargodha
+District: Toba Tek Singh               70     THQ Hospital Dunyapur                106  THQ Hospital Bhalwal
+34  GOVT.Eye‐Cum‐General               District: Multan                        107 THQ     KotMomin
+       Hospital Gojra
+35     THQ Hospital Kamalia            71     GOVT. Mushtaq Lang THQ               108  THQ Sahiwal
+                                              Hosp.Jalalpur Pirwala
+District: Chiniot                      72  GOVT.THQ HOSPITAL SHUJABAD 109 THQ Sillanwali
+
+36     THQ Lalian                      73     Govt. Mian Muhammad Shahbaz          110  THQ Hospital Chak no. 90/Sb
+                                              Sharif General Hospital Multan
+
+37  THQ Bhowana                        74  GOVT. Fatima Jinnah Women Hosp.         111 THQ Bhagtanwala
+                                              Multan (Ss)
+District: Gujranwala                   75     GOVT. Civil Hospital Multan (Ss)     112  GOVT. Tb Hospital Sargodha
+
+38  THQ Hospital Wazirabad             District: Pakpattan                         113 THQ Hospital Shahpur
+
+39     THQ Hospital Kamoke             76     THQ Hospital, Arifwala Arifwala      114  THQ Bhera
+
+                                       List of DHQs Hospitals in Punjab
+
+       Table 3:
+ DHQ Hospital, Bahawalnagar                    DHQ Hospital Lodhran                 DHQ Hospital Hafizabad
+
+ DHQ Hospital Layyah                           DHQ Hospital Pakpattan               DHQ Hospital, M.B Din
+
+ DHQ Hospital Muzaffargarh                     DHQ Hospital Vehari                  DHQ Hospital Kasur
+
+ DHQ Hospital Rajanpur                         DHQ Hospital Attock                  Govt. MianMunshi Hospital, Lahore
+
+ Govt. General Hospital G.M Abad               DHQ Hospital Chakwal                 DHQ Hospital Okara
+
+
+
+7
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION STSTEM
+
+
+
+    
+<table>
+  <thead>
+    <tr>
+      <th>DHQ Hospital, Jhang</th>
+      <th>DHQ Hospital, Jhelum</th>
+      <th>DHQ Hospital (South City) Okara</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>DHQ Hospital Toba Tek Singh</td>
+      <td>DHQ Hospital Bhakkar</td>
+      <td>DHQ HopitalSheikhupura</td>
+    </tr>
+    <tr>
+      <td>DHQ Chiniot Hospital</td>
+      <td>DHQ Khushab, Jahurabad</td>
+      <td>DHQ Hospital Nankana Sahib</td>
+    </tr>
+    <tr>
+      <td>DHQ Hospital Narowal</td>
+      <td>DHQ Hospital Mianwali</td>
+      <td>DHQ Hospital Khanewal</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+                                             List of Teaching Hospitals in Punjab
+    Table 4:
+
+    B.V. Hospital Bahawalpur                        General Hospital Lahore
+
+    Teaching Hospital Sheikh Zayed RYK              Mayo Hospital Lahore
+
+    Teaching Hospital D.D. Khan                     Service Hospital Lahore
+
+    District Head Quarter Hospital Faisalabad       Jinnah Hospital Lahore
+
+    Allied Hospital Faisalabad                      Punjab Institute of Cardiology Hospital Lahore
+
+    DHQ/Teaching Hospital Gujranwala                Govt. Teaching Hospital Shahdra
+
+    Aziz Bhatti Shaheed (DHQ) Hospital, Gujrat      Govt. Nawaz Sharif Hospital Yakki Gate Lahore
+
+    Allama Iqbal mem. Hosp. Sialkot                 Shaikh Zayed Hospital Lahore
+
+    Govt. Sardar Begum Hospital Sialkot             Children Hospital Lahore
+
+    Institute of Mental Health Lahore               Nishter Hospital Multan
+
+    Punjab Dental Hospital Lahore                   DHQ Teaching Hospital Sahiwal
+
+    Govt. Mozang Hospital                           Govt. Haji Abdul Qayyum Teaching Hospital Sahiwal
+
+    Said Mitha Hospital Lahore                      Holy Family Hospital Rawalpindi
+
+    Govt. Kot Khawaja Saeeed Hospital Lahore        Benazir Bhutto Hospital Rawalpindi
+
+    Lady Aitchison Hospital Lahore                  DHQ Hospital Rawalpindi
+
+    Lady Wallingdon Hospital, Lahore                DHQ Teaching Hospital Sargodha
+
+    Sir Ganga Ram Hospital Lahore
+
+
+
+    8
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION STSTEM
+
+
+
+             Year‐Wise Comparison of Important Indicators
+                                                       .
+    Reporting Compliance
+     The  graph  shows  the  year                      98          Fig. 1        99  100   100
+                                                                   96  98
+    wise  comparison  of  reporting               100
+                                                   90
+    compliance.  The  target  for                  80
+                                             Percentage
+                                                   70
+    reporting  compliance  is  95%                 60
+                                                   50
+    and  it  can  be  seen  that  during           40
+    previous  five  years,  the                    30
+                                                   20
+    reporting regularity of Province               10
+                                                    0
+    Punjab is above the target.                        2010        2011   2012   2013   2014   2015
+    Per Capita OPD Attendance
+                                    Fig. 2                                       The year wise comparison of
+                                                                   1.19
+     1.20                                     1.00     1.07                      per  capital  OPD  attendance  is
+
+     1.00    0.85        0.88       0.90                                         shown  in  fig.  2.  It  can  be  seen
+
+     0.80                                                                        that there is improvement every
+
+     0.60                                                                        year  in  Per  capita  OPD  which
+
+     0.40                                                                        implies  that  the  population  is
+
+     0.20                                                                        satisfied by provision of services
+
+     0.00    2010   2011       2012           2013   2014          2015          in the public health facilities.
+
+    Total OPD Visits                                      120 M                  Fig. 3    105 M  113 M
+    The  graph  shows  the  year  wise                                                     95 M
+    comparison of total OPD visits. The no. of            100 M    78 M    75 M  82 M
+                                                           80 M
+    OPD  visits  has  increased  remarkably                60 M
+    during  2013.  The  reason  is  that  the              40 M
+    tertiary  care  hospitals  have  started               20 M
+                                                       0 M
+    reporting  through  DHIS  from  August                         2010 2011 2012 2013 2014 2015
+    2013.
+
+
+    9
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+Antenatal Care Services
+                          Fig. 4                                     Fig.  4  shows  the  year  wise
+   120                                                     108
+
+   100                              93           96                  comparison  of  percentage  of
+                          80
+Percentage            73
+    80                                                               ANC‐1 visits. This percentage is
+              58
+    60
+                                                                     calculated  from  the  expected
+    40
+    20                                                               pregnancies  during  the  year
+
+     0        2010   2011   2012    2013         2014      2015      (3.4% of total Population). The
+
+percentage has improved from year to year.
+
+Deliveries  Conducted  at  Health                                    Fig. 5    30
+Facilities                                           30                        28
+                                                                                 24
+The  graph  shows  the  year  wise                   25              21
+                                                 Percentage
+comparison of percentage of deliveries               20            17
+conducted  at  health facilities.  There  is         15    11
+                                                     10
+improvement every year in percentage
+                                                      5
+of deliveries conducted.
+                                                      0
+Caesarean Section                                          2010 2011 2012 2013 2014 2015
+
+                            Fig. 6               18
+18                                                         15      The  graph  shows  the  year  wise
+16
+14                   11               13                           comparison  of  C‐  Section  performed.
+Percentage
+12
+10            9             9                                      The percentage is calculated from the
+ 8
+ 6                                                                 total  deliveries  conducted  at  health
+ 4
+ 2                                                                 facilities.  In  2014,  the  highest
+ 0
+              2010 2011 2012 2013 2014 2015
+                                                                   percentage  was  observed  (18%).  In
+
+2015, the percentage was observed (15%).
+
+10
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION STSTEM
+
+
+
+    Number of Anaemic Women Coming for ANC‐1
+    Fig.  7  shows  the  year  wise                  Fig. 7
+                                             40      35
+    comparison  of  anemic  women            35
+                                             30
+    percentage,  coming  from  ANC‐1      percentage 22    21    21
+                                             25                  21    20
+    at  the  health  facilities.  The        20
+                                             15
+    highest  percentage  of  anemic          10
+                                              5
+    women was reported in 2011.               0    2010    2011   2012   2013   2014   2015
+
+    Frequency of Low Birth Weight (LBW) Babies
+                  Fig. 8                                          The graph shows the year wise comparison
+
+     5            5  4                    4                      of number of babies with low birth weight
+
+     4                               4             4       percentage,  delivered  at  health  facilities.
+    Percentage            3
+
+     3                                                         The percentage is calculated from the total
+
+     2                                                     deliveries  conducted  at  health  facilities.
+
+     1                                                         The  highest  percentage  was  reported  in
+
+     0                                                     2010 (5%).
+          2010 2011 2012 2013 2014 2015
+
+
+    Stock‐out Status
+                                                     Fig. 9
+    The  graph  shows  the  year           35        33
+                                                       29
+    wise  comparison  of  stock‐out        30        24    25
+                                           25
+                                           Percentage
+                                                             19
+    status.   In  2011,  the  highest      20
+                                           15
+    percentage was observed (33%).         10                  7
+                                            5
+    In  2015,  the  lowest  stock  out      0
+                                                     2010   2011   2012   2013   2014   2015
+    was observed (7%).
+
+    11
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+
+
+Family Planning Visits
+                          Fig. 10                                    14    Fig.  10  shows  the  year  wise
+14                                                      13                 comparison  of  family  planning
+12                        10             12                                              visits  percentage,  calculated
+10                                                                         from  the  expected  population
+Percentage
+ 8        6    7                                                           (16%  MCBA).  It  can  be  seen
+ 6                                                                                          from  the  figure  that  the
+ 4                                                                         percentage  of  family  planning
+ 2                                                                                      visits  are  improving  year  to
+ 0                                                                         year.
+          2010   2011     2012           2013           2014         2015
+
+Proportion of Staff Position Filled
+The  graph  shows  the  year wise                                          Fig. 11
+comparison of staff positions filled             100           81 71 83        73 86      72 85      74 84 70 84
+of  specialists,  general  medical                80        57 67                 61         59
+                                         Percentage                  56                              51      55
+                                                  60
+doctors  and  paramedical  staff                  40
+percentage.  The  trend  is  almost               20
+same during previous all years.                    0    2010         2011         2012       2013    2014    2015
+                                                        Specialist   General Medical Doctors   Paramedical Staff
+Lab Utilization (In‐door)
+                    Fig. 12                     Lab Investigation                 Fig. 13      The  graph  shows  the
+          400                                  250      238                                  year wise comparison of lab
+      Percentage                     208
+          200    74  111  151                                                                services  in  indoor.  The
+
+
+Percentage  0  2010 2011 2012 2013 2014 2015                      percentage  is  calculated
+35
+30                                                                from the total admissions in
+25
+20                                                                indoor.  Fig.  12  shows  the  lab
+15
+10                                                                investigation  percentage.  Fig.
+ 5                                                                13    shows    X‐Rays
+ 0
+            2010   2011   2012   2013           2014     2015     Ultrasonography  CT  Scan  and
+                   Ultrasonographies    CT Scan    ECG  X‐Rays
+ECG percentage.
+
+
+
+
+12
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+Lab Utilization (OPD)                                           Fig. 14                 Lab Investigation              Fig. 15
+      The  graph  shows       the                    20
+                                                     Percentage
+                                                                                        11  12
+year  wise  comparison  of  lab                      10  3      5      6     8
+services in OPD. The percentage                      0   2010 2011 2012 2013 2014 2015
+                                         Percentage
+is calculated from the total OPD             3.00
+                                             2.50
+visits.  Fig.  14  shows  the  lab           2.00
+investigation  percentage.      Fig.         1.50
+15       shows                X‐Rays         1.00
+                                             0.50
+Ultrasonography  CT  Scan  and               0.00
+                                                     2010       2011         2012           2013             2014      2015
+ECG percentage.                                                Ultrasonographies            CT Scan          ECG       X‐Rays
+
+Epidemic Disease Cases
+The following table shows the year wise number of epidemic diseases. The number of cases of
+Tb suspects has increased in 2013. The cases of Suspected Malaria and Suspected Meningitis are
+decreasing from year to year. There were a high number of Suspected Measles cases in 2013 due
+to the breakdown of epidemic. The cases of Suspected Viral Hepatitis are increasing year to year.
+There  is  a  remarkable  decrease  in  Suspected Neonatal  Tetanus  year  to  year.  In  2010,  a  highest
+number  of  Cutaneous  Leishmaniasis  patients was  reported  which  decreased  during  2011,  2012
+and again increased in 2013. The highest number of cases of Acute Flaccid Paralysis was reported
+in 2010 but it has decreased to a great extent. In 2011, the lowest number of cases of Suspected
+HIV/AIDS was reported.
+
+Table 5:
+         Diseases                        2010        2011          2012                 2013                 2014      2015
+TB Suspects                              537,826     514,881               545,760       619,613             687,122  734,325
+Suspected Malaria                        854,062     829,364               861,120       802,436             714,950  797,648
+Suspected Meningitis                      17,112       4,357                 4,197         3,450               5,023    4,698
+Suspected Measles                         13,355       2,961                 2,802        16,592               2,792    7,750
+Suspected Viral Hepatitis                179,239     192,010               265,168       288,658             288,973  355,724
+Suspected Neonatal Tetanus  7,046                      2,383                 1,566           955               1,436      312
+Cutaneous Leishmaniasis                   11,849       5,397                 2,778         4,631               5,366    8,470
+Acute Flaccid Paralysis                    8,282       1,377                 2,801           726                 734      649
+Suspected HIV/AIDS                         4,807         162                 6,773         1,827               3,306    3,875
+
+
+
+
+13
+
+---
+
+DHIS ANNUAL REPORT 2015|  DHIS
+DISTRICT HEALTH
+INFORMATION STSTEM
+
+Comparison of Top Ten Diseases (2010‐2014)
+The following graphs show the comparison of top 10 diseases of 2015 with the median index
+of 2010‐14. The median index is shown with area chart and 2015 data is shown in bars.
+
+Acute Respiratory Infection
+2,000,000  Fig. 16
+1,800,000
+Med index 2010‐14  2015
+1,600,000
+1,400,000
+1,200,000
+1,000,000
+800,000
+600,000
+400,000
+200,000
+0
+Layyah
+Khushab
+Chiniot
+Attock
+Chakwal
+Rajanpur
+Bhakkar
+D.G Khan Hafizabad M.B Din Narowal
+T.T Singh
+Khanewal
+Jhang
+Mianwali
+Jhelum
+Nankana
+Rawalpindi
+Pakpattan
+Lodhran
+B.Nagar
+Sheikhup…
+Okara
+Gujrat
+M.Garh
+Sahiwal
+Lahore
+Sargodha
+R. Y Khan
+Bahawalpur
+Sialkot
+Kasur
+Vehari
+Multan
+Gujranwala
+Faisalabad
+
+Fever due to other Causes
+450,000  Fig. 17
+400,000
+Med index 2010‐14  2015
+350,000
+300,000
+250,000
+200,000
+150,000
+100,000
+50,000
+0
+Jhelum
+Bhakkar
+Attock
+Sahiwal
+Chakwal
+Chiniot
+Hafizabad
+Layyah
+Khushab M.B Din
+Pakpattan
+Mianwali
+B.Nagar
+Okara
+Rajanpur
+T.T Singh
+Bahawalpur
+Rawalpindi
+Sargodha
+Khanewal
+Lodhran
+Sialkot
+Gujrat
+Jhang
+Narowal
+Lahore
+Vehari
+Nankana
+Sheikhupura
+R. Y Khan
+D.G Khan
+Kasur
+M.Garh
+Multan
+Gujranwala
+Faisalabad
+
+
+  14
+
+---
+
+  DHIS ANNUAL REPORT 2015|  DHIS
+  DISTRICT HEALTH
+  INFORMATION STSTEM
+
+  Scabies
+350,000  Fig. 18
+300,000  Med index 2010‐14  2015
+250,000
+200,000
+150,000
+100,000
+ 50,000
+  0
+  D.G Khan
+  Chakwal
+  M.B Din
+  Jhelum
+  Bhakkar
+  Attock
+  Layyah
+  Chiniot
+  Khushab
+  T.T Singh
+  Hafizabad
+  Rawalpindi
+  Pakpattan
+  Mianwali
+  Rajanpur
+  Lodhran
+  Khanewal
+  Sahiwal
+  Sargodha
+  R. Y Khan
+  Sheikhupura
+  B.Nagar
+  Gujrat
+  Jhang
+  Okara
+  Nankana
+  Narowal
+  Lahore
+  Vehari
+  Sialkot
+  Bahawalpur
+  Kasur
+  Multan
+  M.Garh
+  Gujranwala
+  Faisalabad
+
+
+  Peptic Ulcer Disease
+250,000  Fig. 19
+  Med index 2010‐14  2015
+200,000
+
+150,000
+
+100,000
+
+ 50,000
+
+  0
+  Hafizabad
+  Rajanpur
+  Rawalpindi
+  Khushab
+  D.G Khan
+  Chakwal
+  Chiniot
+  Jhang
+  Attock
+  Lodhran
+  Khanewal
+  Layyah
+  M.B Din
+  Bhakkar
+  Gujrat
+  Nankana
+  Multan
+  Narowal
+  T.T Singh
+  Sahiwal
+  R. Y Khan
+  Pakpattan
+  Sheikhupura
+  Lahore
+  Mianwali
+  Bahawalpur
+  Sialkot
+  Okara
+  Sargodha
+  Jhelum
+  M.Garh
+  Kasur
+  B.Nagar
+  Vehari
+  Gujranwala
+  Faisalabad
+
+
+
+    15
+
+---
+
+  DHIS ANNUAL REPORT 2015|  DHIS
+  DISTRICT HEALTH
+  INFORMATION STSTEM
+
+  Diarrhoea/Dysentery in <5 yrs
+200,000  Fig. 20
+180,000
+  Med index 2010‐14  2015
+160,000
+140,000
+120,000
+100,000
+ 80,000
+ 60,000
+ 40,000
+ 20,000
+  0
+  Khushab
+  M.B Din
+  Jhelum
+  Bhakkar
+  Pakpattan
+  T.T Singh
+  Chiniot
+  Chakwal
+  Attock
+  Hafizabad
+  Layyah
+  Nankana
+  Gujrat
+  Sheikhupura
+  Rajanpur
+  Mianwali
+  Sahiwal
+  Jhang
+  Okara
+  Khanewal
+  Narowal
+  Sialkot
+  Sargodha
+  B.Nagar
+  Rawalpindi
+  R. Y Khan
+  D.G Khan
+  Lodhran
+  Multan
+  M.Garh
+  Vehari
+  Gujranwala
+  Bahawalpur
+  Kasur
+  Lahore
+  Faisalabad
+
+
+  Diarrhoea/Dysentery in >5 yrs
+200,000  Fig. 21
+180,000
+  Med index 2010‐14  2015
+160,000
+140,000
+120,000
+100,000
+ 80,000
+ 60,000
+ 40,000
+ 20,000
+  0
+  Khushab
+  Bhakkar
+  Hafizabad
+  Chakwal
+  Layyah
+  M.B Din
+  Chiniot
+  Pakpattan
+  T.T Singh
+  Jhelum
+  Attock
+  Rajanpur
+  Mianwali
+  Nankana
+  Sahiwal
+  Okara
+  Rawalpindi
+  Narowal
+  B.Nagar
+  Jhang
+  D.G Khan
+  Sheikhupura
+  Lodhran
+  Gujrat
+  Khanewal
+  Sargodha
+  R. Y Khan
+  Sialkot
+  Vehari
+  Lahore
+  Bahawalpur
+  Kasur
+  Multan
+  M.Garh
+  Gujranwala
+  Faisalabad
+
+
+    16
+
+---
+
+  DHIS ANNUAL REPORT 2015|  DHIS
+  DISTRICT HEALTH
+  INFORMATION STSTEM
+
+  Hypertension
+200,000  Fig. 22
+180,000
+  Med index 2010‐14  2015
+160,000
+140,000
+120,000
+100,000
+ 80,000
+ 60,000
+ 40,000
+ 20,000
+  0
+  Layyah
+  Pakpattan
+  Attock
+  Rajanpur
+  D.G Khan
+  Chiniot
+  Hafizabad
+  Okara
+  Khushab
+  M.B Din
+  Nankana
+  Lodhran
+  Jhelum
+  Chakwal
+  Khanewal
+  Mianwali
+  Sheikhupura
+  Bhakkar
+  Bahawalpur
+  M.Garh
+  Rawalpindi
+  Multan
+  B.Nagar
+  R. Y Khan
+  Narowal
+  T.T Singh
+  Kasur
+  Sargodha
+  Gujrat
+  Sahiwal
+  Sialkot
+  Vehari
+  Lahore
+  Gujranwala
+  Jhang
+  Faisalabad
+
+
+  Dental Caries
+200,000  Fig. 23
+180,000
+  Med index 2010‐14  2015
+160,000
+140,000
+120,000
+100,000
+ 80,000
+ 60,000
+ 40,000
+ 20,000
+  0
+  Layyah
+  Chiniot
+  Khushab
+  Bhakkar
+  Attock
+  Rajanpur
+  M.B Din
+  Hafizabad
+  Lodhran
+  D.G Khan
+  Pakpattan
+  Chakwal
+  Okara
+  Nankana
+  Khanewal
+  Narowal
+  Jhelum
+  Sheikhupura
+  Mianwali
+  Rawalpindi
+  T.T Singh
+  B.Nagar
+  M.Garh
+  Sahiwal
+  Jhang
+  Multan
+  Kasur
+  Sialkot
+  Bahawalpur
+  Sargodha
+  Lahore
+  Gujrat
+  R. Y Khan
+  Vehari
+  Gujranwala
+  Faisalabad
+
+
+    17
+
+---
+
+  DHIS ANNUAL REPORT 2015|  DHIS
+  DISTRICT HEALTH
+  INFORMATION STSTEM
+
+  Asthma
+200,000  Fig. 24
+180,000
+  Med index 2010‐14  2015
+160,000
+140,000
+120,000
+100,000
+ 80,000
+ 60,000
+ 40,000
+ 20,000
+  0
+  Khushab
+  Layyah
+  Attock
+  Chiniot
+  M.B Din
+  Jhelum
+  Hafizabad
+  Okara
+  Chakwal
+  Bhakkar
+  Rawalpindi
+  Mianwali
+  D.G Khan
+  Pakpattan
+  Nankana
+  Sargodha
+  Sheikhupura
+  Sahiwal
+  Narowal
+  Rajanpur
+  Lahore
+  Jhang
+  T.T Singh
+  Khanewal
+  Sialkot
+  Gujrat
+  B.Nagar
+  Kasur
+  M.Garh
+  Lodhran
+  R. Y Khan
+  Multan
+  Vehari
+  Gujranwala
+  Bahawalpur
+  Faisalabad
+
+
+  Diabetes Mellitus
+200,000  Fig. 25
+180,000
+  Med index 2010‐14  2015
+160,000
+140,000
+120,000
+100,000
+ 80,000
+ 60,000
+ 40,000
+ 20,000
+  0
+  Layyah
+  Attock
+  Chiniot
+  Bhakkar
+  Khushab
+  Okara
+  M.B Din
+  Rajanpur
+  Nankana
+  D.G Khan
+  M.Garh
+  Jhelum
+  Khanewal
+  Pakpattan
+  Hafizabad
+  B.Nagar
+  Narowal
+  Rawalpindi
+  Sheikhupura
+  Mianwali
+  Lodhran
+  Bahawalpur
+  Sargodha
+  Multan
+  Chakwal
+  T.T Singh
+  Jhang
+  Gujrat
+  Sialkot
+  Vehari
+  Kasur
+  Sahiwal
+  R. Y Khan
+  Lahore
+  Gujranwala
+  Faisalabad
+
+
+
+    18
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION STSTEM
+
+
+
+    Per Capita OPD Attendance in 2015
+    One  of  the  key  indicators  to  assess                            Fig. 26
+    performance  on  the  provision  of  health                          22
+    services  in  Province  Punjab  is  to                        25
+    understand  the  number  of  people                  No. of Districts
+                                                                  20
+    attending and receiving services at health                    15     7      7
+    facilities  during  periods  of illness. A good               10
+    indicator  of  this  is  the  outpatient
+    attendance  per  capita.  This  indicator                      5
+    shows  the  extent  of facility  utilization  by               0    <1.0   1.0‐1.3   >1.3
+    the population. If Out Patient Department
+    (OPD) attendance is found to be high in the public health facilities, it implies that the population is
+    highly satisfied by provision of services in these facilities.
+    Per Capita OPD attendance gives an indirect indication of public  trust on health  services.
+    Overall, in the province, per capita OPD attendance during 2015 was 1.2. Majority of the districts
+    were under  the category of 1.0‐1.3 as  shown in fig‐26.Khanewal  had  the lowest Per Capita OPD
+    attendance (0.7) while Bahawalpur had the highest (1.7).
+    District wise Comparison of Per Capita OPD Attendance
+         2.00                                            Fig. 27
+         1.50
+         1.00
+    Per Capita OPD
+         0.50
+         0.00
+    Vehari                                               Rawalpindi            Bahawalnagar
+    Gujrat                                               Sheikhupura    Pakpattan Attock  Sialkot    Rajanpur
+    Bhakkar                                                             D.G Khan    Chiniot          Okara
+    Jhelum    Lodhran                                                         Multan      Rahimyar KhanLayyah
+              Hafizabad    Khushab                                      Gujranwala             Nankana Sahib
+    Faisalabad             Jhang
+    Bahawalpur                                           Narowal                                     Mandi Bahauddin
+    Lahore                                               Chakwal        Kasur         Muzaffargarh           Khanewal
+                  MianwaliSargodha                                                    Sahiwal         Toba Tek Singh
+
+
+
+                              2014  2015
+
+    <u>Facility Type wise Average Number of OPD Visits</u> (Per day per Health Facility)
+
+     2500                     Fig. 28    2,290     This  indicator  is  useful  to  understanding
+    OPD visits Per day per                         facility  workload  /utilization  and  to
+     2000                                          compare  which  facilities  are  well
+    Health Facility
+         1500                            1,218     performing  which  are  not.  A  benchmark
+         1000                            457       may  be  used  for  comparison;  or
+          500    46           163                  comparison  among  facility.  Fig.  28  is
+            0                                      showing  the  facility  type  wise  average
+                 BHU RHC THQ DHQ THOS              number  of OPD  visits per  day  per  health
+
+    facility during 2015.
+
+    19
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+                      DISTRICT HEALTH
+                   INFORMATION STSTEM
+
+
+
+
+
+
+    District wise Average new case per day OPD Visits
+
+    If Out Patient Department (OPD) attendance is found to be high in the public health facilities, it
+    implies that the population is highly satisfied by provision of services in these facilities.
+
+
+                                                            Fig. 30
+                   Fig. 29                 Sahiwal
+        Sahiwal                                Pakpattan
+      Pakpattan                                    Okara
+          Okara                                 Sargodha
+       Sargodha                            Mianwali
+       Mianwali                                  Khushab
+        Khushab                            Bhakkar
+        Bhakkar                            Rawalpindi
+     Rawalpindi                                   Jhelum
+         Jhelum                            Chakwal
+        Chakwal                            Attock
+         Attock                            Vehari
+         Vehari                            Multan
+         Multan                                  Lodhran
+        Lodhran                                 Khanewal
+       Khanewal                            Nankana Sahib
+  Nankana Sahib                            Sheikhupura
+    Sheikhupura                            Lahore
+         Lahore                                    Kasur           DHQ
+          Kasur            RHC           Mandi Bahauddin
+Mandi Bahauddin                            Hafizabad               THQ
+      Hafizabad            BHU                   Sialkot
+        Sialkot
+        Narowal                            Narowal
+         Gujrat                                   Gujrat
+     Gujranwala                            Gujranwala
+        Chiniot                                  Chiniot
+ Toba Tek Singh                           Toba Tek Singh
+          Jhang                                    Jhang
+     Faisalabad                               Faisalabad
+       Rajanpur                                 Rajanpur
+   Muzaffargarh                             Muzaffargarh
+         Layyah                            Layyah
+    D.G Khan                               D.G Khan
+  Rahimyar Khan                            Rahimyar Khan
+     Bahawalpur                            Bahawalpur
+   Bahawalnagar                            Bahawalnagar
+
+    ‐5000          0   5000 10000 15000    ‐4000 ‐2000 0 2000 4000 6000
+
+
+
+
+    Fig.  29  indicate  the  District wise  Average  new   Fig. 30 indicate the District wise Average new case
+    case per day OPD visits in BHUs and RHCs.              per day OPD visits in DHQ and THQ Hospitals.
+
+
+         Fig. 31
+    40000
+
+    30000
+
+    20000
+
+    10000
+
+        0
+         Lahore Rawalpindi Bahawalpur Faisalabad Rahimyar  Multan Gujranwala Sargodha   Sialkot   D.G Khan Sahiwal   Gujrat
+         Khan
+
+    Fig. 31 indicate the District wise Average new case per day OPD visits in Teaching Hospitals and
+    useful to understand facility workload /utilization.
+
+
+
+
+
+    20
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+                       Patients Distribution by Gender and Age
+This  indicator  shows  the  age  wise  and  gender  wise  percentage  distribution  of  new  OPD
+patients  attending  the  health  facility.  The  indicator  can  be  used  to  understand  whether  the
+health  facility  is
+catering    to         30            Fig. 32                           Fig. 33
+specific  age                                   Male, 46               27.1
+groups,  e.g.,
+children  under  5     25
+years  or  elderly                                          20.2
+patients,  and  to     20    Female,
+                       Percentage
+gender equity.                  54
+In  fig.  32,  pie     15                                                  12.3
+chart  shows  the                    Male  Female                          11.3
+gender  wise           10                            7.3  7.5
+percentage  of                           4.6    4.4
+male and female         5        2.8 2.5
+patients  during
+2015.  It  can  be      0
+seen  that  the                  < 1yr   1‐4 yrs     5‐14 yrs   15‐49      50+
+percentage of female (54%) patients is more than the male patients (46%). In bar chart (fig. 33),
+age  and  gender  wise  analysis  is  shown.  It  is  clear  from  figure  that  the  maximum  number  of
+patients  belonging  to  age  group  15‐49  availed  the  health  services.  The  percentage  of  female
+patients  in  this  age  group  attending  the  OPD  was  27.1%  while  the  male  were  20.2%.  The
+minimum number of patients availing  the services belonged  to age group <1 year (5.3%), male
+patients being 2.8% and female 2.5%. It is observed  that male patients use  the health facilities
+more in <14 age group while female patients are more in >14 age group.
+
+
+Disease Pattern                               Fig. 34
+This  indicator  is  a  measure  of  the              Priority
+annual  number  of  cases  according  to              Diseases
+                                                      49%
+specified  disease  classification
+attending the OPD.                            Other
+                                              51%
+This  indicator  will  help  to
+understanding which diseases/cases were
+attended  at  the  facility,  at  all  health
+
+21
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+           facilities in a tehsil or district, the changes in diseases trend over years or months of the same year
+        and the difference among union councils, tehsil or districts. The indicator can trigger a response in
+        terms  of  additional  resource  allocation  or  redistribution  according  to  the  disease  pattern,  or
+        initiating/strengthening  specific  preventive,  promotive  and/or        curative  services  at  specific
+        area/catchment population.
+                      Forty‐three diseases are reported through DHIS. The patients of reported diseases constitute
+                overall 49% of the total patients in 2015 while rest of the 51% was reported under the category of
+        “others”.
+
+                               Communicable and Non‐Communicable Diseases
+
+                               Fig. 35                                         Out of the 43 priority diseases, 19
+                                                            are  communicable  and  24  are  non‐
+                                                                                    communicable.  The  subsequent
+                  Non
+         Communica                                                              analysis  shows  the  most  common
+        ble Disease                        Communica        diseases and disease wise break up.
+            42%                            ble Disease
+                                           58%                                   The  proportion  of  communicable
+                                                            diseases  was  more  than  the  non‐
+                                                                               communicable  diseases  out  of  43
+                                                                               diseases throughout the year, which
+                                                                           are  reported  through  DHIS.  Fig.  35
+        shows the total number of communicable disease patients were 28,755,489 (58%) and the non‐
+        communicable disease patients were 20,940,944 (42%) during year 2015.
+
+        Table 6: Number and Percentage of Priority Disease Cases
+            Disease              Total     %age             Disease            Total                               %age
+
+ARI                            15365353    13.59        Pneumonia >5 years     222697                              0.20
+
+Fever due to other causes      4219952  3.73  Dog bite                         174294                              0.15
+
+Scabies                        2754452     2.44         Cirrhosis of Liver     160422                              0.14
+
+Peptic Ulcer Diseases          2737535  2.42  Trachoma                         126876                              0.11
+
+            22
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+Diarrhoea/Dysentery in <5 yrs      2428264    2.15     Burns                             108426     0.10
+
+Diarrhoea/Dysentery in >5 yrs      2315660  2.05  Glaucoma                                79298     0.07
+
+Hypertension                       2076239    1.84     Epilepsy                           71755     0.06
+
+Dental Caries                      1885073  1.67  Benign Enlargement of Prostate          69645     0.06
+
+Asthma                             1824421    1.61     Sexually Transmitted Diseases      68713     0.06
+
+Diabetes Mellitus                    1771800  1.57     Nephritis/Nephrosis                62759     0.06
+
+Road traffic accidents             1551728    1.37     Drug Dependence                    42888     0.04
+
+Dermatitis                         1350343  1.19  Snake bites                              9559     0.01
+
+Urinary Tract Infections           1306485    1.16     Cutaneous Leishmaniasis             9020     0.01
+
+Otitis media                        979370  0.87  Suspected Dengue Fever                   8646     0.01
+
+Worm infestation                    966275    0.85     Suspected Measles                   7750     0.01
+
+Suspected Malaria                   797645  0.71  Suspected Meningitis                     4698     0.004
+
+TB Suspects                         734092    0.65     Suspected HIV/AIDS                  3875     0.003
+
+Chronic Obstructive Pulmonary       640290  0.57  Acute Flaccid Paralysis                   649    0.0006
+Diseases
+Cataract                            593217    0.52     Suspected Neonatal Tetanus           312    0.0003
+
+Ischemic Heart Diseases(IHD)        521702  0.46  Suspected Pertussis                       14     0.00001
+
+Silicosis (Lung Disease)            467575    0.41     Suspected Avian Flu                   0      0.00
+
+Depression                          430691  0.38  Suspected Swine Flu                        0      0.00
+
+Name not specified                  404111    0.36     Suspected Viral Hemorrhagic           0      0.00
+                                                       Fever
+Suspected Viral Hepatitis             354366  0.31     Priority Diseases                 54967152    49
+
+Enteric/Typhoid Fever               315231    0.28     Others                            58067295    51
+
+Pneumonia <5 years                    288928  0.26     Grand Total                       113034447  100
+
+Fractures                           263685    0.23
+
+
+
+
+23
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+         District wise Incidence Rate (per 1,000 populations) of Top 5 Diseases
+Incidence  is  a  measure  of  the  risk  of  developing  some  new  condition  within  a  specified
+
+period. Although sometimes loosely expressed simply as the number of new cases during some
+
+time, it is better expressed as a proportion or a  rate with a denominator. Incidence  rate is  the
+
+probability of developing a particular disease during a given period; the numerator is the number
+
+of new cases during the specified time and the denominator is the population at risk during the
+
+period.
+
+600                           Fig. 36
+                                                                                521
+                  Acute (Upper) Respiratory Infection
+500
+Incidence per 1,000 Population
+         It was observed that the incidence of acute
+         respiratory infection was found significantly higher in
+400      Vehari (521/1,000 Pop), followed by Sahiwal                            362
+         (362/1,000 Pop), and Rawalpindi (297/1,000 Pop).
+                                                                    297
+300                                                                 251254264
+                                                                    237243
+                                                                    212214215
+                                                                    202
+                                                                   185187
+                                                                   178
+200                           150154156160161165169170
+                              138140
+                  109115119121123128
+         99
+         90
+100      Khushab 62
+         Bhakkar 52
+         Attock 46
+
+  0
+                   Nankana          B.Nagar                        Khanewal
+         Lahore Jhang         D.G Khan  Chakwal                            Multan  Jhelum
+                                                   Okara                           Sargodha
+           Lodhran            R. Y Khan  M.B Din                           Hafizabad Faisalabad  Vehari
+                              T.T Singh                            Gujrat    Sheikhupura
+                                         M.Garh           Kasur              Sialkot    Rawalpindi
+                              Rajanpur                 Mianwali              Bahawalpur    Sahiwal
+                                                            Narowal   Gujranwala
+                                          Layyah    Chiniot                  Pakpattan
+
+
+
+
+
+
+
+
+
+
+24
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION STSTEM
+
+
+
+
+    120                           Fig. 37
+                                                                    106
+
+    100             Fever due to Other Causes                       90 91
+    Incidence per 1,000 Population
+            It was observed that the incidence of Fever due to other
+     80     causes (excluding pneumonia and malaria) was found      72 75 76 79
+            significantly higher in Vehari (106/1,000 Pop), followed
+            by Sheikhupura (91/1,000 Pop), and Rawalpindi                      64 66
+     60     (90/1,000 Pop).                                        50 53 54 58 56 57
+                                                             47 47
+                                                       43 45
+                                  36 37 38 39 39 41 41
+     40             29 30 33 34 35
+
+                    23
+            Lodhran 22
+
+     20     Khushab 16
+           Bhakkar 9
+           Attock 9
+
+     0
+                                  B.Nagar             Nankana
+                    Lahore                   Jhang                  Khanewal    Sheikhupura
+                                                                                Chakwal
+                      Sahiwal                                                   Rawalpindi
+                      Jhelum      Pakpattan                                     Narowal
+                                                                                D.G Khan
+                                  Okara  Sargodha Chiniot                       Multan
+                                  M.B Din                    Hafizabad    Faisalabad
+                                         Gujrat    R. Y Khan    Layyah                  Vehari
+                                             Sialkot         T.T SinghBahawalpur  Kasur M.Garh
+                                                             Mianwali             Rajanpur
+                                                                         Gujranwala
+
+
+
+
+
+    100                            Fig. 38                            94
+
+    90
+                                   Scabies
+    80
+    Incidence per 1,000 Population
+           It was observed that the incidence of scabies was found
+    70     significantly higher in Vehari (94/1,000 Pop), followed    59 60 61
+
+    60     by Bahawalpur (61/1,000 Pop), and Sheikhupura
+           (60/1,000 Pop each).                                       47 47 48
+    50                                                                41 43
+                                                                      39
+    40                                    31 31 32 32 33 33 33 33 33 36 36
+
+    30                             25 25 26
+                                   19 19
+                                  Lodhran 19
+                                  R. Y Khan 17
+                     M.B Din 15
+                                  Lahore 15
+    20               T.T Singh 15
+                     Chakwal 14
+           Khushab 11
+           Bhakkar 7
+    10     Attock 7
+           D.G Khan 3
+    0
+                                              Nankana                     Khanewal  B.Nagar
+                                                         Rawalpindi       Jhang     Sheikhupura
+                                   JhelumPakpattan                         Sahiwal  Narowal
+                                              Sargodha                              Multan
+                                   Layyah     Chiniot Okara  Faisalabad  Hafizabad         Vehari
+                                                          Gujrat  M.Garh  Kasur
+                                           Mianwali               Sialkot                  Bahawalpur
+                                                       Gujranwala         Rajanpur
+
+
+
+
+
+
+
+    25
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION STSTEM
+
+
+
+                                                                     99
+    100                                    Fig. 39
+
+    90
+
+    80
+    Incidence per 1,000 Population
+                                  Peptic Ulcer Diseases              72
+    70
+
+    60     It was observed that the incidence of peptic ulcer        52 54 59
+           diseases was found significantly higher in Vehari         52
+    50     (99/1,000 Pop), followed by Jhelum (72/1,000 Pop), and                     48 42 45
+           Bahawalnagar (59/1,000 Pop).                                         37 39
+    40                                                     32 33 33 33 33 33 35
+                                                 27 27 28 29
+    30                            22 23 23 24 26
+                    19 19 20 20
+           R. Y Khan 18
+    20     D.G Khan 16
+           Lodhran 12
+           Khushab 12
+           Attock 11
+    10
+
+    0
+                    Jhang                                                      B.Nagar
+                     Lahore       Nankana       Multan     Okara Sargodha      Jhelum
+                                                           M.B Din Faisalabad
+                                                                               Hafizabad    Vehari
+                                  Bhakkar                            Khanewal
+                                  Gujrat     Kasur         T.T Singh                        Sheikhupura
+                                             M.Garh
+                                             Sialkot       Chakwal             Bahawalpur   Rawalpindi
+                                             Rajanpur                          Mianwali     Sahiwal
+                                                         Gujranwala            Narowal
+                                                         Layyah        Chiniot              Pakpattan
+
+
+
+
+
+                                                                      89
+    90                            Fig. 40
+
+    80             Diarrhoea/Dysentery in <5 years
+
+    70
+    Incidence per 1,000 Population
+           It was observed that the incidence of
+    60     Diarrhoea/Dysentery in <5 years was found significantly
+           higher in Vehari (89/1,000 Pop each), followed by Kasur    49
+    50     (49/1,000 Pop), and Rajanpur (44/1,000 Pop).                           42 43 44
+                                                                      38 39 39 39
+    40                                                                34 36
+                                                                      32
+                                                           29 29 30
+    30                            18 18 18 20 20 21 22 22 23 24 26 26 27
+                                  R. Y Khan 17
+    20             16 T.T Singh 17
+                   Nankana 14
+           M.B Din 13
+
+    10     Bhakkar 7
+          Attock 6
+          Khushab 4
+
+    0
+                                  B.Nagar                  Sargodha
+                                              Jhang                     HafizabadKhanewal
+                                  Chakwal     Lahore                                     Sheikhupura
+                                                                                         Rawalpindi
+                                                                         Bahawalpur      Sahiwal
+                                  JhelumPakpattan          Okara        D.G Khan  Multan  Narowal
+                   Gujrat         Layyah      Chiniot Lodhran           Faisalabad       M.Garh    Vehari
+                                  Sialkot                               Mianwali              Kasur
+                                                        Gujranwala                         Rajanpur
+
+
+
+
+
+    w
+
+      26
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+              Antenatal Care Coverage
+Antenatal care coverage is an indicator of access and utilization of health care services during
+pregnancy. It is a measure of the percent of pregnant women who utilize antenatal care services
+provided at the public health facility at least once during their current pregnancy.
+
+District wise Percentage of ANC‐1 Visits (Out of expected population3.4%)
+              183
+200           161    Fig. 41
+                 158
+180                  158
+                     148
+                        140
+                        139
+160                        138
+                           130
+                              127
+                              123
+                                 116
+140                              115
+                                    113
+                                    111
+                                       111
+                                       110
+                                          110
+                                          109
+                                             108
+                                             104
+                                                100
+120                                             99 99 96 95 95 92 92 91 Nankana Sahib 89
+Percentage                                         89 87 87 86 Rahimyar Khan 82
+100
+ 80
+ 60
+ 40
+ 20
+  0                  Bhakkar     Kasur
+                        Jhelum      Khanewal       Layyah
+                                Pakpattan Lahore    D.G Khan  Lodhran Multan
+                                                    Attock
+                                  Sialkot Toba Tek Singh    Okara                     Faisalabad
+                                  Mandi Bahauddin   Bahawalnagar     Jhang            Gujranwala
+              Narowal           Chiniot                                               Sargodha
+              Sheikhupura
+                         Chakwal  Mianwali          Muzaffargarh
+                                                    Sahiwal  Bahawalpur
+                 Hafizabad                          Rajanpur Rawalpindi  Vehari Khushab
+                                                             Gujrat
+
+
+                                                                                         .
+<u>This indicator indicates  how many  of  the  pregnant women in  the  catchment area are  covered </u>
+<u>through the facility for antenatal care services. In other words, it reflects the market share of the </u>
+<u>facility in providing antenatal services. When compared against previous performance or target, </u>
+<u>it  will  provide  information  on  the  current  performance  of  the  facility  or  facilities  in  the </u>
+<u>tehsil/district  in  catering  to  the  antenatal  care  needs  of  the  target  population  of  pregnant </u>
+<u>women. It can reflect the integrity of referral linkages between LHW and the facility‐based health </u>
+<u>care providers, the extent of mobilization of pregnant women or their families to utilize maternal </u>
+<u>health services from the public health facilities and/or the trust of the community on the public </u>
+health facilities/providers.
+During  2015,  highest  ANC‐1  coverage  was  observed  in  Narowal  (183%)  of  the  expected
+population) and lowest coverage was in Rahimyar Khan (82%) of the expected population).
+Facility Type wise Number of ANC‐1 Visits (Per month per Health Facility)
+
+1200                          Fig. 42    1,170                         During  the  year  2015
+ANC‐1 Visits per Month per HF
+    1000                                                 total ANC‐1 visits were 3510298
+     800                                 614             which  was  108%  of  the
+     600                                                 expected population.  Fig.  42  is
+     400                      266                        showing  the  health  facility  type
+     200    55  157                                      wise number of ANC‐1 visits per
+       0                                                 month  per  health facility  during
+            BHU   RHC         THQ        DHQ    THOS     2015.
+
+27
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+              Percentage of Anaemia among ANC‐1 Attendance
+ Percentage of pregnant women screened for hemoglobin levels at their first antenatal care
+visit to the facility with hemoglobin levels less than 10g/dl.
+<u>Pregnant women coming to the facility for antenatal care serve as a sample of women from th</u>e
+              Fig. 43
+ 12
+                                                               10
+ 10
+                                                               8
+  8
+Percentage                                                     6
+  6                                                                    3 3 3 3 3 4 4 4
+  4           1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3              3 3 3 3
+  2  1 1      1
+  0                           Mandi…                               Toba Tek…    Rahimyar…
+                                                                                Bhakkar
+                 D.G Khan    Jhelum         Kasur                     Khanewal
+                 Layyah         Pakpattan
+                             Nankana Sahib Lodhran Attock  Okara                       Multan  Lahore
+                                                                     Sialkot             Faisalabad
+              Chiniot        Jhang                 Sargodha    Bahawalnagar            Gujranwala
+                             Narowal    Chakwal                                 Sheikhupura
+                           Mianwali                                 Sahiwal Muzaffargarh
+       Rajanpur                                            Vehari               Bahawalpur  Rawalpindi
+              Hafizabad  Khushab        Gujrat
+
+
+
+          catchment  population. The  nutritional  status among  this  sample  of  pregnant women from  the
+catchment  population.  The  nutritional  status  among  this  sample  of  pregnant  women  is
+        suggestive  of  the  nutritional  status  of  women  in  the  catchment  population.718478  of  the
+                  women coming for ANC‐1 were reported as anemic (hemoglobin<10g/dl) out of the total ANC‐1
+visits 3510298.
+
+               Deliveries Conducted at the Health Facilities
+Delivery  coverage at facility is an indicator  of  utilization  of delivery  services  provided at  public
+               Fig. 44                                                              health  facilities.  It
+                                                                                         is  a  measure  of
+ 45                                      40                                                the  percent  of
+ 40                          35 35 37 38                                   mothers  who  are
+ 35                       33                                                             delivered  at  the
+Percentage                                                                 public  health
+ 30    25      27                                                          facility.
+ 25           23  23  22  24                                                              This indicator is
+                                                                                              a  proxy  for
+ 20    M deliveries  by
+ 15                                                                        skilled  health
+ 10                                                                                          personnel.  It
+                                                                                             indicates  how
+  5                                                                                           much  of  the
+  0                                                                                         pregnant  women
+       Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec                                  population  in  the
+catchment  area  are  covered  through  the  public  health  facility  for  delivery  services  and,  thus,
+reflects the market share of the facility in providing delivery services.
+
+  28
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+In fig. 44, percentage of monthly deliveries conducted at the facilities is shown. It is clear from
+the graph that there was no remarkable change in percentage of deliveries conducted month to
+month. The highest percentage was observed in December (40%) and lowest in April (22%).
+Facility Type wise Number of Deliveries Conducted (Per month per Health Facility)
+During  the  year  2015  total     600             Fig. 45             515
+deliveries conducted at health      Deliveries Conducte d Per month per
+facilities  were  830116  which    500
+was  30%  of  the  expected        400
+                                    Health Facility
+population.                        300                                 204
+Fig.  45  is  showing  the
+health  facility  type  wise       200                                 62
+number  of  deliveries             100             10    39
+conducted  per  month  per           0
+health facility during 2015.              BHU            RHC           THQ   DHQ   THOS
+
+
+              District wise Percentage of Deliveries Conducted at Health Facilities
+
+50    47      Fig. 46
+45 41 41            40 40
+40                       39 39 38 37 37 36
+                                          35
+                                            34
+35                                            32 31 31
+                                                      30 29 29 29 29
+30
+Percentage                                                          26 25 25 25 25 25 24
+25                                                                                      23 23 23 23
+                                                                                                   20 20
+                                                                                                        18
+20                                                                                                         17
+15
+10
+ 5
+ 0    Jhelum             Lahore  Layyah       Attock  Okara Nankana Sahib       PakpattanFaisalabad
+                                                                    Bahawalnagar            Sialkot
+                Bhakkar                               Chiniot       Jhang                          Gujranwala
+                Narowal                                                      Khanewal                      Kasur
+              Muzaffargarh    Mianwali                Chakwal                           Sahiwal Sheikhupura
+              Bahawalpur
+                         Rawalpindi                                          Vehari
+                              D.G Khan        Rahimyar Khan
+                                          Rajanpur    Multan                                            Lodhran
+                                          Gujrat  Hafizabad                  Khushab               Toba Tek Singh
+                                                  Sargodha          Mandi Bahauddin
+
+
+
+
+
+In  fig.  46,  percentage  of  district  wise  deliveries  conducted  at the  facilities  is  shown.  The
+highest percentage was observed in Jhelum (47%) and lowest in Kasur (17%).
+
+
+
+29
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+                      DISTRICT HEALTH
+                   INFORMATION STSTEM
+
+
+
+              Obstetric Complications
+
+    This indicator is a measure of  the proportion of women estimated  to have obstetric complications
+    who are treated in the public health facilities.
+
+                                                      36.5
+        40                                            Fig. 47
+
+        30                                                   22.4
+                                                             19.4
+Percentage                                                   Bahawa… 16.1
+                                                             15.5
+                                                             14.4
+                                                             D.G Khan 13.8
+        20                                                   Toba… 11.5
+                                                             Bahawa… 11.5
+                                                             Mianwali 11.0
+                                                             Faisalab… 9.7
+                                                             Nankan… 9.0
+                                                             Rawalpi… 8.3
+                                                             Sahiwal 8.2
+                                                             Narowal 7.8
+                                                             Layyah 6.7
+                                                             Gujrat 5.9
+                                                      Khanewal 5.3
+                                                             Rahimy… 5.3
+        10                                            Gujran… 5.1
+                                                      Sialkot 4.6
+                                                      Okara 4.2
+              Sheikhu… 3.9
+              Muzaffa… 3.6
+              Pakpatt… 2.9
+              Attock 2.5
+              Sargodha 2.5
+              Bhakkar 2.4
+              Rajanpur 2.2
+              Kasur 2.0
+              Mandi… 2.0
+              Jhang 0.09  Chiniot 1.5
+              Khushab 1.4
+              Lodhran 0.6
+              Hafizabad 0.2
+    0                                                                     Jhelum  Chakwal
+                                                                          Multan  Lahore
+                                                                                  Vehari
+
+
+    This  indicator will  suggest  how much  of  the  complicated  pregnancies  are  catered  by  the  public
+    health  facility.  Indirectly  it  also  reflects  the  quality  of  services  at  the  facility,  the  quality,  and
+    coverage of antenatal care services in the catchment area and the strength of the referral system.
+                       During 2015, total numbers of deliveries with complications were 75636 (9%) of the total
+    deliveries  (830116).  The  highest  percentage  was  observed  in  Chakwal  (36.5%).and  lowest
+    percentage was observed in Jhang (0.09%).
+
+               Caesarean Section
+          This  indicator  is  a  measure  of  Caesarean  Sections  as  a  percentage  of  all  births  in  the
+    population. This indicator will give an estimate of what proportion of C‐sections are taking place in
+    public  health  facilities.  On  the  other  hand,  high  proportion  may  indicate  over‐indulgence  in  C‐
+    sections.
+    It  was  observed  that  in  2015  deliveries  with  C‐section  constitute  15%  (124141)  of  the  total
+    deliveries  (830116).  The  overall  situation  indicated  that  the  higher  number  deliveries  with  C‐
+    section were conducted in Lahore (33.3% of the total number of deliveries) and lowest percentage
+    was observed in Lodhran (0.1% of the total deliveries).
+
+     40                                       Fig. 48       33.3
+
+     30
+    Percentage
+     20                                                     Rawalp… 10.5
+                                                            Bahaw… 7.3
+                                                            Faisala… 6.6
+                                                            Multan 6.1
+     10                                                     Rahimy… 3.9
+                                                            Gujrat 3.5
+                                              Sahiwal 0.97    Gujran… 2.7
+                                                              Sialkot 2.3
+                                                              Vehari 2.0
+                                                              Muzaff… 1.9
+                                                              Sargod… 1.8
+                                                              Jhelum 1.4
+                                                              Okara 1.3
+                                                              Toba… 1.3
+                                                              Attock 1.2
+                                                            D.G Khan 1.1
+                                                         Layyah 1.1
+                                              Sheikh… 1.0
+                                              Bahaw… 0.8
+               Khane… 0.8
+               Chakwal 0.8
+               Mianwali 0.7
+               Narowal 0.7
+               Bhakkar 0.7
+               Kasur 0.6
+               Jhang 0.6
+               Mandi… 0.5
+               Hafizab… 0.5
+               Pakpat… 0.4
+               Nanka… 0.4
+               Khushab 0.4
+               Rajanpur 0.4
+               Chiniot 0.2
+               Lodhran 0.1
+     0                                                                   Lahore
+
+
+
+    30
+
+---
+
+                                                 DHIS ANNUAL REPORT 2015|                                     DHIS
+                                                                                                        DISTRICT HEALTH
+                                                                                                       INFORMATION STSTEM
+<u>Frequency of</u> Low Birth Weight (LBW) Babies                      Neonatal Mortality Rate
+
+This indicator measures the proportion of live births with             This indicator refers to the proportion of early neonatal
+low birth weight (live born infants with birth weight less             deaths  (deaths  within  the  first  seven  The  indicator  is
+than 2.5 kg) among births in health facility in a given time           calculated  from  the  data  received  from  the  health
+period.  LBW  rate  is  a  good  indicator  of  a  public  health      facilities.  This  indicator  is  suggestive  of  the  quality  of
+problem  that  includes  long‐term  maternal  malnutrition,            new born care, especially the immediate new born care
+ill  health,  and  poor  health  care.  On  an  individual  basis,     and obstetric care in the facility. It may also reflect poor
+low  birth  weight  is  an  important  predictor  of  new‐born         nutritional  status  of  mothers  and  poor  health  care
+health and survival.                                                   seeking behavior in the community.
+
+                               Fig. 49                                                                 Fig. 50
+                                                                                   Faisalabad                         7.5
+             Lahore                                        17.4                        Attock                     5.9
+             Rawalpindi                               14.4               Toba Tek       Singh                 2.9
+                 Faisalabad                      11.6                              Rawalpindi             2.3
+                     Multan                      11.5                                  Lahore             2.2
+                 Bahawalpur                      6.6                     Rahimyar        Khan             1.8
+              Rahimyar Khan                      6.1                                  Bhakkar             1.4
+                   Sargodha                   2.9                                     Lodhran             1.3
+                      Okara                   2.5                                  Gujranwala             1.0
+                     Gujrat                   2.1                                Bahawalnagar             0.9
+               Muzaffargarh                   2.1                                      Vehari             0.8
+                    Sahiwal                   2.0                                     Narowal             0.7
+                     Layyah                   1.9                                      Jhelum             0.6
+                   D.G Khan                   1.5                                      Gujrat             0.6
+                     Jhelum                   1.4                                  Bahawalpur             0.5
+                 Gujranwala                   1.4                      Percentage     Sialkot             0.4
+             Toba Tek Singh                   1.3                                      Multan             0.4
+Percentage           Attock                   1.2                                    Sargodha             0.3
+
+            Mandi Bahauddin            1.1                             Hafizabad                   0.3
+                    Bhakkar            1.1                             D.G Khan                    0.3
+                     Vehari            1.1                                            Chakwal      0.2
+               Bahawalnagar            0.9                             Mandi        Bahauddin      0.1
+                      Jhang            0.9                                             Layyah     0.08
+                    Lodhran            0.8                             Khushab                    0.06
+                   Khanewal            0.8                                        Sheikhupura     0.05
+                Sheikhupura            0.8                             Mianwali                   0.04
+                    Sialkot            0.6                                        Chiniot            0
+                   Rajanpur            0.6                                          Pakpattan        0
+                  Pakpattan            0.5                                        Okara              0
+              Nankana Sahib            0.5                                            Sahiwal        0
+                    Khushab            0.5                                           Khanewal        0
+                  Hafizabad            0.4                                      Nankana Sahib        0
+                    Narowal            0.4                                              Kasur        0
+                   Mianwali            0.4                                        Jhang              0
+                      Kasur            0.3                                           Rajanpur        0
+                    Chakwal            0.3                                       Muzaffargarh        0
+                    Chiniot            0.2                                                             02468
+                                   0.0 5.0 10.0 15.0 20.0
+                                                                       The  total  number  of  neonatal  deaths  during
+During the year 2015, out of 801958 live births in                     2015 was 11769 that is only 1.5% of the total live births
+the facilities, 30392 (4%) babies were with LBW (<2.5kg).              (801958)  Fig.  48  shows  the  district  wise  neonatal
+The  highest  percentage  was  observed  in  Lahore                    mortality  rate.  The  percentage  of  mortality  rate  was
+(17.4%).and  lowest  percentage  was  observed  in  Chiniot            highest  in  Faisalabad  (7.5%)  and  percentage  of
+(0.2%).                                                                mortality rate was lowest in Muzaffargarh 0%.
+
+
+
+
+31
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION STSTEM
+
+
+
+
+Complications of Neonatal Deaths
+
+             Fig. 51
+    600
+
+
+    500
+
+
+    400
+
+
+    300
+
+
+    200
+
+
+    100
+
+
+    0
+     Jan   Feb Mar Apr May Jun  Jul   Aug Sep Oct Nov Dec
+           Birth Trauma               Birth Asphyxia
+           Bacterial Sepsis           Congenital Abnormalities
+           Prematurity                Hypothermia
+
+
+                      Diagnostic Services Utilization
+    This indicator indicates utilization of Diagnostic services at the facility and also gives a measure of
+
+    the proportion of patients receiving diagnostic services from the laboratory of the health facility.
+
+    This indicator reflects the quality of care in terms of utilization of diagnostic services. It will also
+
+    help  to  understand  the  need  for  resource  allocation  for  diagnostic  services  based  on  the
+
+    utilization rate.
+
+
+
+
+    32
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+
+
+                Fig. 52
+
+         Vehari
+Toba Tek Singh
+Sialkot
+    Sheikhupura
+      Sargodha
+       Sahiwal
+    Rawalpindi
+      Rajanpur
+ Rahimyar Khan
+     Pakpattan
+Percentage
+          Okara
+        Narowal
+ Nankana Sahib
+   Muzaffargarh
+         Multan
+       Mianwali
+Mandi Bahauddin
+       Lodhran
+        Layyah
+        Lahore
+Khushab
+       Khanewal
+         Kasur
+        Jhelum
+          Jhang
+     Hafizabad
+        Gujrat
+     Gujranwala
+Faisalabad
+      D.G Khan
+       Chiniot
+        Chakwal
+        Bhakkar
+     Bahawalpur
+   Bahawalnagar
+         Attock
+
+          0.0   50.0 100.0 150.0 200.0 250.0 300.0 350.0 400.0 450.0 500.0
+
+                X‐Rays  Ultrasonographies                    CT Scan  ECG
+
+During  2015,  the  Total  admissions  were  51,73,989  and  they  avail  the  services  of  X‐Rays
+45,52,860,  Ultra  Sonographies  23,96,668,  CT  Scans  3,03,815  and  ECGs  15,45,113.  Fig.  52.  Show  the
+district wise percentage of Diagnostic Services utilization.
+
+
+
+
+33
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+          Bed Occupancy Rate
+
+          Fig. 53                                                                   The  bed  occupancy
+   120                                                                             rate  (BOR)  is  the
+                                           101                    percentage                         of
+   100    94                                                                    occupancy  obtained  by
+
+          77 77  82    88                  88    81                              dividing  the  average
+BOR 80                       74                  74    73                        daily  census  by  the
+          65                                                                      number  of  available
+    60                                                            beds.
+                                                                  BOR                         indicates
+    40                                                                        utilization  of  hospital
+                                                                             indoor  services.  It  may
+    20                                                                      also  indicate  quality  of
+
+    0                                                             care.
+          Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec                           Annual BOR are used
+     to evaluate or compare how hospitals or individual specialties are using their resources. However,
+        the hospital with a high average occupancy rate may not necessarily be running more effectively
+      than  the hospital with a low average. High occupancy rates can be due  to longer lengths of stay
+rather  than  greater  numbers  of  patients  being  treated.  Furthermore  since  these  averages  are
+generally  calculated  based  on  an  average  number  of  available  staffed  beds  for  a  year  they
+frequently conceal bed borrowing by other.
+         Fig. 53 is showing the monthly bed occupancy rate during 2015. The highest rate is in December
+(101) and lowest in January (65). The overall bed occupancy rate during 2015 was 77.
+
+          3            Fig. 54                               3     Average
+    3                                                              Length of Stay
+                                                                                 This indicator is  the
+    3
+                2222222222                                                             measure  of  the
+    2                                                              average duration of
+ALS
+    2                                                                                hospital  stay  of
+                                                                                    admitted  patients.
+    1
+                                                                   This                       indicator
+    1                                                                                 reflects  on  the
+
+    0                                                                               intensity  of  care
+          Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec          delivered                         to
+
+   34
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+hospitalized  patients  and  the  probable  burden  on  hospital  resources.  Like  BOR,  it  is  also
+influenced by factors like patient management practices, quality of care, case‐mix and specialty‐
+mix.
+ Fig. 54 is showing the monthly Average Length of Stay. It is clear from the graph that the ALS
+is almost consistent throughout the year.
+                          Hospital Death Rate
+                      This indicator is the measure of the proportion of hospital deaths among admitted patients.
+This  indicator  is  indicative  of  quality  of  care  at  the  hospital indoors.  During  2015,  of  the  total
+admissions in indoor in secondary and  tertiary care hospitals (4528183), 109750 (2.4%) deaths
+were occurred. It was noted that the percentage of deaths was highest in Rahimyar Khan (6.2%)
+and lowest in Jhang (0%).
+
+                                          Fig. 55
+ 7.0
+
+                                                                          6.2
+ 6.0
+
+                                                                          5.1
+ 5.0                                                                      4.9
+                                                                          4.5
+                                                                          4.0
+ 4.0
+Percentage
+
+                                                                                                      3.0 3.1
+ 3.0                                                                                              2.8
+                                                                                  2.3 2.3 2.4 2.5
+                                                     1.9 2.0 2.0          2.0 2.0
+ 2.0                                             1.7
+
+ 1.0                                    0.7 0.7 0.8 0.9 1.0 1.1 1.2 1.3 1.5 1.5
+                    0.3 0.4 0.4 0.4 0.4
+        0.0 0.1 0.1
+ 0.0
+                              Pakpattan                   Vehari    Bahawalnagar         Rawalpindi
+                             Chakwal      Attock
+                      Rajanpur    Sheikhupura                       Sialkot      Mianwali Gujrat
+                   Chiniot            D.G Khan                      Okara                       Bhakkar
+                Lodhran LayyahNankana Sahib   Jhelum                Khushab         Multan      Sargodha Rahimyar Khan
+        Jhang                                                 Gujranwala       Hafizabad        Faisalabad
+                                                      Narowal                                   Bahawalpur
+            Kasur  Muzaffargarh                   Khanewal                       Mandi Bahauddin
+                                                                                            LahoreSahiwal
+                                                                               Toba Tek Singh
+
+
+
+
+
+
+
+
+
+35
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+                                     Family Planning Visits
+        Family
+planning              allows                       Fig. 56
+people  to  attain  their
+desired  number  of           250
+children                 and                                215
+determine the spacing
+of  pregnancies.  It  is      200                                          179 183
+achieved  through  use                       172   169 168 166 162 174 164
+of             contraceptive         157 155
+methods  and  the             150
+treatment of infertility         Values in Thousand
+(this  fact  sheet
+focuses                   on
+contraception).               100
+During                 2015,
+2,070,910  eligible
+couples  availed  the          50
+family              planning
+services  from  the
+public  sector  health          0
+facilities.                          Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+
+                                District‐wise Number of Commodities Distributed
+
+           Table‐7:
+
+DISTRICT            COC cycles  POP cycles  DMPA      Net‐En   Condom     IUCD     Tubal       Vasectomy    Implants
+                                            inj.      Inj.     Pieces              Ligation
+Bahawalnagar        14209       390         9644      1140     94706      5820      312        0               0
+
+Bahawalpur          20528       2156        14049     1755 153190 7766              2231      29              681
+Rahimyar Khan       10380       2508        13686     1172     35965      6714      1562       7               15
+
+D.G Khan            17210       2663        11849     1093     74303 5806           1164      145             204
+Layyah              6461        1832        8579      1810     102989     4271      317        8               31
+
+Muzaffargarh        40511       4269        27184     2372 455891 16222             2559       2              1622
+
+Rajanpur            14213       1758        7836      4266     100731     3918      1104           28          24
+Faisalabad          45036       5220        19591     2307 327528 14674             3988      232             350
+
+Jhang               12448       5105        10208     5775     93864      11447     5457       0               10
+
+                 36
+
+---
+
+    DHIS ANNUAL REPORT 2015|     DHIS
+ DISTRICT HEALTH
+INFORMATION SYSTEM
+
+
+
+    Toba Tek Singh      10146      1226       6368      346      78747 3161         549       53     41
+
+    Chiniot              9616      2610       5628     2009      31376   4751       49         0     0
+
+    Gujranwala          18642      2141      13144      974     200597 12850       2159       23     92
+    Gujrat              16130       848      12103      545     122730   4873       379        4     3
+
+    Narowal              9583       373       7092      579     117564   3893        58          1    1
+    Sialkot             26186      1224      13798     2317     142918   8055       881        0     91
+    Hafizabad            5066      1789       4420     2465      72183   4722       127          8   12
+
+    Mandi                6014       145       4625      569     104690   3880       57         0     1
+    Bahauddin
+    Kasur                     13760 962       6542      984     166564    6844      717        0      7
+    Lahore              25651      8890      19620      961     349781   11884     8438      209    874
+    Okara                     16266 1924     14134    10269      62387    8398      369      193    229
+    Sheikhupura         18766      3071       9714     3070     203659    9435     1293       60     63
+
+    Nankana Sahib       10036      1000       3135      495      81505 2453         3          1     94
+
+    Khanewal            14737      2249       9618     5509      96439   6931      1818       27    153
+
+    Lodhran             12256       734       9220      760      52846 4471         637      273    253
+    Multan              30189       968      17607      839     166319   9432      1529      119    889
+
+    Pakpattan            7187       109       6507      384      74464 3453         0          0     0
+
+    Sahiwal             12169      1783      10034      177     113663   4730      2594        0     19
+
+    Vehari              20818      2013      13689     4066 103708 9044            2087       64    342
+
+    Attock               6584      1053       8426      689      91901   3123       156        6     3
+
+    Chakwal              7948      1085       7428      705      63149 4218         369      456    7971
+
+    Jhelum               9857       967      11339     1067     148040   4556       191        2     4
+
+    Rawalpindi          21729      2323      20327     2370 215323 6616            2283      289    737
+
+    Bhakkar              5953       774       6593      685      32793   3611       566       42     40
+    Khushab              9166      1790       7525      952     106021 5855         570        0     95
+
+    Mianwali             7281       626       8695      424      76041   2170       356        8    244
+    Sargodha            25000      4002      13978     3799      91151 10613       1074       25    505
+
+    Total               557732     72580     393935    69699    4605726  240660   48003      2314  15700
+
+
+
+
+
+    37
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+                INFORMATIONSTSTEM
+
+
+
+                                       Human Resource
+
+            Table 8:
+                      Specialist       Surgeon          Doctors          Nurses           Assistant/Techs             LHV
+District             Sanc.    Filled   Sanc.   Filled   Sanc.   Filled   Sanc.   Filled   Sanc.    Filled     Sanc.   Filled
+
+Bahawalnagar          55           24     18                           16 301 142 183 149 193                        142       218  217
+Bahawalpur           125      78       36      31        664    577       917     690     234                        188       183  163
+Rahimyar Khan         69           29     29                           22 545 461 528 410 268                        183       152  140
+D.G Khan              35      28       19      17        254    196       131      80     137                        116        84   75
+Layyah                56           32     16                                                  11 196 153 139 117 102       85   64   62
+Muzaffargarh          36      32       25      19        334    217       159     152     137                        106       117  109
+Rajanpur              27           18     12             12 120 106        95      78                             78       76   50   47
+Faisalabad           157      78       32      25       1004    804      1318    1039     320                        256       309  280
+Jhang                 45           24     19                           14 192 126 175 159 121                        102       113  102
+Toba Tek Singh        37      25       14      10        200    145       136     110     114                        100        98   95
+Chiniot               15            7      7        5    194     45        74      60                             79       67   86   85
+Gujranwala            51      28       22      20        339    308       322     314     181                        178       171  171
+Gujrat                51           28     19                           13 302 207 222 184 181                        107       156  124
+Narowal               27       9       11       9        192     73       134     106      97                         57       108   98
+Sialkot               74           42     21                           17 374 204 219 208 158                        114       211  177
+Hafizabad             20      11       11       9        165     69        98      92      66                         48        62   55
+Mandi Bahauddin  20                 8     14          10 176     69       107      83                             93       54   85   65
+Kasur                 29      17       17      15        252    188       125     122     111                         77       144  141
+Lahore               288  175  58  44 1997 1511 3278 3028 455  381  143                                              138
+Okara                 47      32       19      14        292    117       149     138     161                        120       223  197
+Sheikhupura           58           30     19                           15 323 210 305 197 145                         99       126  111
+Nankana Sahib         34      19       12       9        236     57       133     105      96                         80       137   86
+Khanewal              45           25     13                   12 295 155 105      99                            135       92  120  110
+Lodhran               21      10        7       7        107     82        57      48      73                         68        65   65
+Multan               127           74     46                           35 535 503 666 548 210                        177       174  167
+Pakpattan             28      16        9       9        143     83       122      92      88                         76        73   72
+Sahiwal               39           27     20                           16 244 180 239 213 154                        121       136  128
+Vehari                38      27       21      15        240    176       206     157     145                        130       113  109
+Attock                65           22     14                                                  10 217 166 168 139 125       87   81   81
+Chakwal               40      24       18      13        213    147       153     124     117                         77       113  108
+Jhelum                43           18     11          11 225     89           165 128                             92       60  125  106
+Rawalpindi           133      70       38      27        668    554       753     519     305                        180       209  163
+Bhakkar               43           28     11          10 147     99                                      158 128 110       82   72   69
+Khushab               56      15       13       6        295     67       144     104      86                         69       121  114
+Mianwali              42           22     18                                                  11 252 164 146 126 103       82   84   73
+Sargodha              75      40       28      26        424    281       365     312     234                        199       173  162
+Total               2151         1192 717         565  12657   8731     12394   10358    5504                            4236 4699 4265
+                 38
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+
+                       Dispenser               EPI Vaccinator   Sanitary       Midwives                   LHWs            Others
+          District                                              inspectors
+                       Sanc.  Filled  Sanc.  Filled  Sanc.             Filled  Sanc.  Filled  Sanc.  Filled  Sanc.  Filled
+Bahawalnagar              236         214        89      80      104    101       202      183     1060          1046      1077        943
+Bahawalpur                284         265        95      91       78     75            188 121     1597          1583      1106        993
+Rahimyar Khan             279         270       104      98       60     11       242      102     1635          1387      1611       1385
+D.G Khan                  140         135       63w      51       31     22                 155 127 833           723       200        176
+Layyah                    125         112        46      45       42     41       120      109      810           759       738        567
+Muzaffargarh           199  178  91  87                         84     68      292 156 2024  1903  820                              638
+Rajanpur                  105         104        37      37       32     28        69       62      612           612       392        387
+Faisalabad                445         424        25           22 148     79            349 303     2283          2283      3487       2878
+Jhang                     149         137        67      63       57     54       168      124      130           104       517        438
+Toba Tek Singh            132         129        65      60       70     36       110       85     1015           990       123        104
+Chiniot                    78          72        37      36       36     30        65       55      503           336       336        180
+Gujranwala                244         243        96                96 102 102 289 286     1503                   1503      1023       1021
+Gujrat                 214         190         104     100      90     41      343        146     1994     1458           824       585
+Narowal                   111          99        59      58       57     52            126 104     1049          1023       775        583
+Sialkot                   214         195         2       2       88     80       176      137       35            21      1111        959
+Hafizabad                 100          94        28      25       29     21        67       50      129           110       318        309
+Mandi Bahauddin           119         103        63      54       48     39       144       80     1094          1049       182        122
+Kasur                     200         197        87      81       82     62            174 145       26            26       290        269
+Lahore                    349         325        83      81       62     59       156      148     1062          1057      3254       2731
+Okara                     200         193       118           103 93     92            232 111     1414          1229      1025        906
+Sheikhupura               171         162        87      77       79     72       153      115      885           835       399        328
+Nankana Sahib             112         109        58      53       47     44        91       60      660           598       635        490
+Khanewal                  157         149        94      86       81     78       129       65      232           217       420        379
+Lodhran                    96          93        52      51       46     40        74       68      943           938       448        428
+Multan                    260         252       168     168       84     80       226      158     1810          1793      4121       3944
+Pakpattan                  99          95        64      64       53     40                 140 115 898           898       166        139
+Sahiwal                   172         163        86      82       76     70       221      113        0             0      1045        767
+Vehari                    225         214        77      72       74     63                 166 144 788           787       523        485
+Attock                    139         137        63      55       64     17       154       98     1013           705       551        435
+Chakwal                   144         140        60      52       19      3                 132 105 670           650       157        130
+Jhelum                    123         118        50      39       54     48       127      111      980           925       828        670
+Rawalpindi                302         249       109      75       80     53            227 119       31            27       460        390
+Bhakkar                   139         131        42      40       37     34       127      114        0             0       468        432
+Khushab                   132         129         3       3       40     32       127       77        0             0       756        407
+Mianwali                  125         118        42      41       44     36       103       86      695           675       489        362
+Sargodha                  230         213       149                        135 134 120 335 289     1703          1697      1764       1415
+Total                    6549        6151      2563    2363     2405   1923      6199     4471    32116         29947     32439      27375
+
+
+39
+
+---
+
+DHIS ANNUAL REPORT 2015|     DHIS
+                  DISTRICT HEALTH
+               INFORMATION STSTEM
+
+
+
+
+          Stock out Status
+This  indicator  measures  the  percent  of  health facilities  that  experienced  a  stock‐out  of  any  tracer
+drug/medicine for any number of days at any time of the year. Ideally, there should not be any stock‐out
+situation in the facilities. Occurrence of stock‐out of any tracer drug for any number of days in a year will
+indicate that there is a breakage anywhere in the logistic system.
+By  analyzing  this  indicator  the  district  manager  can  identify  whether  breakdown  in  the
+logistic  supply  system  in  the  district  is  a  wide‐spread  phenomenon  involving  many  health
+facilities  or  only  occurring  sporadically;  whether  such  breakages  are  occurring  regularly
+throughout the year or only occur occasionally. In this way the probable site of fault in the supply
+line can be identified and appropriate measures can be taken to improve the situation.
+
+                                                                                       20
+ 20       Fig. 57                                                                      18
+                                                                                       18
+ 18
+ 16                                                                15 15
+                                                                   14 14
+ 14
+Percentage
+ 12                                                                10
+                                                                   10
+ 10                                                                    8 9 9
+                       8 8 8                                       8 8
+  8             7    7
+            6 6
+  6       5
+          4
+          4 Sheikhupura 4
+          Rajanpur 4
+          4
+  4       Faisalabad 3
+          D.G Khan 2
+          Attock 2
+  2       Kasur 1
+          M.Garh 1
+          Chiniot 1
+          Gujranwala 1
+          Vehari 0
+       Jhang 0
+  0
+                      Lahore  Okara                                   Jhelum  B.Nagar
+                              Sargodha                                Nankana  Khushab
+                      T.T Singh                                                Hafizabad M.B Din
+                                          Khanewal                     Lodhran
+                      Gujrat       Chakwal  R. Y Khan                                    Bhakkar
+                                Mianwali    Rawalpindi                        Sialkot           Bahawalpur
+                                                                   Sahiwal
+                                          Pakpattan                  Narowal             Multan
+                                                                                         Layyah
+
+
+
+
+
+It  can  be  seen  in  fig.  57  that  the  percentage  of  out  of  stock  medicines  was  highest  in
+Bahawalpur (20%).
+
+
+
+
+
+
+
+
+40
+
+---
+
+DHIS ANNUAL REPORT 2015|
+
+
+
+
+
+
+
+
+
+
+Data are just summaries of thousands of stories.
+Tell a
+few of those stories to help make the data meaningful
+
+
+
+
+CHIP & DAN HEATH, AUTHORS OF MADE TO STICK, SWITCH
+
+
+
+
+
+
+
+
+
+
+41

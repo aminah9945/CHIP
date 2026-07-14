@@ -1,0 +1,4328 @@
+National Institute of Health logo
+
+National Institute of Health logo
+
+# Field Epidemiology and Disease Surveillance Division (FEDSD)
+# National Institute of Health (NIH), Islamabad
+
+Phone: 051- 9255237, Email: idsr-pak@nih.org.pk
+
+**Weekly Bulletin: Integrated Disease Surveillance and Response (IDSR)**
+
+**08<sup>th</sup> June 2023**
+
+**Epi Week-22 (29<sup>th</sup> May– 04<sup>th</sup> June 2023)**
+
+*All reported cases in this report are suspected cases*
+
+**Highlights:**
+
+* During week 22, most frequent reported cases were of Acute Diarrhea (Non-Cholera) followed by Malaria, ILI, ALRI <5 years, B. Diarrhea, SARI, VH (B, C, D), Typhoid, CL and Mumps.
+
+* This week, there is overall decrease in all disease cases recorded from IDSR districts.
+
+* Vaccine Preventable Diseases (VPDs) cases are reported across the country. This week 668 cases of Mumps mainly from Sindh, AJK and KPK. All are suspected cases and need field verification.
+
+* HIV/ AIDS cases are reported from Sindh and KPK. Field investigation is in progress and blood samples are being collected.
+
+Figure 1: Most frequently reported suspected cases during week 22, Pakistan
+
+<table>
+  <thead>
+    <tr>
+        <th>Disease</th>
+        <th>WK 20</th>
+        <th>WK 21</th>
+        <th>WK 22</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>AD (Non-Cholera)</td>
+<td>80,000</td>
+<td>72,000</td>
+<td>70,668</td>
+    </tr>
+<tr>
+        <td>Malaria</td>
+<td>60,000</td>
+<td>68,000</td>
+<td>61,052</td>
+    </tr>
+<tr>
+        <td>ILI</td>
+<td>28,000</td>
+<td>28,000</td>
+<td>25,265</td>
+    </tr>
+<tr>
+        <td>ALRI &lt; 5 years</td>
+<td>12,000</td>
+<td>14,000</td>
+<td>12,453</td>
+    </tr>
+<tr>
+        <td>B. Diarrhea</td>
+<td>6,000</td>
+<td>5,000</td>
+<td>4,799</td>
+    </tr>
+<tr>
+        <td>SARI</td>
+<td>4,000</td>
+<td>4,000</td>
+<td>3,850</td>
+    </tr>
+<tr>
+        <td>VH (B, C &amp; D)</td>
+<td>3,000</td>
+<td>4,000</td>
+<td>3,739</td>
+    </tr>
+<tr>
+        <td>Typhoid</td>
+<td>3,000</td>
+<td>3,500</td>
+<td>3,166</td>
+    </tr>
+<tr>
+        <td>CL</td>
+<td>800</td>
+<td>800</td>
+<td>764</td>
+    </tr>
+<tr>
+        <td>Mumps</td>
+<td>600</td>
+<td>600</td>
+<td>668</td>
+    </tr>
+  </tbody>
+</table>
+
+Table 1: Province/Area wise distribution of most frequently reported cases during week 22, Pakistan.
+
+<table>
+  <thead>
+    <tr>
+        <th>Diseases</th>
+        <th>AJK</th>
+        <th>Balochistan</th>
+        <th>GB</th>
+        <th>ICT</th>
+        <th>KP</th>
+        <th>Punjab</th>
+        <th>Sindh</th>
+        <th>Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>AD (Non-Cholera)</td>
+<td>1,946</td>
+<td>4,315</td>
+<td>11</td>
+<td>557</td>
+<td>26,697</td>
+<td>NR</td>
+<td>37,142</td>
+<td>70,668</td>
+    </tr>
+<tr>
+        <td>Malaria</td>
+<td>72</td>
+<td>7,488</td>
+<td>0</td>
+<td>0</td>
+<td>4,968</td>
+<td>NR</td>
+<td>48,524</td>
+<td>61,052</td>
+    </tr>
+<tr>
+        <td>ILI</td>
+<td>2,366</td>
+<td>3,171</td>
+<td>0</td>
+<td>1,118</td>
+<td>7,443</td>
+<td>NR</td>
+<td>11,167</td>
+<td>25,265</td>
+    </tr>
+<tr>
+        <td>ALRI &lt; 5 years</td>
+<td>1,013</td>
+<td>1,249</td>
+<td>14</td>
+<td>1</td>
+<td>1889</td>
+<td>NR</td>
+<td>8287</td>
+<td>12,453</td>
+    </tr>
+<tr>
+        <td>B. Diarrhea</td>
+<td>117</td>
+<td>1,209</td>
+<td>0</td>
+<td>6</td>
+<td>865</td>
+<td>NR</td>
+<td>2,602</td>
+<td>4,799</td>
+    </tr>
+<tr>
+        <td>VH (B, C &amp; D)</td>
+<td>13</td>
+<td>63</td>
+<td>0</td>
+<td>0</td>
+<td>61</td>
+<td>NR</td>
+<td>3602</td>
+<td>3,739</td>
+    </tr>
+<tr>
+        <td>SARI</td>
+<td>411</td>
+<td>852</td>
+<td>6</td>
+<td>0</td>
+<td>2026</td>
+<td>NR</td>
+<td>555</td>
+<td>3,850</td>
+    </tr>
+<tr>
+        <td>Typhoid</td>
+<td>56</td>
+<td>610</td>
+<td>2</td>
+<td>0</td>
+<td>1113</td>
+<td>NR</td>
+<td>1,385</td>
+<td>3,166</td>
+    </tr>
+<tr>
+        <td>CL</td>
+<td>70</td>
+<td>82</td>
+<td>0</td>
+<td>0</td>
+<td>612</td>
+<td>NR</td>
+<td>0</td>
+<td>764</td>
+    </tr>
+<tr>
+        <td>Mumps</td>
+<td>106</td>
+<td>79</td>
+<td>5</td>
+<td>1</td>
+<td>113</td>
+<td>NR</td>
+<td>364</td>
+<td>668</td>
+    </tr>
+<tr>
+        <td>Dog Bite</td>
+<td>38</td>
+<td>25</td>
+<td>0</td>
+<td>1</td>
+<td>158</td>
+<td>NR</td>
+<td>364</td>
+<td>586</td>
+    </tr>
+<tr>
+        <td>AWD (S. Cholera)</td>
+<td>88</td>
+<td>345</td>
+<td>4</td>
+<td>0</td>
+<td>65</td>
+<td>NR</td>
+<td>76</td>
+<td>578</td>
+    </tr>
+<tr>
+        <td>AVH (A &amp; E)</td>
+<td>22</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td>236</td>
+<td>NR</td>
+<td>111</td>
+<td>380</td>
+    </tr>
+<tr>
+        <td>Measles</td>
+<td>15</td>
+<td>27</td>
+<td>0</td>
+<td>0</td>
+<td>228</td>
+<td>NR</td>
+<td>56</td>
+<td>326</td>
+    </tr>
+<tr>
+        <td>Chickenpox/ Varicella</td>
+<td>19</td>
+<td>26</td>
+<td>0</td>
+<td>11</td>
+<td>108</td>
+<td>NR</td>
+<td>75</td>
+<td>239</td>
+    </tr>
+<tr>
+        <td>Gonorrhea</td>
+<td>2</td>
+<td>112</td>
+<td>0</td>
+<td>0</td>
+<td>13</td>
+<td>NR</td>
+<td>30</td>
+<td>157</td>
+    </tr>
+<tr>
+        <td>Pertussis</td>
+<td>2</td>
+<td>134</td>
+<td>0</td>
+<td>0</td>
+<td>10</td>
+<td>NR</td>
+<td>29</td>
+<td>175</td>
+    </tr>
+<tr>
+        <td>Dengue</td>
+<td>0</td>
+<td>43</td>
+<td>0</td>
+<td>0</td>
+<td>27</td>
+<td>NR</td>
+<td>59</td>
+<td>129</td>
+    </tr>
+<tr>
+        <td>VL</td>
+<td>0</td>
+<td>23</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>NR</td>
+<td>8</td>
+<td>31</td>
+    </tr>
+<tr>
+        <td>AFP</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+<td>NR</td>
+<td>21</td>
+<td>35</td>
+    </tr>
+<tr>
+        <td>Syphilis</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>NR</td>
+<td>18</td>
+<td>25</td>
+    </tr>
+<tr>
+        <td>Meningitis</td>
+<td>2</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>NR</td>
+<td>15</td>
+<td>23</td>
+    </tr>
+<tr>
+        <td>HIV/AIDS</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>10</td>
+<td>NR</td>
+<td>12</td>
+<td>22</td>
+    </tr>
+<tr>
+        <td>Leprosy</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>15</td>
+<td>NR</td>
+<td>9</td>
+<td>24</td>
+    </tr>
+<tr>
+        <td>CCHF</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>NR</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Brucellosis</td>
+<td>0</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>NR</td>
+<td>3</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Rubella (CRS)</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>NR</td>
+<td>9</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>NT</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>NR</td>
+<td>0</td>
+<td>6</td>
+    </tr>
+<tr>
+        <td>Diphtheria (Probable)</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>NR</td>
+<td>1</td>
+<td>2</td>
+    </tr>
+  </tbody>
+</table>
+
+1 | P a g e
+
+I D S R W e e k l y E p i d e m i o l o g i c a l B u l l e t i n
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo
+
+
+---
+
+# Sindh
+
+* Malaria cases were maximum followed by AD (Non-Cholera), ILI, ALRI<5 Years, VH (B, C, D), B. Diarrhea, Typhoid, SARI, dog bite and Mumps.
+
+* There is decline in all cases reported this week from Sindh province.
+
+* Malaria cases are from Kamber, Larkana, Umerkot and Sanghar whereas AD cases are mostly from Badin, Dadu, Sanghar, Khairpur and Shaheed Banazirabad.
+
+* Cases of VH (B, C,D) are on rise and mostly reported from Matiari and Sanghar. Epidemiological investigations are required to verify cases and to control the disease.
+
+Figure 2: Most frequently reported suspected cases during week 22, Sindh
+
+<table>
+  <thead>
+    <tr>
+        <th>Disease</th>
+        <th>WK 20</th>
+        <th>WK 21</th>
+        <th>WK 22</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Malaria</td>
+<td> </td>
+<td> </td>
+<td>48,524</td>
+    </tr>
+<tr>
+        <td>AD (Non-Cholera)</td>
+<td> </td>
+<td> </td>
+<td>37,142</td>
+    </tr>
+<tr>
+        <td>ILI</td>
+<td> </td>
+<td> </td>
+<td>11,167</td>
+    </tr>
+<tr>
+        <td>ALRI &lt; 5 years</td>
+<td> </td>
+<td> </td>
+<td>8,287</td>
+    </tr>
+<tr>
+        <td>VH (B, C &amp; D)</td>
+<td> </td>
+<td> </td>
+<td>3,602</td>
+    </tr>
+<tr>
+        <td>B. Diarrhea</td>
+<td> </td>
+<td> </td>
+<td>2,602</td>
+    </tr>
+<tr>
+        <td>Typhoid</td>
+<td> </td>
+<td> </td>
+<td>1,385</td>
+    </tr>
+<tr>
+        <td>SARI</td>
+<td> </td>
+<td> </td>
+<td>555</td>
+    </tr>
+<tr>
+        <td>Dog Bite</td>
+<td> </td>
+<td> </td>
+<td>364</td>
+    </tr>
+<tr>
+        <td>Mumps</td>
+<td> </td>
+<td> </td>
+<td>364</td>
+    </tr>
+  </tbody>
+</table>
+
+Table 2: District wise distribution of most frequently reported suspected cases during week 22, Sindh
+
+<table>
+  <thead>
+    <tr>
+        <th>DISTRICTS</th>
+        <th>AD (Non-Cholera)</th>
+        <th>Malaria</th>
+        <th>ILI</th>
+        <th>ALRI &lt; 5 years</th>
+        <th>B. Diarrhea</th>
+        <th>Typhoid</th>
+        <th>SARI</th>
+        <th>Measles</th>
+        <th>VH (B, C &amp; D)</th>
+        <th>Dengue</th>
+        <th>Dog Bite</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Badin</td>
+<td>2,803</td>
+<td>3,093</td>
+<td>113</td>
+<td>532</td>
+<td>175</td>
+<td>42</td>
+<td>0</td>
+<td>7</td>
+<td>302</td>
+<td>0</td>
+<td>91</td>
+    </tr>
+<tr>
+        <td>Dadu</td>
+<td>2,962</td>
+<td>2,926</td>
+<td>121</td>
+<td>1,222</td>
+<td>190</td>
+<td>133</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Ghotki</td>
+<td>881</td>
+<td>589</td>
+<td>0</td>
+<td>375</td>
+<td>90</td>
+<td>21</td>
+<td>0</td>
+<td>2</td>
+<td>252</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Hyderabad</td>
+<td>1,103</td>
+<td>226</td>
+<td>162</td>
+<td>38</td>
+<td>4</td>
+<td>12</td>
+<td>0</td>
+<td>3</td>
+<td>45</td>
+<td>0</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Jacobabad</td>
+<td>704</td>
+<td>1,007</td>
+<td>22</td>
+<td>286</td>
+<td>45</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>90</td>
+<td>0</td>
+<td>43</td>
+    </tr>
+<tr>
+        <td>Jamshoro</td>
+<td>116</td>
+<td>152</td>
+<td>0</td>
+<td>14</td>
+<td>5</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Kamber</td>
+<td>1,964</td>
+<td>5,565</td>
+<td>0</td>
+<td>229</td>
+<td>146</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td>89</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Karachi Central</td>
+<td>1,179</td>
+<td>113</td>
+<td>1,204</td>
+<td>63</td>
+<td>122</td>
+<td>197</td>
+<td>10</td>
+<td>20</td>
+<td>172</td>
+<td>3</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Karachi East</td>
+<td>238</td>
+<td>66</td>
+<td>46</td>
+<td>15</td>
+<td>6</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>16</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Karachi Keamari</td>
+<td>489</td>
+<td>6</td>
+<td>196</td>
+<td>24</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Karachi Korangi</td>
+<td>344</td>
+<td>87</td>
+<td>13</td>
+<td>1</td>
+<td>17</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Karachi Malir</td>
+<td>1,293</td>
+<td>78</td>
+<td>1,017</td>
+<td>218</td>
+<td>64</td>
+<td>29</td>
+<td>24</td>
+<td>0</td>
+<td>24</td>
+<td>1</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Karachi South</td>
+<td>98</td>
+<td>32</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Karachi West</td>
+<td>612</td>
+<td>48</td>
+<td>352</td>
+<td>174</td>
+<td>28</td>
+<td>21</td>
+<td>24</td>
+<td>4</td>
+<td>8</td>
+<td>15</td>
+<td>23</td>
+    </tr>
+<tr>
+        <td>Kashmore</td>
+<td>493</td>
+<td>1,389</td>
+<td>215</td>
+<td>188</td>
+<td>42</td>
+<td>16</td>
+<td>1</td>
+<td>0</td>
+<td>26</td>
+<td>0</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Khairpur</td>
+<td>2,150</td>
+<td>2,458</td>
+<td>195</td>
+<td>784</td>
+<td>286</td>
+<td>179</td>
+<td>394</td>
+<td>0</td>
+<td>135</td>
+<td>0</td>
+<td>27</td>
+    </tr>
+<tr>
+        <td>Larkana</td>
+<td>1,641</td>
+<td>9,690</td>
+<td>0</td>
+<td>165</td>
+<td>206</td>
+<td>0</td>
+<td>22</td>
+<td>1</td>
+<td>60</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Matiari</td>
+<td>1,783</td>
+<td>1,226</td>
+<td>0</td>
+<td>181</td>
+<td>73</td>
+<td>61</td>
+<td>0</td>
+<td>0</td>
+<td>446</td>
+<td>17</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>Mirpurkhas</td>
+<td>2,358</td>
+<td>2,818</td>
+<td>2,623</td>
+<td>369</td>
+<td>47</td>
+<td>23</td>
+<td>49</td>
+<td>1</td>
+<td>58</td>
+<td>0</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Naushero Feroze</td>
+<td>908</td>
+<td>1,003</td>
+<td>413</td>
+<td>218</td>
+<td>56</td>
+<td>138</td>
+<td>0</td>
+<td>0</td>
+<td>144</td>
+<td>0</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Sanghar</td>
+<td>1,405</td>
+<td>810</td>
+<td>30</td>
+<td>309</td>
+<td>102</td>
+<td>78</td>
+<td>16</td>
+<td>1</td>
+<td>537</td>
+<td>0</td>
+<td>21</td>
+    </tr>
+<tr>
+        <td>Shaheed Benazirabad</td>
+<td>2,023</td>
+<td>1,590</td>
+<td>32</td>
+<td>389</td>
+<td>83</td>
+<td>212</td>
+<td>0</td>
+<td>1</td>
+<td>93</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Shikarpur</td>
+<td>1,154</td>
+<td>1,319</td>
+<td>0</td>
+<td>132</td>
+<td>110</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>200</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Sujawal</td>
+<td>561</td>
+<td>652</td>
+<td>0</td>
+<td>90</td>
+<td>9</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Sukkur</td>
+<td>1,614</td>
+<td>2,253</td>
+<td>2,042</td>
+<td>343</td>
+<td>203</td>
+<td>17</td>
+<td>0</td>
+<td>2</td>
+<td>288</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Tando Allahyar</td>
+<td>1,832</td>
+<td>923</td>
+<td>567</td>
+<td>186</td>
+<td>88</td>
+<td>40</td>
+<td>0</td>
+<td>1</td>
+<td>191</td>
+<td>0</td>
+<td>37</td>
+    </tr>
+<tr>
+        <td>Tando Muhammad Khan</td>
+<td>1,231</td>
+<td>1,109</td>
+<td>3</td>
+<td>136</td>
+<td>74</td>
+<td>12</td>
+<td>5</td>
+<td>0</td>
+<td>135</td>
+<td>0</td>
+<td>42</td>
+    </tr>
+<tr>
+        <td>Tharparkar</td>
+<td>1,096</td>
+<td>1,572</td>
+<td>1,072</td>
+<td>345</td>
+<td>92</td>
+<td>25</td>
+<td>0</td>
+<td>7</td>
+<td>62</td>
+<td>0</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Thatta</td>
+<td>494</td>
+<td>1,097</td>
+<td>728</td>
+<td>6</td>
+<td>41</td>
+<td>9</td>
+<td>5</td>
+<td>0</td>
+<td>120</td>
+<td>0</td>
+<td>27</td>
+    </tr>
+<tr>
+        <td>Umerkot</td>
+<td>1,613</td>
+<td>4,627</td>
+<td>0</td>
+<td>1,255</td>
+<td>195</td>
+<td>93</td>
+<td>0</td>
+<td>1</td>
+<td>116</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Total</td>
+<td>37,142</td>
+<td>48,524</td>
+<td>11,167</td>
+<td>8,287</td>
+<td>2,602</td>
+<td>1,385</td>
+<td>555</td>
+<td>56</td>
+<td>3,602</td>
+<td>59</td>
+<td>364</td>
+    </tr>
+  </tbody>
+</table>
+
+2 | Page
+
+IDSR Weekly Epidemiological Bulletin
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo
+
+
+---
+
+# Balochistan
+
+* Malaria, AD (Non-Cholera), ILI, ALRI <5 years, B. Diarrhea, SARI, Typhoid, AWD (S. Cholera), Pertussis and Gonorrhea were the most frequently reported diseases from Balochistan province.
+
+* Cases of ILI, AD and Malaria showed a decline trend this week.
+
+* This week AWD (S. Cholera) cases are reported in high numbers from Mastug and Quetta districts, all are suspected cases and demand urgent field investigation.
+
+Figure 3: Most frequently reported suspected cases during week 22, Balochistan
+
+<table>
+  <thead>
+    <tr>
+        <th>Disease</th>
+        <th>WK 20</th>
+        <th>WK 21</th>
+        <th>WK 22</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Malaria</td>
+<td>7000</td>
+<td>9200</td>
+<td>7488</td>
+    </tr>
+<tr>
+        <td>AD (Non-Cholera)</td>
+<td>5300</td>
+<td>5700</td>
+<td>4315</td>
+    </tr>
+<tr>
+        <td>ILI</td>
+<td>3800</td>
+<td>4000</td>
+<td>3171</td>
+    </tr>
+<tr>
+        <td>ALRI &lt; 5 years</td>
+<td>1800</td>
+<td>1600</td>
+<td>1249</td>
+    </tr>
+<tr>
+        <td>B. Diarrhea</td>
+<td>1800</td>
+<td>1800</td>
+<td>1209</td>
+    </tr>
+<tr>
+        <td>SARI</td>
+<td>1200</td>
+<td>1200</td>
+<td>852</td>
+    </tr>
+<tr>
+        <td>Typhoid</td>
+<td>1100</td>
+<td>1200</td>
+<td>610</td>
+    </tr>
+<tr>
+        <td>AWD (S. Cholera)</td>
+<td>300</td>
+<td>300</td>
+<td>345</td>
+    </tr>
+<tr>
+        <td>Pertussis</td>
+<td>100</td>
+<td>100</td>
+<td>134</td>
+    </tr>
+<tr>
+        <td>Gonorrhea</td>
+<td>100</td>
+<td>100</td>
+<td>112</td>
+    </tr>
+  </tbody>
+</table>
+
+Table 3: District wise distribution of most frequently reported suspected cases during week 22, Balochistan
+
+<table>
+  <thead>
+    <tr>
+        <th>Districts</th>
+        <th>ILI</th>
+        <th>Malaria</th>
+        <th>AD (Non-Cholera)</th>
+        <th>ALRI &lt; 5 years</th>
+        <th>SARI</th>
+        <th>B. Diarrhea</th>
+        <th>Typhoid</th>
+        <th>CL</th>
+        <th>Dog Bite</th>
+        <th>AWD (S. Cholera)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Chagai</td>
+<td>298</td>
+<td>67</td>
+<td>149</td>
+<td>0</td>
+<td>0</td>
+<td>51</td>
+<td>47</td>
+<td>0</td>
+<td>0</td>
+<td>13</td>
+    </tr>
+<tr>
+        <td>Duki</td>
+<td>90</td>
+<td>120</td>
+<td>115</td>
+<td>13</td>
+<td>20</td>
+<td>44</td>
+<td>13</td>
+<td>8</td>
+<td>0</td>
+<td>29</td>
+    </tr>
+<tr>
+        <td>Harnai</td>
+<td>2</td>
+<td>95</td>
+<td>320</td>
+<td>307</td>
+<td>0</td>
+<td>113</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+    </tr>
+<tr>
+        <td>Jhal Magsi</td>
+<td>0</td>
+<td>1,268</td>
+<td>350</td>
+<td>40</td>
+<td>17</td>
+<td>13</td>
+<td>11</td>
+<td>6</td>
+<td>9</td>
+<td>20</td>
+    </tr>
+<tr>
+        <td>Kachhi (Bolan)</td>
+<td>3</td>
+<td>224</td>
+<td>114</td>
+<td>23</td>
+<td>0</td>
+<td>16</td>
+<td>52</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Kalat</td>
+<td>12</td>
+<td>10</td>
+<td>21</td>
+<td>1</td>
+<td>1</td>
+<td>11</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+    </tr>
+<tr>
+        <td>Kech (Turbat)</td>
+<td>589</td>
+<td>715</td>
+<td>304</td>
+<td>97</td>
+<td>5</td>
+<td>73</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Karan</td>
+<td>167</td>
+<td>266</td>
+<td>130</td>
+<td>0</td>
+<td>0</td>
+<td>80</td>
+<td>11</td>
+<td>0</td>
+<td>2</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Khuzdar</td>
+<td>111</td>
+<td>228</td>
+<td>92</td>
+<td>0</td>
+<td>8</td>
+<td>45</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Kohlu</td>
+<td>99</td>
+<td>109</td>
+<td>57</td>
+<td>22</td>
+<td>14</td>
+<td>71</td>
+<td>33</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Lasbella</td>
+<td>86</td>
+<td>919</td>
+<td>406</td>
+<td>129</td>
+<td>301</td>
+<td>85</td>
+<td>14</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Loralai</td>
+<td>157</td>
+<td>76</td>
+<td>205</td>
+<td>63</td>
+<td>104</td>
+<td>41</td>
+<td>29</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>Mastung</td>
+<td>213</td>
+<td>125</td>
+<td>512</td>
+<td>97</td>
+<td>123</td>
+<td>150</td>
+<td>97</td>
+<td>17</td>
+<td>4</td>
+<td>144</td>
+    </tr>
+<tr>
+        <td>Musa Khail</td>
+<td>27</td>
+<td>39</td>
+<td>19</td>
+<td>16</td>
+<td>13</td>
+<td>24</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>13</td>
+    </tr>
+<tr>
+        <td>Naseerabad</td>
+<td>3</td>
+<td>712</td>
+<td>142</td>
+<td>14</td>
+<td>1</td>
+<td>7</td>
+<td>34</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Nushki</td>
+<td>0</td>
+<td>173</td>
+<td>187</td>
+<td>0</td>
+<td>0</td>
+<td>95</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>13</td>
+    </tr>
+<tr>
+        <td>Pishin</td>
+<td>209</td>
+<td>11</td>
+<td>128</td>
+<td>36</td>
+<td>0</td>
+<td>82</td>
+<td>20</td>
+<td>18</td>
+<td>3</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Quetta</td>
+<td>722</td>
+<td>19</td>
+<td>367</td>
+<td>44</td>
+<td>19</td>
+<td>82</td>
+<td>27</td>
+<td>8</td>
+<td>2</td>
+<td>40</td>
+    </tr>
+<tr>
+        <td>Sherani</td>
+<td>27</td>
+<td>19</td>
+<td>8</td>
+<td>0</td>
+<td>1</td>
+<td>10</td>
+<td>6</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Sibi</td>
+<td>232</td>
+<td>480</td>
+<td>143</td>
+<td>31</td>
+<td>35</td>
+<td>25</td>
+<td>82</td>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>Sohbat pur</td>
+<td>12</td>
+<td>1,694</td>
+<td>422</td>
+<td>132</td>
+<td>115</td>
+<td>59</td>
+<td>85</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>SURAB</td>
+<td>18</td>
+<td>29</td>
+<td>15</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Zhob</td>
+<td>94</td>
+<td>90</td>
+<td>109</td>
+<td>184</td>
+<td>72</td>
+<td>32</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Total</td>
+<td>3,171</td>
+<td>7,488</td>
+<td>4,315</td>
+<td>1,249</td>
+<td>852</td>
+<td>1,209</td>
+<td>610</td>
+<td>82</td>
+<td>25</td>
+<td>345</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 4: Week wise reported suspected cases of AD (Non-Cholera), Malaria & Typhoid, Balochistan
+
+<table>
+  <thead>
+    <tr>
+        <th>Week</th>
+        <th>Malaria</th>
+        <th>AD (Non-Cholera)</th>
+        <th>ILI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>W23</td>
+<td>500</td>
+<td>500</td>
+<td>500</td>
+    </tr>
+<tr>
+        <td>W24</td>
+<td>1200</td>
+<td>1200</td>
+<td>1200</td>
+    </tr>
+<tr>
+        <td>W25</td>
+<td>1200</td>
+<td>1200</td>
+<td>1200</td>
+    </tr>
+<tr>
+        <td>W26</td>
+<td>1000</td>
+<td>1000</td>
+<td>1000</td>
+    </tr>
+<tr>
+        <td>W27</td>
+<td>800</td>
+<td>800</td>
+<td>800</td>
+    </tr>
+<tr>
+        <td>W28</td>
+<td>1200</td>
+<td>1200</td>
+<td>1200</td>
+    </tr>
+<tr>
+        <td>W29</td>
+<td>1200</td>
+<td>1200</td>
+<td>1200</td>
+    </tr>
+<tr>
+        <td>W30</td>
+<td>1500</td>
+<td>1800</td>
+<td>1200</td>
+    </tr>
+<tr>
+        <td>W31</td>
+<td>1800</td>
+<td>2200</td>
+<td>1200</td>
+    </tr>
+<tr>
+        <td>W32</td>
+<td>1800</td>
+<td>2200</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W33</td>
+<td>2000</td>
+<td>2800</td>
+<td>1800</td>
+    </tr>
+<tr>
+        <td>W34</td>
+<td>2500</td>
+<td>2500</td>
+<td>2200</td>
+    </tr>
+<tr>
+        <td>W35</td>
+<td>2200</td>
+<td>4500</td>
+<td>2500</td>
+    </tr>
+<tr>
+        <td>W36</td>
+<td>6500</td>
+<td>10000</td>
+<td>2500</td>
+    </tr>
+<tr>
+        <td>W37</td>
+<td>8200</td>
+<td>10500</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W38</td>
+<td>7000</td>
+<td>6000</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W39</td>
+<td>8000</td>
+<td>5000</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W40</td>
+<td>7500</td>
+<td>3500</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W41</td>
+<td>7500</td>
+<td>3500</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W42</td>
+<td>6500</td>
+<td>3000</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W43</td>
+<td>7000</td>
+<td>3500</td>
+<td>2500</td>
+    </tr>
+<tr>
+        <td>W44</td>
+<td>5500</td>
+<td>2500</td>
+<td>2500</td>
+    </tr>
+<tr>
+        <td>W45</td>
+<td>5500</td>
+<td>2500</td>
+<td>2000</td>
+    </tr>
+<tr>
+        <td>W46</td>
+<td>5500</td>
+<td>2000</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W47</td>
+<td>5000</td>
+<td>2000</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W48</td>
+<td>4500</td>
+<td>2500</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W49</td>
+<td>4500</td>
+<td>2500</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W50</td>
+<td>4000</td>
+<td>2000</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W51</td>
+<td>4500</td>
+<td>2000</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W52</td>
+<td>4500</td>
+<td>2500</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W1</td>
+<td>3500</td>
+<td>2000</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W2</td>
+<td>3500</td>
+<td>1500</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W3</td>
+<td>3000</td>
+<td>1500</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W4</td>
+<td>2500</td>
+<td>1500</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W5</td>
+<td>2500</td>
+<td>1500</td>
+<td>2500</td>
+    </tr>
+<tr>
+        <td>W6</td>
+<td>2500</td>
+<td>1500</td>
+<td>2200</td>
+    </tr>
+<tr>
+        <td>W7</td>
+<td>2500</td>
+<td>1500</td>
+<td>2500</td>
+    </tr>
+<tr>
+        <td>W8</td>
+<td>2500</td>
+<td>2000</td>
+<td>3000</td>
+    </tr>
+<tr>
+        <td>W9</td>
+<td>2500</td>
+<td>2000</td>
+<td>2500</td>
+    </tr>
+<tr>
+        <td>W10</td>
+<td>3000</td>
+<td>2500</td>
+<td>3000</td>
+    </tr>
+<tr>
+        <td>W11</td>
+<td>3500</td>
+<td>3000</td>
+<td>3000</td>
+    </tr>
+<tr>
+        <td>W12</td>
+<td>4500</td>
+<td>4000</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W13</td>
+<td>4500</td>
+<td>4500</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W14</td>
+<td>5000</td>
+<td>5000</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W15</td>
+<td>5500</td>
+<td>5500</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W16</td>
+<td>3000</td>
+<td>3000</td>
+<td>3000</td>
+    </tr>
+<tr>
+        <td>W17</td>
+<td>5000</td>
+<td>4500</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W18</td>
+<td>5500</td>
+<td>5000</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W19</td>
+<td>6000</td>
+<td>5500</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W20</td>
+<td>6500</td>
+<td>5500</td>
+<td>3800</td>
+    </tr>
+<tr>
+        <td>W21</td>
+<td>8500</td>
+<td>6000</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W22</td>
+<td>7500</td>
+<td>4500</td>
+<td>3200</td>
+    </tr>
+  </tbody>
+</table>
+
+3 | Page
+
+IDSR Weekly Epidemiological Bulletin
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo
+
+
+---
+
+# Khyber Pakhtunkhwa
+
+* Cases of AD (Non-Cholera) were maximum followed by ILI, Malaria, SARI, ALRI<5 Years, Typhoid, B. Diarrhea, CL, AVH (A&E) and Measles cases.
+
+* AD showed downward trend in cases this week whereas ILI and Malaria has upward trend.
+
+* Cases of B. Diarrhea were mostly reported from Peshawar and Dir Lower. Further, 15 cases of suspected Cholera reported from Kohistan Upper.
+
+Figure 5: Most frequently reported suspected cases during week 22, KP
+
+<table>
+  <thead>
+    <tr>
+        <th>Disease</th>
+        <th>Number of Cases (WK 22)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>AD (Non-Cholera)</td>
+<td>26,697</td>
+    </tr>
+<tr>
+        <td>ILI</td>
+<td>7,443</td>
+    </tr>
+<tr>
+        <td>Malaria</td>
+<td>4,968</td>
+    </tr>
+<tr>
+        <td>SARI</td>
+<td>2,026</td>
+    </tr>
+<tr>
+        <td>ALRI &lt; 5 years</td>
+<td>1,889</td>
+    </tr>
+<tr>
+        <td>Typhoid</td>
+<td>1,113</td>
+    </tr>
+<tr>
+        <td>B. Diarrhea</td>
+<td>865</td>
+    </tr>
+<tr>
+        <td>CL</td>
+<td>612</td>
+    </tr>
+<tr>
+        <td>AVH (A &amp; E)</td>
+<td>236</td>
+    </tr>
+<tr>
+        <td>Measles</td>
+<td>228</td>
+    </tr>
+  </tbody>
+</table>
+
+Table 4: District wise distribution of most frequently reported suspected cases during week 22, KP
+
+<table>
+  <thead>
+    <tr>
+        <th>Diseases</th>
+        <th>AD (Non-Cholera)</th>
+        <th>Malaria</th>
+        <th>ILI</th>
+        <th>SARI</th>
+        <th>ALRI &lt; 5 years</th>
+        <th>B. Diarrhea</th>
+        <th>Typhoid</th>
+        <th>Dog Bite</th>
+        <th>AWD (S. Cholera)</th>
+        <th>AVH (A &amp; E)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Abbottabad</td>
+<td>606</td>
+<td>2</td>
+<td>5</td>
+<td>13</td>
+<td>4</td>
+<td>1</td>
+<td>14</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Bannu</td>
+<td>316</td>
+<td>718</td>
+<td>135</td>
+<td>0</td>
+<td>5</td>
+<td>11</td>
+<td>38</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Battagram</td>
+<td>376</td>
+<td>57</td>
+<td>749</td>
+<td>3</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>4</td>
+    </tr>
+<tr>
+        <td>Buner</td>
+<td>871</td>
+<td>643</td>
+<td>0</td>
+<td>35</td>
+<td>0</td>
+<td>21</td>
+<td>27</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Charsadda</td>
+<td>1,528</td>
+<td>16</td>
+<td>325</td>
+<td>29</td>
+<td>7</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Chitral Lower</td>
+<td>517</td>
+<td>5</td>
+<td>144</td>
+<td>749</td>
+<td>8</td>
+<td>0</td>
+<td>7</td>
+<td>15</td>
+<td>0</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Chitral Upper</td>
+<td>85</td>
+<td>2</td>
+<td>2</td>
+<td>214</td>
+<td>2</td>
+<td>0</td>
+<td>9</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>D.I. Khan</td>
+<td>931</td>
+<td>292</td>
+<td>0</td>
+<td>6</td>
+<td>30</td>
+<td>8</td>
+<td>0</td>
+<td>21</td>
+<td>14</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Dir Lower</td>
+<td>1,969</td>
+<td>498</td>
+<td>235</td>
+<td>144</td>
+<td>217</td>
+<td>118</td>
+<td>79</td>
+<td>15</td>
+<td>0</td>
+<td>102</td>
+    </tr>
+<tr>
+        <td>Dir Upper</td>
+<td>605</td>
+<td>13</td>
+<td>73</td>
+<td>0</td>
+<td>90</td>
+<td>33</td>
+<td>31</td>
+<td>0</td>
+<td>0</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>Hangu</td>
+<td>434</td>
+<td>411</td>
+<td>693</td>
+<td>187</td>
+<td>15</td>
+<td>30</td>
+<td>44</td>
+<td>3</td>
+<td>0</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>Haripur</td>
+<td>1,306</td>
+<td>9</td>
+<td>375</td>
+<td>27</td>
+<td>149</td>
+<td>0</td>
+<td>40</td>
+<td>2</td>
+<td>0</td>
+<td>17</td>
+    </tr>
+<tr>
+        <td>Karak</td>
+<td>446</td>
+<td>79</td>
+<td>156</td>
+<td>27</td>
+<td>13</td>
+<td>4</td>
+<td>8</td>
+<td>17</td>
+<td>2</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Khyber</td>
+<td>25</td>
+<td>29</td>
+<td>90</td>
+<td>2</td>
+<td>2</td>
+<td>10</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Kohat</td>
+<td>56</td>
+<td>18</td>
+<td>30</td>
+<td>2</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Kohistan Lower</td>
+<td>74</td>
+<td>0</td>
+<td>0</td>
+<td>207</td>
+<td>5</td>
+<td>29</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Kohistan Upper</td>
+<td>388</td>
+<td>13</td>
+<td>99</td>
+<td>70</td>
+<td>5</td>
+<td>42</td>
+<td>71</td>
+<td>1</td>
+<td>15</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Kolai Palas</td>
+<td>83</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Lakki Marwat</td>
+<td>545</td>
+<td>1,121</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>21</td>
+<td>9</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Malakand</td>
+<td>621</td>
+<td>5</td>
+<td>15</td>
+<td>13</td>
+<td>19</td>
+<td>83</td>
+<td>15</td>
+<td> </td>
+<td>0</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Mansehra</td>
+<td>843</td>
+<td>2</td>
+<td>901</td>
+<td>79</td>
+<td>56</td>
+<td>34</td>
+<td>167</td>
+<td>0</td>
+<td>4</td>
+<td>6</td>
+    </tr>
+<tr>
+        <td>Mardan</td>
+<td>1,463</td>
+<td>77</td>
+<td>896</td>
+<td>61</td>
+<td>307</td>
+<td>66</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Nowshera</td>
+<td>1,971</td>
+<td>50</td>
+<td>91</td>
+<td>9</td>
+<td>4</td>
+<td>37</td>
+<td>27</td>
+<td>1</td>
+<td>0</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>Peshawar</td>
+<td>3,529</td>
+<td>89</td>
+<td>1,254</td>
+<td>35</td>
+<td>369</td>
+<td>189</td>
+<td>126</td>
+<td>2</td>
+<td>7</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>Shangla</td>
+<td>134</td>
+<td>312</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+<td>2</td>
+<td>38</td>
+<td>20</td>
+<td>6</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Swabi</td>
+<td>2,288</td>
+<td>44</td>
+<td>917</td>
+<td>75</td>
+<td>253</td>
+<td>29</td>
+<td>38</td>
+<td>1</td>
+<td>1</td>
+<td>38</td>
+    </tr>
+<tr>
+        <td>Swat</td>
+<td>3,572</td>
+<td>65</td>
+<td>258</td>
+<td>0</td>
+<td>182</td>
+<td>47</td>
+<td>99</td>
+<td>30</td>
+<td>0</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>Tank</td>
+<td>1,003</td>
+<td>276</td>
+<td>0</td>
+<td>0</td>
+<td>98</td>
+<td>14</td>
+<td>202</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Tor Ghar</td>
+<td>112</td>
+<td>121</td>
+<td>0</td>
+<td>39</td>
+<td>8</td>
+<td>22</td>
+<td>14</td>
+<td>5</td>
+<td>8</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Total</td>
+<td>26,697</td>
+<td>4,968</td>
+<td>7,443</td>
+<td>2,026</td>
+<td>1,889</td>
+<td>865</td>
+<td>1,113</td>
+<td>158</td>
+<td>65</td>
+<td>236</td>
+    </tr>
+  </tbody>
+</table>
+
+4 | Page
+
+IDSR Weekly Epidemiological Bulletin
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo
+
+
+---
+
+Figure 6: Week wise reported suspected cases of AD (Non-Cholera), ILI & Malaria, KP
+
+<table>
+  <thead>
+    <tr>
+        <th>Week</th>
+        <th>AD (Non-Cholera)</th>
+        <th>ILI</th>
+        <th>Malaria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>W23</td>
+<td>29000</td>
+<td>8000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W24</td>
+<td>26000</td>
+<td>8000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W25</td>
+<td>24000</td>
+<td>7000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W26</td>
+<td>22000</td>
+<td>6000</td>
+<td>5000</td>
+    </tr>
+<tr>
+        <td>W27</td>
+<td>17000</td>
+<td>3500</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W28</td>
+<td>25000</td>
+<td>5000</td>
+<td>5000</td>
+    </tr>
+<tr>
+        <td>W29</td>
+<td>32000</td>
+<td>7000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W30</td>
+<td>30000</td>
+<td>7500</td>
+<td>7500</td>
+    </tr>
+<tr>
+        <td>W31</td>
+<td>22000</td>
+<td>7000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W32</td>
+<td>27000</td>
+<td>7000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W33</td>
+<td>29000</td>
+<td>8500</td>
+<td>9500</td>
+    </tr>
+<tr>
+        <td>W34</td>
+<td>24000</td>
+<td>6500</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W35</td>
+<td>13000</td>
+<td>3000</td>
+<td>5500</td>
+    </tr>
+<tr>
+        <td>W36</td>
+<td>22000</td>
+<td>6500</td>
+<td>6500</td>
+    </tr>
+<tr>
+        <td>W37</td>
+<td>23000</td>
+<td>6000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W38</td>
+<td>19000</td>
+<td>5500</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W39</td>
+<td>14000</td>
+<td>5000</td>
+<td>6000</td>
+    </tr>
+<tr>
+        <td>W40</td>
+<td>14000</td>
+<td>5500</td>
+<td>5500</td>
+    </tr>
+<tr>
+        <td>W41</td>
+<td>16000</td>
+<td>5000</td>
+<td>7500</td>
+    </tr>
+<tr>
+        <td>W42</td>
+<td>15000</td>
+<td>6000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W43</td>
+<td>17500</td>
+<td>9500</td>
+<td>9000</td>
+    </tr>
+<tr>
+        <td>W44</td>
+<td>14000</td>
+<td>7000</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W45</td>
+<td>14000</td>
+<td>8500</td>
+<td>7000</td>
+    </tr>
+<tr>
+        <td>W46</td>
+<td>14500</td>
+<td>7500</td>
+<td>5500</td>
+    </tr>
+<tr>
+        <td>W47</td>
+<td>14000</td>
+<td>10500</td>
+<td>6500</td>
+    </tr>
+<tr>
+        <td>W48</td>
+<td>14500</td>
+<td>13000</td>
+<td>6500</td>
+    </tr>
+<tr>
+        <td>W49</td>
+<td>15000</td>
+<td>13000</td>
+<td>5500</td>
+    </tr>
+<tr>
+        <td>W50</td>
+<td>16000</td>
+<td>13500</td>
+<td>6000</td>
+    </tr>
+<tr>
+        <td>W51</td>
+<td>14000</td>
+<td>16000</td>
+<td>5500</td>
+    </tr>
+<tr>
+        <td>W52</td>
+<td>13000</td>
+<td>15500</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W1</td>
+<td>12000</td>
+<td>14500</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W2</td>
+<td>11500</td>
+<td>12000</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W3</td>
+<td>11500</td>
+<td>12000</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W4</td>
+<td>11500</td>
+<td>11500</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W5</td>
+<td>12500</td>
+<td>11000</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W6</td>
+<td>13500</td>
+<td>11000</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W7</td>
+<td>15000</td>
+<td>11000</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W8</td>
+<td>15000</td>
+<td>10500</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W9</td>
+<td>15500</td>
+<td>11000</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W10</td>
+<td>17500</td>
+<td>10000</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W11</td>
+<td>18500</td>
+<td>11000</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W12</td>
+<td>16500</td>
+<td>7500</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W13</td>
+<td>19000</td>
+<td>8500</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W14</td>
+<td>19500</td>
+<td>7500</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W15</td>
+<td>20000</td>
+<td>7000</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W16</td>
+<td>10500</td>
+<td>2500</td>
+<td>3500</td>
+    </tr>
+<tr>
+        <td>W17</td>
+<td>19500</td>
+<td>6000</td>
+<td>4000</td>
+    </tr>
+<tr>
+        <td>W18</td>
+<td>25000</td>
+<td>7500</td>
+<td>4500</td>
+    </tr>
+<tr>
+        <td>W19</td>
+<td>27000</td>
+<td>8000</td>
+<td>5500</td>
+    </tr>
+<tr>
+        <td>W20</td>
+<td>28500</td>
+<td>7500</td>
+<td>5500</td>
+    </tr>
+<tr>
+        <td>W21</td>
+<td>28000</td>
+<td>7500</td>
+<td>6000</td>
+    </tr>
+<tr>
+        <td>W22</td>
+<td>27000</td>
+<td>8000</td>
+<td>5000</td>
+    </tr>
+  </tbody>
+</table>
+
+<u>**Islamabad**</u>
+
+* The most frequently reported cases from Islamabad were ILI followed by AD (Non-Cholera).
+
+* ILI cases showed steady trend in cases this week.
+
+Figure 7: Most frequently reported suspected cases during week 22, ICT
+
+<table>
+  <thead>
+    <tr>
+        <th>Disease</th>
+        <th>WK20</th>
+        <th>WK21</th>
+        <th>WK22</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>ILI</td>
+<td>760</td>
+<td>1150</td>
+<td>1118</td>
+    </tr>
+<tr>
+        <td>AD (Non-Cholera)</td>
+<td>300</td>
+<td>540</td>
+<td>557</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 8: Week wise reported suspected cases of ILI, ICT
+
+<table>
+  <thead>
+    <tr>
+        <th>Week</th>
+        <th>ILI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>W23</td>
+<td>650</td>
+    </tr>
+<tr>
+        <td>W24</td>
+<td>500</td>
+    </tr>
+<tr>
+        <td>W25</td>
+<td>800</td>
+    </tr>
+<tr>
+        <td>W26</td>
+<td>1050</td>
+    </tr>
+<tr>
+        <td>W27</td>
+<td>700</td>
+    </tr>
+<tr>
+        <td>W28</td>
+<td>650</td>
+    </tr>
+<tr>
+        <td>W29</td>
+<td>950</td>
+    </tr>
+<tr>
+        <td>W30</td>
+<td>1150</td>
+    </tr>
+<tr>
+        <td>W31</td>
+<td>1350</td>
+    </tr>
+<tr>
+        <td>W32</td>
+<td>1350</td>
+    </tr>
+<tr>
+        <td>W33</td>
+<td>1250</td>
+    </tr>
+<tr>
+        <td>W34</td>
+<td>450</td>
+    </tr>
+<tr>
+        <td>W35</td>
+<td>1450</td>
+    </tr>
+<tr>
+        <td>W36</td>
+<td>150</td>
+    </tr>
+<tr>
+        <td>W37</td>
+<td>100</td>
+    </tr>
+<tr>
+        <td>W38</td>
+<td>1250</td>
+    </tr>
+<tr>
+        <td>W39</td>
+<td>1000</td>
+    </tr>
+<tr>
+        <td>W40</td>
+<td>2150</td>
+    </tr>
+<tr>
+        <td>W41</td>
+<td>2350</td>
+    </tr>
+<tr>
+        <td>W42</td>
+<td>2700</td>
+    </tr>
+<tr>
+        <td>W43</td>
+<td>2650</td>
+    </tr>
+<tr>
+        <td>W44</td>
+<td>1900</td>
+    </tr>
+<tr>
+        <td>W45</td>
+<td>1750</td>
+    </tr>
+<tr>
+        <td>W46</td>
+<td>1600</td>
+    </tr>
+<tr>
+        <td>W47</td>
+<td>2450</td>
+    </tr>
+<tr>
+        <td>W48</td>
+<td>2350</td>
+    </tr>
+<tr>
+        <td>W49</td>
+<td>2550</td>
+    </tr>
+<tr>
+        <td>W50</td>
+<td>3200</td>
+    </tr>
+<tr>
+        <td>W51</td>
+<td>2600</td>
+    </tr>
+<tr>
+        <td>W52</td>
+<td>2200</td>
+    </tr>
+<tr>
+        <td>W1</td>
+<td>2100</td>
+    </tr>
+<tr>
+        <td>W2</td>
+<td>1650</td>
+    </tr>
+<tr>
+        <td>W3</td>
+<td>2000</td>
+    </tr>
+<tr>
+        <td>W4</td>
+<td>2000</td>
+    </tr>
+<tr>
+        <td>W5</td>
+<td>1950</td>
+    </tr>
+<tr>
+        <td>W6</td>
+<td>1600</td>
+    </tr>
+<tr>
+        <td>W7</td>
+<td>2350</td>
+    </tr>
+<tr>
+        <td>W8</td>
+<td>1650</td>
+    </tr>
+<tr>
+        <td>W9</td>
+<td>2250</td>
+    </tr>
+<tr>
+        <td>W10</td>
+<td>2100</td>
+    </tr>
+<tr>
+        <td>W11</td>
+<td>1700</td>
+    </tr>
+<tr>
+        <td>W12</td>
+<td>750</td>
+    </tr>
+<tr>
+        <td>W13</td>
+<td>1550</td>
+    </tr>
+<tr>
+        <td>W14</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W15</td>
+<td>1100</td>
+    </tr>
+<tr>
+        <td>W16</td>
+<td>700</td>
+    </tr>
+<tr>
+        <td>W17</td>
+<td>1150</td>
+    </tr>
+<tr>
+        <td>W18</td>
+<td>1000</td>
+    </tr>
+<tr>
+        <td>W19</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W20</td>
+<td>800</td>
+    </tr>
+<tr>
+        <td>W21</td>
+<td>1150</td>
+    </tr>
+<tr>
+        <td>W22</td>
+<td>1100</td>
+    </tr>
+  </tbody>
+</table>
+
+5 | P a g e
+
+IDSR Weekly Epidemiological Bulletin
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo
+
+
+---
+
+# Azad Jammu and Kashmir
+
+* ILI cases were maximum followed by AD (Non-Cholera), ALRI <5 years, SARI, B. Diarrhea, Mumps, AWD (S. Cholera), Malaria, CL and Typhoid.
+
+* Both ILI and ALRI <5 years cases showed a downward trend in cases this week.
+
+Figure 9: Most frequently reported suspected cases during week 22, AJK
+
+<table>
+  <thead>
+    <tr>
+        <th>Disease</th>
+        <th>WK 20</th>
+        <th>WK 21</th>
+        <th>WK 22</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>ILI</td>
+<td>2400</td>
+<td>2550</td>
+<td>2366</td>
+    </tr>
+<tr>
+        <td>AD (Non-Cholera)</td>
+<td>2250</td>
+<td>2200</td>
+<td>1946</td>
+    </tr>
+<tr>
+        <td>ALRI &lt; 5 years</td>
+<td>850</td>
+<td>950</td>
+<td>1013</td>
+    </tr>
+<tr>
+        <td>SARI</td>
+<td>400</td>
+<td>400</td>
+<td>411</td>
+    </tr>
+<tr>
+        <td>B. Diarrhea</td>
+<td>100</td>
+<td>150</td>
+<td>117</td>
+    </tr>
+<tr>
+        <td>Mumps</td>
+<td>150</td>
+<td>100</td>
+<td>106</td>
+    </tr>
+<tr>
+        <td>AWD (S. Cholera)</td>
+<td>150</td>
+<td>100</td>
+<td>88</td>
+    </tr>
+<tr>
+        <td>Malaria</td>
+<td>100</td>
+<td>150</td>
+<td>72</td>
+    </tr>
+<tr>
+        <td>CL</td>
+<td>100</td>
+<td>100</td>
+<td>70</td>
+    </tr>
+<tr>
+        <td>Typhoid</td>
+<td>150</td>
+<td>150</td>
+<td>56</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 10: Week wise reported suspected cases of AD (Non-Cholera) and ALRI <5 years, AJK
+
+<table>
+  <thead>
+    <tr>
+        <th>Week</th>
+        <th>AD (Non-Cholera)</th>
+        <th>ILI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>W23</td>
+<td>400</td>
+<td>200</td>
+    </tr>
+<tr>
+        <td>W24</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W25</td>
+<td>400</td>
+<td>200</td>
+    </tr>
+<tr>
+        <td>W26</td>
+<td>400</td>
+<td>200</td>
+    </tr>
+<tr>
+        <td>W27</td>
+<td>300</td>
+<td>200</td>
+    </tr>
+<tr>
+        <td>W28</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W29</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W30</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W31</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W32</td>
+<td>300</td>
+<td>200</td>
+    </tr>
+<tr>
+        <td>W33</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W34</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W35</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W36</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W37</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W38</td>
+<td>350</td>
+<td>250</td>
+    </tr>
+<tr>
+        <td>W39</td>
+<td>400</td>
+<td>600</td>
+    </tr>
+<tr>
+        <td>W40</td>
+<td>400</td>
+<td>800</td>
+    </tr>
+<tr>
+        <td>W41</td>
+<td>400</td>
+<td>800</td>
+    </tr>
+<tr>
+        <td>W42</td>
+<td>450</td>
+<td>900</td>
+    </tr>
+<tr>
+        <td>W43</td>
+<td>400</td>
+<td>850</td>
+    </tr>
+<tr>
+        <td>W44</td>
+<td>500</td>
+<td>1000</td>
+    </tr>
+<tr>
+        <td>W45</td>
+<td>500</td>
+<td>1000</td>
+    </tr>
+<tr>
+        <td>W46</td>
+<td>400</td>
+<td>1100</td>
+    </tr>
+<tr>
+        <td>W47</td>
+<td>450</td>
+<td>1700</td>
+    </tr>
+<tr>
+        <td>W48</td>
+<td>350</td>
+<td>1400</td>
+    </tr>
+<tr>
+        <td>W49</td>
+<td>350</td>
+<td>1200</td>
+    </tr>
+<tr>
+        <td>W50</td>
+<td>400</td>
+<td>1800</td>
+    </tr>
+<tr>
+        <td>W51</td>
+<td>550</td>
+<td>2600</td>
+    </tr>
+<tr>
+        <td>W52</td>
+<td>600</td>
+<td>2200</td>
+    </tr>
+<tr>
+        <td>W1</td>
+<td>700</td>
+<td>2200</td>
+    </tr>
+<tr>
+        <td>W2</td>
+<td>800</td>
+<td>2100</td>
+    </tr>
+<tr>
+        <td>W3</td>
+<td>550</td>
+<td>1700</td>
+    </tr>
+<tr>
+        <td>W4</td>
+<td>600</td>
+<td>1700</td>
+    </tr>
+<tr>
+        <td>W5</td>
+<td>750</td>
+<td>1800</td>
+    </tr>
+<tr>
+        <td>W6</td>
+<td>850</td>
+<td>1850</td>
+    </tr>
+<tr>
+        <td>W7</td>
+<td>1000</td>
+<td>2400</td>
+    </tr>
+<tr>
+        <td>W8</td>
+<td>1050</td>
+<td>2000</td>
+    </tr>
+<tr>
+        <td>W9</td>
+<td>1100</td>
+<td>1800</td>
+    </tr>
+<tr>
+        <td>W10</td>
+<td>1150</td>
+<td>2250</td>
+    </tr>
+<tr>
+        <td>W11</td>
+<td>1200</td>
+<td>2150</td>
+    </tr>
+<tr>
+        <td>W12</td>
+<td>1000</td>
+<td>2100</td>
+    </tr>
+<tr>
+        <td>W13</td>
+<td>1200</td>
+<td>2350</td>
+    </tr>
+<tr>
+        <td>W14</td>
+<td>1300</td>
+<td>2300</td>
+    </tr>
+<tr>
+        <td>W15</td>
+<td>1250</td>
+<td>2200</td>
+    </tr>
+<tr>
+        <td>W16</td>
+<td>1000</td>
+<td>1500</td>
+    </tr>
+<tr>
+        <td>W17</td>
+<td>1500</td>
+<td>1900</td>
+    </tr>
+<tr>
+        <td>W18</td>
+<td>1600</td>
+<td>2100</td>
+    </tr>
+<tr>
+        <td>W19</td>
+<td>1800</td>
+<td>2700</td>
+    </tr>
+<tr>
+        <td>W20</td>
+<td>1800</td>
+<td>2400</td>
+    </tr>
+<tr>
+        <td>W21</td>
+<td>1900</td>
+<td>2550</td>
+    </tr>
+<tr>
+        <td>W22</td>
+<td>1450</td>
+<td>2366</td>
+    </tr>
+  </tbody>
+</table>
+
+# Gilgit-Baltistan
+
+* ALRI<5 years cases were maximum followed by AD (Non. Cholera) and SARI.
+
+* ALRI <5 years cases showed slight upward trend in cases this week.
+
+Figure 11: Most frequent cases reported during WK 22, GB
+
+<table>
+  <thead>
+    <tr>
+        <th>Disease</th>
+        <th>WK 20</th>
+        <th>WK 21</th>
+        <th>WK 22</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>ALRI &lt; 5 years</td>
+<td>12</td>
+<td>12</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>AD (Non-Cholera)</td>
+<td>15</td>
+<td>9</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>SARI</td>
+<td>5</td>
+<td>5</td>
+<td>6</td>
+    </tr>
+  </tbody>
+</table>
+
+Figure 12: Week wise reported suspected cases of ALRI < 5 years, GB
+
+<table>
+  <thead>
+    <tr>
+        <th>Week</th>
+        <th>ALRI &lt; 5 years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>W23</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>W24</td>
+<td>17</td>
+    </tr>
+<tr>
+        <td>W25</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>W26</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>W27</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>W28</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>W29</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>W30</td>
+<td>23</td>
+    </tr>
+<tr>
+        <td>W31</td>
+<td>18</td>
+    </tr>
+<tr>
+        <td>W32</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>W33</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>W34</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>W35</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>W36</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>W37</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>W38</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>W39</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>W40</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>W41</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>W42</td>
+<td>28</td>
+    </tr>
+<tr>
+        <td>W43</td>
+<td>30</td>
+    </tr>
+<tr>
+        <td>W44</td>
+<td>18</td>
+    </tr>
+<tr>
+        <td>W45</td>
+<td>26</td>
+    </tr>
+<tr>
+        <td>W46</td>
+<td>20</td>
+    </tr>
+<tr>
+        <td>W47</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>W48</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>W49</td>
+<td>13</td>
+    </tr>
+<tr>
+        <td>W50</td>
+<td>20</td>
+    </tr>
+<tr>
+        <td>W51</td>
+<td>22</td>
+    </tr>
+<tr>
+        <td>W52</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>W1</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>W2</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>W3</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>W4</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>W5</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>W6</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>W7</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>W8</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>W9</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>W10</td>
+<td>24</td>
+    </tr>
+<tr>
+        <td>W11</td>
+<td>9</td>
+    </tr>
+<tr>
+        <td>W12</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>W13</td>
+<td>13</td>
+    </tr>
+<tr>
+        <td>W14</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>W15</td>
+<td>13</td>
+    </tr>
+<tr>
+        <td>W16</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>W17</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>W18</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>W19</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>W20</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>W21</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>W22</td>
+<td>14</td>
+    </tr>
+  </tbody>
+</table>
+
+6 | Page
+
+IDSR Weekly Epidemiological Bulletin
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo
+
+
+---
+
+# Table 5: Public Health Laboratories confirmed cases of IDSR Priority Diseases during Epi week 22
+
+<table>
+  <thead>
+    <tr>
+        <th>Diseases</th>
+        <th>Sindh</th>
+        <th>KP</th>
+        <th>Balochistan</th>
+        <th>Punjab</th>
+        <th>Gilgit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Acute Watery Diarrhoea (S. Cholera)</td>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+    </tr>
+<tr>
+        <td>Malaria</td>
+<td>85</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Dengue</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+    </tr>
+<tr>
+        <td>Acute Viral Hepatitis(A)</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+    </tr>
+<tr>
+        <td>Acute Viral Hepatitis(B)</td>
+<td>92</td>
+<td>-</td>
+<td>9</td>
+<td>-</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Acute Viral Hepatitis(C)</td>
+<td>218</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Acute Viral Hepatitis(E)</td>
+<td>18</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+    </tr>
+<tr>
+        <td>Covid-19</td>
+<td>0</td>
+<td>-</td>
+<td>2</td>
+<td>0</td>
+<td>-</td>
+    </tr>
+<tr>
+        <td>Typhoid</td>
+<td>-</td>
+<td>5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+## <u>IDSR Attributes</u>
+
+* Out OF 80 IDSR implemented districts, compliance is low from Balochistan districts.
+
+* Green color showing >50% compliance while red color is <50% compliance
+
+# Table 5: IDSR reporting districts
+
+<table>
+  <thead>
+    <tr>
+        <th>Provinces/Regions</th>
+        <th>Districts</th>
+        <th>Total Number of<br/>Reporting Sites</th>
+        <th>Number of<br/>Agreed<br/>Reporting Sites</th>
+        <th>Number of<br/>Reported Sites<br/>for current week</th>
+        <th>Compliance Rate<br/>(%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="29">Khyber Pakhtunkhwa</td>
+<td>Abbottabad</td>
+<td>110</td>
+<td>110</td>
+<td>101</td>
+<td>92%</td>
+    </tr>
+<tr>
+        <td>Bannu</td>
+<td>92</td>
+<td>92</td>
+<td>64</td>
+<td>70%</td>
+    </tr>
+<tr>
+        <td>Battagram</td>
+<td>43</td>
+<td>43</td>
+<td>22</td>
+<td>51%</td>
+    </tr>
+<tr>
+        <td>Buner</td>
+<td>34</td>
+<td>34</td>
+<td>27</td>
+<td>79%</td>
+    </tr>
+<tr>
+        <td>Charsadda</td>
+<td>61</td>
+<td>61</td>
+<td>49</td>
+<td>80%</td>
+    </tr>
+<tr>
+        <td>Chitral Upper</td>
+<td>33</td>
+<td>33</td>
+<td>10</td>
+<td>30%</td>
+    </tr>
+<tr>
+        <td>Chitral Lower</td>
+<td>35</td>
+<td>35</td>
+<td>32</td>
+<td>91%</td>
+    </tr>
+<tr>
+        <td>D.I. Khan</td>
+<td>89</td>
+<td>89</td>
+<td>69</td>
+<td>78%</td>
+    </tr>
+<tr>
+        <td>Dir Lower</td>
+<td>75</td>
+<td>75</td>
+<td>60</td>
+<td>80%</td>
+    </tr>
+<tr>
+        <td>Dir Upper</td>
+<td>55</td>
+<td>55</td>
+<td>42</td>
+<td>76%</td>
+    </tr>
+<tr>
+        <td>Hangu</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Haripur</td>
+<td>69</td>
+<td>69</td>
+<td>60</td>
+<td>87%</td>
+    </tr>
+<tr>
+        <td>Karak</td>
+<td>34</td>
+<td>34</td>
+<td>34</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Khyber</td>
+<td>40</td>
+<td>40</td>
+<td>5</td>
+<td>13%</td>
+    </tr>
+<tr>
+        <td>Kohat</td>
+<td>59</td>
+<td>59</td>
+<td>59</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Kohistan Lower</td>
+<td>11</td>
+<td>11</td>
+<td>8</td>
+<td>73%</td>
+    </tr>
+<tr>
+        <td>Kohistan Upper</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Kolai Palas</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Lakki Marwat</td>
+<td>49</td>
+<td>49</td>
+<td>49</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Malakand</td>
+<td>42</td>
+<td>42</td>
+<td>0</td>
+<td>0%</td>
+    </tr>
+<tr>
+        <td>Mansehra</td>
+<td>133</td>
+<td>133</td>
+<td>71</td>
+<td>53%</td>
+    </tr>
+<tr>
+        <td>Mardan</td>
+<td>84</td>
+<td>84</td>
+<td>44</td>
+<td>52%</td>
+    </tr>
+<tr>
+        <td>Nowshera</td>
+<td>52</td>
+<td>52</td>
+<td>51</td>
+<td>98%</td>
+    </tr>
+<tr>
+        <td>Peshawar</td>
+<td>101</td>
+<td>101</td>
+<td>92</td>
+<td>91%</td>
+    </tr>
+<tr>
+        <td>Shangla</td>
+<td>36</td>
+<td>36</td>
+<td>5</td>
+<td>14%</td>
+    </tr>
+<tr>
+        <td>Swabi</td>
+<td>60</td>
+<td>60</td>
+<td>51</td>
+<td>85%</td>
+    </tr>
+<tr>
+        <td>Swat</td>
+<td>77</td>
+<td>77</td>
+<td>71</td>
+<td>92%</td>
+    </tr>
+<tr>
+        <td>Tank</td>
+<td>34</td>
+<td>34</td>
+<td>34</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Torghar</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>100%</td>
+    </tr>
+  </tbody>
+</table>
+
+7 | Page
+
+IDSR Weekly Epidemiological Bulletin
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo
+
+
+---
+
+
+
+<table>
+  <tbody>
+    <tr>
+        <td rowspan="10">Azad Jammu Kashmir</td>
+<td>Mirpur</td>
+<td>37</td>
+<td>37</td>
+<td>35</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Bhimber</td>
+<td>20</td>
+<td>20</td>
+<td>16</td>
+<td>80%</td>
+    </tr>
+<tr>
+        <td>Kotli</td>
+<td>60</td>
+<td>60</td>
+<td>38</td>
+<td>63%</td>
+    </tr>
+<tr>
+        <td>Muzaffarabad</td>
+<td>43</td>
+<td>43</td>
+<td>42</td>
+<td>98%</td>
+    </tr>
+<tr>
+        <td>Poonch</td>
+<td>46</td>
+<td>46</td>
+<td>46</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Haveli</td>
+<td>43</td>
+<td>43</td>
+<td>4</td>
+<td>9%</td>
+    </tr>
+<tr>
+        <td>Bagh</td>
+<td>41</td>
+<td>41</td>
+<td>35</td>
+<td>85%</td>
+    </tr>
+<tr>
+        <td>Neelum</td>
+<td>33</td>
+<td>33</td>
+<td>30</td>
+<td>91%</td>
+    </tr>
+<tr>
+        <td>Jhelum Vellay</td>
+<td>49</td>
+<td>49</td>
+<td>21</td>
+<td>43%</td>
+    </tr>
+<tr>
+        <td>Sudhnooti</td>
+<td>68</td>
+<td>68</td>
+<td>27</td>
+<td>40%</td>
+    </tr>
+<tr>
+        <td rowspan="2">Islamabad Capital Territory</td>
+<td>ICT</td>
+<td>18</td>
+<td>18</td>
+<td>5</td>
+<td>28%</td>
+    </tr>
+<tr>
+        <td>CDA</td>
+<td>9</td>
+<td>9</td>
+<td>5</td>
+<td>56%</td>
+    </tr>
+<tr>
+        <td rowspan="26">Balochistan</td>
+<td>Gwadar</td>
+<td>24</td>
+<td>24</td>
+<td>0</td>
+<td>0%</td>
+    </tr>
+<tr>
+        <td>Kech</td>
+<td>78</td>
+<td>44</td>
+<td>32</td>
+<td>73%</td>
+    </tr>
+<tr>
+        <td>Khuzdar</td>
+<td>136</td>
+<td>20</td>
+<td>0</td>
+<td>0%</td>
+    </tr>
+<tr>
+        <td>Killa Abdullah</td>
+<td>50</td>
+<td>32</td>
+<td>0</td>
+<td>0%</td>
+    </tr>
+<tr>
+        <td>Lasbella</td>
+<td>85</td>
+<td>85</td>
+<td>79</td>
+<td>93%</td>
+    </tr>
+<tr>
+        <td>Pishin</td>
+<td>118</td>
+<td>23</td>
+<td>10</td>
+<td>43%</td>
+    </tr>
+<tr>
+        <td>Quetta</td>
+<td>77</td>
+<td>22</td>
+<td>16</td>
+<td>73%</td>
+    </tr>
+<tr>
+        <td>Sibi</td>
+<td>42</td>
+<td>42</td>
+<td>19</td>
+<td>45%</td>
+    </tr>
+<tr>
+        <td>Zhob</td>
+<td>37</td>
+<td>37</td>
+<td>22</td>
+<td>59%</td>
+    </tr>
+<tr>
+        <td>Jaffarabad</td>
+<td>47</td>
+<td>47</td>
+<td>0</td>
+<td>0%</td>
+    </tr>
+<tr>
+        <td>Naserabad</td>
+<td>45</td>
+<td>45</td>
+<td>36</td>
+<td>80%</td>
+    </tr>
+<tr>
+        <td>kharan</td>
+<td>32</td>
+<td>32</td>
+<td>28</td>
+<td>88%</td>
+    </tr>
+<tr>
+        <td>sherani</td>
+<td>32</td>
+<td>32</td>
+<td>4</td>
+<td>13%</td>
+    </tr>
+<tr>
+        <td>kohlu</td>
+<td>75</td>
+<td>75</td>
+<td>20</td>
+<td>27%</td>
+    </tr>
+<tr>
+        <td>Chagi</td>
+<td>65</td>
+<td>65</td>
+<td>19</td>
+<td>29%</td>
+    </tr>
+<tr>
+        <td>kalat</td>
+<td>65</td>
+<td>65</td>
+<td>9</td>
+<td>14%</td>
+    </tr>
+<tr>
+        <td>Musa khail</td>
+<td>68</td>
+<td>68</td>
+<td>6</td>
+<td>9%</td>
+    </tr>
+<tr>
+        <td>Harnai</td>
+<td>36</td>
+<td>36</td>
+<td>17</td>
+<td>47%</td>
+    </tr>
+<tr>
+        <td>Kachhi (Bolan)</td>
+<td>35</td>
+<td>35</td>
+<td>12</td>
+<td>34%</td>
+    </tr>
+<tr>
+        <td>Jhal Magsi</td>
+<td>39</td>
+<td>39</td>
+<td>20</td>
+<td>51%</td>
+    </tr>
+<tr>
+        <td>Sohbat pur</td>
+<td>26</td>
+<td>26</td>
+<td>24</td>
+<td>92%</td>
+    </tr>
+<tr>
+        <td>Surab</td>
+<td>33</td>
+<td>33</td>
+<td>7</td>
+<td>21%</td>
+    </tr>
+<tr>
+        <td>Mastung</td>
+<td>45</td>
+<td>45</td>
+<td>27</td>
+<td>60%</td>
+    </tr>
+<tr>
+        <td>Loralai</td>
+<td>25</td>
+<td>25</td>
+<td>18</td>
+<td>72%</td>
+    </tr>
+<tr>
+        <td>Killa Saifullah</td>
+<td>31</td>
+<td>31</td>
+<td>0</td>
+<td>0%</td>
+    </tr>
+<tr>
+        <td>Ziarat</td>
+<td>42</td>
+<td>42</td>
+<td>0</td>
+<td>0%</td>
+    </tr>
+<tr>
+        <td>Gilgit Baltistan</td>
+<td>Hunza</td>
+<td>31</td>
+<td>31</td>
+<td>31</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td rowspan="12">Sindh</td>
+<td>Hyderabad</td>
+<td>63</td>
+<td>63</td>
+<td>25</td>
+<td>40%</td>
+    </tr>
+<tr>
+        <td>Ghotki</td>
+<td>65</td>
+<td>65</td>
+<td>65</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Umerkot</td>
+<td>98</td>
+<td>43</td>
+<td>43</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Naushahro Feroze</td>
+<td>120</td>
+<td>52</td>
+<td>25</td>
+<td>48%</td>
+    </tr>
+<tr>
+        <td>Tharparkar</td>
+<td>292</td>
+<td>100</td>
+<td>95</td>
+<td>95%</td>
+    </tr>
+<tr>
+        <td>Shikarpur</td>
+<td>64</td>
+<td>64</td>
+<td>60</td>
+<td>94%</td>
+    </tr>
+<tr>
+        <td>Thatta</td>
+<td>53</td>
+<td>53</td>
+<td>36</td>
+<td>68%</td>
+    </tr>
+<tr>
+        <td>Larkana</td>
+<td>67</td>
+<td>67</td>
+<td>67</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Kamber Shadadkot</td>
+<td>71</td>
+<td>71</td>
+<td>71</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Karachi-East</td>
+<td>14</td>
+<td>14</td>
+<td>10</td>
+<td>71%</td>
+    </tr>
+<tr>
+        <td>Karachi-West</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>100%</td>
+    </tr>
+<tr>
+        <td>Karachi-Malir</td>
+<td>37</td>
+<td>37</td>
+<td>13</td>
+<td>35%</td>
+    </tr>
+  </tbody>
+</table>
+
+8 | Page
+
+IDSR Weekly Epidemiological Bulletin
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo
+
+
+---
+
+
+
+<table>
+  
+  <tbody>
+    <tr>
+      <td>Karachi-Kemari</td>
+<td>17</td>
+<td>17</td>
+<td>10</td>
+<td>59%</td>
+    </tr>
+<tr>
+      <td>Karachi-Central</td>
+<td>12</td>
+<td>12</td>
+<td>11</td>
+<td>92%</td>
+    </tr>
+<tr>
+      <td>Karachi-Korangi</td>
+<td>17</td>
+<td>17</td>
+<td>11</td>
+<td>65%</td>
+    </tr>
+<tr>
+      <td>Karachi-South</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>50%</td>
+    </tr>
+<tr>
+      <td>Sujawal</td>
+<td>31</td>
+<td>31</td>
+<td>31</td>
+<td>100%</td>
+    </tr>
+<tr>
+      <td>Mirpur Khas</td>
+<td>124</td>
+<td>124</td>
+<td>104</td>
+<td>84%</td>
+    </tr>
+<tr>
+      <td>Badin</td>
+<td>144</td>
+<td>144</td>
+<td>105</td>
+<td>73%</td>
+    </tr>
+<tr>
+      <td>Sukkur</td>
+<td>65</td>
+<td>65</td>
+<td>64</td>
+<td>98%</td>
+    </tr>
+<tr>
+      <td>Dadu</td>
+<td>90</td>
+<td>90</td>
+<td>88</td>
+<td>98%</td>
+    </tr>
+<tr>
+      <td>Sanghar</td>
+<td>101</td>
+<td>101</td>
+<td>52</td>
+<td>51%</td>
+    </tr>
+<tr>
+      <td>Jacobabad</td>
+<td>54</td>
+<td>54</td>
+<td>34</td>
+<td>63%</td>
+    </tr>
+<tr>
+      <td>Khairpur</td>
+<td>203</td>
+<td>203</td>
+<td>159</td>
+<td>78%</td>
+    </tr>
+<tr>
+      <td>kashmore</td>
+<td>59</td>
+<td>59</td>
+<td>53</td>
+<td>90%</td>
+    </tr>
+<tr>
+      <td>Matiari</td>
+<td>42</td>
+<td>42</td>
+<td>42</td>
+<td>100%</td>
+    </tr>
+<tr>
+      <td>Jamshoro</td>
+<td>70</td>
+<td>70</td>
+<td>11</td>
+<td>16%</td>
+    </tr>
+<tr>
+      <td>Tando Allahyar</td>
+<td>54</td>
+<td>54</td>
+<td>49</td>
+<td>91%</td>
+    </tr>
+<tr>
+      <td>Tando Muhammad Khan</td>
+<td>41</td>
+<td>41</td>
+<td>32</td>
+<td>78%</td>
+    </tr>
+<tr>
+      <td>Shaheed Benazirabad</td>
+<td>124</td>
+<td>124</td>
+<td>124</td>
+<td>100%</td>
+    </tr>
+  </tbody>
+</table>
+
+9 | Page
+
+IDSR Weekly Epidemiological Bulletin
+
+UK Health Security Agency logo
+
+USAID logo
+
+World Health Organization logo

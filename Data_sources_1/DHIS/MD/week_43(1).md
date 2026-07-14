@@ -1,0 +1,6547 @@
+# DHIS- DISTRICT HEALTH INFORMATION SYSTEM (MIS CELL)
+# DIRECTORATE GENERAL HEALTH SERVICES, PUNJAB
+
+Weekly Feedback Report DHIS-II (24<sup>th</sup> October – 31<sup>st</sup> October, 2022)
+
+Tel: +92-99200990 e-mail: hmis.pb@yahoo.com
+
+**Summary:**
+
+In the weekly report, various indicators of health facilities have been discussed and the data of teaching/tertiary care hospitals are also included. The detailed analysis of week 43 of year 2022 is being presented in this report. The daily reporting regularity of district Mianwali, Gujranwala, Chakwal, Sahiwal, Multan and Rawalpindi are 100% as they fulfil the reporting compliance target for the week 43 of year 2022.
+
+The total OPD Visits during week 43 of 2022 were approximately 2.6 million (2,621,229) out of which 848K (848,248) were reported from BHU’s, 403K (403,166) from RHC’s, 613K (612,826) from THQ hospitals, 286K (286,126) from DHQ(all) and 471K (471,881) were reported from Teaching hospitals.
+
+Sixty diseases were reported through DHIS-2. Antenatal care coverage is an indicator of access and utilization of RMNCH services has been also analyzed.
+
+During week 43, the overall ANC-1 reporting of Punjab was 67,056 against the total expected population (3.4%). Overall, the highest number of visits of ANC-1 have been recorded at BHU’s from district Faisalabad as. 2,330. Delivery coverage at health facility is an indicator of utilization of delivery services provided at public health facilities. During week 43 the highest (44%) C-section cases has reported in district Lahore.
+
+1
+
+
+---
+
+# DHIS-II WEEKLY REPORTING COMPLIANCE PUNJAB, WEEK 43
+
+Fig. 1 Daily Forms Reporting Cmpliance
+
+<table>
+  <tbody>
+    <tr>
+        <td>District</td>
+<td>Compliance (%)</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>42</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>64</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>65</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>67</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>74</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>77</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>77</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>79</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>80</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>81</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>81</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>84</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>85</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>88</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>89</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>89</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>91</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>91</td>
+    </tr>
+<tr>
+        <td>Attock</td>
+<td>92</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>93</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>94</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>95</td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>97</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>97</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>98</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>99</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>99</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>99</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>100</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>100</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>100</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>100</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>100</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+# REPORTED PATIENTS THROUGH OPD IN HEALTH FACILITY, WEEK 43
+
+## Average OPD Per Day Visits (Health Facility Wise
+
+On average, 56 per day visits were reported at Basic Health Unit (BHU’s), 213 at Rural Health Care (RHC’s), 804 at THQ hospitals, 1,987 at DHQ hospitals and 1,962 at teaching hospitals in the province. (Fig. 2)
+
+Fig. 2 Average OPD Per Day Visits at Health Facility
+
+<table>
+  <tbody>
+    <tr>
+        <td>Health Facility</td>
+<td>Average OPD Per Day Visits</td>
+    </tr>
+<tr>
+        <td>BHU(ALL)</td>
+<td>56</td>
+    </tr>
+<tr>
+        <td>RHC(ALL)</td>
+<td>213</td>
+    </tr>
+<tr>
+        <td>THQ(ALL)</td>
+<td>804</td>
+    </tr>
+<tr>
+        <td>DHQ</td>
+<td>1,987</td>
+    </tr>
+<tr>
+        <td>THOS</td>
+<td>1,962</td>
+    </tr>
+  </tbody>
+</table>
+
+Fig. 3 Average Per Day OPD Visits in Teaching Hospitals
+
+<table>
+  <tbody>
+    <tr>
+        <td>District</td>
+<td>Average OPD Per Day Visits</td>
+    </tr>
+<tr>
+        <td>Rahimyar khan</td>
+<td>6,746</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>3,998</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>2,283</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>1,676</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>1,450</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>1,405</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>1,188</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>949</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>528</td>
+    </tr>
+  </tbody>
+</table>
+
+## Average OPD Per Day Visits Per Teaching Hospital
+
+Fig. 3 displays the Average OPD per day visits per teaching hospitals during the week 43 of year 2022. The highest no. of Average OPD per day visits was reported from district Rahimyar Khan.
+
+2
+
+
+---
+
+
+TABLE\_PLACEHOLDER\_TOP\_LEFT\_0
+
+<table>
+    <thead>
+    <tr>
+        <th colspan="11">Table: 1 DHIS-2, WEEK 43</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>DISTRICT</td>
+        <td colspan="5">OPD VISITS BY FACILITY TYPE WISE</td>
+        <td colspan="5">AVERAGE PER DAY OPD VISITS BY FACILITY TYPE WISE</td>
+    </tr>
+<tr>
+        <td></td>
+<td>BHU</td>
+<td>RHC</td>
+<td>THQ</td>
+<td>DHQ</td>
+<td>THOS</td>
+<td>BHU</td>
+<td>RHC</td>
+<td>THQ</td>
+<td>DHQ</td>
+<td>THOS</td>
+    </tr>
+<tr>
+        <td></td>
+<td>BHU</td>
+<td>RHC</td>
+<td>THQ</td>
+<td>DHQ</td>
+<td>THOS</td>
+<td>BHU</td>
+<td>RHC</td>
+<td>THQ</td>
+<td>DHQ</td>
+<td>THOS</td>
+    </tr>
+<tr>
+        <td>Attock</td>
+<td>15805</td>
+<td>5426</td>
+<td>24078</td>
+<td>7163</td>
+<td></td>
+<td>42</td>
+<td>151</td>
+<td>803</td>
+<td>1,194</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>22464</td>
+<td>12652</td>
+<td>19010</td>
+<td>13532</td>
+<td></td>
+<td>36</td>
+<td>211</td>
+<td>792</td>
+<td>2,255</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>22221</td>
+<td>14882</td>
+<td>29632</td>
+<td></td>
+<td>14261</td>
+<td>50</td>
+<td>207</td>
+<td>1,235</td>
+<td></td>
+<td>1,188</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>17670</td>
+<td>5623</td>
+<td>11117</td>
+<td>14388</td>
+<td></td>
+<td>76</td>
+<td>187</td>
+<td>618</td>
+<td>2,398</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>24868</td>
+<td>9754</td>
+<td>16239</td>
+<td>18071</td>
+<td></td>
+<td>65</td>
+<td>148</td>
+<td>677</td>
+<td>3,012</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>10674</td>
+<td>2665</td>
+<td>7133</td>
+<td>6329</td>
+<td></td>
+<td>49</td>
+<td>148</td>
+<td>594</td>
+<td>1,055</td>
+<td></td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>23388</td>
+<td>16198</td>
+<td>11580</td>
+<td></td>
+<td></td>
+<td>74</td>
+<td>300</td>
+<td>965</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>61693</td>
+<td>19127</td>
+<td>60135</td>
+<td></td>
+<td>43494</td>
+<td>61</td>
+<td>213</td>
+<td>1,670</td>
+<td></td>
+<td>1,450</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>24521</td>
+<td>13125</td>
+<td>27295</td>
+<td></td>
+<td>6330</td>
+<td>44</td>
+<td>182</td>
+<td>1,516</td>
+<td></td>
+<td>528</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>25561</td>
+<td>9054</td>
+<td>19167</td>
+<td></td>
+<td></td>
+<td>48</td>
+<td>168</td>
+<td>532</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>10970</td>
+<td>8318</td>
+<td>429</td>
+<td>6621</td>
+<td></td>
+<td>57</td>
+<td>198</td>
+<td>72</td>
+<td>1,104</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>13975</td>
+<td>8121</td>
+<td>12394</td>
+<td>16493</td>
+<td></td>
+<td>39</td>
+<td>135</td>
+<td>689</td>
+<td>2,749</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>17273</td>
+<td>11659</td>
+<td>7272</td>
+<td>9965</td>
+<td></td>
+<td>60</td>
+<td>324</td>
+<td>606</td>
+<td>1,661</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>27327</td>
+<td>20968</td>
+<td>15479</td>
+<td></td>
+<td></td>
+<td>56</td>
+<td>318</td>
+<td>645</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>16011</td>
+<td>10263</td>
+<td>12260</td>
+<td>13250</td>
+<td></td>
+<td>33</td>
+<td>190</td>
+<td>681</td>
+<td>2,208</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>9177</td>
+<td>3058</td>
+<td>8858</td>
+<td>4858</td>
+<td></td>
+<td>36</td>
+<td>102</td>
+<td>369</td>
+<td>810</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>4172</td>
+<td>1791</td>
+<td>8799</td>
+<td></td>
+<td>232815</td>
+<td>18</td>
+<td>60</td>
+<td>163</td>
+<td></td>
+<td>2,283</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>10878</td>
+<td>6021</td>
+<td>27160</td>
+<td>15666</td>
+<td></td>
+<td>38</td>
+<td>167</td>
+<td>754</td>
+<td>2,611</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>24282</td>
+<td>6358</td>
+<td>4315</td>
+<td></td>
+<td></td>
+<td>84</td>
+<td>265</td>
+<td>360</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Mandi 
+Bahauddin</td>
+<td>13948</td>
+<td>7251</td>
+<td>5647</td>
+<td>1491</td>
+<td></td>
+<td>55</td>
+<td>134</td>
+<td>314</td>
+<td>249</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>13676</td>
+<td>17510</td>
+<td>13572</td>
+<td>6527</td>
+<td></td>
+<td>28</td>
+<td>292</td>
+<td>754</td>
+<td>1,088</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>31616</td>
+<td>12122</td>
+<td>16249</td>
+<td>18246</td>
+<td>42139</td>
+<td>64</td>
+<td>253</td>
+<td>1,354</td>
+<td>3,041</td>
+<td>1,405</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>26959</td>
+<td>26306</td>
+<td>24816</td>
+<td>18608</td>
+<td></td>
+<td>96</td>
+<td>337</td>
+<td>1,034</td>
+<td>3,101</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>9409</td>
+<td>8008</td>
+<td>11926</td>
+<td>8435</td>
+<td></td>
+<td>33</td>
+<td>191</td>
+<td>994</td>
+<td>1,406</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>17331</td>
+<td>10895</td>
+<td>8308</td>
+<td>21944</td>
+<td></td>
+<td>51</td>
+<td>259</td>
+<td></td>
+<td>3,657</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>17116</td>
+<td>7296</td>
+<td>10193</td>
+<td>18730</td>
+<td></td>
+<td>29</td>
+<td>122</td>
+<td>849</td>
+<td>1,561</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>29928</td>
+<td>8369</td>
+<td></td>
+<td>12885</td>
+<td></td>
+<td>91</td>
+<td>279</td>
+<td></td>
+<td>2,148</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>43316</td>
+<td>24879</td>
+<td>33588</td>
+<td></td>
+<td>40473</td>
+<td>69</td>
+<td>218</td>
+<td>1,866</td>
+<td></td>
+<td>6,746</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>14005</td>
+<td>13187</td>
+<td>14003</td>
+<td>4395</td>
+<td></td>
+<td>73</td>
+<td>314</td>
+<td>1,167</td>
+<td>733</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>23193</td>
+<td>7907</td>
+<td>41300</td>
+<td></td>
+<td>50276</td>
+<td>39</td>
+<td>165</td>
+<td>983</td>
+<td></td>
+<td>1,676</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>42268</td>
+<td>19555</td>
+<td>6885</td>
+<td></td>
+<td>17083</td>
+<td>93</td>
+<td>296</td>
+<td>1,148</td>
+<td></td>
+<td>949</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>73071</td>
+<td>9568</td>
+<td>32831</td>
+<td></td>
+<td>23987</td>
+<td>93</td>
+<td>133</td>
+<td>547</td>
+<td></td>
+<td>3,998</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>24216</td>
+<td>10797</td>
+<td>20667</td>
+<td>25565</td>
+<td></td>
+<td>50</td>
+<td>257</td>
+<td>861</td>
+<td>4,261</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>28258</td>
+<td>4180</td>
+<td>16739</td>
+<td></td>
+<td></td>
+<td>54</td>
+<td>116</td>
+<td>697</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>25936</td>
+<td>11193</td>
+<td>19882</td>
+<td>10492</td>
+<td></td>
+<td>62</td>
+<td>233</td>
+<td>1,105</td>
+<td>1,749</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>31072</td>
+<td>19080</td>
+<td>13868</td>
+<td>12454</td>
+<td></td>
+<td>70</td>
+<td>227</td>
+<td>1,156</td>
+<td>2,076</td>
+<td></td>
+    </tr>
+<tr>
+        <td>TOTAL/AVERAGE</td>
+<td>848K</td>
+<td>403K</td>
+<td>613K</td>
+<td>286K</td>
+<td>471K</td>
+<td>56</td>
+<td>213</td>
+<td>804</td>
+<td>1987</td>
+<td>1962</td>
+    </tr>
+</table>
+
+**Table: 1** shows the district wise total OPD Visits by health facility and Average OPD per day visits reported. During week 43 of year 2022 the daily OPD reporting forms of THOS (Gujrat, Sialkot & DG khan), DHQ hospital (Lodhran & Kasur), and THQ hospital Pakpattan) remained zero. The highest number of OPD visits were noted in district Lahore (232,815) from Teaching hospitals.
+
+3
+
+---
+
+
+TABLE\_PLACEHOLDER\_TOP\_LEFT\_0
+
+<table>
+    <thead>
+    <tr>
+        <th></th>
+        <th colspan="11">Table :2 DISEASE DATA REPORTED on DHIS-2 (WEEK 43, 2022)</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>DISTRICT</td>
+<td>OPD
+Chicken 
+Pox</td>
+<td>OPD
+Chikungunya</td>
+<td>OPD
+Cough 
+>2 Wks 
+(TB 
+Susp)</td>
+<td>OPD
+Cutaneous 
+Leishmaniasis</td>
+<td>OPD
+Seasonal 
+Influenza 
+ILI</td>
+<td>OPD
+Susp 
+Acute 
+Flaccid 
+Paralysis 
+AFP</td>
+<td>OPD
+Susp 
+Corona 
+Virus</td>
+<td>OPD
+Susp 
+Enteric / 
+Typhoid 
+Fever</td>
+<td>OPD
+Susp 
+HIV/ 
+AIDS</td>
+<td>OPD
+Susp 
+Hepatitis 
+A</td>
+<td>TOTAL</td>
+    </tr>
+<tr>
+        <td>Attock</td>
+<td>28</td>
+<td></td>
+<td>309</td>
+<td></td>
+<td>7</td>
+<td>1</td>
+<td></td>
+<td>95</td>
+<td></td>
+<td>38</td>
+<td>478</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>3</td>
+<td></td>
+<td>245</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>106</td>
+<td>9</td>
+<td>5</td>
+<td>368</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td></td>
+<td></td>
+<td>487</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>51</td>
+<td></td>
+<td>1</td>
+<td>549</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td></td>
+<td></td>
+<td>239</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>248</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>3</td>
+<td></td>
+<td>72</td>
+<td>14</td>
+<td>15</td>
+<td></td>
+<td>10</td>
+<td>53</td>
+<td></td>
+<td></td>
+<td>167</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td></td>
+<td></td>
+<td>202</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>162</td>
+<td></td>
+<td></td>
+<td>364</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td></td>
+<td></td>
+<td>254</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>47</td>
+<td></td>
+<td></td>
+<td>301</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td></td>
+<td></td>
+<td>817</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>70</td>
+<td></td>
+<td>24</td>
+<td>911</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td></td>
+<td></td>
+<td>271</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>177</td>
+<td></td>
+<td></td>
+<td>448</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>15</td>
+<td></td>
+<td>342</td>
+<td></td>
+<td>26</td>
+<td></td>
+<td></td>
+<td>280</td>
+<td></td>
+<td>8</td>
+<td>671</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td></td>
+<td>2</td>
+<td>169</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+<td></td>
+<td>21</td>
+<td>292</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td></td>
+<td></td>
+<td>92</td>
+<td>17</td>
+<td>101</td>
+<td></td>
+<td></td>
+<td>162</td>
+<td></td>
+<td></td>
+<td>372</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>1</td>
+<td></td>
+<td>305</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td></td>
+<td>42</td>
+<td>379</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td></td>
+<td></td>
+<td>219</td>
+<td></td>
+<td>9</td>
+<td>18</td>
+<td></td>
+<td>322</td>
+<td></td>
+<td>8</td>
+<td>576</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td></td>
+<td></td>
+<td>91</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td>57</td>
+<td></td>
+<td></td>
+<td>157</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>6</td>
+<td>4</td>
+<td>70</td>
+<td>11</td>
+<td>86</td>
+<td></td>
+<td></td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>197</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>34</td>
+<td></td>
+<td>349</td>
+<td>127</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td>1785</td>
+<td></td>
+<td>152</td>
+<td>2459</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td></td>
+<td>4</td>
+<td>89</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>81</td>
+<td></td>
+<td>13</td>
+<td>191</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>57</td>
+<td></td>
+<td>157</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>50</td>
+<td></td>
+<td></td>
+<td>267</td>
+    </tr>
+<tr>
+        <td>Mandi 
+Bahauddin</td>
+<td></td>
+<td></td>
+<td>135</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>20</td>
+<td></td>
+<td>18</td>
+<td>174</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>10</td>
+<td></td>
+<td>227</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td>213</td>
+<td></td>
+<td>21</td>
+<td>491</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td></td>
+<td></td>
+<td>417</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>103</td>
+<td></td>
+<td>32</td>
+<td>552</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>2</td>
+<td></td>
+<td>667</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>359</td>
+<td></td>
+<td>16</td>
+<td>1044</td>
+    </tr>
+<tr>
+        <td>Nankana 
+Sahib</td>
+<td></td>
+<td></td>
+<td>151</td>
+<td></td>
+<td>27</td>
+<td></td>
+<td></td>
+<td>131</td>
+<td></td>
+<td>2</td>
+<td>311</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>2</td>
+<td>1</td>
+<td>146</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>448</td>
+<td>9</td>
+<td>41</td>
+<td>647</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>8</td>
+<td></td>
+<td>160</td>
+<td>47</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>108</td>
+<td></td>
+<td>5</td>
+<td>338</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td></td>
+<td></td>
+<td>263</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td></td>
+<td></td>
+<td>297</td>
+    </tr>
+<tr>
+        <td>Rahimyar 
+Khan</td>
+<td></td>
+<td></td>
+<td>491</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>153</td>
+<td></td>
+<td>3</td>
+<td>647</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td></td>
+<td></td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>479</td>
+<td></td>
+<td></td>
+<td>503</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td></td>
+<td></td>
+<td>272</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>160</td>
+<td></td>
+<td>8</td>
+<td>440</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>33</td>
+<td></td>
+<td>260</td>
+<td>3</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>419</td>
+<td></td>
+<td></td>
+<td>717</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td></td>
+<td></td>
+<td>755</td>
+<td></td>
+<td>124</td>
+<td></td>
+<td>32</td>
+<td>163</td>
+<td>8</td>
+<td>16</td>
+<td>1098</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>2</td>
+<td></td>
+<td>424</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>218</td>
+<td></td>
+<td>6</td>
+<td>652</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>25</td>
+<td></td>
+<td>218</td>
+<td>15</td>
+<td>149</td>
+<td></td>
+<td></td>
+<td>315</td>
+<td></td>
+<td>4</td>
+<td>726</td>
+    </tr>
+<tr>
+        <td>Toba Tek 
+Singh</td>
+<td></td>
+<td></td>
+<td>64</td>
+<td></td>
+<td>18</td>
+<td>2</td>
+<td></td>
+<td>53</td>
+<td></td>
+<td></td>
+<td>137</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>22</td>
+<td></td>
+<td>256</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>56</td>
+<td></td>
+<td>1</td>
+<td>337</td>
+    </tr>
+<tr>
+        <td>TOTAL</td>
+<td>251</td>
+<td>23</td>
+<td>9709</td>
+<td>273</td>
+<td>588</td>
+<td>24</td>
+<td>42</td>
+<td>7085</td>
+<td>26</td>
+<td>485</td>
+<td>18506</td>
+    </tr>
+</table>
+
+4
+
+---
+
+
+
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICT</th>
+        <th>OPD-Susp 
+Hepatitis B</th>
+        <th>OPD-Susp 
+Hepatitis C</th>
+        <th>OPD-Susp 
+Hepatitis D</th>
+        <th>OPD-Susp 
+Hepatitis E</th>
+        <th>OPD
+Susp 
+Measles</th>
+        <th>OPD-Susp 
+Meningitis</th>
+        <th>OPD-Susp 
+Neonatal 
+Tetanus</th>
+        <th>OPD
+Susp 
+dengue 
+fever</th>
+        <th>OPD-Susp 
+diphtheria</th>
+        <th>TOTAL</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Attock</td>
+<td>12</td>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>741</td>
+<td></td>
+<td>767</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>90</td>
+<td>118</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>215</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>74</td>
+<td>133</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>214</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>99</td>
+<td>99</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>199</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>8</td>
+<td>24</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>32</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>109</td>
+<td>109</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>218</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>531</td>
+<td>1411</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>1949</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>84</td>
+<td>215</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>22</td>
+<td></td>
+<td>325</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>54</td>
+<td>113</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>169</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>13</td>
+<td>52</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>68</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>50</td>
+<td>81</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td></td>
+<td>141</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>44</td>
+<td>64</td>
+<td></td>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>67</td>
+<td></td>
+<td>181</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>133</td>
+<td>144</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>59</td>
+<td></td>
+<td>352</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>4</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>22</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>49</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>52</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>71</td>
+<td>88</td>
+<td>1</td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td>523</td>
+<td></td>
+<td>709</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>13</td>
+<td>21</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>34</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>71</td>
+<td>77</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>148</td>
+    </tr>
+<tr>
+        <td>Mandi 
+Bahauddin</td>
+<td>7</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>39</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>264</td>
+<td>238</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td>506</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>187</td>
+<td>389</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td></td>
+<td>606</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>76</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>51</td>
+<td></td>
+<td>156</td>
+    </tr>
+<tr>
+        <td>Nankana 
+Sahib</td>
+<td>106</td>
+<td>234</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>73</td>
+<td></td>
+<td>413</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>46</td>
+<td>28</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>74</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>22</td>
+<td>48</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>71</td>
+<td>1</td>
+<td>144</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td></td>
+<td>35</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>35</td>
+    </tr>
+<tr>
+        <td>Rahimyar 
+Khan</td>
+<td>27</td>
+<td>313</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>65</td>
+<td></td>
+<td>405</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>671</td>
+<td>657</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>36</td>
+<td></td>
+<td>1364</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>285</td>
+<td>344</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>233</td>
+<td></td>
+<td>862</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>287</td>
+<td>491</td>
+<td></td>
+<td></td>
+<td></td>
+<td>14</td>
+<td></td>
+<td>110</td>
+<td></td>
+<td>902</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>263</td>
+<td>69</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>4</td>
+<td></td>
+<td>80</td>
+<td></td>
+<td>417</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>80</td>
+<td>80</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td>72</td>
+<td></td>
+<td>234</td>
+    </tr>
+<tr>
+        <td>Toba Tek 
+Singh</td>
+<td></td>
+<td>35</td>
+<td></td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>49</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>10</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td>24</td>
+<td></td>
+<td>102</td>
+    </tr>
+<tr>
+        <td>TOTAL</td>
+<td>3840</td>
+<td>5865</td>
+<td>1</td>
+<td>49</td>
+<td>14</td>
+<td>26</td>
+<td>7</td>
+<td>2300</td>
+<td>1</td>
+<td>12103</td>
+    </tr>
+</table>
+
+5
+
+
+---
+
+
+
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICT</th>
+        <th>OPD
+Diarrhea/Gastroenteritis</th>
+        <th>OPD-Acu 
+Watery 
+Diarrhea/Susp 
+Cholera</th>
+        <th>OPD-Bloody 
+Diarrhea/Dysentery</th>
+        <th>OPD-Acute 
+Conjunctivitis</th>
+        <th>OPD-Acute 
+respiratory 
+infections 
+(ARI)</th>
+        <th>OPD
+Asthma</th>
+        <th>OPD
+Breast 
+cancer</th>
+        <th>TOTAL</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Attock</td>
+<td>2517</td>
+<td>24</td>
+<td>91</td>
+<td>87</td>
+<td>11283</td>
+<td>462</td>
+<td></td>
+<td>14464</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>1751</td>
+<td>171</td>
+<td>140</td>
+<td>209</td>
+<td>12986</td>
+<td>1044</td>
+<td></td>
+<td>16301</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>2370</td>
+<td>28</td>
+<td>108</td>
+<td>565</td>
+<td>13921</td>
+<td>1963</td>
+<td></td>
+<td>18955</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>1386</td>
+<td>145</td>
+<td>57</td>
+<td>16</td>
+<td>8880</td>
+<td>667</td>
+<td></td>
+<td>11151</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>1240</td>
+<td>4</td>
+<td>25</td>
+<td>313</td>
+<td>10446</td>
+<td>381</td>
+<td></td>
+<td>12409</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>1358</td>
+<td>775</td>
+<td>127</td>
+<td>209</td>
+<td>6234</td>
+<td>636</td>
+<td></td>
+<td>9339</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>2121</td>
+<td>72</td>
+<td>24</td>
+<td>119</td>
+<td>11680</td>
+<td>924</td>
+<td></td>
+<td>14940</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>7343</td>
+<td>1204</td>
+<td>438</td>
+<td>182</td>
+<td>48426</td>
+<td>2770</td>
+<td>216</td>
+<td>60579</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>7065</td>
+<td></td>
+<td></td>
+<td>245</td>
+<td>20252</td>
+<td>995</td>
+<td></td>
+<td>28557</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>2648</td>
+<td></td>
+<td>32</td>
+<td>39</td>
+<td>17076</td>
+<td>1389</td>
+<td></td>
+<td>21184</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>795</td>
+<td>44</td>
+<td>77</td>
+<td>237</td>
+<td>7627</td>
+<td>338</td>
+<td></td>
+<td>9118</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>1616</td>
+<td>97</td>
+<td>90</td>
+<td>171</td>
+<td>6562</td>
+<td>1222</td>
+<td></td>
+<td>9758</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>1478</td>
+<td></td>
+<td></td>
+<td>82</td>
+<td>11292</td>
+<td>475</td>
+<td></td>
+<td>13327</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>3318</td>
+<td>354</td>
+<td>70</td>
+<td>15</td>
+<td>20708</td>
+<td>926</td>
+<td></td>
+<td>25391</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>1453</td>
+<td>77</td>
+<td>834</td>
+<td>197</td>
+<td>10125</td>
+<td>862</td>
+<td></td>
+<td>13548</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>1674</td>
+<td>38</td>
+<td>25</td>
+<td>139</td>
+<td>8580</td>
+<td>454</td>
+<td></td>
+<td>10910</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>5056</td>
+<td>950</td>
+<td>127</td>
+<td>320</td>
+<td>13747</td>
+<td>1418</td>
+<td>14</td>
+<td>21632</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>1109</td>
+<td>200</td>
+<td>29</td>
+<td>358</td>
+<td>10591</td>
+<td>563</td>
+<td></td>
+<td>12850</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>2279</td>
+<td>31</td>
+<td>147</td>
+<td>52</td>
+<td>10329</td>
+<td>1265</td>
+<td></td>
+<td>14103</td>
+    </tr>
+<tr>
+        <td>Mandi 
+Bahauddin</td>
+<td>1057</td>
+<td></td>
+<td>15</td>
+<td>27</td>
+<td>8197</td>
+<td>429</td>
+<td></td>
+<td>9725</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>1935</td>
+<td>107</td>
+<td>46</td>
+<td>479</td>
+<td>13028</td>
+<td>793</td>
+<td></td>
+<td>16388</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>6589</td>
+<td></td>
+<td>6</td>
+<td>381</td>
+<td>23623</td>
+<td>1963</td>
+<td></td>
+<td>32562</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>6156</td>
+<td>33</td>
+<td>62</td>
+<td>431</td>
+<td>20855</td>
+<td>1912</td>
+<td></td>
+<td>29449</td>
+    </tr>
+<tr>
+        <td>Nankana 
+Sahib</td>
+<td>1420</td>
+<td></td>
+<td>72</td>
+<td>13</td>
+<td>8618</td>
+<td>452</td>
+<td></td>
+<td>10575</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>1542</td>
+<td>5</td>
+<td>5</td>
+<td>62</td>
+<td>12556</td>
+<td>407</td>
+<td></td>
+<td>14577</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>2181</td>
+<td>125</td>
+<td>187</td>
+<td>111</td>
+<td>13104</td>
+<td>593</td>
+<td></td>
+<td>16301</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>1208</td>
+<td>32</td>
+<td>29</td>
+<td>97</td>
+<td>9653</td>
+<td>481</td>
+<td></td>
+<td>11500</td>
+    </tr>
+<tr>
+        <td>Rahimyar 
+Khan</td>
+<td>2798</td>
+<td>129</td>
+<td>244</td>
+<td>770</td>
+<td>22628</td>
+<td>1838</td>
+<td></td>
+<td>28407</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>3246</td>
+<td></td>
+<td></td>
+<td>108</td>
+<td>11769</td>
+<td>1159</td>
+<td></td>
+<td>16282</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>2588</td>
+<td></td>
+<td>29</td>
+<td>94</td>
+<td>21379</td>
+<td>713</td>
+<td></td>
+<td>24803</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>1802</td>
+<td>43</td>
+<td>51</td>
+<td>123</td>
+<td>20184</td>
+<td>657</td>
+<td></td>
+<td>22860</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>2687</td>
+<td>36</td>
+<td>24</td>
+<td>100</td>
+<td>21502</td>
+<td>1424</td>
+<td>8</td>
+<td>25781</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>4675</td>
+<td>11</td>
+<td>25</td>
+<td>963</td>
+<td>14434</td>
+<td>747</td>
+<td></td>
+<td>20855</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>1868</td>
+<td>235</td>
+<td>301</td>
+<td>239</td>
+<td>12045</td>
+<td>644</td>
+<td>91</td>
+<td>15423</td>
+    </tr>
+<tr>
+        <td>Toba Tek 
+Singh</td>
+<td>1529</td>
+<td>120</td>
+<td>45</td>
+<td>36</td>
+<td>19319</td>
+<td>475</td>
+<td></td>
+<td>21524</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>3054</td>
+<td>2</td>
+<td>69</td>
+<td>122</td>
+<td>18813</td>
+<td>1474</td>
+<td></td>
+<td>23534</td>
+    </tr>
+<tr>
+        <td>TOTAL</td>
+<td>94912</td>
+<td>5092</td>
+<td>3651</td>
+<td>7711</td>
+<td>532452</td>
+<td>34915</td>
+<td>329</td>
+<td>679062</td>
+    </tr>
+</table>
+
+6
+
+
+---
+
+
+
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICT</th>
+        <th>OPD
+Burns</th>
+        <th>OPD
+Cataract</th>
+        <th>OPD
+Chronic 
+Liver 
+Dis</th>
+        <th>OPD
+Chronic 
+Obstructive 
+Pulmonary 
+Dis</th>
+        <th>OPD
+Dental 
+Caries</th>
+        <th>OPD
+Depression</th>
+        <th>OPD
+Dermatitis</th>
+        <th>OPD
+Diabetes 
+Mellitus</th>
+        <th>OPD
+Dog 
+bite</th>
+        <th>TOTAL</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Attock</td>
+<td>26</td>
+<td>15</td>
+<td>13</td>
+<td>89</td>
+<td>735</td>
+<td>32</td>
+<td>415</td>
+<td>474</td>
+<td>52</td>
+<td>1851</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>16</td>
+<td>101</td>
+<td>92</td>
+<td>216</td>
+<td>644</td>
+<td>191</td>
+<td>742</td>
+<td>1487</td>
+<td>48</td>
+<td>3537</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>14</td>
+<td>165</td>
+<td>4</td>
+<td>341</td>
+<td>1038</td>
+<td>363</td>
+<td>1658</td>
+<td>2245</td>
+<td>115</td>
+<td>5943</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>12</td>
+<td>4</td>
+<td>3</td>
+<td>236</td>
+<td>487</td>
+<td>90</td>
+<td>413</td>
+<td>630</td>
+<td>48</td>
+<td>1923</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>62</td>
+<td>189</td>
+<td></td>
+<td>35</td>
+<td>966</td>
+<td>219</td>
+<td>352</td>
+<td>1055</td>
+<td>126</td>
+<td>3004</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>8</td>
+<td>41</td>
+<td></td>
+<td>187</td>
+<td>355</td>
+<td>459</td>
+<td>236</td>
+<td>729</td>
+<td>61</td>
+<td>2076</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>44</td>
+<td>67</td>
+<td>36</td>
+<td>225</td>
+<td>344</td>
+<td>156</td>
+<td>1244</td>
+<td>633</td>
+<td>235</td>
+<td>2984</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>177</td>
+<td>125</td>
+<td>816</td>
+<td>845</td>
+<td>3587</td>
+<td>482</td>
+<td>1949</td>
+<td>6047</td>
+<td>196</td>
+<td>14224</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>30</td>
+<td>322</td>
+<td>48</td>
+<td>38</td>
+<td>1229</td>
+<td>764</td>
+<td>457</td>
+<td>1900</td>
+<td>79</td>
+<td>4867</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>27</td>
+<td></td>
+<td>59</td>
+<td>205</td>
+<td>1001</td>
+<td>27</td>
+<td>818</td>
+<td>1631</td>
+<td>96</td>
+<td>3864</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>8</td>
+<td>298</td>
+<td>16</td>
+<td>178</td>
+<td>362</td>
+<td>67</td>
+<td>633</td>
+<td>845</td>
+<td>5</td>
+<td>2412</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>20</td>
+<td>270</td>
+<td>10</td>
+<td>808</td>
+<td>749</td>
+<td>294</td>
+<td>1216</td>
+<td>1276</td>
+<td>108</td>
+<td>4751</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>28</td>
+<td>15</td>
+<td>1</td>
+<td>48</td>
+<td>646</td>
+<td>70</td>
+<td>1006</td>
+<td>1038</td>
+<td>62</td>
+<td>2914</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>18</td>
+<td>24</td>
+<td>27</td>
+<td>91</td>
+<td>821</td>
+<td>91</td>
+<td>1078</td>
+<td>1243</td>
+<td>130</td>
+<td>3523</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>11</td>
+<td>33</td>
+<td>93</td>
+<td>36</td>
+<td>524</td>
+<td>10</td>
+<td>1179</td>
+<td>1483</td>
+<td>49</td>
+<td>3418</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>10</td>
+<td>20</td>
+<td>50</td>
+<td>111</td>
+<td>582</td>
+<td>81</td>
+<td>408</td>
+<td>571</td>
+<td>20</td>
+<td>1853</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>96</td>
+<td>352</td>
+<td>396</td>
+<td>616</td>
+<td>1184</td>
+<td>714</td>
+<td>2326</td>
+<td>2682</td>
+<td>97</td>
+<td>8463</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>31</td>
+<td>106</td>
+<td>45</td>
+<td>124</td>
+<td>464</td>
+<td>173</td>
+<td>490</td>
+<td>753</td>
+<td>110</td>
+<td>2296</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>15</td>
+<td>77</td>
+<td>4</td>
+<td>6</td>
+<td>648</td>
+<td>89</td>
+<td>1004</td>
+<td>752</td>
+<td>53</td>
+<td>2648</td>
+    </tr>
+<tr>
+        <td>Mandi 
+Bahauddin</td>
+<td>5</td>
+<td>37</td>
+<td>2</td>
+<td>29</td>
+<td>267</td>
+<td>139</td>
+<td>269</td>
+<td>624</td>
+<td>42</td>
+<td>1414</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>25</td>
+<td>228</td>
+<td>104</td>
+<td>190</td>
+<td>795</td>
+<td>238</td>
+<td>902</td>
+<td>1465</td>
+<td>188</td>
+<td>4135</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>138</td>
+<td>661</td>
+<td>15</td>
+<td>424</td>
+<td>1251</td>
+<td>263</td>
+<td>2035</td>
+<td>2116</td>
+<td>85</td>
+<td>6988</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>25</td>
+<td>594</td>
+<td>28</td>
+<td>476</td>
+<td>905</td>
+<td>647</td>
+<td>1703</td>
+<td>2664</td>
+<td>213</td>
+<td>7255</td>
+    </tr>
+<tr>
+        <td>Nankana 
+Sahib</td>
+<td>11</td>
+<td>72</td>
+<td>109</td>
+<td>111</td>
+<td>478</td>
+<td>6</td>
+<td>393</td>
+<td>1857</td>
+<td>119</td>
+<td>3156</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>14</td>
+<td>27</td>
+<td>17</td>
+<td>64</td>
+<td>857</td>
+<td>36</td>
+<td>193</td>
+<td>897</td>
+<td>87</td>
+<td>2192</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>14</td>
+<td>104</td>
+<td>20</td>
+<td>73</td>
+<td>294</td>
+<td>70</td>
+<td>426</td>
+<td>886</td>
+<td>12</td>
+<td>1899</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>16</td>
+<td>77</td>
+<td>19</td>
+<td>42</td>
+<td>367</td>
+<td>106</td>
+<td>535</td>
+<td>363</td>
+<td>38</td>
+<td>1563</td>
+    </tr>
+<tr>
+        <td>Rahimyar 
+Khan</td>
+<td>68</td>
+<td>318</td>
+<td>75</td>
+<td>243</td>
+<td>1416</td>
+<td>314</td>
+<td>1812</td>
+<td>1791</td>
+<td>188</td>
+<td>6225</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>24</td>
+<td>219</td>
+<td>7</td>
+<td>957</td>
+<td>553</td>
+<td>522</td>
+<td>1415</td>
+<td>523</td>
+<td>190</td>
+<td>4410</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>35</td>
+<td>130</td>
+<td>56</td>
+<td>112</td>
+<td>1483</td>
+<td>690</td>
+<td>929</td>
+<td>1973</td>
+<td>113</td>
+<td>5521</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>49</td>
+<td>39</td>
+<td>21</td>
+<td>119</td>
+<td>920</td>
+<td>76</td>
+<td>1215</td>
+<td>1240</td>
+<td>100</td>
+<td>3779</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>47</td>
+<td>1134</td>
+<td>254</td>
+<td>390</td>
+<td>1640</td>
+<td>90</td>
+<td>1284</td>
+<td>2682</td>
+<td>159</td>
+<td>7680</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>28</td>
+<td>403</td>
+<td>262</td>
+<td>204</td>
+<td>1324</td>
+<td>330</td>
+<td>1052</td>
+<td>3956</td>
+<td>194</td>
+<td>7753</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>37</td>
+<td>65</td>
+<td>11</td>
+<td>151</td>
+<td>487</td>
+<td>83</td>
+<td>543</td>
+<td>787</td>
+<td>116</td>
+<td>2280</td>
+    </tr>
+<tr>
+        <td>Toba Tek 
+Singh</td>
+<td>20</td>
+<td>4</td>
+<td>8</td>
+<td>47</td>
+<td>596</td>
+<td>118</td>
+<td>1491</td>
+<td>1774</td>
+<td>84</td>
+<td>4142</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>49</td>
+<td>217</td>
+<td>92</td>
+<td>576</td>
+<td>924</td>
+<td>262</td>
+<td>1540</td>
+<td>1178</td>
+<td>97</td>
+<td>4935</td>
+    </tr>
+<tr>
+        <td>TOTAL</td>
+<td>1258</td>
+<td>6553</td>
+<td>2813</td>
+<td>8643</td>
+<td>30923</td>
+<td>8362</td>
+<td>35361</td>
+<td>54250</td>
+<td>3715</td>
+<td>151878</td>
+    </tr>
+</table>
+
+7
+
+
+---
+
+
+
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICT</th>
+        <th>OPD-Drug 
+Dependence</th>
+        <th>OPD
+Epilepsy</th>
+        <th>OPD
+Fever 
+(other 
+causes)</th>
+        <th>OPD
+Fractures</th>
+        <th>OPD
+Glaucoma</th>
+        <th>OPD
+Goiter</th>
+        <th>OPD
+Hypertension</th>
+        <th>OPD
+Injuries</th>
+        <th>OPD
+Ischemic 
+Heart Dis</th>
+        <th>OPD
+Lung 
+Cancer</th>
+        <th>TOTAL</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Attock</td>
+<td></td>
+<td>15</td>
+<td>2362</td>
+<td>80</td>
+<td>2</td>
+<td>2</td>
+<td>772</td>
+<td>258</td>
+<td>89</td>
+<td></td>
+<td>3580</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td></td>
+<td>26</td>
+<td>3001</td>
+<td>60</td>
+<td>8</td>
+<td>9</td>
+<td>1498</td>
+<td>733</td>
+<td>389</td>
+<td></td>
+<td>5724</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>6</td>
+<td>41</td>
+<td>5857</td>
+<td>278</td>
+<td>29</td>
+<td>43</td>
+<td>1438</td>
+<td>578</td>
+<td>1096</td>
+<td></td>
+<td>9366</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td></td>
+<td></td>
+<td>4330</td>
+<td>67</td>
+<td></td>
+<td>2</td>
+<td>810</td>
+<td>618</td>
+<td>127</td>
+<td></td>
+<td>5954</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td></td>
+<td>1</td>
+<td>5086</td>
+<td>142</td>
+<td>46</td>
+<td></td>
+<td>1424</td>
+<td>373</td>
+<td>194</td>
+<td></td>
+<td>7266</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td></td>
+<td>7</td>
+<td>2703</td>
+<td>101</td>
+<td>48</td>
+<td>4</td>
+<td>927</td>
+<td>1166</td>
+<td>269</td>
+<td></td>
+<td>5225</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td></td>
+<td>7</td>
+<td>8486</td>
+<td>15</td>
+<td>1</td>
+<td>11</td>
+<td>957</td>
+<td>536</td>
+<td>13</td>
+<td></td>
+<td>10026</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>30</td>
+<td>262</td>
+<td>11246</td>
+<td>350</td>
+<td>48</td>
+<td>45</td>
+<td>4835</td>
+<td>936</td>
+<td>898</td>
+<td>194</td>
+<td>18844</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td></td>
+<td>3</td>
+<td>5343</td>
+<td>36</td>
+<td></td>
+<td>5</td>
+<td>3545</td>
+<td>897</td>
+<td>976</td>
+<td></td>
+<td>10805</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td></td>
+<td>3</td>
+<td>6879</td>
+<td>61</td>
+<td>1</td>
+<td>2</td>
+<td>1490</td>
+<td>588</td>
+<td>64</td>
+<td></td>
+<td>9088</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td></td>
+<td>4</td>
+<td>2639</td>
+<td>9</td>
+<td>49</td>
+<td></td>
+<td>632</td>
+<td>129</td>
+<td>34</td>
+<td></td>
+<td>3496</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>4</td>
+<td>3</td>
+<td>5373</td>
+<td>138</td>
+<td>66</td>
+<td>282</td>
+<td>797</td>
+<td>884</td>
+<td>175</td>
+<td>11</td>
+<td>7733</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td></td>
+<td></td>
+<td>103</td>
+<td>32</td>
+<td>1</td>
+<td>16</td>
+<td>1340</td>
+<td>391</td>
+<td>38</td>
+<td></td>
+<td>1921</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td></td>
+<td>2</td>
+<td>6270</td>
+<td>16</td>
+<td></td>
+<td>3</td>
+<td>1582</td>
+<td>306</td>
+<td>12</td>
+<td></td>
+<td>8191</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td></td>
+<td></td>
+<td>3127</td>
+<td>1</td>
+<td>2</td>
+<td>5</td>
+<td>709</td>
+<td>262</td>
+<td>33</td>
+<td></td>
+<td>4139</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td></td>
+<td>24</td>
+<td>2330</td>
+<td>2</td>
+<td></td>
+<td>8</td>
+<td>844</td>
+<td>267</td>
+<td>169</td>
+<td></td>
+<td>3644</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>296</td>
+<td>486</td>
+<td>7404</td>
+<td>302</td>
+<td>141</td>
+<td>78</td>
+<td>1370</td>
+<td>627</td>
+<td>194</td>
+<td>11</td>
+<td>10909</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>1</td>
+<td>1</td>
+<td>4207</td>
+<td>3</td>
+<td>80</td>
+<td></td>
+<td>877</td>
+<td>262</td>
+<td>134</td>
+<td></td>
+<td>5565</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td></td>
+<td>7</td>
+<td>2638</td>
+<td>8</td>
+<td></td>
+<td>33</td>
+<td>736</td>
+<td>85</td>
+<td>10</td>
+<td></td>
+<td>3517</td>
+    </tr>
+<tr>
+        <td>Mandi 
+Bahauddin</td>
+<td></td>
+<td>4</td>
+<td>1008</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td>612</td>
+<td>166</td>
+<td>3</td>
+<td></td>
+<td>1812</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>2</td>
+<td>12</td>
+<td>5868</td>
+<td>41</td>
+<td>11</td>
+<td>7</td>
+<td>1553</td>
+<td>739</td>
+<td>137</td>
+<td></td>
+<td>8370</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>16</td>
+<td>49</td>
+<td>9232</td>
+<td>629</td>
+<td>89</td>
+<td>201</td>
+<td>2865</td>
+<td>1222</td>
+<td>698</td>
+<td></td>
+<td>15001</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>31</td>
+<td>51</td>
+<td>15910</td>
+<td>238</td>
+<td>160</td>
+<td>4</td>
+<td>1913</td>
+<td>1136</td>
+<td>150</td>
+<td></td>
+<td>19593</td>
+    </tr>
+<tr>
+        <td>Nankana 
+Sahib</td>
+<td></td>
+<td></td>
+<td>3672</td>
+<td>56</td>
+<td>5</td>
+<td>15</td>
+<td>1295</td>
+<td>466</td>
+<td>167</td>
+<td></td>
+<td>5676</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td></td>
+<td></td>
+<td>5494</td>
+<td>142</td>
+<td>18</td>
+<td>14</td>
+<td>1120</td>
+<td>527</td>
+<td>237</td>
+<td></td>
+<td>7552</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td></td>
+<td></td>
+<td>3274</td>
+<td>1</td>
+<td>4</td>
+<td>4</td>
+<td>801</td>
+<td>114</td>
+<td>80</td>
+<td></td>
+<td>4278</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td></td>
+<td></td>
+<td>2696</td>
+<td>17</td>
+<td>13</td>
+<td>24</td>
+<td>763</td>
+<td>207</td>
+<td>70</td>
+<td></td>
+<td>3790</td>
+    </tr>
+<tr>
+        <td>Rahimyar 
+Khan</td>
+<td>26</td>
+<td>66</td>
+<td>6395</td>
+<td>331</td>
+<td>64</td>
+<td>2</td>
+<td>2069</td>
+<td>1104</td>
+<td>834</td>
+<td></td>
+<td>10891</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>190</td>
+<td>7</td>
+<td>7028</td>
+<td>44</td>
+<td>38</td>
+<td>8</td>
+<td>678</td>
+<td>270</td>
+<td>4</td>
+<td></td>
+<td>8267</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>19</td>
+<td>180</td>
+<td>6057</td>
+<td>386</td>
+<td>6</td>
+<td>36</td>
+<td>1761</td>
+<td>629</td>
+<td>369</td>
+<td></td>
+<td>9443</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td></td>
+<td>14</td>
+<td>3797</td>
+<td>74</td>
+<td></td>
+<td>3</td>
+<td>1873</td>
+<td>451</td>
+<td>186</td>
+<td></td>
+<td>6398</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>16</td>
+<td>9</td>
+<td>2955</td>
+<td>655</td>
+<td>494</td>
+<td>11</td>
+<td>3226</td>
+<td>761</td>
+<td>519</td>
+<td></td>
+<td>8646</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>6</td>
+<td>12</td>
+<td>9566</td>
+<td>110</td>
+<td></td>
+<td>4</td>
+<td>1408</td>
+<td>1212</td>
+<td>97</td>
+<td></td>
+<td>12415</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td></td>
+<td>24</td>
+<td>2486</td>
+<td>6</td>
+<td></td>
+<td>57</td>
+<td>995</td>
+<td>159</td>
+<td>226</td>
+<td></td>
+<td>3953</td>
+    </tr>
+<tr>
+        <td>Toba Tek 
+Singh</td>
+<td></td>
+<td>10</td>
+<td>4142</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td>2501</td>
+<td>252</td>
+<td>17</td>
+<td></td>
+<td>6928</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td></td>
+<td>5</td>
+<td>6128</td>
+<td>87</td>
+<td>2</td>
+<td>9</td>
+<td>2136</td>
+<td>526</td>
+<td>485</td>
+<td></td>
+<td>9378</td>
+    </tr>
+<tr>
+        <td>TOTAL</td>
+<td>643</td>
+<td>1335</td>
+<td>185092</td>
+<td>4538</td>
+<td>1430</td>
+<td>948</td>
+<td>54152</td>
+<td>19837</td>
+<td>9193</td>
+<td>216</td>
+<td>277384</td>
+    </tr>
+</table>
+
+8
+
+
+---
+
+
+
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICT</th>
+        <th>OPD
+Otitis 
+Media</th>
+        <th>OPD
+Peptic 
+Ulcer 
+Dis</th>
+        <th>OPD
+Pneumonia</th>
+        <th>OPD
+Prostate 
+cancer</th>
+        <th>OPD
+Scabies</th>
+        <th>OPD
+Sexually 
+Transmitted 
+Infections</th>
+        <th>OPD
+Silicosis</th>
+        <th>OPD
+Snake 
+bite</th>
+        <th>OPD
+Susp 
+Malaria</th>
+        <th>OPD
+Trachoma</th>
+        <th>TOTAL</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Attock</td>
+<td>228</td>
+<td>1333</td>
+<td>69</td>
+<td></td>
+<td>938</td>
+<td>48</td>
+<td></td>
+<td>1</td>
+<td>191</td>
+<td>1</td>
+<td>2809</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>358</td>
+<td>1484</td>
+<td>180</td>
+<td></td>
+<td>2132</td>
+<td>3</td>
+<td></td>
+<td>3</td>
+<td>249</td>
+<td>5</td>
+<td>4414</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>467</td>
+<td>2075</td>
+<td>164</td>
+<td></td>
+<td>3625</td>
+<td>33</td>
+<td></td>
+<td>1</td>
+<td>659</td>
+<td>8</td>
+<td>7032</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>177</td>
+<td>993</td>
+<td>265</td>
+<td></td>
+<td>1424</td>
+<td>2</td>
+<td></td>
+<td>1</td>
+<td>116</td>
+<td></td>
+<td>2978</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>258</td>
+<td>598</td>
+<td>5</td>
+<td></td>
+<td>805</td>
+<td>4</td>
+<td></td>
+<td>4</td>
+<td>19</td>
+<td>16</td>
+<td>1709</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>72</td>
+<td>581</td>
+<td>33</td>
+<td></td>
+<td>859</td>
+<td>29</td>
+<td>3</td>
+<td></td>
+<td>234</td>
+<td>7</td>
+<td>1818</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>588</td>
+<td>1345</td>
+<td>272</td>
+<td></td>
+<td>1453</td>
+<td>15</td>
+<td></td>
+<td>2</td>
+<td>357</td>
+<td>8</td>
+<td>4040</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>1788</td>
+<td>4961</td>
+<td>126</td>
+<td>35</td>
+<td>9203</td>
+<td>201</td>
+<td></td>
+<td></td>
+<td>95</td>
+<td>69</td>
+<td>16478</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>369</td>
+<td>2523</td>
+<td>60</td>
+<td></td>
+<td>4467</td>
+<td>17</td>
+<td></td>
+<td></td>
+<td>758</td>
+<td></td>
+<td>8194</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>227</td>
+<td>2242</td>
+<td>22</td>
+<td></td>
+<td>2268</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td>23</td>
+<td>2</td>
+<td>4786</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>468</td>
+<td>763</td>
+<td>139</td>
+<td></td>
+<td>1655</td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td>7</td>
+<td>10</td>
+<td>3045</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>211</td>
+<td>845</td>
+<td>144</td>
+<td></td>
+<td>2655</td>
+<td>54</td>
+<td></td>
+<td></td>
+<td>315</td>
+<td>118</td>
+<td>4342</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>391</td>
+<td>2747</td>
+<td>54</td>
+<td></td>
+<td>767</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td>528</td>
+<td></td>
+<td>4529</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>220</td>
+<td>1552</td>
+<td>248</td>
+<td></td>
+<td>5596</td>
+<td>4</td>
+<td></td>
+<td>2</td>
+<td>28</td>
+<td>4</td>
+<td>7654</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>248</td>
+<td>1136</td>
+<td>86</td>
+<td></td>
+<td>1818</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td>27</td>
+<td>2</td>
+<td>3319</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>147</td>
+<td>2138</td>
+<td>115</td>
+<td></td>
+<td>1300</td>
+<td>37</td>
+<td></td>
+<td>1</td>
+<td>23</td>
+<td>1</td>
+<td>3762</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>345</td>
+<td>1953</td>
+<td>1180</td>
+<td>7</td>
+<td>3397</td>
+<td>91</td>
+<td>31</td>
+<td></td>
+<td>387</td>
+<td>167</td>
+<td>7558</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>92</td>
+<td>517</td>
+<td>147</td>
+<td></td>
+<td>945</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>52</td>
+<td>9</td>
+<td>1766</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>294</td>
+<td>1193</td>
+<td>102</td>
+<td></td>
+<td>1943</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
+<td>102</td>
+<td>11</td>
+<td>3652</td>
+    </tr>
+<tr>
+        <td>Mandi 
+Bahauddin</td>
+<td>105</td>
+<td>1475</td>
+<td>23</td>
+<td></td>
+<td>939</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>81</td>
+<td></td>
+<td>2630</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>455</td>
+<td>2366</td>
+<td>237</td>
+<td></td>
+<td>1111</td>
+<td>5</td>
+<td></td>
+<td>1</td>
+<td>344</td>
+<td>22</td>
+<td>4541</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>1134</td>
+<td>2850</td>
+<td>309</td>
+<td></td>
+<td>5997</td>
+<td>85</td>
+<td></td>
+<td></td>
+<td>40</td>
+<td>61</td>
+<td>10476</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>1091</td>
+<td>1237</td>
+<td>114</td>
+<td></td>
+<td>5278</td>
+<td>24</td>
+<td></td>
+<td>1</td>
+<td>499</td>
+<td></td>
+<td>8244</td>
+    </tr>
+<tr>
+        <td>Nankana 
+Sahib</td>
+<td>111</td>
+<td>1223</td>
+<td>98</td>
+<td></td>
+<td>2537</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>83</td>
+<td>6</td>
+<td>4063</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>291</td>
+<td>1649</td>
+<td>75</td>
+<td></td>
+<td>3840</td>
+<td>13</td>
+<td></td>
+<td>4</td>
+<td>196</td>
+<td>24</td>
+<td>6092</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>269</td>
+<td>1248</td>
+<td>20</td>
+<td></td>
+<td>2898</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>84</td>
+<td>1</td>
+<td>4521</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>194</td>
+<td>2087</td>
+<td>48</td>
+<td></td>
+<td>1650</td>
+<td>66</td>
+<td></td>
+<td></td>
+<td>44</td>
+<td>17</td>
+<td>4106</td>
+    </tr>
+<tr>
+        <td>Rahimyar 
+Khan</td>
+<td>531</td>
+<td>1814</td>
+<td>82</td>
+<td></td>
+<td>2845</td>
+<td>90</td>
+<td></td>
+<td>2</td>
+<td>151</td>
+<td>26</td>
+<td>5541</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>450</td>
+<td>1365</td>
+<td>38</td>
+<td></td>
+<td>1666</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>686</td>
+<td></td>
+<td>4206</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>90</td>
+<td>2049</td>
+<td>293</td>
+<td></td>
+<td>1958</td>
+<td>50</td>
+<td></td>
+<td>2</td>
+<td>55</td>
+<td>22</td>
+<td>4519</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>179</td>
+<td>2673</td>
+<td>4</td>
+<td></td>
+<td>2294</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>68</td>
+<td>18</td>
+<td>5238</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>334</td>
+<td>1452</td>
+<td>171</td>
+<td></td>
+<td>3382</td>
+<td></td>
+<td>15</td>
+<td>11</td>
+<td>278</td>
+<td>54</td>
+<td>5697</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>1062</td>
+<td>920</td>
+<td>236</td>
+<td></td>
+<td>4178</td>
+<td>9</td>
+<td></td>
+<td>1</td>
+<td>378</td>
+<td>3</td>
+<td>6787</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>493</td>
+<td>1362</td>
+<td>40</td>
+<td></td>
+<td>3471</td>
+<td></td>
+<td></td>
+<td></td>
+<td>86</td>
+<td>2</td>
+<td>5454</td>
+    </tr>
+<tr>
+        <td>Toba Tek 
+Singh</td>
+<td>178</td>
+<td>2587</td>
+<td>160</td>
+<td></td>
+<td>2074</td>
+<td>6</td>
+<td>1</td>
+<td></td>
+<td>97</td>
+<td>9</td>
+<td>5112</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>435</td>
+<td>3044</td>
+<td>38</td>
+<td></td>
+<td>4107</td>
+<td>9</td>
+<td></td>
+<td>3</td>
+<td>90</td>
+<td>185</td>
+<td>7911</td>
+    </tr>
+<tr>
+        <td>TOTAL</td>
+<td>14350</td>
+<td>62380</td>
+<td>5397</td>
+<td>42</td>
+<td>97475</td>
+<td>961</td>
+<td>51</td>
+<td>49</td>
+<td>7430</td>
+<td>888</td>
+<td>189023</td>
+    </tr>
+</table>
+
+9
+
+
+---
+
+# DHIS-II WEEKLY REPORTED ANC-1 VISITS IN HEALTH FACILITY, WEEK 43 (Table: 3)
+
+Del
+
+<table>
+  <thead>
+    <tr>
+        <th rowspan="2">DISTRICT</th>
+        <th colspan="5">ANC-1 VISITS BY FACILITY TYPE WISE</th>
+        <th colspan="5">AVERAGE PER DAY ANC-1 VISITS BY<br/>FACILITY TYPE WISE</th>
+    </tr>
+<tr>
+        <th>BHU</th>
+        <th>RHC</th>
+        <th>THQ</th>
+        <th>DHQ</th>
+        <th>THOS</th>
+        <th>BHU</th>
+        <th>RHC</th>
+        <th>THQ</th>
+        <th>DHQ</th>
+        <th>THOS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>711</td>
+<td>91</td>
+<td>288</td>
+<td>99</td>
+<td> </td>
+<td>2</td>
+<td>3</td>
+<td>10</td>
+<td>17</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>1475</td>
+<td>323</td>
+<td>254</td>
+<td>116</td>
+<td> </td>
+<td>2</td>
+<td>5</td>
+<td>11</td>
+<td>19</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>1451</td>
+<td>421</td>
+<td>423</td>
+<td> </td>
+<td>140</td>
+<td>3</td>
+<td>6</td>
+<td>18</td>
+<td> </td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>851</td>
+<td>264</td>
+<td>166</td>
+<td>174</td>
+<td> </td>
+<td>4</td>
+<td>9</td>
+<td>9</td>
+<td>29</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>864</td>
+<td>305</td>
+<td>196</td>
+<td>34</td>
+<td> </td>
+<td>2</td>
+<td>5</td>
+<td>8</td>
+<td>6</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>721</td>
+<td>113</td>
+<td>147</td>
+<td>20</td>
+<td> </td>
+<td>3</td>
+<td>6</td>
+<td>12</td>
+<td>3</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>1366</td>
+<td>398</td>
+<td>290</td>
+<td> </td>
+<td> </td>
+<td>4</td>
+<td>7</td>
+<td>24</td>
+<td> </td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>2330</td>
+<td>544</td>
+<td>1198</td>
+<td> </td>
+<td>182</td>
+<td>2</td>
+<td>6</td>
+<td>33</td>
+<td> </td>
+<td>6</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>1490</td>
+<td>411</td>
+<td>554</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td>6</td>
+<td>31</td>
+<td> </td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>955</td>
+<td>270</td>
+<td>373</td>
+<td> </td>
+<td>20</td>
+<td>2</td>
+<td>5</td>
+<td>10</td>
+<td> </td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>485</td>
+<td>159</td>
+<td>14</td>
+<td>31</td>
+<td> </td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>1134</td>
+<td>189</td>
+<td>632</td>
+<td>103</td>
+<td> </td>
+<td>3</td>
+<td>3</td>
+<td>35</td>
+<td>17</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>338</td>
+<td>112</td>
+<td>35</td>
+<td>52</td>
+<td> </td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>9</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>1677</td>
+<td>464</td>
+<td>170</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td>7</td>
+<td>7</td>
+<td> </td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>1150</td>
+<td>285</td>
+<td>473</td>
+<td>167</td>
+<td> </td>
+<td>2</td>
+<td>5</td>
+<td>26</td>
+<td>28</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>308</td>
+<td>77</td>
+<td>108</td>
+<td>21</td>
+<td> </td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td> </td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>242</td>
+<td>50</td>
+<td>225</td>
+<td> </td>
+<td>1540</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td> </td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>558</td>
+<td>128</td>
+<td>400</td>
+<td>56</td>
+<td> </td>
+<td>2</td>
+<td>4</td>
+<td>11</td>
+<td>9</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>887</td>
+<td>161</td>
+<td>93</td>
+<td>47</td>
+<td> </td>
+<td>3</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>569</td>
+<td>154</td>
+<td>67</td>
+<td>165</td>
+<td> </td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>28</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>373</td>
+<td>94</td>
+<td>173</td>
+<td>124</td>
+<td> </td>
+<td>1</td>
+<td>2</td>
+<td>10</td>
+<td>21</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>1277</td>
+<td>223</td>
+<td>264</td>
+<td>217</td>
+<td>350</td>
+<td>3</td>
+<td>5</td>
+<td>22</td>
+<td>36</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>943</td>
+<td>309</td>
+<td>582</td>
+<td>124</td>
+<td> </td>
+<td>3</td>
+<td>4</td>
+<td>24</td>
+<td>21</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>386</td>
+<td>124</td>
+<td>72</td>
+<td>96</td>
+<td> </td>
+<td>1</td>
+<td>3</td>
+<td>6</td>
+<td>16</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>520</td>
+<td>198</td>
+<td>12</td>
+<td>588</td>
+<td> </td>
+<td>2</td>
+<td>5</td>
+<td>2</td>
+<td>98</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>1489</td>
+<td>321</td>
+<td>196</td>
+<td>304</td>
+<td> </td>
+<td>3</td>
+<td>5</td>
+<td>16</td>
+<td>25</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>634</td>
+<td>73</td>
+<td> </td>
+<td>162</td>
+<td> </td>
+<td>2</td>
+<td>2</td>
+<td> </td>
+<td>27</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>1670</td>
+<td>561</td>
+<td>621</td>
+<td> </td>
+<td>128</td>
+<td>3</td>
+<td>5</td>
+<td>35</td>
+<td> </td>
+<td>21</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>503</td>
+<td>149</td>
+<td>189</td>
+<td> </td>
+<td> </td>
+<td>3</td>
+<td>4</td>
+<td>16</td>
+<td> </td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>988</td>
+<td>352</td>
+<td>902</td>
+<td> </td>
+<td>534</td>
+<td>2</td>
+<td>7</td>
+<td>21</td>
+<td> </td>
+<td>18</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>1304</td>
+<td>426</td>
+<td>102</td>
+<td> </td>
+<td>351</td>
+<td>3</td>
+<td>6</td>
+<td>17</td>
+<td> </td>
+<td>20</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>1115</td>
+<td>275</td>
+<td>310</td>
+<td> </td>
+<td>151</td>
+<td>1</td>
+<td>4</td>
+<td>5</td>
+<td> </td>
+<td>25</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>907</td>
+<td>169</td>
+<td>360</td>
+<td>221</td>
+<td> </td>
+<td>2</td>
+<td>4</td>
+<td>15</td>
+<td>37</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>1070</td>
+<td>158</td>
+<td>687</td>
+<td> </td>
+<td> </td>
+<td>2</td>
+<td>4</td>
+<td>29</td>
+<td> </td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>1132</td>
+<td>368</td>
+<td>426</td>
+<td>354</td>
+<td> </td>
+<td>3</td>
+<td>8</td>
+<td>24</td>
+<td>59</td>
+<td> </td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>1158</td>
+<td>359</td>
+<td>139</td>
+<td>212</td>
+<td> </td>
+<td>3</td>
+<td>4</td>
+<td>12</td>
+<td>35</td>
+<td> </td>
+    </tr>
+<tr>
+        <td><strong>TOTAL/AVERAGE</strong></td>
+<td><strong>35031</strong></td>
+<td><strong>9078</strong></td>
+<td><strong>11141</strong></td>
+<td><strong>3487</strong></td>
+<td><strong>3396</strong></td>
+<td><strong>2</strong></td>
+<td><strong>5</strong></td>
+<td><strong>15</strong></td>
+<td><strong>22</strong></td>
+<td><strong>13</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+10
+
+
+---
+
+## Deliveries Coverage at Health Facility
+
+Fig. 4 Percentage of Deliveries Conducted During the Week 43
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>C-Sections (%)</th>
+        <th>NORMAL DELIVERIES+VF DELIVERIES (%)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>12</td>
+<td>88</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>18</td>
+<td>82</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>8</td>
+<td>92</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>12</td>
+<td>88</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>5</td>
+<td>95</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>15</td>
+<td>85</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>15</td>
+<td>85</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>22</td>
+<td>78</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>12</td>
+<td>88</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>5</td>
+<td>95</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>44</td>
+<td>56</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>12</td>
+<td>88</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>8</td>
+<td>92</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>12</td>
+<td>88</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>18</td>
+<td>82</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>15</td>
+<td>85</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>18</td>
+<td>82</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>15</td>
+<td>85</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>8</td>
+<td>92</td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>12</td>
+<td>88</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>5</td>
+<td>95</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>22</td>
+<td>78</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>15</td>
+<td>85</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>20</td>
+<td>80</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>18</td>
+<td>82</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>10</td>
+<td>90</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>15</td>
+<td>85</td>
+    </tr>
+  </tbody>
+</table>
+
+The statistics of delivery coverage at health facility (fig. 4) of Punjab showed that the highest i.e. 44% C-section has been reported from district Lahore.
+
+## Total Number of Deliveries Conducted and PNC-1 Visits
+
+Fig. 5
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>ANC-1 VISITS</th>
+        <th>PNC-1 VISITS</th>
+        <th>TOTAL DELIVERIES</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Attock</td>
+<td>1200</td>
+<td>150</td>
+<td>600</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>2200</td>
+<td>200</td>
+<td>700</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>2500</td>
+<td>250</td>
+<td>800</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>1500</td>
+<td>100</td>
+<td>500</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>1400</td>
+<td>120</td>
+<td>450</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>1000</td>
+<td>80</td>
+<td>350</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>2100</td>
+<td>150</td>
+<td>750</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>5000</td>
+<td>450</td>
+<td>1100</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>2800</td>
+<td>220</td>
+<td>850</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>1900</td>
+<td>140</td>
+<td>600</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>1100</td>
+<td>90</td>
+<td>380</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>2200</td>
+<td>180</td>
+<td>700</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>1300</td>
+<td>110</td>
+<td>420</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>2400</td>
+<td>200</td>
+<td>750</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>2100</td>
+<td>160</td>
+<td>680</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>1100</td>
+<td>90</td>
+<td>380</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>2642</td>
+<td>192</td>
+<td>1312</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>1500</td>
+<td>120</td>
+<td>500</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>1600</td>
+<td>130</td>
+<td>520</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>1000</td>
+<td>80</td>
+<td>350</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>1400</td>
+<td>110</td>
+<td>450</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>2600</td>
+<td>240</td>
+<td>1100</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>2000</td>
+<td>180</td>
+<td>950</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>1100</td>
+<td>90</td>
+<td>380</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>1350</td>
+<td>110</td>
+<td>450</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>2350</td>
+<td>190</td>
+<td>780</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>1200</td>
+<td>100</td>
+<td>400</td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>3000</td>
+<td>250</td>
+<td>1200</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>1100</td>
+<td>90</td>
+<td>380</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>2800</td>
+<td>240</td>
+<td>850</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>2200</td>
+<td>180</td>
+<td>720</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>1900</td>
+<td>160</td>
+<td>650</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>1700</td>
+<td>140</td>
+<td>580</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>2100</td>
+<td>180</td>
+<td>750</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>1200</td>
+<td>100</td>
+<td>400</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>2500</td>
+<td>210</td>
+<td>820</td>
+    </tr>
+  </tbody>
+</table>
+
+According to the data reported on DHIS-2(Fig. 5), the highest number of deliveries were reported in district Lahore i.e. 1,312 whereas PNC-1 and ANC-1 visits were 192 and 2,642.
+
+## DHIS-II WEEK LY REPORTED INDOOR PATIENT (IPD), WEEK 43
+
+Fig. 6 Indoor Total Admissions
+
+<table>
+  <thead>
+    <tr>
+        <th>District</th>
+        <th>Admissions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Kasur</td>
+<td>770</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>792</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>827</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>975</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>1152</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>1319</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>1413</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>1475</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>1525</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>1564</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>1674</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>1793</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>1836</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>1926</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>1985</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>2019</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>2297</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>2549</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>2902</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>2941</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>3120</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>3308</td>
+    </tr>
+<tr>
+        <td>Attock</td>
+<td>3889</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>4177</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>4924</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>4995</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>5526</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>5526</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>5672</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>5821</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>5959</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>6254</td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>7895</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>15815</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>18395</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>56124</td>
+    </tr>
+  </tbody>
+</table>
+
+11
+
+
+---
+
+Fig. 7 Indoor Total Deaths
+
+<table>
+  <tbody>
+    <tr>
+        <td>District</td>
+<td>Indoor Total Deaths</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Attock</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>17</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>18</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>23</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>25</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>27</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>35</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>41</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>44</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>47</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>47</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>56</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>66</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>70</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>75</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>75</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>84</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>97</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>107</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>119</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>202</td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>239</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>334</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>547</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>779</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+Fig. 6 visualizes the total admissions in Indoor and Fig. 7 represented the Indoor Total Deaths during the week 43 of year 2022.The highest number of indoor admissions were reported in district Lahore i.e. 56,142 and also the highest number of indoor total deaths has reported in district Lahore i.e. 779 deaths during the week 43 of year 2022.
+
+# DHIS-II WEEKLY FAMILY PLANNING VISITS, WEEK 43
+
+Fig. 8 Percentage of Family Planning Visit by Health Facility Wise
+
+<table>
+  <tbody>
+    <tr>
+        <td>District</td>
+<td>BHU (%)</td>
+<td>RHC (%)</td>
+    </tr>
+<tr>
+        <td>Attock</td>
+<td>68</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>93</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>68</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>86</td>
+<td>4</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>75</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>75</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>61</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>63</td>
+<td>6</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>71</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>47</td>
+<td>6</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>72</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>73</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>69</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>88</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>65</td>
+<td>32</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>61</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>14</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>82</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>70</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>66</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>74</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>78</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>66</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>82</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>73</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>84</td>
+<td>18</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>60</td>
+<td>22</td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>77</td>
+<td>19</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>66</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>78</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>74</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>78</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>64</td>
+<td>5</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>70</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>77</td>
+<td>13</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>12</td>
+<td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+Fig. 9 Percentage Of Family Planning Visit By Health Facility Wise
+
+<table>
+  <tbody>
+    <tr>
+        <td>District</td>
+<td>THQ (%)</td>
+<td>DHQ (%)</td>
+<td>THOS (%)</td>
+    </tr>
+<tr>
+        <td>Attock</td>
+<td>23</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>2</td>
+<td>0</td>
+<td>4</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>0</td>
+<td>0</td>
+<td>20</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>10</td>
+<td>0</td>
+<td>4</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>0</td>
+<td>0</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>8</td>
+<td>0</td>
+<td>15</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>28</td>
+<td>0</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>1</td>
+<td>0</td>
+<td>16</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>47</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>8</td>
+<td>0</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>0</td>
+<td>0</td>
+<td>26</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>7</td>
+<td>0</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>8</td>
+<td>0</td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>25</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>47</td>
+<td>0</td>
+<td>38</td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>5</td>
+<td>0</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>5</td>
+<td>0</td>
+<td>19</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>0</td>
+<td>0</td>
+<td>12</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>8</td>
+<td>0</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>2</td>
+<td>0</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>4</td>
+<td>0</td>
+<td>14</td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>15</td>
+<td>0</td>
+<td>7</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>0</td>
+<td>0</td>
+<td>8</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>6</td>
+<td>0</td>
+<td>20</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>10</td>
+<td>0</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>14</td>
+<td>0</td>
+<td>17</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>8</td>
+<td>0</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>0</td>
+<td>0</td>
+<td>10</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>5</td>
+<td>0</td>
+<td>87</td>
+    </tr>
+  </tbody>
+</table>
+
+Fig. 8 & 9 exhibit the percentage of Punjab weekly FP visits by facility type wise. During week 43, the overall total FP visits were reported as 36,835. The highest number of FP visits were recorded in district Bahawalnagar i.e. 93% FP Visits under the health facility Basic Health Units
+
+12
+
+
+---
+
+***Table: 4 Weekly Method-wise FP Clients***
+
+<table>
+    <thead>
+    <tr>
+        <th>District</th>
+        <th>COC 
+cycles</th>
+        <th>Condom 
+Pieces</th>
+        <th>DMPA 
+Inj</th>
+        <th>IUCD</th>
+        <th>Implants</th>
+        <th>POP 
+cycles</th>
+        <th>Tubal 
+Ligation</th>
+        <th>Vasectomy</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Attock</td>
+<td>212</td>
+<td>500</td>
+<td>210</td>
+<td>111</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>127</td>
+<td>208</td>
+<td>93</td>
+<td>116</td>
+<td>3</td>
+<td>5</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>68</td>
+<td>129</td>
+<td>123</td>
+<td>69</td>
+<td>1</td>
+<td>2</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>72</td>
+<td>170</td>
+<td>100</td>
+<td>54</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>239</td>
+<td>281</td>
+<td>68</td>
+<td>94</td>
+<td>3</td>
+<td>5</td>
+<td>6</td>
+<td>1</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>51</td>
+<td>130</td>
+<td>79</td>
+<td>58</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>154</td>
+<td>1310</td>
+<td>143</td>
+<td>74</td>
+<td></td>
+<td>24</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>320</td>
+<td>361</td>
+<td>68</td>
+<td>140</td>
+<td>1</td>
+<td>28</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>90</td>
+<td>204</td>
+<td>73</td>
+<td>119</td>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>118</td>
+<td>259</td>
+<td>110</td>
+<td>56</td>
+<td></td>
+<td>6</td>
+<td>2</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>60</td>
+<td>69</td>
+<td>73</td>
+<td>42</td>
+<td>2</td>
+<td>23</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>152</td>
+<td>147</td>
+<td>94</td>
+<td>72</td>
+<td>1</td>
+<td>21</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>226</td>
+<td>237</td>
+<td>189</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>123</td>
+<td>92</td>
+<td>66</td>
+<td>83</td>
+<td>1</td>
+<td>27</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>143</td>
+<td>423</td>
+<td>98</td>
+<td>71</td>
+<td>2</td>
+<td>16</td>
+<td>14</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>30</td>
+<td>56</td>
+<td>17</td>
+<td>31</td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>69</td>
+<td>238</td>
+<td>93</td>
+<td>29</td>
+<td>1</td>
+<td>16</td>
+<td>2</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>20</td>
+<td>86</td>
+<td>94</td>
+<td>69</td>
+<td>14</td>
+<td>20</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>137</td>
+<td>152</td>
+<td>56</td>
+<td>90</td>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>92</td>
+<td>121</td>
+<td>104</td>
+<td>86</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>131</td>
+<td>175</td>
+<td>107</td>
+<td>112</td>
+<td></td>
+<td>5</td>
+<td>3</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>517</td>
+<td>645</td>
+<td>248</td>
+<td>203</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>241</td>
+<td>242</td>
+<td>142</td>
+<td>90</td>
+<td></td>
+<td>13</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>203</td>
+<td>106</td>
+<td>43</td>
+<td>69</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>144</td>
+<td>207</td>
+<td>142</td>
+<td>83</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>125</td>
+<td>144</td>
+<td>86</td>
+<td>73</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>110</td>
+<td>156</td>
+<td>198</td>
+<td>108</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>199</td>
+<td>180</td>
+<td>80</td>
+<td>138</td>
+<td></td>
+<td>46</td>
+<td>18</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>116</td>
+<td>55</td>
+<td>103</td>
+<td>18</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>337</td>
+<td>350</td>
+<td>320</td>
+<td>96</td>
+<td></td>
+<td>19</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>76</td>
+<td>262</td>
+<td>121</td>
+<td>52</td>
+<td></td>
+<td>15</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>446</td>
+<td>536</td>
+<td>231</td>
+<td>124</td>
+<td>3</td>
+<td>6</td>
+<td>1</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>135</td>
+<td>300</td>
+<td>185</td>
+<td>95</td>
+<td>4</td>
+<td>30</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>391</td>
+<td>468</td>
+<td>241</td>
+<td>136</td>
+<td>4</td>
+<td>14</td>
+<td></td>
+<td>2</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>258</td>
+<td>270</td>
+<td>197</td>
+<td>101</td>
+<td>11</td>
+<td>65</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>380</td>
+<td>521</td>
+<td>202</td>
+<td>166</td>
+<td>1</td>
+<td>15</td>
+<td>11</td>
+<td></td>
+    </tr>
+<tr>
+        <td>Total</td>
+<td>6,312</td>
+<td>9,790</td>
+<td>4,597</td>
+<td>3,234</td>
+<td>59</td>
+<td>456</td>
+<td>62</td>
+<td>3</td>
+    </tr>
+</table>
+
+13
+
+---
+
+***Table: 5 Weekly Status of Family Planning Visits***
+
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICT</th>
+        <th>FP-Total 
+FP Visits</th>
+        <th>FP-Total 
+FP Visits 
+&lt; 25 y</th>
+        <th>FP-Total 
+PAFP</th>
+        <th>FP-Total 
+PAFP 
+&lt;25yr</th>
+        <th>FP-Total 
+PPFP</th>
+        <th>FP-Total 
+PPFP &lt; 25 y</th>
+        <th>Total</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Attock</td>
+<td>1119</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td>17</td>
+<td></td>
+<td>1175</td>
+    </tr>
+<tr>
+        <td>Bahawalnagar</td>
+<td>680</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>16</td>
+<td></td>
+<td>698</td>
+    </tr>
+<tr>
+        <td>Bahawalpur</td>
+<td>516</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>3</td>
+<td>533</td>
+    </tr>
+<tr>
+        <td>Bhakkar</td>
+<td>444</td>
+<td>14</td>
+<td>63</td>
+<td>11</td>
+<td>64</td>
+<td>12</td>
+<td>608</td>
+    </tr>
+<tr>
+        <td>Chakwal</td>
+<td>1192</td>
+<td>43</td>
+<td></td>
+<td></td>
+<td>45</td>
+<td>2</td>
+<td>1282</td>
+    </tr>
+<tr>
+        <td>Chiniot</td>
+<td>461</td>
+<td>8</td>
+<td></td>
+<td></td>
+<td>20</td>
+<td></td>
+<td>489</td>
+    </tr>
+<tr>
+        <td>D.G Khan</td>
+<td>632</td>
+<td>26</td>
+<td>7</td>
+<td></td>
+<td>19</td>
+<td></td>
+<td>684</td>
+    </tr>
+<tr>
+        <td>Faisalabad</td>
+<td>3500</td>
+<td>123</td>
+<td>48</td>
+<td>10</td>
+<td>178</td>
+<td>22</td>
+<td>3881</td>
+    </tr>
+<tr>
+        <td>Gujranwala</td>
+<td>902</td>
+<td>20</td>
+<td>18</td>
+<td></td>
+<td>46</td>
+<td></td>
+<td>986</td>
+    </tr>
+<tr>
+        <td>Gujrat</td>
+<td>802</td>
+<td>4</td>
+<td>7</td>
+<td></td>
+<td>27</td>
+<td></td>
+<td>840</td>
+    </tr>
+<tr>
+        <td>Hafizabad</td>
+<td>420</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>424</td>
+    </tr>
+<tr>
+        <td>Jhang</td>
+<td>675</td>
+<td>19</td>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>699</td>
+    </tr>
+<tr>
+        <td>Jhelum</td>
+<td>865</td>
+<td>26</td>
+<td>31</td>
+<td></td>
+<td>48</td>
+<td>3</td>
+<td>973</td>
+    </tr>
+<tr>
+        <td>Kasur</td>
+<td>1029</td>
+<td>57</td>
+<td>2</td>
+<td></td>
+<td>14</td>
+<td>3</td>
+<td>1105</td>
+    </tr>
+<tr>
+        <td>Khanewal</td>
+<td>807</td>
+<td>34</td>
+<td>22</td>
+<td></td>
+<td>17</td>
+<td></td>
+<td>880</td>
+    </tr>
+<tr>
+        <td>Khushab</td>
+<td>166</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>175</td>
+    </tr>
+<tr>
+        <td>Lahore</td>
+<td>737</td>
+<td>48</td>
+<td>39</td>
+<td>2</td>
+<td>55</td>
+<td></td>
+<td></td>
+    </tr>
+<tr>
+        <td>Layyah</td>
+<td>464</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td></td>
+<td>477</td>
+    </tr>
+<tr>
+        <td>Lodhran</td>
+<td>720</td>
+<td>14</td>
+<td>14</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td>758</td>
+    </tr>
+<tr>
+        <td>Mandi Bahauddin</td>
+<td>444</td>
+<td>8</td>
+<td>8</td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>467</td>
+    </tr>
+<tr>
+        <td>Mianwali</td>
+<td>861</td>
+<td>65</td>
+<td>13</td>
+<td>3</td>
+<td>31</td>
+<td>3</td>
+<td>976</td>
+    </tr>
+<tr>
+        <td>Multan</td>
+<td>2046</td>
+<td>34</td>
+<td>1</td>
+<td>1</td>
+<td>91</td>
+<td>1</td>
+<td>2174</td>
+    </tr>
+<tr>
+        <td>Muzaffargarh</td>
+<td>868</td>
+<td>23</td>
+<td>7</td>
+<td></td>
+<td>18</td>
+<td></td>
+<td>916</td>
+    </tr>
+<tr>
+        <td>Nankana Sahib</td>
+<td>716</td>
+<td>11</td>
+<td>33</td>
+<td></td>
+<td>107</td>
+<td>5</td>
+<td>872</td>
+    </tr>
+<tr>
+        <td>Narowal</td>
+<td>714</td>
+<td>43</td>
+<td>7</td>
+<td></td>
+<td>39</td>
+<td>12</td>
+<td>815</td>
+    </tr>
+<tr>
+        <td>Okara</td>
+<td>1380</td>
+<td>35</td>
+<td>36</td>
+<td></td>
+<td>89</td>
+<td>18</td>
+<td>1558</td>
+    </tr>
+<tr>
+        <td>Pakpattan</td>
+<td>675</td>
+<td>9</td>
+<td>6</td>
+<td></td>
+<td>46</td>
+<td></td>
+<td>736</td>
+    </tr>
+<tr>
+        <td>Rahimyar Khan</td>
+<td>1650</td>
+<td>41</td>
+<td>297</td>
+<td>16</td>
+<td>179</td>
+<td>19</td>
+<td>2202</td>
+    </tr>
+<tr>
+        <td>Rajanpur</td>
+<td>616</td>
+<td>28</td>
+<td>2</td>
+<td>2</td>
+<td>47</td>
+<td>5</td>
+<td>700</td>
+    </tr>
+<tr>
+        <td>Rawalpindi</td>
+<td>1288</td>
+<td>57</td>
+<td></td>
+<td></td>
+<td>94</td>
+<td>12</td>
+<td>1451</td>
+    </tr>
+<tr>
+        <td>Sahiwal</td>
+<td>1384</td>
+<td>120</td>
+<td>10</td>
+<td></td>
+<td>18</td>
+<td></td>
+<td>1532</td>
+    </tr>
+<tr>
+        <td>Sargodha</td>
+<td>1598</td>
+<td>86</td>
+<td>10</td>
+<td>2</td>
+<td>71</td>
+<td>15</td>
+<td>1782</td>
+    </tr>
+<tr>
+        <td>Sheikhupura</td>
+<td>1119</td>
+<td>30</td>
+<td>6</td>
+<td></td>
+<td>32</td>
+<td></td>
+<td>1187</td>
+    </tr>
+<tr>
+        <td>Sialkot</td>
+<td>1531</td>
+<td>37</td>
+<td>108</td>
+<td></td>
+<td>361</td>
+<td>4</td>
+<td>2041</td>
+    </tr>
+<tr>
+        <td>Toba Tek Singh</td>
+<td>1664</td>
+<td>36</td>
+<td>77</td>
+<td></td>
+<td>142</td>
+<td>9</td>
+<td>1928</td>
+    </tr>
+<tr>
+        <td>Vehari</td>
+<td>2150</td>
+<td>75</td>
+<td>25</td>
+<td></td>
+<td>113</td>
+<td>5</td>
+<td>2368</td>
+    </tr>
+</table>
+
+14
+
+---
+
+
+
+<table>
+  <thead>
+    <tr>
+        <th>Total</th>
+        <th>36835</th>
+        <th>1238</th>
+        <th>898</th>
+        <th>47</th>
+        <th>2082</th>
+        <th>153</th>
+        <th>40372</th>
+    </tr>
+  </thead>
+</table>
+
+15

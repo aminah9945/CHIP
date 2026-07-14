@@ -1,0 +1,465 @@
+        DHIS- DISTRICT HEALTH INFORMATION SYSTEM (MIS CELL)
+
+            DIRECTORATE GENERAL HEALTH SERVICES, PUNJAB
+
+Weekly Feedback Report DHIS-II (6ᵗʰ December – 12st December, 2021)
+            Tel: [+92-99200990 e-mail: hmis.pb@yahoo.com
+    Tel: [+92-99200990 e-mail: hmis.pb@yahoo.com
+
+
+
+
+
+    Summary:
+    In this report, different indicators of health facility are discussed. The data of teaching/tertiary care hospitals is also included. The
+    detailed analysis of week 49 of year 2021 are being presented in this report. The reporting regularity of the district Bahawalnagar,
+    Jhelum and Mianwali has accurate reporting compliance targets for the week 49 of year 2021. District D.G. Khan, Kasur,
+    Pakpattan, Bhakkar, , Okara, Rahimyar Khan, Rawalpindi, Muzaffargarh and Attock did not meet the reporting compliance
+    targets completely.
+    The total OPD Visits during week 49 of 2021 was 714.1K out of which 192.0k were reported in BHU(all), 110.9k were reported
+    in RHC (all), 181.2k were reported in THQ (all),        123.3k were reported in DHQ(all) and 106.7k were reported in Teaching
+    hospitals.
+    On average, 39 OPD per day visits were reported in BHU’s, 161 per day visits were reported in RHC’s, 839 per day visits were
+    reported in THQ hospitals, 3426 per day OPD visits were reported in DHQ hospitals and 2963 OPD per day visits were reported
+    in Teaching Hospitals. It is calculated as total OPD visits by dividing the number of reporting health facilities and the tot al number
+    of days excluding Sunday.
+    Fifty-three diseases are reported through DHIS, out of which eleven prone Epidemic diseases of 14 districts of Punjab on which
+    DHIS-2 is implemented successfully, have been discussed in this report through DHIS-2 software.
+    Antenatal care coverage is an indicator of access and utilization of health care services during pregnancy.
+    During week 49, the overall ANC-1 reported coverage in 14 districts of Punjab was 18,062 of the total expected population
+    (3.4%). On average, the highest number of visits of ANC-1 has been recorded in district Kasur under the health facility BHU
+    i.e. 1112 visits.
+    Delivery coverage at health facility is an indicator of utilization of delivery services provided at public health facilities. The
+    overall percentage of deliveries conducted in health facilities of 14 districts of Punjab. During week 49 the highest (30%) C
+    section cases has reported in district Rawal pindi and the highest cases (98%) of normal delivery cases were reported in district
+    Kaur. This discrepancy in district Kasur is due to not reporting complete data of THQ and DHQ health facilities.
+    Indoor patient’s data of week 49 has shown in (fig. 8 & fig. 9) which cleared the statistics of indoor admissions and death.
+    During week 49, family planning visits reported from the public health facilities against the expected population were 10, 447.
+    The highest number of FP visits were reported in district Pakpattan (90                    %) under the health facility Basic
+    Health Unit.
+
+
+
+
+
+
+
+
+    1
+
+---
+
+DHIS-II WEEKLY REPORTING COMPLIANCE PUNJAB, WEEK 49
+
+F i g .  1
+
+Daily OPD - Reporting rate  Daily RMNCH - Reporting rate  Daily IPD - Reporting rate
+100%
+100%
+100%  100%
+100%  100%  100%  100%  100%
+100%
+    99%                       99%
+        96%            94% 97%98%     94%
+        91%            92%
+                   86% 90%
+82%         82% 85%85%            85%
+81%
+          73% 72%  70%   70%
+66%  64%  65%  64%  66%  70%
+              62%   63%
+58%
+48%  43%
+
+
+
+
+
+
+
+
+
+  Reporting compliance showed that how timely and regularly the concerned 14 districts of Punjab are
+  reporting data to meet the data targets.
+
+  In DHIS-2, we have three daily basis reporting forms to which concerned districts enter the data on daily
+  basis and else three monthly basis forms at which they enter the data on monthly basis as well. The target
+  for reporting compliance is 100% and it can be seen that from fig. 1, the reporting regularity of the district
+  Bahawalnagar, Jhelum and Mianwali has accurate reporting compliance targets for the week 49. District
+  D.G. Khan, Bhakkar, Kasur, Pakpattan, Rajanpur and Attock, Muzaffargarh, Rawalpindi did not meet the
+  reporting compliance targets completely.
+
+  Reported Patients Through OPD in Health Facility, Week 49
+  In figure 2, the total OPD Visits during week
+  49 of year 2021 has displayed through bar           Fig. 2 District Wise OPD
+  chart. The total OPD Visits during week 49     60.0k
+  of 2021 was reported as 714.1K out of          50.0k
+  which 192.0k were reported in BHU(all),        40.0k
+  110.9k were reported in RHC (all), 181.2k      30.0k
+  were reported in THQ(all), 123.3k were         20.0k
+  reported in DHQ(all) and 106.7k were           10.0k
+  reported in Teaching hospitals. The health     0.0k
+  facilities that are showing zero OPD visits is
+  because of they are not reporting at daily
+  basis on DHIS-2 software. The highest               BHU(ALL)  RHC(ALL)  THQ(ALL)  DHQ(ALL)  THOS
+  number of OPD visits were conducted in
+  district Rawalpindi under the health facility teaching hospital during the period week 49 of year 2021.
+
+
+
+
+
+
+
+
+  2
+
+---
+
+                                                                                     Average OPD Per Day Visits by
+                     Fig. 3 Average OPD Per Day Visits by Health Facility            Health Facility Wise:
+    4000                                3426
+
+    3000                                                             2963            Fig. 3 displayed the average OPD per day visits by
+                                                                                     health facility   wise. This is calculated as ratio
+    2000                                                                             between the total OPD visits in all 14 districts of
+
+    1000                  839                                                        Punjab  reported     in   DHIS-2       software and
+
+       0    39      161                                                              reporting number of health facilities and then
+            BHU(ALL)  RHC(ALL)  THQ(ALL)  DHQ  THOS                                  divided it to the 6 week days excluding Sunday.
+                                                                                     During week 49 of year 2021, 39 per day visits
+ were reported in Basic Health Unit (BHU’s), 161 per day visits per reported in Rural Health Care (RHC’s),
+ 839 per day visits were reported in THQ hospitals, 3426 per day visits were reported in DHQ hospitals and
+ 2963 per day visits were reported in teaching hospitals. It is to be noted that, DHQ and THQ hospitals of
+ Rajanpur and THQ Kasur are not reporting completely on daily basis at DHIS-2 Software. That is why, the
+ average per day health facility is affected.
+
+ District Wise Average OPD
+ Per Day Visits:                                                             Fig. 4 District wise Average OPD Per Day Visits
+                                          8000
+ Fig. 4 represented the district          7000
+ wise average OPD per day                 6000
+ Visits by health facility wise. It       5000
+                                          4000
+ has calculated as the OPD                3000
+ visits reported in each health           2000
+ facility and divide it to the no.        1000
+                                               0
+ of health facilities and then
+ divide it to 6 week days
+ excluding Sunday. On average,
+ the highest no. of OPD per day                 PER DAY BHU                  PER DAY RHC     PER DAY THQ  PER DAY DHQ       PER DAY THOS
+ visits were reported in district
+ Kasur under the health facility DHQ i.e. 6813 per day OPD visits during the week 49 of year
+ 2021.
+
+                      Fig. 5 Per Day OPD Visits in Teaching Hospitals                        Average OPD Per Day Visits
+8000                             6311                                                        in Teaching Hospitals:
+6000
+4000                                                                         2963            Fig. 5 displayed the Average OPD
+                2001                                                                         per day visits in teaching
+2000                                                                                         hospitals during the week 49 of
+ 0          D.G KHAN            RAHIMYAR KHAN                            RAWALPINDI          year 2021. It can be seen that the
+                                                                                             highest no. of OPD per day visits
+ were recorded in district Rahimyar Khan.
+
+
+3
+
+---
+
+Prone Epidemic Diseases:
+
+                                               FIg. 9
+
+                       RAWALPINDI
+                         RAJANPUR
+                    RAHIMYAR KHAN
+                        PAKPATTAN
+                            OKARA
+                     MUZAFFARGARH
+                         MIANWALI
+                           LAYYAH
+                            KASUR
+                           JEHLUM
+                          DG KHAN
+                          BHAKKAR
+                      BAHAWLNAGAR
+                           ATTOCK
+
+                                      0        10  20             30                40             50     60      70
+
+                                               BAHA  DG                                 MUZ            PAKP RAHI
+                                      ATTO WLN BHAK KHA                 JEHL KASU LAYY MIAN AFFA OKAR ATTA MYA    RAJA RAW
+                                         CK    AGAR KAR  N  UM    R     AH    WALI RGAR       A        N  R       NPU ALPI
+                                                                                        H                  KHA    R   NDI
+                                                                                                          N
+ Suspected Pertusis                       1                                                   4
+ Suspected Diptheria                                 3            19
+ Chicken-Pox                              5                 2     14     7     2        3                  2       3
+ Suspected Viral Hemorrhagic Fever                                             1              1            2
+ Suspected Infulenza H1N1                14                              2    13        1     1                   23
+ Suspected Dengue Fever                  63    11                 14                    1              2  60          47
+ Suspected HIV/AIDS (PHC+SHC)            10               1                                  14
+ Acute Flaccid Paralysis                  1                              2
+ Suspected Nenonatal Tetanus
+ Suspected Measles                       3                                              1
+ Suspected Meningitis                                                          1              3                   4
+
+From Epidemic diseases, we mean that affects a large number of people within a community, population
+or region. In above figure 6, prone epidemic diseases status of 14                  districts which are successfully
+implemented on dhis-2 software, shown through graph. According to the descriptive analysis, the highest
+number of HIV/AIDS cases has reported from the district Okara. District Attock has highest number of
+cases for suspected dengue fever . The highest number of suspected Influenza H1N1 cases has reported in
+district Rajanpur. The highest number of chicken-pox cases has reported in District Kasur during the week
+49 of year 2021.
+
+
+
+
+
+
+
+4
+
+---
+
+DHIS-II Weekly Reported ANC-1 Visits in Health Facility, Week 49
+
+                                            Fig. 7 ANC-1 Visits During the Week 49
+Fig. 7 showed the weekly basis          1200
+visits of ANC-1 in all BHU’s, RHC’s,    1000
+THQ’s, DHQ’s and Teaching                800
+Hospitals for the 14 reporting           600
+                                         400
+districts of Punjab in DHIS-2            200
+Software. The highest number of            0
+visits of ANC-1 has been recorded
+in district Kasur under the health
+facility of BHU i.e. 1112 visits
+during week 49 of year 2021.                BHU  RHC  THQ  DHQ  THOS
+
+
+      Fig. 8 Average Per Day ANC-1 Visits                                  On Average Per Day ANC-1
+60                                                                         Visits by Health Facility
+50
+40                                                                         Wise:
+30                                                                         Fig. 8 showed the average per day
+20                                                                         Anc-1 visits by heath facility wise
+10                                                                         during the week 49 of year 2021.
+0                                                                          The per day average of ANC-1
+                                                                           visits were calculated as the
+                                                                           reported anc-1 visits in each
+                                                                           health facility divided by the total
+      PER DAY BHU  PER DAY RHC  PER DAY THQ  PER DAY DHQ  PER DAY THOS     functional health facilities in each
+
+district and then divide it to 6 days of week excluding Sunday. The statistics showed that the
+highest per day ANC-1 visits have reported in district DG Khan (49 per day visits) under the
+health facility Teaching hospital.
+
+Deliveries Coverage at                         Fig. 9 Percentage of Deliveries Conducted During the Week 49
+Health Facility:                           120%
+                                           100%
+The statistics of delivery coverage         80%
+at    health  facility  (fig.   9)  of  14  60%
+district of Punjab showed that the          40%
+highest number of C-section has             20%
+                                             0%
+reported in district Rawalpindi i.e.
+30% C-section during the week 49
+of year 2021 whereas the highest
+number of normal+ VF deliveries
+has reported in district Kasur (98%)                      C-Sections       NORMAL DELIVERIES+VF DELIVERIES
+
+                                                                                                           5
+
+---
+
+  for the week 49 of year 2021. These percentages were calculated as total C-section conducted and total
+  normal deliveries conducted in each districts and divided by the total number of deliveries conducted in
+  week 49 of year 2021.
+
+  District Kasur is showing 1.7% C-section as its DHQ & THQ Hospitals are not reporting completely on daily
+  basis in DHIS-2 Software. Because of this, it visualized the discrepancy in data reported on DHIS-2.
+
+  Per Day C-section & Normal Deliveries Conducted:
+
+        Fig. 10 Per Day C-Section Conducted       Fig. 11 Per Day Normal Deliveries Conducted
+ 25                                            25
+
+ 20                                            20
+
+ 15                                            15
+
+ 10                                            10
+
+   5                                            5
+
+   0                                            0
+
+
+
+
+        THQ  DHQ  THOS                                        BHU  RHC     THQ  DHQ  THOS
+
+ Fig. 10 & Fig. 11 visualized the per day C-section and normal deliveries conducted at the 14
+ districts of Punjab during the week 49 of year 2021. It has calculated as the C-section and normal
+ deliveries reported in each health facility and divide it to the no. of health facilities and then
+ divide it to 6 week days excluding Sunday. According the descriptive analysis of C-section (fig.10),
+ the highest number of C-section has recorded in district D.G Khan under the health facility of
+ teaching hospitals whereas the highest number of per day normal deliveries has reported in
+ district DG Khan under the health facility teaching hospital.
+
+                  Fig. 12                                          Total Number of
+3000                                                               Deliveries Conducted
+2500                                                               and PNC-1 Visits:
+2000
+1500                                                               In Fig. 12, the comparison
+1000                                                               between      the  total  Anc-1
+ 500                                                               visits  reported  with   the
+   0                                                               number of PNC-1 visits and
+                                                                   total number of deliveries in
+                                                                   14 districts of Punjab during
+                                                                   the week 49 of year 2021
+        ANC-1 VISITS    PNC-1 VISITS    TOTAL DELIVERIES           has shown through Fig. 12.
+
+
+ 6
+
+---
+
+According to the data reported on dhis-2, the highest number of deliveries were reported in district
+Rahimyar Khan i.e. 963 total deliveries, 962 PNC-1 visits and 2568 ANC-1 visits were reported in week 49
+of year 2021.
+
+             DHIS-II Weekly Reported Daily Indoor Patient (IPD), Week 49
+
+             Fig. 13 Indoor Total Admissions      Fig. 14 Indoor Total Deaths
+9000                                           300
+8000                                           250
+7000
+6000                                           200
+5000                                           150
+4000
+3000                                           100
+2000                                            50
+1000
+   0                                             0
+
+
+
+Above Fig. 13 visualized the total admissions in Indoor and Fig. 14 represented the Indoor Total Deaths
+during the week 49 of year 2021.
+
+The highest number of indoor admissions were reported in districts Kasur i.e. 8053 whereas the highest
+number of indoor total deaths has reported in district Rawalpindi i.e. 264 deaths during the week 49 of
+year 2021.
+
+            DHIS-II Weekly Family Planning Visits, Week 49
+
+ Fig. 15 Percentage of Family planning Visit by Health Facility Wise
+100%
+ 90%
+ 80%
+ 70%
+ 60%
+ 50%
+ 40%
+ 30%
+ 20%
+ 10%
+ 0%
+
+
+
+
+
+          BHU  RHC  THQ  DHQ  THOS
+
+Fig.  15 exhibited the weekly FP visits by health facility wise. During week 49, the overall total FP visits
+were reported as 10,447 visits out of which the highest number of FP visits were recorded in district
+Pakpattan (90% FP Visits) under the health facility Basic Health Unit. These percentages were calculated
+as total FP visits in districts divided by the total FP visits by health facility wise reported during week 43 of
+year 2021.
+
+                                  7
+
+---
+
+Table: 1 Weekly Method-wise FP Clients
+
+
+
+
+DISTRICT     COC        Condom    DMPA Inj  IUCD  Implants     POP        Tubal   Vasectomy
+             cycles     Pieces                                 cycles     Ligation
+
+
+Attock            260     1 588      76         73             1    1
+
+Bahawlnagar       206     346        44         173     3      6
+
+Bhakkar           113     457        95         72            22
+
+Dg Khan           162     827       148         98     15     17    5    18
+
+Jehlum            232     736       191         59      4      1    2
+
+Kasur             135     131        45         108            6
+
+Layyah            114     1 069     205         85      1      3    2    30
+
+Mianwali          187     297        78         44      2      8         17
+
+Muzaffargarh      257     370       133         130     1      1
+
+Okara             197     2 544     103         105     1      1
+
+Pakpattan         155     166        84         104           15
+
+Rahimyar Khan     146     316        96         143            9    19
+
+Rajanpur          203     111        1          23
+
+Rawalpindi        355     2 121     323         125           26
+
+Table: 2 Weekly Status of Family Planning Visits
+
+
+DISTRICT     Total FP  Total PAFP    Total PPFP     Total FP Visits     FP Visits       FP Visits PAFP
+            Visits                                  < 25 yr             PPFP< 25 yr     < 25 yr
+
+             656           5             27          52                                 3
+Attock
+             603                         56          12                                 1
+Bahawalnagar
+             364           11            31          40                  10             11
+Bhakkar
+             501           24            41          11                   9             3
+D.G Khan
+             755           41            52          19
+Jhelum
+             849           1             6           30                   1             1
+Kasur
+             602                         58          27                                 4
+Layyah
+             654           18            45          61                   3             3
+Mianwali
+             792                         14          54
+Muzaffargarh
+            1 303          8            103         104                   4             9
+Okara
+             474           11            50          17
+Pakpattan
+Rahimyar    1 078         102           217         133                  37             28
+Khan
+             548           6             56          15                   1             3
+Rajanpur
+            1 272          71           270          76                  15             42
+Rawalpindi
+
+
+
+
+8

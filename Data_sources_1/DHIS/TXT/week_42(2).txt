@@ -1,0 +1,495 @@
+                   DIRECTORATE GENERAL HEALTH SERVICES
+                                                                                                PUNJAB-LAHORE
+                                                                                            24-Cooper Road, Lahore
+                                                                                 Ph. 042 -99200990; email: hmis.pb@yahoo.com
+
+                                                                             DHIS2 Weekly Bulletin (Week 42, October 16-22, 2023)
+
+EGARD          PORTI It is a matter of great pleasure for me ᵗᵒ                                            The weekly Bulletin would have not been
+&DI                   THA write this message. The importance of                                            possible without support, guidance, and
+                     data planning and implementation is                                                   pertise of Dr. Muhammad Ilyas Gondal,
+                     mense. DHIS is a decision support system                                              rector General Health Services Punjab. The
+Fr                   that will help managers at all levels to                                              regular reviews, discussion, and modification
+                     make evidence based decisions. It will                                                of methodological framework used to
+                     help in planning & development, strategy                                              sure that the Weekly Bulletin meets the most
+                     management, Budgeting and forecasting                                                 rigorous statistical standards and accurately
+about future needs. The MIS team is praise-worthy to                          reflects the status of our Provincial health system.
+ment the system in the whole province and bring reporting                           On behalf of MIS team, Dr. Khalid Mehmood (Director
+ularity to more than 97%.                                                     MIS), Dr. Muhammad Mohsan Wattoo (ADHS-MIS) Mr.
+          The performances of the district management teams and               rooq Ahmed (CPO MIS) and Miss Rukhsana Fawad (Data
+health facilities of the province are available for scrutiny and              alyst) thank to the focal persons of Districts and public health
+evaluation on DHIS. The issues of data validity and data                      professionals who worked to improve our provincial health
+racy needs more efforts and hard working The doctors and                      formation system with their tireless efforts and collaboration
+paramedics should pay heed to the plight of data quality and                  and deserve deepest appreciation for continuing efforts, to be
+accuracy, so that correct and valid figures may be made                       better orientation to address the public health challenges of
+able for the decision makers.                                                 today and tomorrow.
+                                      Dr. Muhammad Ilyas Gondal                                                                       Dr. Khalid Mehmood
+                                 Director General Services Punjab                                                 Director Health Services (P&D and MIS)
+
+Overall review                        constitute overall 61% of the          Out Patient Data
+        The Total OPD Visits dur‐     total   patients    in        week
+ing week 42 of 2023 was 21,69,        41,2023. Out of 68 Priority                      OPD Attendance Age wise week 42,2023
+624. 5% OPD visits decreased          diseases,  (54%)          communi‐               22%                 23%                             50y+
+as compared to                        cable diseases and (46%) are
+the         previous         week     non‐communicable diseases.             48%                                  41%                      15-49y
+(22,73,762  in     week 41 vs         Top 10 communicable disease
+21,69,624 in week 42) while           presented  in          the form of                           14%     17%                             5-14Y
+96% are new OPD patients              graphs and Tables.
+and only 4% are follow up                 Total  ANC          (2,14,977)                           9%      11%                             1-4y
+visits in current week. The           visits were recorded in the
+average OPD per day visits in         Punjab, out of total ANC‐1                                           8% 6%                           <IY
+Facility   types   wise       was     women 16% were reported                                              Female   Male
+higher in DHQ i.e. (923). The         with Hb<10g/dl. Total deliver‐
+highest number of OPD visits          ies 27,047 was conducted in            Total OPD:
+were conducted in District            Punjab during current week,                 Total OPD 21,69, 624. visits were recorded in this week there
+Faisalabad  (2,03,1912)      fol‐     79% Normal deliveries, 21% C‐          were more females (54%) visits than that of males (46%). As is
+lowed by Lahore (1,91,174)            Section and only 0.2% were             sented n the graph, the maximum number of patients belonged
+and Multan (1,24,808) during          Vacuum/Forceps Out of total            to age group (15-49) y.
+the period of week 42. In age         live births, 2% babies were
+and gender wise analysis the          born with LBW <2.5 kg. total           Referred patients:
+percentage of female (54 %)           FP  visits   (41,960)         were                                                Ref From-
+was higher than male (46%)            recorded in this week The              Out of 3,804 referred                      LHW (59%)
+patients   and     the    highest     highest FP visits 76% were             patients 31 % were
+number of patients were re‐           recorded in BHU.                       ferred out and 69%
+ported     in   (15‐49)  y    age              Total indoor 1,13,500 pa‐     tients were referred in.              Referred    Referred in
+group. The overall reporting          tients were admitted during            (59%   referred       from            out         69%
+compliance in Punjab (week            current week, out of which             LHW, 13% patient                      31%
+42) was 94%. it increased             61% patient disease wise ad‐           ferred from SHNS and
+comparatively      with      last     mitted. Out of total Surgeries         28%   Ref  from       other
+week41 (91%).                         (21,957) performed by Anes‐            Health Facilities                                   Ref From-
+68         diseases  were     re‐     thesia 19% GA, 49% LA, 26 %spi‐                                               Ref From-  Other HF
+ported through DHIS‐2.the             nal and 6% other types of                                                     SHNS (13%)  (28%)
+patients reported diseases            Anesthesia.
+
+---
+
+   DHIS2 Weekly Bulletin (Week 42, October 16-22, 2023)
+
+
+
+
+          Average OPD perday Visits durrinfg week 42,2023     Top 10    Communicable diseases week 42,2023
+  1000    923                                                70% 63%
+   800                                                       60%
+                      50%
+600       492         40%
+                 390  30%
+400                   20%                                           13% 12% 5%  1%
+
+200       140                                               10%                 2%        1% 1%           1%  1%
+          36                                                 0%  AT  80  20  5  20     20 20 20           20  20
+  0       BHUs  RHC  THQ  DHQ  THOS                                                 20                        20
+
+
+
+   Average OPD per day visits:
+   The Facility type wise average per day OPD visits over the     Communicable Diseases:
+   period of week 42. According to the bar chart the highest      Figure shows the numbers of patient top 10 communicable dis‐
+   per day visits were recorded under the HF DHQ i.e. 923.        eases in Punjab week42, of the year 2023. In current week ARI
+                                                                  (63%) shared highest burden of disease followed by scabies (12%)
+   Total OPD visits Comperison with last weeks                    and Diarrhea/ gast. is (12%).
+   2280000                                                        **The percentage is calculated by the total number of OPD Com‐
+   2260000                    CA                                  municable disease patients
+   2240000                                                        Percentage of Communicable and Non
+   2220000                                                        Comunicable diseases Week 42,2023
+   2200000                                                        60%    57%
+   2180000      OA                                                50%                          43%
+   2160000                                     N                  40%
+   2140000
+   2120000                                                        30%                          I
+   2100000      W40 2023      W41 2023         W42 2023           20%
+
+   Comparison OPD visits with last 2 weeks:                       10%
+   The highest OPD visits (22,73,762) were observed in week
+   41 among rest of all. During current week OPD visits de‐              Communicable          Non communicable
+   creased by 5%
+
+
+
+
+
+
+
+
+
+
+                                     This Punjab map visualize the
+   Geo location of Meningitis in     cases of Scabies. highest                                            District wise Measles cases
+   Punjab Map. Most of the           den of Scabies in district                                           shown in Punjab Map.
+   cases were highlighted in         bad (7,948) followed by           It indicates the highest cases     est number of Measles were
+   District Sargodha (20) &          Muzaffargarh (5,861), Multan      of Diphtheria in District Jang     highlighted in Sargodha (9),
+   hore (19)                         (5,699) & Kasur (5,191) cases     i.e 21                             Multan (6) & in Chiniot (4).
+
+---
+
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10">DHIS2 Weekly Bulletin (Week 42, October 16-22, 2023)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="10"></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="8">OPD-DISEASE WISE NEW CASES WEEK 42 OF THE YEAR 2023</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Acu Watery Diarrhea/Susp Cholera</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>4320 Diabetes Mellitus 55331 Peptic Ulcer Disease 57316Susp Diphtheria 0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Acute Conjunctivitis</td>
+      <td></td>
+      <td>7917 Diarrhea/Gastroenteritis</td>
+      <td></td>
+      <td>85994 Pneumonia</td>
+      <td></td>
+      <td>3817 Susp Pertussis</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Acute respiratory infections</td>
+      <td>457114Dog</td>
+      <td>(ARI) bite</td>
+      <td></td>
+      <td>3991 Prostate cancer</td>
+      <td></td>
+      <td>5 Susp Anthrax</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Anxiety & Depression</td>
+      <td></td>
+      <td>8625 Drug Dependence</td>
+      <td></td>
+      <td>689 Road Traffic Accidents 27721Susp Brucellosis 0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><u>Asthma </u></td>
+      <td></td>
+      <td><u>30365 Epilepsy </u></td>
+      <td></td>
+      <td><u>1843 Scabies </u></td>
+      <td></td>
+      <td><u>91523Susp Cervical Cancer </u></td>
+      <td><u>39</u></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bloody Diarrhea/Dysentery 2187 Fever (other causes)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>166653Seasonal Influenza ILI 203 Susp Gonorrhea</td>
+      <td></td>
+      <td></td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><u>Breast cancer </u></td>
+      <td></td>
+      <td><u>184 Fractures </u></td>
+      <td></td>
+      <td><u>4531 Silicosis </u></td>
+      <td></td>
+      <td><u>Susp Hepatitis 6430</u></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Burns</td>
+      <td></td>
+      <td>1147 Glaucoma</td>
+      <td></td>
+      <td>1090 Snake bite</td>
+      <td></td>
+      <td>72 Susp Leprosy</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>CVA Stroke</td>
+      <td></td>
+      <td>497 Goiter</td>
+      <td></td>
+      <td>1115 Susp Acute Flaccid Paralysis</td>
+      <td></td>
+      <td>11 Susp Naegleria</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Cataract</td>
+      <td></td>
+      <td>7994 Heat Stroke</td>
+      <td></td>
+      <td>57 Susp Corona Virus</td>
+      <td></td>
+      <td>0 Susp Rubella (CRS) 0</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Chicken Pox</td>
+      <td></td>
+      <td>58 Hypertension</td>
+      <td></td>
+      <td>53639 Susp Enteric / Typhoid</td>
+      <td>4349 
+Fever</td>
+      <td>Susp SARI</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Chikungunya</td>
+      <td></td>
+      <td>0 Injuries</td>
+      <td></td>
+      <td>19539 Susp HIV/ AIDS</td>
+      <td></td>
+      <td>8 Susp Syphilis</td>
+      <td>3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><u>Chronic Liver Dis </u></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><u>2621 Ischemic Heart Dis 13743 Susp Malaria </u></td>
+      <td></td>
+      <td><u>4785 Trachoma </u></td>
+      <td><u>1319</u></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><u>Chronic Obstructive Pulmonary </u></td>
+      <td><u>8694 </u></td>
+      <td><u>Dis</u>
+<u>Lung Cancer </u></td>
+      <td></td>
+      <td><u>8 Susp Measles </u></td>
+      <td></td>
+      <td><u>25 Urinary Tract Infecti</u></td>
+      <td><u>35581</u></td>
+      <td><u>o</u></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><u>Cough >2 Wks (Presumptive </u></td>
+      <td><u>TB)</u>
+<u>10726 </u></td>
+      <td><u>Monkey Pox (Suspected)</u></td>
+      <td></td>
+      <td><u>0 Susp Meningitis </u></td>
+      <td></td>
+      <td><u>49 Worm Infestations14110</u></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Cutaneous Leishmaniasis</td>
+      <td></td>
+      <td>30 Mumps</td>
+      <td></td>
+      <td>7 Susp Neonatal Tetanus</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Dental Caries</td>
+      <td></td>
+      <td>29179 Other UnUsual Disease</td>
+      <td></td>
+      <td>0 Viral Hemorrhagic Fever (CCHF)</td>
+      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Dermatitis</td>
+      <td></td>
+      <td>28618 Otitis Media</td>
+      <td></td>
+      <td>14259 Susp Dengue Fever</td>
+      <td>1857</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+ NON-COMMUNICABLE DISEASES
+ Respiratory Diseases                                     Cases
+ Obstructive Pulmonary Dis                                      8,694
+ Asthma                                                        30,321
+ [Fever (other causes)                                        166,474
+ Skin diseases
+ Dermatitis                                                    28,601
+               Intestinal Diseases
+ Gestro
+               Diarrhea/Dysentery                               2,212
+ Bloody
+               Ulcer Disease                                   57,242
+ Peptic
+ Chronic Liver Dis                                              2,621
+          Diseases
+ Oral
+ Dental Caries                                                 29,049
+ Eye                 diseases
+          &ENT
+ Cataract                                                       7,994
+ Trachoma                                                       1,317
+ Glaucoma                                                       1,090
+ Otitis Media                                                  14,258
+
+                                            DISEASE WISE INDOOR ADMISSION WEEK 42 OF YEAR 2023                                                              Age wise distribution of Indoor Admission
+ Acu Appendicitis                   639 Confirmed Monkey Pox          0 Hyperplasia of Prostate          106 Puerperal Sepsis            194                week 42,2023
+ Acu Flaccid Paralysis (AFP)        13 Congestive Cardiac Failure     925 Hypertension                   2585 Pulmonary Tuberculosis     561
+ Acute Watery Diarrhea / Cholera    947 Corneal Opacity               88 Inflam.Female Pelvic Organs     236 Rabies                       58
+ Allergic Conjunctivitis            91 Corona Virus Dis (COVID)       0 Ischemic Heart Disease (IHD)     2375 Rupture Uterus             182         90%                               Male
+                                    299
+ Anti Partum Hemorrhage (APH)       DNS                               50 Malaria                          71 Seasonal Influenza I LI     36          80%
+ Arthropathies                362 Dengue       fever                  442    Measles                      54 Silicosis                    5          70%    0                          Female
+ Asthma                             2132                             2266 Meningitis                      220 Skin Cancer                13
+                                    Diabetes Mellitus
+ Bloody Diarrhea/Dysentery          268 Diarrhea                     13085 Neonatal Tetanus               3 Sus Enteric / Typhoid Fever  2544        60%
+ Breast Cancer                      72 Diptheria                      0 Other Diseases                 21508      Urolithiasis            134        50%
+ Burns                              288 Drug Abuse                    107 Other Obstetric Complications 1936 Uterine Prolapse            94
+ CVA Stroke                         1170   Ectopic Pregnancies        78 Pertussis                        0 Valvular Heart Dis            375        40%
+ Cataract                           532 Extra Pulmonary Tuberculosis 120 Pneumonia               2132 Vesico          -Vaginal Fistula    132        30%    a      10     A       1                  1T
+ Cholelithiasis / Cholecystitis     477 Fibroid Uterus               225 Postpartum Hemorrhage (PPH)     179 Hemorrhagic Fever (CCHF)
+ Chronic Liver Disease              1384 Fractures                   1279 Pre-Eclampsia/Eclampsia  169 Viral       Hepatitis A            114        20%
+ Chronic Obstructive Airways        737 Glaucoma                      70 Probable Monkey Pox              0 Viral Hepatitis B             155        10%
+ Chronic Otitis Media               164 Head Injury                  1123 Prolonged/ Obstructed Labour 319 Viral Hepatitis C              229         0%
+ Chronic Renal Disease              2955 Heat Stroke                  0 Prostate Cancer                   6 Viral Hepatitis E               2               Less5y  5-14Y  15-49Y  50-69Y               70YPlus
+ Complication of Abortion            240   Hernias                   510 Psychiatric Disorder            127
+MNCH Services
+                                   ANC visits during week 42,2023
+       40%                         ANC visitsHb. <10 g/dl                                                                                            ANC-1 Comperison with last 2 Weeks
+       35%                                                                                                                                  88000
+       30%                                                                                                                                  87000           CAE
+       25%                                                                                                                                  86000                          DO
+       20%
+       15%                  A                                                                                                               85000
+       10%                                                                                                %0%                               84000
+        5%                                                                                                                                  83000
+        0%
+                     ANC-1                         ANC-2              ANC-3                             ANC-4+                              82000
+
+ANC visits:                                                                                                                                 81000
+Total ANC 2,14,977visits were conducted during this week, out of
+which 38% were ANC-1 visits with 16% of Hb<10g/dl, 30% ANC-2 ,17%                                                                           80000
+ANC-3 and 14% ANC-4. Comparison of ANC-1 visits with previous                                                                               79000
+two weeks, as we can clearly have observed the highest ANC-1                                                                                         W40 2023       W41 2023       W42 2023
+visits were in week 40 whereas during this week ANC-1 visits were
+decreased by 5%.
+
+---
+
+DHIS2 Weekly Bulletin (Week 42, October 16-22, 2023)
+
+
+
+
+                                                                                                                                               Types of Deliveries
+
+                                               Deliveries conducted by Health Facility type-wise week
+                                                                     (42,2023)
+      60%
+      50%          50%                                               47%                      43%                                                                       21%
+      40%                                                                                                                                  79%
+      30%                                                       27%                27%
+      20%                             18%
+      10%            13%                       15%                  2%               6%5%         11% B8%                                                                      0.2%
+       0%                                                                                                                        Normal C-Sections Vacuum/Forceps
+                   BHU                RHC                        THQ               DHQ        THOS
+
+                      C-Sections                       Normal             Vacuum/Forceps                                                                     Cases                  %ages
+
+                                                                                                                      Live births                            26581
+Total deliveries 27,047 was conducted in Punjab during current week,                                                  Live births LBW < 2.5kg                560                    2%
+79%          Normal       deliveries,          21%              C-Section          and    only  0.2%         were
+Vacuum/Forceps the highest number of Normal deliveries was                                                            Premature Births                       145                    1%
+ducted in District Lahore (1,593), Faisalabad (1,539) and
+han (1,150). C-Section were performed in Lahore (1,279) and
+Bahawalpur           (311).In         District                  Jang           (18)  highest    number  of                                     Neonatal Deaths with Complications week
+Vacuum/Forcep deliveries were conducted in week 42 of year 2023
+    Total deliveries 27,047 out of which the highest number of                                                                                                 42,2023
+mal Deliveries were performed under the Health Facility BHU i.e 50%,                                                   700       644
+43% C-section THOS and 47% Vacuum/forceps in THQ.                                                                      600
+*The percentage is calculating out of total Deliveries conducted in HFs                                                500
+
+                              Services wise FP Client visits                         Total FP visits (41,960)        400
+         35000                                 Method wise FP dlient Visits          with 2% women were              300                     218       144    138
+         30000                72%              Condom Pieces12,734(43%)              <25yr during the week           200                                                    89
+                                               coC cycles            7,219(24%)      42 of 2023, New FP              100                                                            1
+         25000                                 DMPA Inj              6,473(22%)      clients 72%, 29%    FP            0
+                                               IUCD                  2,889(10%)
+            20000                              POP cycles             311(1%)        counselling    visits     in                MAe           20       20     20           20      2020
+            15000                              Tubal Ligation          67(0%)        which (85% New & 15%
+                                      29%      Implants                22(0%)        Old), 11% FP-Clients Ref
+            10000                              Vasectomy                2(0%)        by LHW, Total 5% PPFP                                                                      re
+             5000  2%                          11%              5%         1%        visits  with  4%  were
+
+             n                                                                       <25yr and only 1% PAFP
+                Total FP      New FP  No of FP FP Clients Total PPFP Total PAFP      with 6% were <25yr
+             Visits < 25 y    visits  Counseling Ref by LHW
+
+This                 graph                   80%           76%
+shows                  the
+Health Facilities                            70%                                                                                        Diagnostic Services (Laboratory Utilization)
+type         wise       FP                   60%                                                                      Sr. Services Provided    OPD    Indoor Sr. Services Provided  OPD Indoor
+visits. The                                  50%                                                                      1 Total Lab             1845732 2315560 5  TotalCT Scan       22031 19252
+est FP visits 76%                            40%                                                                          Investigations
+were recorded                                30%                                                                      2 Total X-Rays           235651 140340 6 Total ECG           113040 87174
+in  BHU,               RHC                   20%                     13%                                              3 Total                  341017 71051 7      Total            21049  7781
+(13%),                 THQ                                                                                                Ultrasonography's                  Echocardiography
+(6%), DHQ (2%)                               10%                                     6%      2%     2%                    Total number of      5750    4802  8 Total ETT            1320  31
+and THOS (2%).                                 0%          BHU       RHC             THQ     DHQ    THOS                  MRI                                9 Total Elisa          7859  11395

@@ -1,0 +1,295 @@
+                   DIRECTORATE GENERAL HEALTH SERVICES
+                                                                         PUNJAB-LAHORE
+                                                                     24-Cooper Road, Lahore
+                                                          Ph. 042 -99200990; email: hmis.pb@yahoo.com
+unicef
+                         DHIS2 Weekly Bulletin (Week 18,                                        29~May 05, 2024)       dhis2
+for     child                                                                        April
+every
+EGARD                  PORTI It is a matter of great     Key Findings: Health Indicators Analysis:
+                            pleasure for me to write      During the 18th week of 2024, our data report underwent a thorough analysis,
+&DI               THA this message. The                  revealing invaluable insights. Through the careful examination of charts and graphs,
+                              tance of data planning     key patterns and metrics were illuminated.
+Fr                     and implementation         is      In Week 18 of 2024, the reporting compliance across all 36 Districts was 92%,
+                       immense. DHIS is a                remaining consistent with the prior week. The total number of OPD visits during
+                            sion support system that     Week 18 of 2024 reached 1,946,134 visits. This indicates a decrease of 16% compared
+                           will help managers at all     to the previous week, which recorded 2,323,415 visits in Week 17, while 96% are new
+levels to make evidence based decisions. It              OPD patients and only 4% are follow up visits in current week.
+                                                          In terms of district‐wise outpatient department (OPD) visits, Lahore District
+will help in planning & development, strategy            led in OPD visits with 196,828, closely followed by Faisalabad (154,053) and Multan
+management, Budgeting and forecasting                    (110,995) in terms of patient footfall.
+about future needs. The MIS team is                       In the analysis of OPD visits during Week 18, there was a slight shift in gender
+worthy to implement the system in the whole              distribution, with females representing 55% of visits and males 45%. Interestingly,
+province and bring reporting regularity to               the age distribution remained consistent, with the majority of visits coming from
+more than 97%.                                           individuals aged between 15 and 49 years old.
+     The performances of the district                     This week, DHIS‐2 documented a total of 68 diseases, encompassing 55% of all pa‐
+agement teams and health facilities of the               tient cases. Among the reported illnesses, communicable diseases constituted 59%,
+province are available for scrutiny and                  showcasing a slight increase, whereas non‐communicable diseases accounted for 41%.
+uation on DHIS. The issues of data validity               Regarding healthcare procedures, this week saw a total of 123,421 indoor ad‐
+                                                         missions recorded, with 63% of patients admitted due to specific diseases. Surgeries
+and data accuracy needs more efforts and                 conducted with anesthesia saw a varied distribution: General Anesthesia (GA) was
+hard working The doctors and paramedics                  used in 18% (3,467), Local Anesthesia (LA) in 54% (10,230), Spinal Anesthesia in 23%
+should pay heed to the plight of data                    (4,287), and alternative anesthesia methods in 5% (872).
+ity and accuracy, so that correct and valid               Within the maternal health domain, ANC visits totaled 213,465 in Punjab for
+figures may be made available for the                    Week 18, with ANC‐1 (n= 77,458) reporting 15% (11,855) with Hb<10g/dl. Deliveries
+sion makers.                                             numbered 19,962, comprising 83% Normal deliveries, 17% C‐Section, and 0.2% Vac‐
+                           Dr. Muhammad Ilyas Gondal     uum/Forceps. Among the live births (19,635), 2% babies were born with LBW <2.5
+                    Director General Services Punjab     kg, and 0.5% were Premature Births. Tragically, 3% (544) of the babies faced specific
+                                                         complications and did not survive. The bar graph shown provides an overview of
+                           The weekly Bulletin would     key maternal and child health metrics.
+                                                          Family Planning (FP) visits tallied 46,923 this week. Week‐wise comparison
+                   have  not  been          possible     shown in line chart. Districts Chakwal Faisalabad and Sialkot retained their positions
+                   without support, guidance,            with 4,300, 3,784, and 3,610 FP visits, respectively, marking consistent engagement.
+                   and expertise of Dr.                   In Week 18, the overall indicators showed an upward trend compared to the
+                   hammad Ilyas Gondal,                  previous week, signaling positive progress across reporting compliance, OPD visits,
+                   rector    General          Health     communicable diseases, ANC‐1, deliveries, and family planning visits, despite the
+                   Services Punjab. The regular          tragic losses observed among newborns facing complications.
+                   reviews,  discussion,         and      Diseases on high alert in this week‐18, 2024
+modification of methodological framework                  Alert: Outbreaks:
+used to ensure that the Weekly Bulletin meets             • HeatstrokeMeasles
+the most rigorous statistical standards and               • Suspected Diarrhea/Gastroenteritis
+                                                          • Suspected
+curately reflects the status of our Provincial
+health system.                                           Out Patient Data
+     On  behalf    of  MIS  team,  Dr.        Khalid     Age and Gender                         Age and Gender wise OPD Attendance week 18, 2024
+Mehmood (Director MIS), Dr. Muhammad                     Wise Analysis:
+Mohsan Wattoo (ADHS-MIS)      Mr.             Farooq     Total          OPD
+Ahmed (CPO MIS) and Miss Rukhsana Fawad                  1,946,134      visits           60%                        50%
+(Data Analyst) thank to the focal persons of             were recorded in            50%                               42%
+tricts           and public health professionals who     this      week    there     40%
+worked to improve our provincial health                  were      more
+mation system with their tireless efforts and            males (55%) visits          30%                                                        22% 24%
+laboration and deserve deepest appreciation              than that of males          20%                  11% 13% 16%
+for continuing efforts, to be better orientation         (45%). The                  10%        6% 8%  8%
+to address the public health challenges of today         ity of patients in
+and tomorrow.                                            this  context   fell             0%    <1Y      5-14Y
+                                  Dr. Khalid Mehmood     within    the       age                       1-4y            15-49y                   5oy+
+              Director Health Services (P&D and MIS)     range of 15 to 49                                     Female    Male
+                                                         years old.
+
+---
+
+DHIS2 Weekly Bulletin Week 18, April 29 ~ May 05, 2024
+
+
+Total OPD Visits Weekly Comparison    Speciality wise OPD new cases during week 18, 2024
+
+
+    2                    S    S                                       N     1200 k    P
+               M                         S0                                 1000 k
+                                                                             8oo k     A
+                                                                             6oo k
+                                                                             400 k     18 10
+    W11        W12      W13   W14        W15     W16 W17              W18   200 k       $15                    $11×8×8×                  X×1×\11₁ 1515¥4 x
+    2024       2024     2024  2024       2024    2024  2024           2024      ok
+
+OPD Visits Week Wise Comparative Analysis:                                            20 2020 02020 ᴱ t 20 2                             20 ᴰᴬᵀ 202020 0 20 2020202020
+During the comparative analysis of weekly OPD visits, it was
+observed that in Week 16, the peak number of visits reached
+2,355,469, marking the highest count compared to other
+weeks. Conversely, Week 15 recorded the lowest OPD visit
+count due to the temporary closure of health facilities. Ho‐
+wever, in the current week, there was a notable 16% decrease                Specialty wise OPD cases:
+compared to the previous week.                                              OPD visits by specialty were distributed as follows
+               Top 10 Communicable diseases week 18, 2024                    Punjab Map ‐ Susp Di‐
+70%     63%                                                                  arrhea/ Gastroenteri‐
+ 60%                                                                         tis)
+ 50%                                                                         This Punjab map visual‐
+ 40%                                                                         izes the cases of sus‐
+30%                                                                          pected
+20%            16%                                                           diarrhea/gastroenteri‐
+10%                      10%  5%                                             tis. The highest
+                                    2%   1%      1%  0.5%       0.4%0.4%     number of cases were
+ 0%     MAT     20        80   m    20   20      20    20      20     20     reported in District La‐
+                                         20                                  hore (7,963), followed
+                                                                             by Faisalabad (7,285),
+                                                                             and Gujranwala (5,856)
+                                                                             in Week 18. Diarrhea
+                                                                             has significantly af‐
+                                                                             fected patients under 5
+             Top 10 Non-Communicable diseases week 18, 2024                  years of age, followed
+35%                                                                          by those in the age
+30%     32%                                                                  group of 15‐49 years.
+25%
+20%
+15%            11%     10%    10%                                                                                                                                     Punjab Map ‐
+10%                                  6%  5%      5%  4%        3%     2%                                                                                              Susp Measles:
+ 5%
+ 0%     20     20       20    20     20  20      2   20        20     20                                           Rawaind                                            This Punjab map
+                                                                                                                   Attock  (04)                                       visualizes the
+                                                                                                                   (o)    Jhely               Gujrat                  district‐wise
+                                                                                                                   Chakwal  $o                          Sialkot Narowa
+                                                                                                                                   M.B. Din   Guir                    cases of
+                                                                                          Mianwali Khushab Sargodha                      Hafizabad      (21)          measles. The
+                                                                                          (p1)                                           Wankada  Sheikhu
+                                                                                                                                         (03)hib         (o2)         highest number
+                                                                                                                           ChiniotFaisalabad          Kasur           of measles cases
+Communicable and Non‐Communicable Diseases:                                               Bhakar                   Jhang                 Okara                        were reported in
+In Week 18 of 2024 in Punjab, there was a notable incidence of major                                 Layyah        (07)TT                Pakpa                        District Rahi‐
+communicable diseases. Acute Upper Respiratory Infections (AURI)                                                   Kh hanewal  Sahiwa                                 myar Khan (40)
+accounted for a significant 63% of cases, indicating a concerning                      D.C.         Muzaff-        (02)     Vehari Bahawaljagar                       and Bahawalpur
+trend. Following closely behind were cases of Diarrhea/Gastrointes‐                    Khan (07) argarh                                                               (24). Measles
+                                                                                             MultanLodhran                                                            has significantly
+tinal issues and Scabies, each making up 16% and 10% of the total, re‐                                     (17)                                                       affected patients
+spectively. Conversely, among Non‐Communicable Diseases, the                          Rajanpur                                                                        under 5 years of
+major issue was Fever of unknown origin, comprising 32% of cases.                                              Bahawalpur (24)                                        age. Immediate
+This was followed by incidents of Peptic Ulcer and Hypertension,                       RahimyarKhan                                                                   and serious ac‐
+both contributing 11% and 10% to the total caseload, respectively.                     ((40)                                                                          tion is required
+These insights were gathered from patients seeking medical atten‐                                                                                                     to address this
+tion in outpatient departments for both communicable and non‐com‐                                                                                                     outbreak.
+municable diseases during this period.
+
+---
+
+                              DHIS2 Weekly Bulletin Week 18, April 29 ~ May 05, 2024
+
+                                                 SUSpeCted OPD DISEASE WISE NEW CASES WEEK 18 OF THE YEAR 2024
+sr.                 Respiratory Diseases                          Sexually Transmitted Infection                                        Eye & ENT
+1 Acute (upper) Respiratory Infections (AURI)    397,665     19 Urinary Tract Infection UTI                  30,348     36 Cataract                   5,260
+2 Pneumonia                                        1,695      Vaccine Preventable Diseases/Hepatitis                    37 Trachoma                     781
+3 Cough >2 Wks (Presumptive TB)                    8,308    Suspected 20 Hepatitis                            7,435     38 Glaucoma                     697
+4 Chronic Obstructive Pulmonary Dis                6,077      Susp Malaria                                     2925     Otitis Media                 10,872
+                                                              21                                                        39
+5 Asthma                                          24,412     22 Susp Meningitis                                  27     Acute Conjunctivitis          2,204
+                                                                                                                        40
+                    Communicable Diseases                    23 Susp Acute Flaccid Paralysis AFP                 12           Endocrine Disorder
+6 Susp HIV/ AIDS                                     6   24 Susp     Corona Virus                                 3     41 Diabetes Mellitus          43,878
+7 Susp Measles                                     133                           Gestro Intestinal Diseases             42 Goiter                        475
+8 Susp dengue fever                                825        25 Diarrhea/Gastroenteritis                    97,326           Psychiatric Diseases
+9 Seasonal Influenza ILI                             5        Acu Watery Diarrhea/Susp Cholera                2,294     Anxiety & Depression           8,742
+                                                              26                                                        43
+10 Chicken Pox                                      10        27 Bloody Diarrhea/Dysentery                    1,231     Epilepsy                       1,206
+                                                                                                                        44
+11 Fever (other causes)                          145,627     28 Susp Crimean Congo Hemorrhagic Fever (CCHF)       1     45 Drug Dependence              586
+12 Suspected Cervical Cancer (HPV)                    14     29 Worm Infestations                            12,572           Injuries / Poisoning
+13 Susp Enteric / Typhoid Fever                    1,737     30 Peptic Ulcer Disease                         52,085     46 Road Traffic Accidents    24,630
+     Skin Diseases                                           31 Chronic Liver Dis                             2,170     47 Injuries                  15,198
+14 Scabies                                        61,281                 Cancer Diseases                                48 Fractures                  3,240
+15 Dermatitis                                     18,626      32 Lung Cancer                                      4     49 Burns                        943
+16 Cutaneous Leishmaniasis                             4     33 Breast cancer                                    91     Dog bite
+                                                                                                                        50                            4,393
+Cardiovascular Diseases                                      34 Prostate cancer                                  35     Snake bite                       44
+                                                                                                                        51
+17 Ischemic Heart Dis                              8,389                  Oral Diseases                                       Neurological/ Neurosurgical
+Hypertension                                   46,682 35        Dental Caries                                          CVA  Stroke
+18                                                                                                           27,147     52                                275
+
+
+                   Age and Gender wise Indoor Admission Week 18, 2o24                                                                  Others, 5%                           General
+       50%                                                                                                                                                           Anesthesia, 18%
+ 45%
+ 40%
+ 35%                                                                                                                          Spinal
+ 30%                                                                                                                          Anesthesia, 23%
+ 25%
+ 20%
+ 15%
+ 10%
+       5%
+       0%                 <5y           5-14Y         15-49Y              50-69Y                70Y+
+  Male                    30%           13%            30%                 19%                    9%
+ Female                   22%           17%            43%                 13%                    5%                                                                          Local
+                                                                                                                                                                            Anesthesia, 54%
+
+Age and Gender Wise Analysis:                                                                                  Surgeries with type of Anesthesia:
+A total of 123,421 patients were admitted indoors during the current                                           Throughout 18,856 surgeries, various anesthesia methods
+week, out of which 63% were admitted based on their disease. 1%                                                were employed. General anesthesia (GA) was used in 18%
+were referred, and only 2% experienced indoor deaths during this                                               (3,467) of surgeries, while local anesthesia (LA) was 54%
+week. An age and gender‐wise analysis revealed that the highest                                                (10,230). Spinal anesthesia contributed to 23% (4,287) of
+number of patients fell under the age group of (15‐49) years. In this                                          procedures, with 5% (872) involving other alternative anes‐
+age group, 43% were female patients, while males constituted 30%.                                              thesia methods.
+                                                                         DISEASE WISE INDOOR ADMISSION WEEK 18 OF YEAR 2024
+sr.                 Medicine                            21 Measles                         242  38 Chronic Renal Disease                     2,508 56                Cancer Diseases
+       Diarrhea                                  26,30122 Malaria                           39  39 Glaucoma                                         8 57 Silicosis                                             9
+ 2 Pneumonia                                     1,965 23 Viral Hepatitis A                 75  40 Allergic Conjunctivitis                       6 58    Breast   Cancer                                      21
+ 3 Bloody Diarrhea/Dysentery                      266 24 Viral Hepatitis B                  62                       ENT                           59      Skin   Cancer                                       2
+       Acute Watery Diarrhea / Cholera           1250 25 Viral Hepatitis C                  91  Chronic Otitis Media                               52                  Surgical
+ 4                                                                                              41
+ 5 Asthma                                        2,035 26 Viral Hepatitis E                5 42 DNS                                             70 60       Acu          Appendicitis                        585
+ 6 Chronic Obstructive Airways                     446      Communicable Diseases                              Gynaecological                      61     Burns                                              328
+ 7 Pulmonary Tuberculosis                        382 27 Dengue fever                        17  43 Fibroid Uterus                              111 62   Cholelithiasis /                       Cholecystitis 309
+ 8 Extra Pulmonary Tuberculosis                  65 28 Seasonal Influenza I L I             43  44 Inflam. Diseases of Female Pelvic Organs (PID 210 63 Hernias                                              445
+ 9 Sus Enteric / Typhoid Fever                   2,169 29 Diptheria                        2 45 Uterine Prolapse                                71 64 Hyperplasia     of              Prostate                66
+ 10 Diabetes Mellitus                            1,805³⁰ Meningitis                        241 46 Vesico -Vaginal Fistula                    153 65 Urolithiasis                                              74
+ 11 Chronic Liver Disease                        1,251 31 Rabies                            46    Obstetrics/Maternal Complications                                    Psychiatric Diseases
+ 12 Chronic Renal Disease                        2,508      Neurological/Neurosurgical          47 Anti Partum Hemorrhage (APH)                171 66      Drug    Abuse                                      74
+                   Cardiac Diseases                   32 CVA Stroke                     997 48   Complication    of Abortion                 189 67 Psychiatric Disorder                                     151
+ 13 Congestive Cardiac Failure (CCF)             621 33 Head Injury                     706 49 Ectopic   Pregnancies                               74
+ 14 Hypertension                                 2,54934 Heat Stroke                         1  50 Postpartum Hemorrhage (PPH)                    134
+ 15 Ischemic Heart Disease (IHD)                 2,092      Orthopedic Diseases                 51 Pre-Eclampsia/Eclampsia                        120
+ 16 Valvular Heart Dis                          243 35  ᴬʳᵗʰʳᵒᵖᵃᵗʰⁱᵉˢ                     228 52 Prolonged/ Obstructed Labour                     157
+       Vaccine Preventable diseases/hepatitis         36                                                                                          105
+                                                        Fractures                        1,305  53 Puerperal Sepsis
+ 19 Neonatal Tetanus                                 1                  Eye                     54 Rupture Uterus                                  69
+20 Acu Flaccid Paralysis (AFP)                       7  Cataract                           272  Other Obstetric Complications                    1534
+                                                      37                                        55
+
+---
+
+                             DHIS2 Weekly Bulletin Week 18, April 29 ~ May 05, 2024
+
+MNCH Services
+                                      Weekly Comparative Study of Anemic Women Attending First               Analyzing Weekly Trends in Types of Deliveries
+                                                           Antenatal Care                      30K
+                                                                                                      25K                            il
+     100K                             ANC1        ANC1 Hb. <10 g/dl                              25K  2oK 23K        22K         21K                                         25K  23K  20K
+9oK                                                     15                                     2oK                                   17K
+8oK               1                   1l    10                                      1                                                                                                  16K
+7oK                                                                                              15K                                    12K
+6oK
+50K                                                                                              10K
+40K                                                     G                                        5K
+3oK             HAT  1                    1       A0                   XI       1s        AT
+2oK                                                          I                                   oK
+10K                                                                                                   20K    18K     17K                                    17K  12K         19K  18K  16K
+oK           W11 2024 W12 2024 W13 2024 W14 2024 W15 2024 W16 2024 W17 2024 W18 2024                  25K    23K     22K                                    21K  15K         25K  23K  2oK
+                                                                                                      W11 2024 W12 2024 W13 2024 W14 2024 W15 2024 W16 2024 W17 2024 W18 2024
+
+Weekly Comparative Analysis of ANC‐1 Visits and ANC‐1 Hb. <10g/dl.                             Exploring Weekly Total Number of Deliveries Conducted and
+The graphical study illustrating the weekly comparison indicates a                             PNC‐1 Visits Trends:
+significant decrease in ANC‐1 visits from Week 16 to Week 18. Observ‐                          The analysis of delivery methods and PNC-1 visits week by week
+ing the last three weeks, there was a 10% decrease in the current                              cates that Week 11 exhibits the highest number of deliveries
+week compared to the prior Week 17. Additionally, the number of                                pared to all other weeks, while Week 15 records the lowest due to
+anemic women attending their first antenatal care visit also declined,                         the closure of health facilities. Furthermore, in the current week, Week
+with 15,033 in Week 17 and 11,855 in Week 18.                                                  18, there is a 13% decline in deliveries compared to the previous week.
+
+             Maternal Complications in Obstetrics: Inpatient Admissions,            Live Births and Maternal                Neonatal Deaths with Complications week 18,
+                                      Week 18, 2023                                 Deaths:                                                     2024
+    1,800    1,534                                                                  This          week, we unfor‐        350
+    1,600                                                                           tunately documented 6                300
+    1,400                                                                           maternal deaths, one of              250    300
+    1,200
+1,000                                                                               which was linked to com‐             200
+  800                                                                               plications from Postpar‐             150
+  600                 189                                                                                                100            80                              69
+  400                        171      157    133        120  105  74        68      tum Hemorrhage (PPH),                                                                    68
+  200                                                                               and the other attributed              50                                                      24   3
+-            2020     20     20       20     20         20   20        20   20      to Ruptured Uterus. Ad‐          o           20     20                              202       20  20  202
+                       20     20        2     20         20                         ditionally,  among        the
+                                                                                    19,635 total live births,                           1Af
+                                                                                    3% (544 newborns) did
+                                                                                    not survive due to child‐
+                                                                                    birth complications.
+                             Method wise Family Planning week 18, 2024                                       Analyzing Weekly Trends in Family Planning Visit
+         20,000 17,760
+         18,000                                                                                  70K
+         16,000
+         14,000                                                                                  60K
+         12,000              8,801                                                               50K         A              A                                                         16
+         10,000                       8,022                                                                          1               ¥1                                                   $\f
+         8,000                                                                                   40K
+         6,000                                 3,010                                             30K
+         4,000
+         2,000                                          398       54      29        16           20K                                        1A
+             o        20     20       0        80           20    20      20        20             10K
+
+                                                                                                    oK
+                                                                                                      W11       W12     W13          W14    W15                              W16      W17 W18
+                                                                                                      2024      2024    2024         2024   2024                             2024     2024 2024
+
+Family Planning:                                                                                                             clients and 17% (1,500) from returning clients. Visits referred by
+In the 18th week of 2024, there were 46,923 family planning visits                                                             Lady Health Workers (LHWs) accounted for 9% (3,999). Postpar‐
+recorded. Of these, 2% (1,028) were made by women under the                                                                 tum family planning (PPFP) visits comprised 4% (2,103) of the total,
+age of 25. New clients constituted a significant portion, with 70%                                                           with 3% (73) of these visits made by women under 25. Additionally,
+(32,677) of the total visits. Family planning counseling sessions                                                             Post‐Abortion Family Planning (PAFP) visits represented 1% (479)
+made up 19% (9,009) of the visits, with 83% (7,509) being from new                          of the total, with 5% (26) involving women under 25.

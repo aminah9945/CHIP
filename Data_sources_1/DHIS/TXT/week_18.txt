@@ -1,0 +1,1088 @@
+  DHIS- DISTRICT HEALTH INFORMATION SYSTEM (MIS CELL)
+
+      DIRECTORATE GENERAL HEALTH SERVICES, PUNJAB
+
+Weekly Feedback Report DHIS-II (2ⁿᵈ May – 8ᵗʰ May, 2022)
+    Tel: [+92-99200990 e-mail: hmis.pb@yahoo.com
+      Tel: [+92-99200990 e-mail: hmis.pb@yahoo.com
+
+
+
+
+
+    Summary:
+    In this report, different indicators of health facility are discussed. The data of teaching/tertiary care hospitals is also included. The
+    detailed analysis of week 18 of year 2022 are being presented in this report. The reporting regularity of districts
+    Bahawalnagar, Chiniot, Gujrat, Mandi Bahauddin and Mianwali are 100% whereas district Hafizabad, Jhang,
+    Rajanpur, Rawalpindi and Sargodha have far below reporting compliance for the week 18 of year 2022.
+    The total OPD Visits during week 18 of 2022 was 825K out of which 188K were reported in BHU(all), 141K were reported in
+    RHC (all), 276K were reported in THQ (all), 100K were reported in DHQ(all) and 120K were reported in Teaching hospitals.
+    On average, 14 OPD per day visits were reported in BHU’s, 99 per day visits were reported in RHC’s, 535 per day visits were
+    reported in THQ hospitals, 758 per day OPD visits were reported in DHQ hospitals and 1177 OPD per day visits were reported
+    in Teaching Hospitals. It is calculated as total OPD visits by dividing the number of reporting health facilities and the total number
+    of days excluding Sunday.
+    Fifty-three diseases are reported through DHIS, out of which eleven prone Epidemic diseases of 31 districts of Punjab on which
+    DHIS-2 is implemented successfully, have been discussed in this report through DHIS-2 software.
+    Antenatal care coverage is an indicator of access and utilization of health care services during pregnancy.
+    During week 18, the overall ANC-1 reported coverage in 31 districts of Punjab was 26,997 of the total expected population
+    (3.4%). On average, the highest number of visits of ANC-1 has been recorded in district Faisalabad under the health facility
+    BHU i.e. 1,113 visits.
+    Delivery coverage at health facility is an indicator of utilization of delivery services provided at public health facilities. The
+    overall percentage of deliveries cond ucted in health facilities of 31 districts of Punjab. During week 18 the highest (31%) C
+    section cases has reported in district Hafizabad and the highest cases (100%) of normal delivery cases were reported in district
+    Chiniot and Rajanpur.
+    Indoor patient’s data of week 18 has shown in (fig. 6 & fig. 7) which cleared the statistics of indoor admissions and death.
+    During week 18, family planning visits reported from the public health facilities against the expected population were 12, 863.
+    The highest number of FP visits were reported in district Rajanpur (91%) under the health facility Basic Health Unit.
+
+
+
+
+
+
+
+
+
+
+    1
+
+---
+
+DHIS-II WEEKLY REPORTING COMPLIANCE PUNJAB, WEEK 18
+
+F i g .                                         1
+
+Daily IPD                               Daily OPD        Daily RMNCH
+100 100 100
+  89 94 100
+         93     96 100
+        100 100 100 85           90 100 84   99 100
+                                           83   83 100      90 91 100
+                                                         85 100 100
+                                                          99 99 100                          48 72 100
+                    95      99 100                                                              43 53    10095    99 100
+   74 83 99
+61 66    99   78 87 96                                 66 71 95 93 95               98                95    96 98
+                                                    89 90 94 88 90 94               78    86 91
+              59 68 84               65 77 79            56 71 75 75                77       81    30 72    72
+                                                                                             43 57 58
+                                                 46 48 51
+                                15   16 36
+
+
+
+
+
+
+
+
+Reporting compliance showed that how timely and regularly the concerned 31 districts of Punjab are
+reporting data to meet the data targets.
+
+In DHIS-2, we have three daily basis reporting forms to which concerned districts enter the data on daily
+basis and else three monthly basis forms at which they enter the data on monthly basis as well. The target
+for reporting compliance is 100% and it can be seen that from fig. 1, the reporting regularity of districts
+Bahawalnagar, Chiniot, Gujrat, Mandi Bahauddin and Mianwali are 100% whereas district Hafizabad,
+Jhang, Rajanpur, Rawalpindi and Sargodha have far below reporting compliance.
+
+
+
+
+
+
+
+
+
+
+2
+
+---
+
+                                                       REPORTED PATIENTS THROUGH OPD IN HEALTH FACILITY, WEEK 18
+                                                                                Table: 1
+
+DISTRICT           OPD HEALTH FACILITY WISE                                 Per Day OPD HEALTH FACILITY WISE
+                 BHU       RHC          THQ          DHQ       THOS         BHU        RHC      THQ     DHQ      THOS
+
+Attock             3248     1900         9669          2763                  9            53     322      461
+Bahawalnagar       6743         4448         9459      9392                      11       74     394     1565
+Bahawalpur         6081         6838        20446                  13409         14       95     852             1117
+Bhakkar            3630         2226         5613      6728                      16       74     312     1121
+Chakwal            5235         5153         9588     10942                      14       78     400     1824
+Chiniot            2357         1178         3498      1360                      11       65     292      227
+D.G Khan           6706     5136         1936                   7721         21           95     161             1287
+Faisalabad        17933         7618        32833                  12964         18       85     912              432
+Gujranwala         6525         4299        16988                                12       60     944                0
+Gujrat             5526         3300         8353                     49         10       61     232                8
+Hafizabad          1428         2874                    775                       7       68       0      129
+Jhang              3499         3374         2291      8055                      10       56     127     1343
+Jhelum             5583     8613         4336          2052                  19          239     361      342
+Kasur              9977         6750        15060     17037                      21      102     628     2840
+Khanewal           5529          566         3140      2111                      11       10     174      352
+Khushab            2032     1402         5218          1374                       8       47     217      229
+Layyah             2412         1417        15529      6067                      11       39     431     1011
+Lodhran            8043         2108         2428                                28       88     202        0
+M.B Din            3245         2967         2807       716                      11       55     156      119
+Mianwali           3301         8956         9226      2145                      13      149     513      358
+Multan             8888         4110         7601      5513        14740         18       86     633      919     491
+Muzaffargarh       6969        11312        10560      5454                      16      145     440      909
+Nankana Sahib      2665     4610         3736          2037                       9      110     311      340
+Okara              2703         2935         4235      5411                       5       49     353      451
+Pakpattan          3361         3747           45      6388                      10      125       8     1065
+Rahimyar Khan     15827        10367        18419                  23406         25       91    1023             3901
+Rajanpur           3399         3792         5181      2245                      18       90     432      374
+Rawalpindi         6798         2561        14722                  38060         11       53     351             1269
+Sargodha           9460         3347        12909                   9712         12       46     215             1912
+T.T Singh          7812         4426         9372                                19       92     521        0
+Vehari            10715         8373        11005      1443                      24      100     917      241
+Total              188K         141K         276K      100K         120K         14       99     535      758    1177
+
+
+Table: 1 shows the district wise total OPD Visits by health facility during week 18 of year 2022. The total OPD
+Visits during week 18 of 2022 was reported as 825K out of which 188K were reported in BHU(all), 141K were
+reported in RHC (all), 276K were reported in THQ(all), 100K were reported in DHQ(all) and 120K were reported
+in Teaching hospitals. The health facilities that are showing zero OPD visits is because of they are not reporting
+at daily basis on DHIS-2 software. The highest number of OPD visits were conducted in district Faisalabad
+under the health facility THQ during the period week 18 of year 2022.
+
+
+
+
+
+
+
+
+
+
+3
+
+---
+
+              Fig. 2 Average OPD Per Day Visits by Health Facility              Average OPD Per Day Visits by
+      1400                                                            1177      Health Facility Wise
+      1200
+      1000                                                                      Fig. 2 displayed the average OPD per day
+       800               758                                                    visits  by  health  facility  wise.  This  is
+       600           535                                                        calculated as ratio between the total OPD
+       400                                                                      visits in all 31 districts of Punjab reported
+       200    14     99                                                         in DHIS-2 software and reporting number
+         0    BHU(ALL)  RHC(ALL)  THQ(ALL)  DHQ                       THOS      of health facilities and then divided it to
+                                                                                the 6 week days excluding Sunday. During
+ week 18 of year 2021, 14 per day visits were reported in Basic Health Unit (BHU’s), 99 per day visits per
+ reported in Rural Health Care (RHC’s), 535 per day visits were reported in THQ hospitals, 758 per day visits
+ were reported in DHQ hospitals and 1177 per day OPD visits were reported in teaching hospitals. It is to
+ be noted that, DHQ     Hafizabad and Sargodha and teaching hospitals of Gujranwala are not reporting
+ completely on daily basis at DHIS-2 Software. That is why, the average per day health facility is affected.
+
+              Fig. 3 Average Per Day OPD Visits in Teaching Hospitals
+40,000        38,060                                                             Average OPD Per Day Visits in
+35,000                                                                           Teaching Hospitals
+30,000
+25,000                   23,406
+20,000                          14,740                                           Fig. 3 displayed the Average OPD
+15,000                                     12,964   9,712                        per day visits in teaching hospitals
+10,000                                                                           during the week 18 of year 2022. It
+ 5,000                                                        1,287   1,117      can be seen that the highest no. of
+ -
+                                                                                 OPD per day visits are recorded in
+                                                                                 district Rawalpindi.
+
+
+
+
+
+
+
+
+
+
+ 4
+
+---
+
+Table :2 Prone Epidemic Diseases
+
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICT</th>
+        <th>Seasonal Influenza ILI</th>
+        <th>AFP</th>
+        <th>SuspEnteric / Typhoid Fever</th>
+        <th>Susp HIV/ AIDS</th>
+        <th>Susp Measles</th>
+        <th>Susp Meningitis</th>
+        <th>Susp Neonatal Tetanus</th>
+        <th>Susp Viral Hemorrhagic Fever (CCHF)</th>
+        <th>Susp dengue fever</th>
+        <th>Susp diphtheria</th>
+        <th>Susp pertussis</th>
+        <th>Chicken Pox</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Attock</td>
+        <td>73</td>
+        <td>1</td>
+        <td>41</td>
+        <td></td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>36</td>
+        <td>3</td>
+        <td></td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Bahawalnagar</td>
+        <td></td>
+        <td>1</td>
+        <td>9</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Bahawalpur</td>
+        <td>44</td>
+        <td>1</td>
+        <td>19</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Bhakkar</td>
+        <td></td>
+        <td></td>
+        <td>5</td>
+        <td></td>
+        <td></td>
+        <td>4</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Chakwal</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Chiniot</td>
+        <td></td>
+        <td></td>
+        <td>40</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D.G Khan</td>
+        <td></td>
+        <td></td>
+        <td>35</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Faisalabad</td>
+        <td></td>
+        <td></td>
+        <td>83</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>6</td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td>15</td>
+    </tr>
+    <tr>
+        <td>Gujranwala</td>
+        <td></td>
+        <td></td>
+        <td>44</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>103</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Gujrat</td>
+        <td>22</td>
+        <td></td>
+        <td>85</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Hafizabad</td>
+        <td></td>
+        <td></td>
+        <td>22</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Jhang</td>
+        <td></td>
+        <td>5</td>
+        <td>43</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>17</td>
+        <td></td>
+        <td>5</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Jhelum</td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td></td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Kasur</td>
+        <td>25</td>
+        <td></td>
+        <td>121</td>
+        <td></td>
+        <td>10</td>
+        <td></td>
+        <td>4</td>
+        <td>42</td>
+        <td>26</td>
+        <td>12</td>
+        <td>21</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Khanewal</td>
+        <td>21</td>
+        <td></td>
+        <td>10</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>4</td>
+        <td></td>
+        <td></td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>Khushab</td>
+        <td></td>
+        <td></td>
+        <td>6</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Layyah</td>
+        <td></td>
+        <td></td>
+        <td>96</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Lodhran</td>
+        <td></td>
+        <td></td>
+        <td>32</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>6</td>
+        <td></td>
+        <td>1</td>
+        <td>12</td>
+        <td>41</td>
+    </tr>
+    <tr>
+        <td>Mandi Bahauddin</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Mianwali</td>
+        <td></td>
+        <td></td>
+        <td>87</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Multan</td>
+        <td></td>
+        <td></td>
+        <td>9</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Muzaffargarh</td>
+        <td>2</td>
+        <td></td>
+        <td>92</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>Nankana Sahib</td>
+        <td></td>
+        <td></td>
+        <td>34</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>1</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Okara</td>
+        <td></td>
+        <td>12</td>
+        <td>54</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>7</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Pakpattan</td>
+        <td></td>
+        <td></td>
+        <td>155</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Rahimyar Khan</td>
+        <td></td>
+        <td></td>
+        <td>9</td>
+        <td></td>
+        <td>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>17</td>
+        <td></td>
+        <td></td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Rajanpur</td>
+        <td></td>
+        <td></td>
+        <td>123</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Rawalpindi</td>
+        <td></td>
+        <td></td>
+        <td>125</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>13</td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Sargodha</td>
+        <td>14</td>
+        <td></td>
+        <td>62</td>
+        <td>6</td>
+        <td></td>
+        <td>6</td>
+        <td></td>
+        <td>4</td>
+        <td>37</td>
+        <td></td>
+        <td></td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Toba Tek Singh</td>
+        <td>7</td>
+        <td></td>
+        <td>29</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>13</td>
+        <td></td>
+        <td></td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Vehari</td>
+        <td></td>
+        <td>2</td>
+        <td>98</td>
+        <td></td>
+        <td></td>
+        <td>2</td>
+        <td></td>
+        <td></td>
+        <td>5</td>
+        <td></td>
+        <td></td>
+        <td>28</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>208</td>
+        <td>22</td>
+        <td>1,569</td>
+        <td>8</td>
+        <td>13</td>
+        <td>12</td>
+        <td>4</td>
+        <td>58</td>
+        <td>176</td>
+        <td>16</td>
+        <td>149</td>
+        <td>162</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+5
+
+---
+
+From Epidemic diseases, we mean that affects a large number of people within a community, population
+or region. In above Table:2 prone        epidemic diseases status of 31       districts which are successfully
+implemented on dhis-2 software are displayed According to the descriptive analysis, the highest number of
+Chicken pox cases has reported from the district Lodhran. District Gujranwala has highest number of cases
+for suspected pertussis.         The highest number of suspected Influenza H1N1 cases has reported in district
+Attock during the week 18 of year 2022.
+
+                                                         DHIS-II WEEKLY REPORTED ANC-1 VISITS IN HEALTH FACILITY, WEEK 18
+                                                                                     Table:3
+ DISTRICT                        ANC HEALTH FACILITY WISE              Per Day ANC HEALTH FACILITY WISE
+                         BHU     RHC     THQ      DHQ        THOS      BHU      RHC       THQ        DHQ  THOS
+
+ Attock                   230      37      149         64                  1         1          5     11
+ Bahawalnagar             864     156      101         29                  1         3          4      5
+ Bahawalpur               516     179      276                   61        1         2         12             5
+ Bhakkar                  335      69       93        145                  1         2          5     24
+ Chakwal                  370     145       74                             1         2          3      0
+ Chiniot                  296      32       65         51                  1         2          5      9
+ D.G Khan                 561     116       91                   85        2         2          8            14
+ Faisalabad              1113     308      548                   57        1         3         15             2
+ Gujranwala               736     219      175                             1         3         10             0
+ Gujrat                   462     131      125                             1         2          3
+ Hafizabad                107      17                   1                  1         0                 0
+ Jhang                    655     126       19         14                  2         2          1      2
+ Jhelum                   168      46       16                             1         1          1      0
+ Kasur                    810     263       53        475                  2         4          2     79
+ Khanewal                 421      91      114        108                  1         2          6     18
+ Khushab                  218      31       41                             1         1          2      0
+ Layyah                   204      42      220         58                  1         1          6     10
+ Lodhran                  590      86       48                             2         4          4      0
+ M.B Din                  358     116       39         55                  1         2          2      9
+ Mianwali                 336     100       23         44                  1         2          1      7
+ Multan                   697     150      109         70        93        1         3          9     12    3.1
+ Muzaffargarh             466      96      135         25                  1         1          6      4
+ Nankana Sahib            290      69       17         46                  1         2          1      8
+ Okara                    766     145       34         86                  1         2          3      7
+ Pakpattan                421      92        5         81                  1         3          1     14
+ Rahimyar Khan            947     304      770                   98        2         3         43            16
+ Rajanpur                 274      74       42                             1         2          4      0
+ Rawalpindi               412     101      242                  195        1         2          6             7
+ Sargodha                 603     111      122                   46        1         2          2             8
+ T.T Singh                563     189      397         80                  1         4         22     13
+ Vehari                   785     255       25         65                  2         3          2     11
+
+Table: 3 shows the ANC-1 visits and their average per day visits during week 18 of year 2022. It can be
+seen that the highest ANC-1 visits are reported in district Faisalabad under the health facility Basic Health
+Unit (BHU) i.e. 1,113 during week 18 of year 2022.
+
+
+
+
+
+
+
+
+
+
+6
+
+---
+
+Deliveries Coverage at Health Facility
+
+    Fig. 4 Percentage of Deliveries Conducted During the Week 18
+120%
+100%
+80%
+60%
+40%
+20%
+ 0%
+
+
+
+
+                         C-Sections    NORMAL DELIVERIES+VF DELIVERIES
+
+    The statistics of delivery coverage at health facility (fig. 4) of 31 district of Punjab showed that the
+ highest number of C-section has reported in district Hafizabad i.e. 31% C-section during the week 18 of
+ year 2022 whereas the highest number of normal+ VF deliveries has reported in district Rajanpur & Chiniot
+ (100%) for the week 18 of year 2022. These percentages were calculated as total C-section conducted and
+ total normal deliveries conducted in each districts and divided by the total number of deliveries conducted
+ in week 18 of year 2022.
+
+ Total Number of Deliveries Conducted and PNC-1 Visits
+
+                                       F i g .  5
+2500
+2000
+1500
+1000
+ 500
+   0
+
+
+
+
+          TOTAL DELIVERIES    ANC-1 VISITS    PNC-1 VISITS
+
+In Fig. 5, the comparison between the total Anc-1 visits reported with the number of PNC-1 visits and total
+number of deliveries in 31 districts of Punjab during the week 18 of year 2022 are shown.
+
+According to the data reported on dhis-2, the highest number of deliveries were reported in district
+Rawalpindi i.e. 800 total deliveries, 275 PNC-1 visits and 971 ANC-1 visits were reported in week 18 of
+year 2022.
+
+
+
+
+
+
+7
+
+---
+
+     DHIS-II WEEKLY REPORTED DAILY INDOOR PATIENT (IPD), WEEK 18
+
+     Fig. 6 Indoor Total Admissions
+20000
+18000
+16000
+14000
+12000
+10000
+ 8000
+ 6000
+ 4000
+ 2000
+    0
+
+
+
+
+
+      Fig. 7 Indoor Total Deaths
+ 400
+ 350
+ 300
+ 250
+ 200
+ 150
+ 100
+    50
+   0
+
+
+
+
+    Above Fig. 7 visualized the total admissions in Indoor and Fig. 8 represented the Indoor Total Deaths
+    during the week 18 of year 2022.
+
+    The highest number of indoor admissions were reported in districts Multan i.e. 18,347 also the highest
+    number of indoor total deaths has reported in district Multan i.e. 14,083 deaths during the week 18 of
+    year 2022.
+
+
+
+
+
+
+
+
+
+
+    8
+
+---
+
+              DHIS-II WEEKLY FAMILY PLANNING VISITS, WEEK 18
+
+    Fig. 8 Percentage of Family Planning Visit by Health Facility Wise
+
+100%
+ 90%
+ 80%
+ 70%
+ 60%
+ 50%
+ 40%
+ 30%
+ 20%
+ 10%
+  0%
+
+
+
+
+
+
+    BHU  RHC  THQ  DHQ  THOS
+
+
+                                           Fig.  8 exhibited the weekly FP visits
+    by health facility wise. During week 18, the overall total FP visits were reported as 12,863 visits out of
+    which the highest number of FP visits were recorded in district Rajanpur (91% FP Visits) under the health
+    facility Basic Health Unit. These percentages were calculated as total FP visits in districts divided by the
+    total FP visits by health facility wise reported during week 18 of year 2022.
+
+    Table: 4 Weekly Method-wise FP Clients
+
+
+
+  DISTRICT  COC  Condom  DMPA Inj  IUCD  Implants  POP  Tubal  Vasectomy
+  cycles  Pieces  cycles  Ligation
+
+  Attock  45  256  37  54  5  45
+
+  Bahawalnagar  98  34  11  162  1  98
+
+  Bahawalpur  36  27  31  66  27  6  9  36
+
+  Bhakkar  51  147  19  42  3  51
+
+  Chakwal  53  120  49  32  8  53
+
+  Chiniot  17  103  59  50  1  17
+
+  D.G Khan  59  271  60  43  14  59
+
+  Faisalabad  167  93  18  109  20  9  167
+
+  Gujranwala  48  87  36  79  2  6  48
+
+  Gujrat  57  123  73  61  1  1  57
+
+  Hafizabad  11  25  14  6  1  11
+
+  Jhang  35  52  24  70  1  3  35
+
+  Jhelum  52  114  74  22  52
+
+  Kasur  44  39  9  87  7  25  44
+
+  Khanewal  36  129  21  55  1  1  3  36
+
+  Khushab  22  22  24  24  22
+
+
+    9
+
+---
+
+Lahore             28     32         50      95         2     4             28
+
+Layyah             60     60         18      85               6        1    60
+
+Lodhran            60     62         34      75               1             60
+
+Mandi Bahauddin    57     18         19      11         1     2        2    57
+
+Mianwali          193        261     82     120         1                  193
+
+Multan            155     73         55      54               3            155
+
+Muzaffargarh       76        138     49      49               5             76
+
+Nankana Sahib      85        299     29      54                             85
+
+Okara             110        113     38      81               2            110
+
+Pakpattan          79     70         30     133               5    4        79
+
+Rahimyar Khan      54     32         2       60                             54
+
+Rajanpur          125        260    108      82              13            125
+
+Rawalpindi        204        172     56      72    10         8            204
+
+Sargodha          121     64         48      86         8    21            121
+
+Toba Tek Singh    178        158     31     170         1     7            178
+
+Vehari             45        256     37      54               5             45
+
+
+
+
+Table: 5 Weekly Status of Family Planning Visits
+
+
+DISTRICT  Total FP   Total PAFP  Total PPFP     Total FP Visits     FP Visits    FP Visits PAFP
+          Visits                                < 25 yr             PPFP< 25 yr  < 25 yr
+
+
+Attock          278     11    20          20
+
+Bahawalnagar    389            2          16
+
+Bahawalpur      231      9    12     1     9      3
+
+Bhakkar         254     31    34    26    54     26
+
+Chakwal         339     17     1           7
+
+Chiniot         234     12                17
+
+D.G Khan        241      2     1           7
+
+Faisalabad     1207    103    26     5    97     10
+
+Gujranwala      402     31    22     2    60      2
+
+Gujrat          408     17     8          20      1
+
+Hafizabad        92      7
+
+Jhang           244      5     7          19
+
+Jhelum          260      3     3           7      2
+
+Kasur           607     34    22    18    35     21
+
+Khanewal        264     15    11     2     9
+
+
+
+10
+
+---
+
+Khushab            106     5     7          3     1
+
+                   246     5     7         21     2
+
+Lahore             367    22     4          3     1
+
+Layyah             245     9     1
+
+Lodhran            322    14    30    2    36     2
+
+Mandi Bahauddin    819    21     3    2    40     2
+
+Mianwali           338     9                8
+
+Multan             364    11    22    3    16
+
+Muzaffargarh       611    24     3         41
+
+Nankana Sahib      334     3     2    1    45     3
+
+Okara              611    52    34    8    65     8
+
+Pakpattan          231    13     2         32     8
+
+Rahimyar Khan      431    27    13    4    59     8
+
+Rajanpur           638    42    18    1    49     5
+
+Rawalpindi         612    40     8    2    47     1
+
+Sargodha          1139    44     9         72     2
+
+Toba Tek Singh     278    11    20         20
+
+Vehari             389           2         16
+
+
+
+
+
+
+
+
+
+
+11
+
+---
+
+12

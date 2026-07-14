@@ -1,0 +1,3108 @@
+                                                 S (od s
+PUBLIC HEALTH BULLETIN-PAKISTAN TH               2oy  s
+
+ Integrated Disease             BLi
+                           Surveillance
+ & Response (IDSR) Report
+  Center of Disease Control
+  National Institute of Health, Islamabad AKISTAN
+
+                           http:/www.phb.nih.org.pk/
+Integrated Disease Surveillance & Response (IDSR) Weekly Public Health Bulletin is your go-to resource
+for disease trends, outbreak alerts, and crucial public health information. By reading and sharing this bulletin,
+you can help increase awareness and promote preventive measures within your community.
+
+
+
+
+
+
+   Public Health
+   Bulletin
+   Pakistan
+  Make a difference with
+   your Field work
+
+   C    Share Your Workand Impac t Lives
+
+                      www.phb.nih.org.pk
+                          phb@nih.org.pk
+
+
+
+   CD     UK Health    World Health    USAID    safetynet
+          Security
+          Agency       Organization    I
+
+---
+
+   AL
+   TH
+Public Health Bulletin - Pakistan.     U  N
+
+                                       PAKISTAN
+
+
+
+
+
+
+
+  Overview          Public Health Bulletin - Pakistan, Week 46, 2023
+
+                    This        edition of the Public Health Bulletin summarizes the most
+
+ IDSR Reports       significant public health developments in Pakistan during Week 46 of 2023.
+                    During the current reporting week, Acute Diarrhea (Non-Cholera)
+                    topped the list of reported cases, followed by Malaria, Influenza-Like Illness
+ Ongoing Events     (ILI), Acute Lower Respiratory Infection (ALRI) in children under five, Bloody
+                    Diarrhea, Typhoid, Viral Hepatitis (B and C), Severe Acute Respiratory Infection
+                    (SARI), dog bite, and HIV/AIDS. Notably, Baluchistan reported a high number
+                    of HIV/AIDS and Gonorrhea cases. Both are sexually transmitted infections
+ Field Reports      (STIs), and suspected cases require field verification for confirmation and
+                    prompt intervention. Overall, there has been an increase in cases of Acute
+                    Diarrhea, Malaria, and ALRI in children under five this week. Malaria and Acute
+                    Diarrhea are endemic diseases, and early public health interventions coupled
+                    with community awareness can aid in reducing their burden.
+
+                    This issue of the Public Health Bulletin also provides updates on:
+                    Dengue Fever Outbreak Investigation in Saeedabad, District Matiari , Outbreak
+                    Investigation of Suspected Cholera Cases in Village Abul Hassan, Taluka Daur,
+                    District Shaheed Benazirabad, Field Activities       from Punjab to Launch Final
+                    Polio Vaccination Campaign of the Year and Significant Decline in Dengue
+                    Fever Cases         in Punjab. This issue also includes knowledge on Influenza A
+                    (H1N1): Understanding, Prevention, and Protection
+
+                    The Public Health team urges the public to remain vigilant and seek
+                    immediate medical attention if they experience symptoms associated with any
+                    of the aforementioned diseases. By working together, we can effectively
+                    safeguard the health and well-being of our communities.
+
+                    Working together, we can safeguard the health of our communities.
+
+                                                                              Sincerely,
+                                                                              The Chief Editor
+
+
+   NID     UK Health    World Health     USAID    safetynet
+           Security
+           Agency       Organization     I
+
+---
+
+Overview
+
+
+
+
+           •     During week 46, most frequent reported cases were of Acute Diarrhea (Non-Cholera) followed by
+
+                 Malaria, ILI, ALRI <5 years, B. Diarrhea, Typhoid, VH (B&C), SARI, dog bite and HIV/AIDS.
+
+           •     HIV/AIDS and Gonorrhea cases reported from Baluchistan in high numbers. Both are STIs and
+
+                 suspected cases, require field verification for confirmation and timely response.
+
+           •     There is overall an increase in cases of AD, Malaria and LRTI <5 years this week. Malaria and Acute
+
+                 diarrhea cases are endemic, early public health intervention with community awareness can help
+
+                 reduce the burden
+
+                 IDSR compliance attributes
+
+    •     The national compliance rate for IDSR reporting in 121 implemented districts is 77%
+    •     Sindh and AJK are the top reporting region with a compliance rate of 90% and 87% followed by Baluchistan
+          with 77% and Khyber Pakhtunkhwa 66%
+    •     The lowest compliance rate was observed in ICT and Gilgit Baltistan.
+
+
+    Region    Expected Reports    Received Reports    Compliance (%)
+
+
+    Khyber Pakhtunkhwa    2335    1547    66
+
+
+    Azad Jammu Kashmir    404    353     87
+
+    Islamabad Capital    27      8       30
+    Territory
+
+    Balochistan        1182      916     77
+
+    Gilgit Baltistan      440    257     58
+
+    Sindh              2088     1885     90
+
+    National           6476     4966     77
+
+
+
+
+
+
+
+    NE     UK Health     World Health    USAID    safetynet
+           Security
+           Agency        Organization
+
+---
+
+    Pakistan
+
+
+
+
+
+    Table 1: Province/Area wise distribution of most frequently reported cases during week 46, Pakistan.
+    
+<table>
+    <thead>
+    <tr>
+        <th>Diseases</th>
+        <th>AJK</th>
+        <th>Balochistan</th>
+        <th>GB</th>
+        <th>ICT</th>
+        <th>KP</th>
+        <th>Punjab</th>
+        <th>Sindh</th>
+        <th>Total</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>AD (Non-Cholera)</td>
+        <td>1,301</td>
+        <td>7,319</td>
+        <td>499</td>
+        <td>65</td>
+        <td>18,579</td>
+        <td>82,721</td>
+        <td>40,515</td>
+        <td>150,999</td>
+    </tr>
+    <tr>
+        <td>Malaria</td>
+        <td>81</td>
+        <td>11,040</td>
+        <td>0</td>
+        <td>1</td>
+        <td>5,868</td>
+        <td>3,502</td>
+        <td>77,053</td>
+        <td>97,545</td>
+    </tr>
+    <tr>
+        <td>ILI</td>
+        <td>3,225</td>
+        <td>9,493</td>
+        <td>498</td>
+        <td>249</td>
+        <td>5,767</td>
+        <td>5</td>
+        <td>26,971</td>
+        <td>46,208</td>
+    </tr>
+    <tr>
+        <td>ALRI &lt; 5 years</td>
+        <td>1,479</td>
+        <td>2,581</td>
+        <td>733</td>
+        <td>4</td>
+        <td>2,893</td>
+        <td>NR</td>
+        <td>13,800</td>
+        <td>21,490</td>
+    </tr>
+    <tr>
+        <td>B. Diarrhea</td>
+        <td>53</td>
+        <td>1,981</td>
+        <td>63</td>
+        <td>0</td>
+        <td>946</td>
+        <td>2,093</td>
+        <td>3,596</td>
+        <td>8,732</td>
+    </tr>
+    <tr>
+        <td>Typhoid</td>
+        <td>45</td>
+        <td>972</td>
+        <td>50</td>
+        <td>0</td>
+        <td>718</td>
+        <td>4,608</td>
+        <td>1,652</td>
+        <td>8,045</td>
+    </tr>
+    <tr>
+        <td>VH (B, C & D)</td>
+        <td>9</td>
+        <td>151</td>
+        <td>12</td>
+        <td>0</td>
+        <td>94</td>
+        <td>NR</td>
+        <td>6,351</td>
+        <td>6,617</td>
+    </tr>
+    <tr>
+        <td>SARI</td>
+        <td>356</td>
+        <td>1,385</td>
+        <td>622</td>
+        <td>0</td>
+        <td>1,055</td>
+        <td>NR</td>
+        <td>1,191</td>
+        <td>4,609</td>
+    </tr>
+    <tr>
+        <td>Dog Bite</td>
+        <td>23</td>
+        <td>157</td>
+        <td>0</td>
+        <td>0</td>
+        <td>190</td>
+        <td>NR</td>
+        <td>903</td>
+        <td>1,273</td>
+    </tr>
+    <tr>
+        <td>HIV/AIDS</td>
+        <td>4</td>
+        <td>918</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>NR</td>
+        <td>9</td>
+        <td>933</td>
+    </tr>
+    <tr>
+        <td>AWD (S.Cholera)</td>
+        <td>44</td>
+        <td>308</td>
+        <td>119</td>
+        <td>0</td>
+        <td>38</td>
+        <td>NR</td>
+        <td>260</td>
+        <td>769</td>
+    </tr>
+    <tr>
+        <td>Mumps</td>
+        <td>81</td>
+        <td>173</td>
+        <td>46</td>
+        <td>0</td>
+        <td>99</td>
+        <td>NR</td>
+        <td>289</td>
+        <td>688</td>
+    </tr>
+    <tr>
+        <td>AVH (A&E)</td>
+        <td>26</td>
+        <td>22</td>
+        <td>9</td>
+        <td>0</td>
+        <td>197</td>
+        <td>NR</td>
+        <td>332</td>
+        <td>586</td>
+    </tr>
+    <tr>
+        <td>CL</td>
+        <td>1</td>
+        <td>156</td>
+        <td>3</td>
+        <td>0</td>
+        <td>319</td>
+        <td>12</td>
+        <td>2</td>
+        <td>493</td>
+    </tr>
+    <tr>
+        <td>Measles</td>
+        <td>8</td>
+        <td>108</td>
+        <td>2</td>
+        <td>0</td>
+        <td>214</td>
+        <td>NR</td>
+        <td>70</td>
+        <td>402</td>
+    </tr>
+    <tr>
+        <td>Dengue</td>
+        <td>9</td>
+        <td>20</td>
+        <td>0</td>
+        <td>2</td>
+        <td>38</td>
+        <td>NR</td>
+        <td>220</td>
+        <td>289</td>
+    </tr>
+    <tr>
+        <td>Pertusis</td>
+        <td>4</td>
+        <td>175</td>
+        <td>53</td>
+        <td>0</td>
+        <td>38</td>
+        <td>NR</td>
+        <td>15</td>
+        <td>285</td>
+    </tr>
+    <tr>
+        <td>Chickenpox/ Vericella</td>
+        <td>16</td>
+        <td>12</td>
+        <td>17</td>
+        <td>0</td>
+        <td>147</td>
+        <td>53</td>
+        <td>19</td>
+        <td>264</td>
+    </tr>
+    <tr>
+        <td>Gonorrhea</td>
+        <td>0</td>
+        <td>117</td>
+        <td>11</td>
+        <td>0</td>
+        <td>11</td>
+        <td>NR</td>
+        <td>32</td>
+        <td>171</td>
+    </tr>
+    <tr>
+        <td>Syphilis</td>
+        <td>27</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>4</td>
+        <td>NR</td>
+        <td>34</td>
+        <td>68</td>
+    </tr>
+    <tr>
+        <td>VL</td>
+        <td>0</td>
+        <td>8</td>
+        <td>0</td>
+        <td>0</td>
+        <td>41</td>
+        <td>NR</td>
+        <td>9</td>
+        <td>58</td>
+    </tr>
+    <tr>
+        <td>Meningitis</td>
+        <td>2</td>
+        <td>7</td>
+        <td>0</td>
+        <td>0</td>
+        <td>12</td>
+        <td>NR</td>
+        <td>18</td>
+        <td>39</td>
+    </tr>
+    <tr>
+        <td>AFP</td>
+        <td>7</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>24</td>
+        <td>NR</td>
+        <td>6</td>
+        <td>38</td>
+    </tr>
+    <tr>
+        <td>Diphtheria (Probable)</td>
+        <td>0</td>
+        <td>4</td>
+        <td>1</td>
+        <td>0</td>
+        <td>18</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>23</td>
+    </tr>
+    <tr>
+        <td>Leprosy</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>18</td>
+        <td>NR</td>
+        <td>1</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>NT</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>NR</td>
+        <td>8</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Rubella (CRS)</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>NR</td>
+        <td>8</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>Anthrax</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Brucellosis</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>4</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Chikungunya</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>CCHF</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>NR</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+    Figure 1: Most frequently reported suspected cases during week 46, Pakistan
+
+
+180,000            W44    W45    W46
+    NUMBER OF CASES
+
+160,000            150,999
+
+140,000
+
+120,000
+                          97,545
+100,000
+
+ 80,000
+
+ 60,000                         46,208
+
+ 40,000
+                                      21,490
+ 20,000                                     8,732    8,045    6,617    4,609    1,273    933
+
+    0
+AD (Non-                  Malaria    ILI    ALRI < 5 years  B. Diarrhea  Typhoid  VH (B, C & D)  SARI    Dog Bite  HIV/AIDS
+Cholera)
+
+
+
+
+
+
+
+
+
+
+    NIE     UK Health    World Health     USAID    safetynet
+            Security
+            Agency       Organization     I
+
+---
+
+       •  Malaria cases were maximum followed by AD (Non-Cholera), ILI, ALRI<5 Years, VH (B, C), B. Diarrhea, Typhoid, SARI, dog bite and AVH
+          (A&E). There is a rising trend in ILI cases this week.
+Sindh  •  Two hundred and fifty-one cases of AVH (A& E) reported from Thatta. All are suspected cases and need field investigation to verify cases
+          for timely response activities.
+       •  Typhoid cases are regularly reported and this week highest number of cases reported from Dadu and Khairpur. Field investigation is
+          required to identify the source to control the spread of disease. Furthermore, public health labs should be on board.
+
+
+
+
+Table 2: District wise distribution of most frequently reported suspected cases during week 46, Sindh
+
+<table>
+    <thead>
+    <tr>
+        <th>DISTRICTS</th>
+        <th>Malaria</th>
+        <th>AD 
+(Non-
+Cholera)</th>
+        <th>ILI</th>
+        <th>ALRI &lt; 
+5 years</th>
+        <th>VH (B, C & D)</th>
+        <th>B. Diarrhea</th>
+        <th>Typhoid</th>
+        <th>SARI</th>
+        <th>Dog Bite</th>
+        <th>AVH (A&E)</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Badin</td>
+        <td>3,390</td>
+        <td>2,475</td>
+        <td>810</td>
+        <td>679</td>
+        <td>556</td>
+        <td>244</td>
+        <td>26</td>
+        <td>40</td>
+        <td>68</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Dadu</td>
+        <td>6,250</td>
+        <td>3,315</td>
+        <td>1,831</td>
+        <td>1,432</td>
+        <td>3</td>
+        <td>504</td>
+        <td>608</td>
+        <td>9</td>
+        <td>65</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Ghotki</td>
+        <td>1,324</td>
+        <td>958</td>
+        <td>0</td>
+        <td>729</td>
+        <td>387</td>
+        <td>145</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Hyderabad</td>
+        <td>406</td>
+        <td>1,550</td>
+        <td>450</td>
+        <td>56</td>
+        <td>64</td>
+        <td>34</td>
+        <td>19</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Jacobabad</td>
+        <td>3,594</td>
+        <td>1,238</td>
+        <td>426</td>
+        <td>1,328</td>
+        <td>278</td>
+        <td>132</td>
+        <td>40</td>
+        <td>90</td>
+        <td>49</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Jamshoro</td>
+        <td>2,189</td>
+        <td>1,410</td>
+        <td>39</td>
+        <td>216</td>
+        <td>79</td>
+        <td>146</td>
+        <td>28</td>
+        <td>8</td>
+        <td>10</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kamber</td>
+        <td>4,908</td>
+        <td>1,736</td>
+        <td>0</td>
+        <td>391</td>
+        <td>323</td>
+        <td>161</td>
+        <td>24</td>
+        <td>16</td>
+        <td>24</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Karachi Central</td>
+        <td>72</td>
+        <td>1,183</td>
+        <td>2,124</td>
+        <td>66</td>
+        <td>173</td>
+        <td>20</td>
+        <td>130</td>
+        <td>3</td>
+        <td>0</td>
+        <td>17</td>
+    </tr>
+    <tr>
+        <td>Karachi East</td>
+        <td>153</td>
+        <td>518</td>
+        <td>174</td>
+        <td>59</td>
+        <td>2</td>
+        <td>15</td>
+        <td>2</td>
+        <td>6</td>
+        <td>7</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi Keamari</td>
+        <td>4</td>
+        <td>367</td>
+        <td>192</td>
+        <td>56</td>
+        <td>0</td>
+        <td>1</td>
+        <td>6</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Karachi Korangi</td>
+        <td>64</td>
+        <td>229</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Karachi Malir</td>
+        <td>123</td>
+        <td>758</td>
+        <td>2,976</td>
+        <td>220</td>
+        <td>17</td>
+        <td>75</td>
+        <td>24</td>
+        <td>59</td>
+        <td>30</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Karachi South</td>
+        <td>31</td>
+        <td>120</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Karachi West</td>
+        <td>145</td>
+        <td>1,022</td>
+        <td>855</td>
+        <td>212</td>
+        <td>23</td>
+        <td>53</td>
+        <td>34</td>
+        <td>42</td>
+        <td>35</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Kashmore</td>
+        <td>3,293</td>
+        <td>684</td>
+        <td>705</td>
+        <td>222</td>
+        <td>56</td>
+        <td>52</td>
+        <td>17</td>
+        <td>0</td>
+        <td>21</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Khairpur</td>
+        <td>7,344</td>
+        <td>3,040</td>
+        <td>3,703</td>
+        <td>1,408</td>
+        <td>665</td>
+        <td>372</td>
+        <td>303</td>
+        <td>762</td>
+        <td>118</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Larkana</td>
+        <td>12,215</td>
+        <td>2,018</td>
+        <td>4</td>
+        <td>574</td>
+        <td>194</td>
+        <td>365</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Matiari</td>
+        <td>1,662</td>
+        <td>1,458</td>
+        <td>55</td>
+        <td>601</td>
+        <td>344</td>
+        <td>79</td>
+        <td>9</td>
+        <td>1</td>
+        <td>14</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Mirpurkhas</td>
+        <td>3,684</td>
+        <td>2,029</td>
+        <td>4,488</td>
+        <td>894</td>
+        <td>193</td>
+        <td>115</td>
+        <td>26</td>
+        <td>0</td>
+        <td>42</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Naushero Feroze</td>
+        <td>1,325</td>
+        <td>1,089</td>
+        <td>1,001</td>
+        <td>129</td>
+        <td>68</td>
+        <td>67</td>
+        <td>56</td>
+        <td>0</td>
+        <td>59</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sanghar</td>
+        <td>3,241</td>
+        <td>1,739</td>
+        <td>6</td>
+        <td>525</td>
+        <td>764</td>
+        <td>57</td>
+        <td>46</td>
+        <td>0</td>
+        <td>97</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Shaheed 
+Benazirabad</td>
+        <td>1,610</td>
+        <td>1,719</td>
+        <td>0</td>
+        <td>576</td>
+        <td>149</td>
+        <td>109</td>
+        <td>175</td>
+        <td>7</td>
+        <td>31</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Shikarpur</td>
+        <td>4,324</td>
+        <td>1,127</td>
+        <td>3</td>
+        <td>184</td>
+        <td>295</td>
+        <td>151</td>
+        <td>5</td>
+        <td>8</td>
+        <td>134</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sujawal</td>
+        <td>2,083</td>
+        <td>888</td>
+        <td>0</td>
+        <td>473</td>
+        <td>37</td>
+        <td>32</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sukkur</td>
+        <td>4,554</td>
+        <td>1,610</td>
+        <td>2,257</td>
+        <td>489</td>
+        <td>470</td>
+        <td>214</td>
+        <td>5</td>
+        <td>0</td>
+        <td>20</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tando Allahyar</td>
+        <td>1,327</td>
+        <td>1,129</td>
+        <td>1,031</td>
+        <td>354</td>
+        <td>310</td>
+        <td>143</td>
+        <td>12</td>
+        <td>0</td>
+        <td>4</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tando 
+Muhammad Khan</td>
+        <td>1,354</td>
+        <td>1,056</td>
+        <td>0</td>
+        <td>229</td>
+        <td>35</td>
+        <td>79</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tharparkar</td>
+        <td>2,533</td>
+        <td>1,666</td>
+        <td>2,341</td>
+        <td>1,022</td>
+        <td>168</td>
+        <td>124</td>
+        <td>48</td>
+        <td>98</td>
+        <td>5</td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>Thatta</td>
+        <td>2,155</td>
+        <td>1,199</td>
+        <td>1,492</td>
+        <td>308</td>
+        <td>248</td>
+        <td>69</td>
+        <td>15</td>
+        <td>19</td>
+        <td>69</td>
+        <td>251</td>
+    </tr>
+    <tr>
+        <td>Umerkot</td>
+        <td>1,696</td>
+        <td>1,185</td>
+        <td>3</td>
+        <td>367</td>
+        <td>450</td>
+        <td>34</td>
+        <td>1</td>
+        <td>23</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>77,053</td>
+        <td>40,515</td>
+        <td>26,971</td>
+        <td>13,800</td>
+        <td>6,351</td>
+        <td>3,596</td>
+        <td>1,664</td>
+        <td>1,191</td>
+        <td>903</td>
+        <td>332</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+               Figure 2: Most frequently reported suspected cases during week 46 Sindh
+
+90,000               W44    W45                                                       W46
+80,000         77,053
+NUMBER OF CASES
+70,000
+60,000
+50,000               40,515
+40,000
+30,000                     26,971
+20,000                           13,800
+10,000                                 6,351    3,596    1,664    1,191               903    332
+0
+          Malaria  AD (Non-    ILI    ALRI < 5 years  VH (B, C & D)  B. Diarrhea  Typhoid  SARI    Dog Bite  AVH (A & E)
+                   Cholera)
+
+
+
+
+NID     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+             •     Malaria, ILI, AD (Non-Cholera),ALRI <5 years, B. Diarrhea, SARI, Typhoid, HIV/AIDS, AWD (S. Cholera) and Mumps were the most
+                   frequently reported diseases from Balochistan province.
+Balochistan  • •   Trend for ILI, AD and Malaria cases showed slight rise this week.
+                   Panjgur and Barkhan reported high number of Pertussis cases. All are suspected cases and need field investigation to verify the
+                   cases.
+
+
+
+
+
+   Table 3: District wise distribution of most frequently reported suspected cases during week 46, Balochistan
+
+
+   
+<table>
+    <thead>
+    <tr>
+        <th>Districts</th>
+        <th>Malaria</th>
+        <th>ILI</th>
+        <th>AD (Non-
+Cholera)</th>
+        <th>ALRI &lt; 5 
+years</th>
+        <th>B. 
+Diarrhea</th>
+        <th>SARI</th>
+        <th>Typhoid</th>
+        <th>HIV/AIDS</th>
+        <th>AWD 
+(S.Cholera)</th>
+        <th>Pertussis</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Barkhan</td>
+        <td>77</td>
+        <td>238</td>
+        <td>102</td>
+        <td>165</td>
+        <td>46</td>
+        <td>14</td>
+        <td>59</td>
+        <td>0</td>
+        <td>15</td>
+        <td>29</td>
+    </tr>
+    <tr>
+        <td>Chagai</td>
+        <td>23</td>
+        <td>310</td>
+        <td>198</td>
+        <td>0</td>
+        <td>58</td>
+        <td>0</td>
+        <td>33</td>
+        <td>0</td>
+        <td>12</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Chaman</td>
+        <td>55</td>
+        <td>211</td>
+        <td>95</td>
+        <td>8</td>
+        <td>137</td>
+        <td>44</td>
+        <td>70</td>
+        <td>0</td>
+        <td>30</td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>Dera Bugti</td>
+        <td>202</td>
+        <td>92</td>
+        <td>60</td>
+        <td>59</td>
+        <td>33</td>
+        <td>5</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Duki</td>
+        <td>74</td>
+        <td>68</td>
+        <td>99</td>
+        <td>30</td>
+        <td>65</td>
+        <td>92</td>
+        <td>10</td>
+        <td>0</td>
+        <td>41</td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <td>Gwadar</td>
+        <td>215</td>
+        <td>910</td>
+        <td>287</td>
+        <td>30</td>
+        <td>56</td>
+        <td>13</td>
+        <td>47</td>
+        <td>0</td>
+        <td>7</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Harnai</td>
+        <td>133</td>
+        <td>42</td>
+        <td>96</td>
+        <td>292</td>
+        <td>145</td>
+        <td>0</td>
+        <td>10</td>
+        <td>0</td>
+        <td>5</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Hub</td>
+        <td>448</td>
+        <td>149</td>
+        <td>226</td>
+        <td>61</td>
+        <td>60</td>
+        <td>71</td>
+        <td>10</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Jaffarabad</td>
+        <td>1,258</td>
+        <td>94</td>
+        <td>540</td>
+        <td>46</td>
+        <td>52</td>
+        <td>30</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Jhal Magsi</td>
+        <td>1,243</td>
+        <td>309</td>
+        <td>389</td>
+        <td>86</td>
+        <td>16</td>
+        <td>0</td>
+        <td>22</td>
+        <td>0</td>
+        <td>1</td>
+        <td>19</td>
+    </tr>
+    <tr>
+        <td>Kachhi (Bolan)</td>
+        <td>398</td>
+        <td>217</td>
+        <td>307</td>
+        <td>11</td>
+        <td>38</td>
+        <td>74</td>
+        <td>61</td>
+        <td>0</td>
+        <td>39</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kalat</td>
+        <td>35</td>
+        <td>22</td>
+        <td>53</td>
+        <td>21</td>
+        <td>22</td>
+        <td>4</td>
+        <td>47</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kech (Turbat)</td>
+        <td>638</td>
+        <td>1,840</td>
+        <td>448</td>
+        <td>152</td>
+        <td>91</td>
+        <td>7</td>
+        <td>NR</td>
+        <td>NR</td>
+        <td>NR</td>
+        <td>NR</td>
+    </tr>
+    <tr>
+        <td>Kharan</td>
+        <td>88</td>
+        <td>348</td>
+        <td>149</td>
+        <td>14</td>
+        <td>71</td>
+        <td>0</td>
+        <td>5</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Khuzdar</td>
+        <td>81</td>
+        <td>123</td>
+        <td>58</td>
+        <td>0</td>
+        <td>38</td>
+        <td>8</td>
+        <td>8</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Killa Saifullah</td>
+        <td>175</td>
+        <td>0</td>
+        <td>170</td>
+        <td>112</td>
+        <td>68</td>
+        <td>11</td>
+        <td>19</td>
+        <td>0</td>
+        <td>2</td>
+        <td>17</td>
+    </tr>
+    <tr>
+        <td>Kohlu</td>
+        <td>195</td>
+        <td>637</td>
+        <td>218</td>
+        <td>90</td>
+        <td>167</td>
+        <td>154</td>
+        <td>73</td>
+        <td>0</td>
+        <td>20</td>
+        <td>22</td>
+    </tr>
+    <tr>
+        <td>Lasbella</td>
+        <td>818</td>
+        <td>289</td>
+        <td>417</td>
+        <td>124</td>
+        <td>29</td>
+        <td>47</td>
+        <td>11</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Loralai</td>
+        <td>73</td>
+        <td>383</td>
+        <td>181</td>
+        <td>70</td>
+        <td>69</td>
+        <td>135</td>
+        <td>32</td>
+        <td>0</td>
+        <td>0</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Mastung</td>
+        <td>92</td>
+        <td>254</td>
+        <td>230</td>
+        <td>51</td>
+        <td>45</td>
+        <td>98</td>
+        <td>58</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Musakhel</td>
+        <td>211</td>
+        <td>123</td>
+        <td>88</td>
+        <td>30</td>
+        <td>42</td>
+        <td>24</td>
+        <td>29</td>
+        <td>0</td>
+        <td>48</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Naseerabad</td>
+        <td>898</td>
+        <td>0</td>
+        <td>296</td>
+        <td>6</td>
+        <td>14</td>
+        <td>3</td>
+        <td>50</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Nushki</td>
+        <td>35</td>
+        <td>16</td>
+        <td>178</td>
+        <td>0</td>
+        <td>24</td>
+        <td>6</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Panjgur</td>
+        <td>221</td>
+        <td>38</td>
+        <td>105</td>
+        <td>12</td>
+        <td>23</td>
+        <td>12</td>
+        <td>45</td>
+        <td>0</td>
+        <td>20</td>
+        <td>31</td>
+    </tr>
+    <tr>
+        <td>Pishin</td>
+        <td>6</td>
+        <td>75</td>
+        <td>23</td>
+        <td>32</td>
+        <td>11</td>
+        <td>0</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Quetta</td>
+        <td>20</td>
+        <td>1,142</td>
+        <td>304</td>
+        <td>116</td>
+        <td>56</td>
+        <td>55</td>
+        <td>27</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sherani</td>
+        <td>1</td>
+        <td>74</td>
+        <td>55</td>
+        <td>0</td>
+        <td>11</td>
+        <td>67</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Sibi</td>
+        <td>965</td>
+        <td>239</td>
+        <td>701</td>
+        <td>64</td>
+        <td>61</td>
+        <td>95</td>
+        <td>52</td>
+        <td>916</td>
+        <td>41</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Sohbat pur</td>
+        <td>927</td>
+        <td>34</td>
+        <td>316</td>
+        <td>156</td>
+        <td>93</td>
+        <td>52</td>
+        <td>74</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Surab</td>
+        <td>31</td>
+        <td>101</td>
+        <td>50</td>
+        <td>11</td>
+        <td>7</td>
+        <td>22</td>
+        <td>28</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Usta Muhammad</td>
+        <td>1,088</td>
+        <td>207</td>
+        <td>401</td>
+        <td>280</td>
+        <td>40</td>
+        <td>37</td>
+        <td>9</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Washuk</td>
+        <td>91</td>
+        <td>419</td>
+        <td>230</td>
+        <td>5</td>
+        <td>167</td>
+        <td>24</td>
+        <td>20</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Zhob</td>
+        <td>169</td>
+        <td>200</td>
+        <td>159</td>
+        <td>377</td>
+        <td>69</td>
+        <td>161</td>
+        <td>21</td>
+        <td>0</td>
+        <td>1</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>Ziarat</td>
+        <td>56</td>
+        <td>289</td>
+        <td>90</td>
+        <td>70</td>
+        <td>57</td>
+        <td>20</td>
+        <td>29</td>
+        <td>0</td>
+        <td>16</td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>11,040</td>
+        <td>9,493</td>
+        <td>7,319</td>
+        <td>2581</td>
+        <td>1,981</td>
+        <td>1385</td>
+        <td>972</td>
+        <td>918</td>
+        <td>308</td>
+        <td>175</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+   Figure 3: Most frequently reported suspected cases during week 46, Balochistan
+
+
+                  W44  W45  W46
+   12,000         11,040
+   NUMBER OF CASES
+   10,000               9,493
+   8,000                     7,319
+   6,000
+   4,000                          2,581    1,981    1,385    972    918
+   2,000                                                               308    175
+   0
+             Malaria    ILI  AD (Non-Cholera)
+                             ALRI < 5 years  B. Diarrhea  SARI  Typhoid  HIV/AIDS AWD (S. Cholera)  Mumps
+
+
+
+
+
+   NIE     UK Health    World Health    USAID    safetynet
+           Security
+           Agency       Organization    WI
+                                          DE
+
+---
+
+               •     Cases of AD (Non-Cholera) were maximum followed by Malaria, ILI, SARI, ALRI<5 Years, B. Diarrhea, Typhoid, CL, AVH
+                     (A&E) and Measles cases.
+               •     AD (Non-Cholera) cases showed a slight rise this week.
+Khyber         •     SARI cases reported in high numbers (445) from Upper Kurram. These are suspected cases and a field investigation is
+Pakhtunkhwa          required to verify cases.
+
+
+
+
+   Table 4: District wise distribution of most frequently reported suspected cases during week 46, KP
+   
+<table>
+    <thead>
+    <tr>
+        <th>Districts</th>
+        <th>AD (Non-
+Cholera)</th>
+        <th>Malaria</th>
+        <th>ILI</th>
+        <th>ALRI &lt;5 Years</th>
+        <th>SARI</th>
+        <th>B. Diarrhea</th>
+        <th>Typhoid</th>
+        <th>CL</th>
+        <th>Measles</th>
+        <th>AVH (A & E)</th>
+    </tr>
+    </thead>
+    <tr>
+        <td>Abbottabad</td>
+        <td>409</td>
+        <td>3</td>
+        <td>36</td>
+        <td>19</td>
+        <td>30</td>
+        <td>1</td>
+        <td>13</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Bajaur</td>
+        <td>267</td>
+        <td>133</td>
+        <td>41</td>
+        <td>32</td>
+        <td>15</td>
+        <td>38</td>
+        <td>4</td>
+        <td>5</td>
+        <td>4</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Bannu</td>
+        <td>756</td>
+        <td>1260</td>
+        <td>49</td>
+        <td>26</td>
+        <td>0</td>
+        <td>16</td>
+        <td>48</td>
+        <td>1</td>
+        <td>7</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>Battagram</td>
+        <td>175</td>
+        <td>94</td>
+        <td>533</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>Buner</td>
+        <td>335</td>
+        <td>299</td>
+        <td>0</td>
+        <td>49</td>
+        <td>0</td>
+        <td>2</td>
+        <td>11</td>
+        <td>0</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Charsadda</td>
+        <td>941</td>
+        <td>542</td>
+        <td>381</td>
+        <td>72</td>
+        <td>127</td>
+        <td>30</td>
+        <td>43</td>
+        <td>13</td>
+        <td>1</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Chitral Lower</td>
+        <td>210</td>
+        <td>11</td>
+        <td>93</td>
+        <td>34</td>
+        <td>47</td>
+        <td>13</td>
+        <td>4</td>
+        <td>10</td>
+        <td>4</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Chitral Upper</td>
+        <td>80</td>
+        <td>3</td>
+        <td>11</td>
+        <td>18</td>
+        <td>9</td>
+        <td>10</td>
+        <td>32</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>D.I. Khan</td>
+        <td>849</td>
+        <td>422</td>
+        <td>8</td>
+        <td>44</td>
+        <td>42</td>
+        <td>10</td>
+        <td>2</td>
+        <td>1</td>
+        <td>27</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Dir Lower</td>
+        <td>1044</td>
+        <td>630</td>
+        <td>3</td>
+        <td>255</td>
+        <td>2</td>
+        <td>66</td>
+        <td>34</td>
+        <td>9</td>
+        <td>18</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Dir Upper</td>
+        <td>286</td>
+        <td>7</td>
+        <td>35</td>
+        <td>35</td>
+        <td>0</td>
+        <td>10</td>
+        <td>27</td>
+        <td>4</td>
+        <td>8</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Hangu</td>
+        <td>241</td>
+        <td>441</td>
+        <td>155</td>
+        <td>22</td>
+        <td>20</td>
+        <td>19</td>
+        <td>3</td>
+        <td>27</td>
+        <td>1</td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <td>Haripur</td>
+        <td>965</td>
+        <td>28</td>
+        <td>583</td>
+        <td>318</td>
+        <td>5</td>
+        <td>3</td>
+        <td>54</td>
+        <td>0</td>
+        <td>0</td>
+        <td>23</td>
+    </tr>
+    <tr>
+        <td>Karak</td>
+        <td>235</td>
+        <td>184</td>
+        <td>48</td>
+        <td>7</td>
+        <td>0</td>
+        <td>0</td>
+        <td>2</td>
+        <td>41</td>
+        <td>29</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Khyber</td>
+        <td>88</td>
+        <td>153</td>
+        <td>42</td>
+        <td>21</td>
+        <td>2</td>
+        <td>14</td>
+        <td>8</td>
+        <td>5</td>
+        <td>3</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Kohat</td>
+        <td>60</td>
+        <td>18</td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kohistan Lower</td>
+        <td>96</td>
+        <td>4</td>
+        <td>0</td>
+        <td>8</td>
+        <td>0</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kohistan Upper</td>
+        <td>276</td>
+        <td>16</td>
+        <td>48</td>
+        <td>33</td>
+        <td>15</td>
+        <td>8</td>
+        <td>9</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Kolai Palas</td>
+        <td>41</td>
+        <td>2</td>
+        <td>0</td>
+        <td>4</td>
+        <td>2</td>
+        <td>8</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>L & C Kurram</td>
+        <td>26</td>
+        <td>8</td>
+        <td>189</td>
+        <td>0</td>
+        <td>2</td>
+        <td>4</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Lakki Marwat</td>
+        <td>385</td>
+        <td>323</td>
+        <td>0</td>
+        <td>73</td>
+        <td>0</td>
+        <td>26</td>
+        <td>13</td>
+        <td>19</td>
+        <td>2</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Malakand</td>
+        <td>516</td>
+        <td>28</td>
+        <td>0</td>
+        <td>55</td>
+        <td>11</td>
+        <td>36</td>
+        <td>15</td>
+        <td>18</td>
+        <td>26</td>
+        <td>32</td>
+    </tr>
+    <tr>
+        <td>Mansehra</td>
+        <td>439</td>
+        <td>7</td>
+        <td>775</td>
+        <td>102</td>
+        <td>68</td>
+        <td>25</td>
+        <td>2</td>
+        <td>0</td>
+        <td>1</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>Mardan</td>
+        <td>1087</td>
+        <td>28</td>
+        <td>0</td>
+        <td>866</td>
+        <td>0</td>
+        <td>25</td>
+        <td>0</td>
+        <td>7</td>
+        <td>4</td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <td>Mohmand</td>
+        <td>120</td>
+        <td>106</td>
+        <td>53</td>
+        <td>4</td>
+        <td>8</td>
+        <td>24</td>
+        <td>14</td>
+        <td>70</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Nowshera</td>
+        <td>1396</td>
+        <td>51</td>
+        <td>0</td>
+        <td>0</td>
+        <td>25</td>
+        <td>30</td>
+        <td>14</td>
+        <td>17</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Peshawar</td>
+        <td>2916</td>
+        <td>126</td>
+        <td>1164</td>
+        <td>134</td>
+        <td>85</td>
+        <td>235</td>
+        <td>79</td>
+        <td>19</td>
+        <td>22</td>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td>SD DI Khan</td>
+        <td>0</td>
+        <td>3</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>SD Peshawar</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Shangla</td>
+        <td>393</td>
+        <td>187</td>
+        <td>35</td>
+        <td>11</td>
+        <td>32</td>
+        <td>2</td>
+        <td>7</td>
+        <td>0</td>
+        <td>4</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>SWA</td>
+        <td>71</td>
+        <td>78</td>
+        <td>290</td>
+        <td>116</td>
+        <td>26</td>
+        <td>13</td>
+        <td>30</td>
+        <td>32</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Swabi</td>
+        <td>1051</td>
+        <td>55</td>
+        <td>555</td>
+        <td>348</td>
+        <td>21</td>
+        <td>9</td>
+        <td>27</td>
+        <td>0</td>
+        <td>7</td>
+        <td>17</td>
+    </tr>
+    <tr>
+        <td>Swat</td>
+        <td>1998</td>
+        <td>21</td>
+        <td>144</td>
+        <td>80</td>
+        <td>0</td>
+        <td>20</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>23</td>
+    </tr>
+    <tr>
+        <td>Tank</td>
+        <td>567</td>
+        <td>498</td>
+        <td>0</td>
+        <td>49</td>
+        <td>0</td>
+        <td>5</td>
+        <td>81</td>
+        <td>9</td>
+        <td>3</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Tor Ghar</td>
+        <td>38</td>
+        <td>88</td>
+        <td>0</td>
+        <td>0</td>
+        <td>14</td>
+        <td>18</td>
+        <td>4</td>
+        <td>9</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>Upper Kurram</td>
+        <td>222</td>
+        <td>10</td>
+        <td>494</td>
+        <td>53</td>
+        <td>445</td>
+        <td>222</td>
+        <td>133</td>
+        <td>0</td>
+        <td>27</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>18,579</td>
+        <td>5,868</td>
+        <td>5,767</td>
+        <td>2,893</td>
+        <td>1,055</td>
+        <td>946</td>
+        <td>718</td>
+        <td>319</td>
+        <td>214</td>
+        <td>197</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+   Figure 4: Most frequently reported suspected cases during week 46, KP
+   20,000    18,579
+   18,000                                                               W44  W45  W46
+   16,000
+   14,000
+   NUMBER OF CASES
+   12,000
+   10,000
+        8,000      5,868    5,767
+        6,000
+        4,000                    2,893
+        2,000                         1,055                             946    718    319    214    197
+   0
+             AD (Non-  Malaria    ILI    ALRI < 5 years  SARI  B. Diarrhea     Typhoid    CL  Measles  AVH (A & E)
+             Cholera)
+
+
+
+
+   NIE     UK Health    World Health    USAID    safetynet
+           Security
+           Agency       Organization
+
+---
+
+                    ICT: The most frequently reported cases from Islamabad were ILI followed by AD (Non-Cholera) and AWD. ILI cases showed a
+  ICT, AJK & GB     decreasing trend in cases this week.
+                    AJK: ILI cases were maximum followed by ALRI <5 years, AD (Non-Cholera), SARI, Mumps, Malaria. Diarrhea, AWD (S. Cholera),
+                    Typhoid and Syphilis. ILI and ALRI <5 years cases showed an upward trend this week.
+                    GB: ALRI<5 years, SARI, AD (Non-Cholera), ILI, AWD (S. Cholera), B. Diarrhea, Pertussis and Typhoid cases were the most
+                    frequently reported diseases from GB. There is a sharp rising trend in AD cases this week .
+
+
+
+
+
+    Figure 5: Week wise reported suspected cases of ILI, ICT
+
+
+1,800              W44  W45  W46
+1,600
+    NUMBER OF CASES
+1,400
+1,200
+1,000
+  800
+  600
+  400              249
+  200                           65
+    0
+                   ILI    AD (Non-Cholera)
+
+
+
+  Figure 6: Week wise reported suspected cases of ILI, ICT
+
+  3,500
+  3,000
+  NUMBER OF CASES
+  2,500
+  2,000
+  1,500
+  1,000
+  500
+  0
+  W2
+  W3
+  W4
+  W5
+  W6
+  W7
+  W8
+  W48  W9  W31  W35  W39
+  W49
+  W50
+  W51
+  W52  W10
+  W11
+  W12
+  W13
+  W14
+  W15
+  W16
+  W17
+  W18
+  W19
+  W20
+  W21
+  W22
+  W23
+  W24
+  W25
+  W26
+  W27
+  W28
+  W29
+  W30 W32
+  W33
+  W34 W36
+  W37
+  W38  W40
+  W41
+  W42
+  W43
+  W44
+  W45
+  W47  W1  W46
+
+  4th Quarter 2022  1st Quarter 2023  2nd Quarter 2023  3rd Quarter 2023  4TH Quarter 2023
+
+  ILI
+
+  Figure 7: Most frequently reported suspected cases during week 46, AJK
+
+  W44  W45   W46
+  3,500  3,225
+  3,000
+  NUMBER OF CASES
+  2,500
+  2,000
+  1,500  1,479  1,301
+  1,000
+  500  356  81  81  53  44  45  27
+  0
+  ILI  ALRI < 5 years  AD (Non-  SARI  Mumps   Malaria  B. Diarrhea  AWD (S.  Typhoid  Syphilis
+  Cholera)  Cholera)
+
+
+
+
+
+
+
+    NIE     UK Health    World Health    USAID    safetynet
+            Security
+            Agency       Organization
+
+---
+
+ Figure 8: Week wise reported suspected cases of ILI, ALRI<5 years and AD (Non-Cholera), AJK
+
+ 3,500
+ 3,000
+ NUMBER OF CASES
+ 2,500
+ 2,000
+ 1,500
+ 1,000
+ 500
+ 0
+ W2W3
+ W4W5W6W7W8
+ W48  W51  W9 W11  W16  W22 W23 W24 W25 W26 W27 W29 W30 W31 W28  W45
+ W49
+ W50 W52  W10 W12
+ W13
+ W14
+ W15 W17
+ W18
+ W19
+ W20
+ W21  W32
+ W33
+ W34
+ W35
+ W36
+ W37
+ W38
+ W39
+ W40
+ W41
+ W42
+ W43
+ W47  W1  W44 W46
+
+ 4th Quarter 2022  1st Quarter 2023  2nd Quarter 2023  3rd Quarter 2023  4TH Quarter 2023
+
+ ILI  ALRI < 5 years  AD (Non-Cholera)
+
+
+ Figure 9: Most
+ frequent cases reported during WK 46
+ , GB
+
+800  733  W44  W45  W46
+ NUMBER OF CASES
+700  622
+600
+ 499  498
+500
+400
+300
+200  119
+100  63  53  50
+  0
+ ALRI < 5 years  SARI  AD (Non-Cholera)  ILI  AWD (S. Cholera)  B. Diarrhea  Pertussis  Typhoid
+
+ Figure 10: Week wise reported suspected cases of ALRI, GB
+
+800
+700
+600
+ NUMBER OF CASES
+500
+400
+300
+200
+100
+  0
+ W2  W7
+ W3
+ W4
+ W5
+ W6 W8
+ W52  W9  W14  W21
+ W22 W23 W24 W25 W26 W27 W29 W30 W31 W32 W28
+ W48  W35  W42
+ W49
+ W50
+ W51  W10
+ W11
+ W12
+ W13  W15
+ W16
+ W17
+ W18
+ W19
+ W20  W33
+ W34 W36
+ W37
+ W38
+ W39
+ W40
+ W41 W43
+ W44
+ W45
+ W47  W1  W46
+
+ 4th Quarter 2022  1st Quarter 2023  2nd Quarter 2023  3rd Quarter 2023  4TH Quarter 2023
+
+ ALRI < 5 years
+
+
+
+
+
+
+   NIE     UK Health     World Health     USAID    safetynet
+           Security
+           Agency        Organization     I
+
+---
+
+  Punjab
+        •     Cases of AD (Non-Cholera) were the most frequently reported followed by Typhoid, Malaria and B. Diarrhea. AD (Non-cholera)
+              cases showed a rising trend this week
+
+
+
+
+
+
+    Figure 11: District wise distribution of most frequently reported suspected cases during week 46, Punjab
+
+
+
+                   W44  W45  W46
+100,000
+ 90,000            82,731
+ 80,000
+ 70,000
+    NUMBER OF CASES
+ 60,000
+ 50,000
+ 40,000
+ 30,000
+ 20,000
+ 10,000                   4,608    3,502    2,093
+    0
+                   AD (Non-Cholera)    Typhoid    Malaria    B. Diarrhea
+
+
+
+
+    Table 5: Public Health Laboratories confirmed cases of IDSR Priority Diseases during Epid W
+    eek 46
+
+
+    Diseases                       Sindh      Balochistan  Punjab         KPK         ISL        Gilgit
+    Acute Watery Diarrhoea (S.           0     -                     -
+    Cholera)
+    Acute diarrhea(non-cholera)          0                           0
+
+    Malaria                            101
+
+    CCHF                                       9                                 0          0
+
+    Dengue                               0     0                                           15
+
+    Acute Viral Hepatitis(A)             0                                                             1
+
+    Acute Viral Hepatitis(B)             0                                                             0
+
+    Acute Viral Hepatitis(C)             0     8                     0
+
+    Mumps                                0                                                  8
+
+    Typhoid                              1                           4           0
+
+    Covid 19                                   1                                 0          3          0
+
+
+
+
+
+
+
+
+
+
+    NIE     UK Health    World Health     USAID    safetynet
+            Security
+            Agency       Organization     I
+
+---
+
+IDSR Reports Compliance
+  •     Out OF 121 IDSR implemented districts, compliance is low from ICT & Gilgit Baltistan districts. Green color showing >50% compliance while red color is
+        <50% compliance
+
+
+  Table 6: IDSR reporting districts Week 46
+
+
+Provinces/Regions  Districts  Total Number of  Number of Reported  Compliance Rate (%)
+Reporting Sites  Sites for current week
+
+Abbottabad             110  99  90%
+Bannu                  244 118  48%
+Battagram               63  17  27%
+Buner                   33  31  94%
+Bajaur                  44  33  75%
+Charsadda               59  55  93%
+Chitral Upper           34  28  82%
+Khyber  Chitral Lower   35  34  97%
+Pakhtunkhwa  D.I. Khan  94  88  94%
+
+Dir Lower               74 72  97%
+Dir Upper               52 42  81%
+Hangu                   22 22 100%
+Haripur                 71 65  92%
+Karak                   39 39 100%
+Khyber                  64 11  17%
+Kohat                   96 61  64%
+Kohistan Lower          11 11 100%
+Kohistan Upper          20 19  95%
+Kolai Palas             10 10 100%
+Lakki Marwat            69 69 100%
+Lower & Central Kurram  40  7  18%
+Upper Kurram            42 12  29%
+Malakand                48 37  77%
+Mansehra               150 86  57%
+Mardan                  80 76  95%
+Nowshera                54 52  96%
+North Waziristan        22  0   0%
+Peshawar               152 115 76%
+Shangla                 65 21  32%
+Swabi                   67 62  93%
+Swat                    76 64  84%
+South Waziristan       133 42  32%
+Tank                    34 31  91%
+Torghar                 18 18 100%
+Mohmand                 86 38  44%
+SD DI Khan              19  2  10%
+SD Peshawar              5  1  20%
+Mirpur                  37 35  95%
+Bhimber                 42 19  45%
+Kotli                   60 53  88%
+Muzaffarabad            45 42  93%
+Poonch                  46 46 100%
+Haveli                  39 26  67%
+Bagh                    40 38  95%
+
+
+  NIE     UK Health     World Health    USAID    safetynet
+          Security
+          Agency        Organization
+
+---
+
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="3">Azad Jammu 
+Kashmir</th>
+      <th>Neelum</th>
+      <th>39</th>
+      <th>38</th>
+      <th>97%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jhelum Vellay</td>
+      <td>29</td>
+      <td>29</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Sudhnooti</td>
+      <td>27</td>
+      <td>27</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Islamabad Capital 
+Territory</td>
+      <td>ICT</td>
+      <td>35</td>
+      <td>4</td>
+      <td>11%</td>
+    </tr>
+    <tr>
+      <td>CDA</td>
+      <td>35</td>
+      <td>4</td>
+      <td>11%</td>
+    </tr>
+    <tr>
+      <td rowspan="35">Balochistan</td>
+      <td>Gwadar</td>
+      <td>25</td>
+      <td>24</td>
+      <td>96%</td>
+    </tr>
+    <tr>
+      <td>Kech</td>
+      <td>39</td>
+      <td>28</td>
+      <td>72%</td>
+    </tr>
+    <tr>
+      <td>Khuzdar</td>
+      <td>20</td>
+      <td>19</td>
+      <td>95%</td>
+    </tr>
+    <tr>
+      <td>Killa Abdullah</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Lasbella</td>
+      <td>55</td>
+      <td>55</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Pishin</td>
+      <td>62</td>
+      <td>5</td>
+      <td>8%</td>
+    </tr>
+    <tr>
+      <td>Quetta</td>
+      <td>43</td>
+      <td>20</td>
+      <td>47%</td>
+    </tr>
+    <tr>
+      <td>Sibi</td>
+      <td>36</td>
+      <td>33</td>
+      <td>92%</td>
+    </tr>
+    <tr>
+      <td>Zhob</td>
+      <td>39</td>
+      <td>33</td>
+      <td>85%</td>
+    </tr>
+    <tr>
+      <td>Jaffarabad</td>
+      <td>16</td>
+      <td>16</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Naserabad</td>
+      <td>32</td>
+      <td>32</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Kharan</td>
+      <td>33</td>
+      <td>30</td>
+      <td>91%</td>
+    </tr>
+    <tr>
+      <td>Sherani</td>
+      <td>15</td>
+      <td>15</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Kohlu</td>
+      <td>75</td>
+      <td>71</td>
+      <td>95%</td>
+    </tr>
+    <tr>
+      <td>Chagi</td>
+      <td>35</td>
+      <td>28</td>
+      <td>80%</td>
+    </tr>
+    <tr>
+      <td>Kalat</td>
+      <td>41</td>
+      <td>40</td>
+      <td>98%</td>
+    </tr>
+    <tr>
+      <td>Harnai</td>
+      <td>17</td>
+      <td>17</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Kachhi (Bolan)</td>
+      <td>35</td>
+      <td>35</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Jhal Magsi</td>
+      <td>26</td>
+      <td>26</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Sohbat pur</td>
+      <td>25</td>
+      <td>25</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Surab</td>
+      <td>32</td>
+      <td>17</td>
+      <td>53%</td>
+    </tr>
+    <tr>
+      <td>Mastung</td>
+      <td>45</td>
+      <td>45</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Loralai</td>
+      <td>33</td>
+      <td>28</td>
+      <td>85%</td>
+    </tr>
+    <tr>
+      <td>Killa Saifullah</td>
+      <td>28</td>
+      <td>27</td>
+      <td>96%</td>
+    </tr>
+    <tr>
+      <td>Ziarat</td>
+      <td>29</td>
+      <td>24</td>
+      <td>83%</td>
+    </tr>
+    <tr>
+      <td>Duki</td>
+      <td>31</td>
+      <td>30</td>
+      <td>97%</td>
+    </tr>
+    <tr>
+      <td>Nushki</td>
+      <td>32</td>
+      <td>30</td>
+      <td>94%</td>
+    </tr>
+    <tr>
+      <td>Dera Bugti</td>
+      <td>45</td>
+      <td>20</td>
+      <td>44%</td>
+    </tr>
+    <tr>
+      <td>Washuk</td>
+      <td>46</td>
+      <td>27</td>
+      <td>59%</td>
+    </tr>
+    <tr>
+      <td>Panjgur</td>
+      <td>38</td>
+      <td>8</td>
+      <td>21%</td>
+    </tr>
+    <tr>
+      <td>Awaran</td>
+      <td>23</td>
+      <td>0</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Chaman</td>
+      <td>24</td>
+      <td>21</td>
+      <td>88%</td>
+    </tr>
+    <tr>
+      <td>Barkhan</td>
+      <td>20</td>
+      <td>20</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Hub</td>
+      <td>33</td>
+      <td>33</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Usta Muhammad</td>
+      <td>34</td>
+      <td>34</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td rowspan="9">Gilgit Baltistan</td>
+      <td>Hunza</td>
+      <td>32</td>
+      <td>32</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Nagar</td>
+      <td>25</td>
+      <td>0</td>
+      <td>0%</td>
+    </tr>
+    <tr>
+      <td>Ghizer</td>
+      <td>62</td>
+      <td>4</td>
+      <td>6%</td>
+    </tr>
+    <tr>
+      <td>Gilgit</td>
+      <td>40</td>
+      <td>40</td>
+      <td>100%</td>
+    </tr>
+    <tr>
+      <td>Diamer</td>
+      <td>78</td>
+      <td>38</td>
+      <td>49%</td>
+    </tr>
+    <tr>
+      <td>Astore</td>
+      <td>54</td>
+      <td>51</td>
+      <td>94%</td>
+    </tr>
+    <tr>
+      <td>Shigar</td>
+      <td>27</td>
+      <td>23</td>
+      <td>85%</td>
+    </tr>
+    <tr>
+      <td>Skardu</td>
+      <td>52</td>
+      <td>42</td>
+      <td>81%</td>
+    </tr>
+    <tr>
+      <td>Ganche</td>
+      <td>29</td>
+      <td>19</td>
+      <td>66%</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+NIE     UK Health     World Health    USAID    safetynet
+        Security
+        Agency        Organization    DE
+
+---
+
+          Kharmang                46          8     17%
+          Hyderabad               73         32     44%
+          Ghotki                  64         64    100%
+          Umerkot                 43         35     81%
+          Naushahro Feroze       107         62     58%
+          Tharparkar             282        264     94%
+          Shikarpur               60         60    100%
+          Thatta                  53         49     92%
+          Larkana                 67         67     90%
+          Kamber Shadadkot        71         69    100%
+          Karachi-East            23         22     96%
+Sindh     Karachi-West            20         20    100%
+          Karachi-Malir           37         19     51%
+          Karachi-Kemari          18         10     56%
+          Karachi-Central         11         11    100%
+          Karachi-Korangi         18         11     61%
+          Karachi-South            4          4    100%
+          Sujawal                 54         42     78%
+          Mirpur Khas            106        105     99%
+          Badin                  124        111     90%
+          Sukkur                  64         64    100%
+          Dadu                    90         88     98%
+          Sanghar                100         99     99%
+          Jacobabad               44         43     98%
+          Khairpur               168        159     95%
+          Kashmore                59         58     98%
+          Matiari                 42         42    100%
+          Jamshoro                68         68    100%
+          Tando Allahyar          54         51     94%
+          Tando Muhammad Khan     40         40    100%
+          Shaheed Benazirabad    124        116     94%
+
+
+
+
+
+
+
+
+
+
+CD     UK Health     World Health    USAID    safetynet
+       Security
+       Agency        Organization
+
+---
+
+<u>Public Health Events and Surveillance Reports</u>
+<u>PHB -Pakistan</u>
+
+
+
+
+
+
+   A note from Field Activities.                                                     awareness of the outbreak within the community
+                                                                                     hindered       timely  preventive  measures   and             early
+                                          Source: DHIS-2 Reports                     detection of cases.
+                            https://dhis2.nih.org.pk/dhis-web-event -reports/        Conclusion:
+                                                                                                                  The primary source of the outbreak was
+   <u>Dengue Fever Outbreak Investigation in </u>                                    stagnant water and storage containers/plastic tanks
+   <u>Saeedabad, District Matiari, Sindh Pakistan </u>                               on rooftops, which provided breeding grounds for
+   <u>October, 2023</u>                                                              Aedes aegypti mosquito larvae/pupae and adult
+   <u>Introduction</u>                                                               mosquitoes. Notably, no travel history to endemic
+                                                                                     areas was reported among suspected or confirmed
+                      On October 20, 2023, social media reports                      cases.
+   indicated suspected cases of Dengue Fever in Ward
+   No. 3, Taluka Hospital Saeedabad, District Matiari.                               <u>A Note from Field Activities.</u>
+   Upon confirmation on October 21, 2023, a joint
+   outbreak           investigation  team                    from the Provincial     <u>Outbreak </u>   <u>Investigation </u>  <u>of </u>      <u>Suspected </u>
+   Disease Surveillance and Response Unit (PDSRU) and                                <u>Cholera Cases in Village Abul Hassan, Taluka </u>
+   Vector Borne Diseases (VBDs) at the District Health                               <u>Daur, </u>  <u>District </u>  <u>Shaheed </u>      <u>Benazirabad </u>
+   and Surveillance System (DGHSS) was deployed to                                   <u>October, 2023</u>
+   conduct a comprehensive outbreak investigation.
+   Objectives:                                                                                                                 Source: DHIS-2 Reports
+         •            Assess the magnitude of the outbreak                                              https://dhis2.nih.org.pk/dhis-web-event -reports/
+         •            Identify the risk factors contributing to the                  <u>Background:</u>
+                      outbreak                                                                                  On October 10, 2023, a rise in suspected
+         •            Implement effective control measures                           cholera                   cases (n=10), including one fatality, was
+         •            Formulate preventive strategies to mitigate                    reported in Village Dargah Abdul Hassan, Taluka Daur,
+                      future outbreaks                                               District Shaheed Benazirabad.                  Upon notification, a
+   <u>Methods: </u>                                                                  team from the Provincial Disease Surveillance and
+                      The   study   was   conducted       in                Town     Response Unit (PDSRU) of the District Health and
+   Committee Saeedabad, Taluka Saeedabad, District                                   Surveillance       System        (DGHSS)  was         deployed  to
+   Matiari, employing a descriptive study design. A total                            investigate the outbreak in the affected area of
+   of 26 cases were included in the analysis. Data were                              District Shaheed Benazirabad.
+   collected using a pretested structured questionnaire,                             <u>Objectives:</u>
+   with data collection techniques encompassing review                                •             Determine the extent of the outbreak
+   of hospital records, active case search, and face-to-                              •                      Identify risk factors and the source of the
+   face interviews. Data analysis was performed using                                               outbreak
+   <u>attack </u>rates, frequencies, and percentages.                                 •             Recommend control measures to prevent
+   <u>Results </u>                                                                                  future outbreaks and fatalities
+                      The   initial  investigation  revealed             several     <u>Methods. </u>
+   factors contributing to the dengue fever outbreak in                                             In  collaboration  with    the District       Health
+   Saeedabad.               Stagnant  water  surrounding                  houses     Officer (DHO) team, the PDSRU team undertook a
+   provided ideal breeding grounds for Aedes aegypti                                 comprehensive          investigation.             This     involved
+   mosquitoes, the primary vector of dengue fever.                                   conducting         face-to -face   interviews         with   family
+   Moreover,           the  absence       of  mosquito  nets                 and     members to gather                details  about       the patients'
+   repellents among residents further exacerbated the                                symptoms, dietary habits, and the circumstances
+   risk  of           mosquito       bites.  Additionally,  inadequate               surrounding        the  death.     Additionally,         pre-tested
+
+
+   NIE     UK Health    World Health     USAID    safetynet
+           Security
+           Agency       Organization     u
+
+---
+
+questionnaires were administered to collect further              A Note from Field Activities.
+data from affected households. Active surveillance
+was employed to identify new suspected cholera                   <u>Punjab </u> <u>Poised </u> <u>to </u> <u>Launch </u> <u>Final </u> <u>Polio </u>
+cases and fatalities, adhering to the established case           <u>Vaccination Campaign of </u>
+definition. Water samples were also collected from               <u>the Year</u>
+various sources for laboratory testing to confirm the
+presence of cholera.
+                                                                 Dr. Ehsan Ghani
+<u>Findings:</u>                                                 District Health officer
+          The initial       investigation into the suspected     Preventive Services
+cholera outbreak in Village Abul Hassan, Taluka Daur,
+District  Shaheed     Benazirabad,    revealed       several                              In a significant step towards eradicating polio,
+underlying factors. The village's primary water source,          Punjab is gearing up to launch its final national polio
+a hand pump, was contaminated, facilitating the                  vaccination    campaign       of         the  year,            commencing
+spread of the diarrheal infection. Inadequate hygiene            November 27, 2023. The campaign will encompass
+and  sanitation       practices,  along  with   insufficient     the entire province, with a duration of seven days in
+knowledge             regarding  safe  drinking  water   and     high-risk      districts      like       Lahore,  Rawalpindi,         and
+handwashing           practices,  further  aggravated    the     Faisalabad. In the remaining districts, the campaign
+sit uation.            Moreover, the absence of a functional     will conclude on December 1 after a five-day period.
+BHU/RHC and delayed treatment-seeking behavior
+contributed to the severity of the outbreak.                                               Over 204,000 polio workers and supervisors will
+                                                                 be mobilized to immunize 21.26 million children
+<u>Conclusion:</u>                                               under the age of five against polio. This formidable
+          Contaminated water from the hand pump                  team comprises 16,575 area in-charges, 3,985 union
+was the primary source of the cholera outbreak. The              council medical officers, over 169,000 mobile polio
+lack of access to safe drinking water, coupled with              team members, 4,868 fixed team members, and over
+poor hygiene and sanitation practices, exacerbated               2,700 transit team members.
+the spread of the infection. Additionally, delayed                                            Punjab has remained polio-free since October
+treatment-seeking          behavior    and        inadequate     2020, a testament to the program's unwavering
+knowledge of preventive measures contributed to the              commitment.    However,                  the  polio     virus     remains
+severity of the outbreak.                                        detectable in environmental samples collected in
+                                                                 Lahore and Rawalpindi. To date in 2023, nine samples
+<u>Recommendations:</u>                                          have tested positive, with six from Lahore and three
+ •        Enhance     the        vigilance  of the  District     from Rawalpindi.
+          Surveillance           team   to  ensure    timely
+          implementation of preventive measures.                                           Genomic sequencing of the virus confirms a link
+ •        Promptly send water samples for laboratory             between eight virus samples and the YB3A virus
+          confirmation of cholera.                               cluster  circulating          in  Afghanistan. "This             evidence
+ •        Establish mobile medical camps equipped                suggests that Punjab faces a risk of virus importation,
+                                                                 yet Punjab has successfully protected children from
+          with essential medications.                            paralysis through dedication and hard work. Through
+ •        Ensure the availability of an ambulance for            effective strategies, the province has prevented virus
+          emergency transportation.                              exportation. As long as the virus exists anywhere, it
+ •        Deploy Lady Health Workers (LHWs) to the               poses a threat to children everywhere.
+          affected    area       to  raise   awareness about                             Punjab is vigilant in shielding children from the
+          health and hygiene practices.                          polio virus. The polio eradication program, under the
+                                                                 leadership                           of the secretary and minister of the
+                                                                 primary        and  secondary            healthcare           department,
+
+
+NIE     UK Health     World Health    USAID    safetynet
+        Security
+        Agency        Organization    U DE
+
+---
+
+acknowledges             the  sacrifices  of  polio    workers.         •     Recent Case Distribution:                    The updates
+Frontline workers continue to reach every child in                            reveal an additional 52 dengue cases in
+some of the hardest-to-reach areas, driven by the                             Lahore, 01 in Rawalpindi, 12 in Gujranwala,
+unwavering goal of vaccinating every last child with                          10 in Multan, 07 in Faisalabad, 03 in Okara,
+the polio vaccine and ensuring a polio-free world for                         03 in Bahawalpur, and 02 in Sahiwal within
+future generations.                                                           the      last     24  hours.  Sheikhupura,        Kasur,
+
+                   Punjab's final polio vaccination campaign of               Sialkot,       Khanewal,  and  Hafizabad    each
+the year signifies a crucial step towards achieving a                         reported 1 case within the last 24 hours.
+polio-free world. The collective efforts of the polio                   •     <u>Hospitalization and Treatment:</u>         Currently,
+program, healthcare workers, and the community will                           102 dengue patients are receiving treatment
+play  a  pivotal role         in  safeguarding children and                   in various Punjab hospitals, with 60 of them
+eradicating this debilitating disease.                                        in Lahore district hospitals.
+
+                                                                        •     <u>Preventive </u> <u>Measures:</u> Secretary     Health
+<u>Letter to the Editor:</u>                                                  Punjab Ali Jaan Khan has urged citizens to
+<u>Punjab's Dengue Fever Crisis Subsides as </u>                              maintain clean and dry surroundings as a
+                                                                              preventive measure against dengue fever.
+<u>Outbreak Shows Signs of Easing</u>                                   •     <u>Helpline </u>   <u>Accessibility:</u>  For   Dengue
+
+Dr. Sajjad Mahmood                                                            treatment, information, or complaints, a free
+                                                                              helpline is available at 1033.
+District Surveillance
+coordinator (EP&C)                                                      The decline in dengue fever cases in Punjab is a
+Rawalpindi.                                                         welcome   development,          indicating          that   control
+                                                                    measures have been effective in curbing the spread of
+                                                                    the disease. However, it is crucial to remain vigilant
+<u>Introduction</u>                                                 and continue preventive measures to prevent a
+                                                                    resurgence of the outbreak. Maintaining clean and
+         A notable decline in dengue fever incidence                dry surroundings is essential to eliminate mosquito
+has been observed in the Punjab province of Pakistan,               breeding  grounds.           Additionally,          seeking timely
+with only 95 new cases reported in the last 24 hours.               medical attention upon experiencing dengue fever
+This represents a significant decrease compared to                  symptoms can help prevent complications and ensure
+previous weeks, indicating a positive trend in the fight            a speedy recovery.
+against the mosquito-borne disease.
+
+<u>Key Highlights</u>                                               Knowledge Hub
+ •       Reduced              Incidence:  The  latest      data     <u>Influenza </u>  <u>A </u>  <u>(H1N1): </u>       <u>Understanding, </u>
+         released        by    the  Health        Department on
+         Sunday confirms a total of 13,781 confirmed                <u>Prevention, and Protection</u>
+         dengue fever cases in Punjab this year. This                         In the realm of public health, influenza A
+         figure marks a notable reduction from the                  (H1N1), commonly known as swine flu, stands as a
+         peak of the outbreak.                                      formidable adversary. This respiratory illness, caused
+                                                                    by the influenza virus, has the potential to cause
+ •       <u>District-wise </u> <u>Breakdown:</u> Lahore   leads     widespread morbidity and mortality if left unchecked.
+         with 6,213 cases, followed by Rawalpindi                   To  combat         this       threat,  a  comprehensive     health
+         with 2,608, Gujranwala with 1,436, Multan                  <u>education and awareness campaign is </u>         essential.
+         with 1,338, and Faisalabad with 801 cases.                 <u>Understanding Influenza, A (H1N1)</u>
+                                                                              Influenza                 A (H1N1) is a contagious viral
+                                                                    infection that primarily attacks the respiratory system,
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization    U DE
+
+---
+
+including the nose, throat, and lungs. The virus is                communities to protect themselves and others from
+transmitted through droplets produced when an                      the virus. Health education campaigns should focus
+infected person coughs or sneezes. These droplets                  on:
+can land in the mouths or noses of nearby individuals                 •     Disseminating information about the virus,
+<u>or possibly be inhaled into the </u>lungs.                               its symptoms, and complications
+<u>Symptoms and Complications</u>                                     •     Emphasizing the importance of vaccination
+ Symptoms        of  influenza         A  (H1N1)     typically              and other preventive measures
+manifest within two to seven days after exposure to                   •     Promoting        healthy  lifestyle  practices  to
+the virus. The flu can cause a range of symptoms,                           strengthen the immune system
+including fever, cough, sore throat, runny or stuffy                  •     Encouraging early diagnosis and treatment
+nose, muscle aches, headaches, fatigue, and vomiting                  •     Dispelling myths and misconceptions about
+and diarrhea in some cases. These symptoms may be                           influenza A (H1N1)
+mild or severe, and they can last for a week or more.
+ While most individuals recover from influenza A                   Pandemic (H1N1) 2009
+(H1N1) within a week or two, some may experience
+complications, particularly those at high risk, such as            How to protect yourself and others
+young children, the elderly, pregnant women, and
+individuals with  chronic health conditions. These
+complications may include:
+ •     Pneumonia
+ •     Bronchitis
+ •     Ear infections
+ •     Sinus infections
+ •     Worsening of chronic health conditions
+<u>Prevention Strategies</u>
+ Effective prevention of influenza A (H1N1) hinges
+on a combination of measures, including:                                   Cover your nose                       Dispose of used tissues
+ •     <u>Vaccination:</u> Annual influenza vaccination is                 and mouth with                        properly immediately
+       the most effective way to protect against the                       a disposable tissue        after use
+       virus.                                                              when coughing and
+ •     <u>Hand Hygiene:</u>   Frequent            and thorough             sneezing
+       handwashing with soap and water or using
+       <u>an alcohol-based hand </u>   sanitizer is crucial.
+ •     <u>Respiratory Hygiene:</u>          Covering the mouth
+       and nose when coughing or sneezing and
+       disposing     of     used  tissues        promptly  are
+       essential practices.
+ •     <u>Avoiding Close </u> <u>Contact:</u>    Maintaining a
+       distance of at least six feet from individuals
+       with influenza-like symptoms helps prevent
+       transmission.
+ •     <u>Staying Home When Sick:</u>           If you develop
+       influenza-like symptoms, staying home and                           Regularly wash             If you have influenza-like
+                                                                           hands                      symptoms, seek
+       resting is important to prevent spreading the                        withsoap                  medical advice
+       virus to others.                                                    and water                  immediately
+<u>Health Education and Awareness</u>
+ Raising awareness about influenza A (H1N1) is
+paramount   to       empowering           individuals      and
+
+
+NIE     UK Health    World Health    USAID    safetynet
+        Security
+        Agency       Organization
+
+---
+
+DON'T LET THE
+
+
+
+
+
+
+
+   GET YOU!
+   Flu Season is Coming
+
+   Public Health Bulletin
+   Pakistan
+   Advocates
+  SA NIE  Get the Flu Shot  CN
+          Before it's too Late
+
+
+
+
+   IN  https://phb.nih.org.pk/    https://twitter.com/NIH_Pakistan
+
+            phb@nih.org.pk    f  https://www.facebook.com/NIH.PK/
+
+
+   Cl     UK Health    World Health    USAID    safetynet
+          Security     Organization    WI
+          Agency                       ONAL

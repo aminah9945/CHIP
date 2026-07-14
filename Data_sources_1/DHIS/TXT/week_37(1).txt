@@ -1,0 +1,258 @@
+                   DIRECTORATE GENERAL HEALTH SERVICES
+                                                                      PUNJAB-LAHORE
+                                                                  24-Cooper Road, Lahore
+                                                       Ph. 042 -99200990; email: hmis.pb@yahoo.com
+unicef
+everychild                                        DHIS2 Weekly Bulletin Week 37 (Sep 09 ~ Sep 15), 2024                                 dhis2
+for
+
+EGARDI        DORTI It is a matter of great Key Findings: Health Indicators Analysis:                       Punjab Map - OPD Compliance
+&DIS              CH A pleasure for me to write             In the thirty‐seventh week of 2024, a metic‐    ReportingRate
+                       this message. The             ulous analysis of our data report provided critical
+                                  tance of data planning insights. Utilizing a combination of charts and
+Fr                     and implementation is graphs, this analysis shed light on notable pat‐
+                       immense. DHIS is a         terns and essential metrics. Across all 36 dis‐
+                                 sion support system that tricts, the adherence to reporting for Week 37
+                       will help managers at all stood at an impressive 91%, though it marked a
+levels to make evidence based decisions. It will slight decrease compared to the previous week.
+help in planning & development, strategy          The cumulative     Outpatient               Department
+management, Budgeting and forecasting (OPD) visits for this period totaled 2,388,577, rep‐
+about future needs. The MIS team is                     resenting a 2% decline compared to the preceding
+                                                        week's 2,437,350 visits in Week 36. Notably, 96%
+worthy to implement the system in the whole of these visits comprised new OPD cases, high‐                                           Daily OPD Form
+province and bring reporting regularity to lighting a sustained influx of patients seeking ini‐                                      (Reporting Rate)
+more than 97%.                                    tial consultations despite the decrease.                                           Wk 37,2024
+   The performances of the district                            Regarding disease documentation in DHIS‐2                              0-85(9)
+agement teams and health facilities of the during Week 37, a comprehensive array of 68 dis‐                                           85-95 (14)
+province are available for scrutiny and                    eases were meticulously recorded, encapsulat‐                              95 -100 (13)
+uation on DHIS. The issues of data validity ing 55% of total patient cases. Among these
+and data accuracy needs more efforts and conditions, communicable diseases constituted                      Punjab Map - IPD
+hard working The doctors and paramedics 55%, showcasing a slight increase from the pre‐                     Compliance Reporting Rate
+should pay heed to the plight of data quality vious week, while non‐communicable ailments
+                                                  comprised the remaining 45%. Visual aids such as
+and accuracy, so that correct and valid                    graphs and charts were employed to illustrate
+ures may be made available for the decision the prevalence of the top 10 communicable and
+makers.                                           non‐communicable diseases.
+                   Dr. Muhammad Ilyas Gondal      Indoor     admissions  during  this               week
+                        Director General Services Punjab amounted to 134,024, with 54% of admissions at‐
+                                                  tributed to specific illnesses. A total of 23,224 sur‐
+                   The weekly Bulletin would geries were performed, utilizing various types of
+                   have   not      been  possible anesthesia.
+                   without support, guidance,                 In the realm of Maternal and Child Health,
+                   and expertise of Dr.                   Week 37 witnessed a notable surge in Antenatal                    Daily Indoor and Surgeries
+                                                       Care (ANC) visits, with a total of 221,549 visits                    Services (Reporting Rate)
+                   hammad Ilyas Gondal,           recorded. Out of 75,773 women attending ANC,                              Wk 37,2024
+                   rector    General             Health 17% reported hemoglobin levels below 10g/dl dur‐                    0-85(7)
+                                                                                                                            85·95 (15)
+                          Services Punjab. The regular ing ANC‐1. Out of 25,524 deliveries, the majority                    95 -100 (14)
+                   reviews,  discussion,             and (78%) were normal, while (21%) were C‐sections,
+modification of methodological framework reflecting a consistent trend observed in recent                   Punjab Map - RMNCH
+used to ensure that the Weekly Bulletin meets weeks. Noteworthy complications during child‐                 Compliance Reporting Rate
+the most rigorous statistical standards and                birth were visualized through a comprehensive
+curately reflects the status of our Provincial bar graph. Among the 25,641 live births, 2% ex‐
+health system.                                            hibited low birth weight (<2.5 kg), while 0.5%
+   On      behalf  of                     MIS team, Dr. Khalid were premature births, and 3% encountered
+Mehmood (Director MIS), Dr. Muhammad complications leading to infant mortality.                (FP)
+                                                  Additionally, 49,106 Family Planning
+Mohsan Wattoo (ADHS-MIS) Mr. Farooq visits were recorded during Week 37, with a sig‐
+Ahmed (CPO MIS) and Miss Rukhsana Fawad nificant 75% of these visits taking place in Basic
+(Data Analyst) thank to the focal persons of Health Units (BHUs).
+Districts and public health professionals who     Overall,   the     indicators  for  Week            37
+worked to improve our provincial health                       showed a downward shift, with declines ob‐
+mation system with their tireless efforts and                    served across reporting compliance, OPD
+collaboration and deserve deepest                       visits, ANC consultations, family planning serv‐                    Daily RMNCH Form
+tion for continuing efforts, to be better         ices, and deliveries. This week's data high‐                              (Reporting Rate)
+tation to address the public health challenges    lights  areas  of  concern  in  the            current                    Wk 37,2024
+of today and tomorrow.                            healthcare landscape and underscores the                                           0-85(5)
+                          Dr. Khalid Mehmood need for strategic interventions to address                                             85-95 (12)
+                                   (P&D               MIS) these declines and improve public health out‐                             95·100 (19)
+        Director Health Services          and     comes moving forward.
+
+---
+
+                       DHIS2 Weekly Bulletin Week 37 (Sep 09 ~ Sep 15), 2024
+
+       Distribution of OPD Visits by Age and Gender, Week 37, 2024                       Average OPD perday Visits during week 37, 2024
+60%                                           51%                                1400
+50%                                               42%                            1200
+40%                                                                              1000
+30%                                                              22%24%          8o0                   I
+20%                                 14%16%                                       6o0
+10%    6% 8%           8%10%                                                      400
+0%                                                                                200
+       <1Y             1-4y          5-14Y    15-49y             5oy+             o
+                                    Female    Male                                       BHU  RHC      THQ  DHQ                        THOS
+
+Age and Gender Wise Analysis:                                               Average OPD per day visits:
+Total OPD 2,388,577 visits were recorded in this week there                 In the assessment for week 37, the analysis showcased that,
+were more females (55%) visits than that of males (45%). The                according to the bar chart, THOS facilities stood out with the
+majority of patients in this context fell within the age range of           highest daily average of 1,156 OPD visits among various facil‐
+15 to 49 years old.                                                         ity type.
+
+Classification of Patients by                                         Speciality wise OPD new cases during week 37, 2024
+ Disease Transmission: (CD vs                 1400k           18
+      NCD) Week 37, 2024
+60%                                                  1200k
+50%                                                  1000k       15
+       516%                                           8ook
+40%                             44%                   6ook            1$\
+                                                      400k            $\f       10 $\f $\fr $\f 1 8 18 $\Ara $\A
+30%                                                   200k                                                      × × 8 6 5 4 4 1
+20%                                                   ok                          Skin        Techet
+                                                      Geneeal            Come                 ENT                       Taa
+                                                                      Ot her
+                                                                         Me e
+                                                              Pearnis                    Eve           Piany
+                                                                                         Surgeny                Homeo   bo s
+                                                                                                Deental                 Me
+10%                                                                                                 Cay Urd             ey Conoly
+
+0%
+       CD                       NCD
+              Week 37, 2o24: Leading Communicable Diseases                                 Week 37,      2o24: Leading Non-Communicable Diseases
+70%    62%                                                                        35%    32%
+60%                                                                               30%
+50%                                                                               25%
+40%                                                                               20%
+30%                                                                               15%           12%
+20%           14%      11%  6%                                                    10%                      10%  10%
+10%                                 2%    2%          1%  1.1%    0.5%   0.3%                                       6%  5%  5%  5%        3%  3%
+ 0%                                                                                5%
+       CI      20       80 20 ₘ     20    20        2020    20      20    20₁      0%     20     20         20   20 20  20  20  20        20  20
+
+
+
+
+
+
+Communicable and Non‐Communicable Diseases:                         municable Diseases, the major issue was Fever of unknown
+In Week 37 of 2024 in Punjab, there was a notable incidence         origin, comprising 32% of cases. This was followed by incidents
+of major communicable diseases. Acute Upper Respiratory In‐         of Peptic Ulcer and Hypertension, both contributing 12% and 10%
+fections (AURI) accounted for a significant 62% of cases, indi‐     to the total caseload, respectively. These insights were gath‐
+cating a concerning trend. Following closely behind were cases      ered from patients seeking medical attention in outpatient de‐
+of Diarrhea/Gastroenteritis and Scabies, each making up 14%         partments for both communicable and non‐communicable
+and 11% of the total, respectively. Conversely, among Non‐Com‐      diseases during this period.
+
+---
+
+                     DHIS2 Weekly Bulletin Week 37 (Sep 09 ~ Sep 15), 2024
+
+        SAS N N0                                Weekly Comparitive study of Communicable Diseaseas
+120,000             %A0  %A $A                              Wk 35 Wk 36 Wk 37
+100,000
+ 80,000                           SAS Sre Af
+ 60,000                                 At A 1    N AT A    0 A oA   A Se A                       0 o $\Afra{}$                  r
+ 40,000                                                                                                            R oe A  $\ $A$ A  $\frac{}$$f $\fr$  10
+ 20,000
+            20           80       20                                    20                                                 20    20
+                                      20  20        20      20                                                     20                         20
+                                                            20          M                                          MA
+
+                                                Weekly Comparitive study of Communicable Diseaseas
+    300 240 220                                             Wk 35 Wk 36 Wk 37
+  250
+  200             174
+  150             62 76 76
+  100                                       13        21
+   50                        4 1119          9  10       47 7 2 1 5  o 1 4                     o 3 2            1 5 2    o  1 1  1   0         0 o       0 o
+            20          20        0         20             20 20     20                           20               20               20          20        20
+                                                20                   DA 20                                         20        20      u
+
+
+       Surgeries Categorized by Anesthesia Type:
+                     Week 37, 2024                                     Age and Gender wise Indoor Admission week 37, 2024
+
+    60%                                                                Male Female
+                   51%
+    50%                                                                               0.050270589 70Y+      8%
+    40%
+    30%                               26%                                                   0.138782734 50 - 69 Y 21%
+    20%    19%                               0.501474775                                       15 - 49 Y         32%
+    10%                                      4%                                              0.11746903 5 - 14 Y 13%
+     0%    General  Local             Spinal  Others                            0.192002873             < 5Y   26%
+
+           Anesthesia  Anesthesia     Anesthesia
+
+    MNCH Services
+
+                   ANC Observations - Week 37, 2024                             Distribution of Delivery Modes in week 37, 2024
+    40%                                         ANC visits             25000    19,997
+
+    30%    34%         31%                      Hb. <10 g/dl           20000    (78%)
+
+    20%                                       19%                      15000                      5,401
+
+    10%            17%                                  16%            10000                      (21%)
+                                                                        5000                            126
+     0%                                                                o                                    (0.49%)
+           ANC-1          ANC-2               ANC-3     ANC-4+                  Normal         C-Sections     Vacuum/Forceps
+
+    ANC Detail:                                                        Delivery Modes:
+    Among the total 221,549 ANC visits in this week, ANC‐1 consti‐     During the current week in Punjab, a total of 25,524 deliveries
+    tuted 34% (75,773) with 17% (12,734) showing Hb<10g/dl, while      were recorded. Of these, 78% (19,997) were normal deliver‐
+    ANC‐2, ANC‐3, and ANC‐4 comprised 31% (67,714), 19% (42,612),      ies, 21% (5,401) were C‐sections, and a very small proportion
+    and 16% (35,450) respectively.                                     0.49% (126) involved vacuum/forceps.
+
+---
+
+    DHIS2 Weekly Bulletin Week 37 (Sep 09 ~ Sep 15), 2024
+
+
+Deliveries conducted by Health Facility type-           Maternal Complications in Obstetrics: Inpatient
+              wise week 37, 2024                                   Admissions, Week 37, 2023
+
+ 12,000        C-Sections                     2,500     2,033
+
+ 10,000  10                                   2,000
+                                              1,500
+ 8,000                                        1,000
+
+ 6,000                                        500            309 200  181  151  144  82  70 64
+
+ 4,000         A 18 1        A ha     1A0 1R            2020 20  20 20     20   20   20  20  20
+
+ 2,000  BHU    RHC  THQ      DHQ      THOS                   20  20   20   20 20
+
+
+
+
+
+    Method wise Family Planning Clients Visits week 37, 2024
+ 25,000  20,611                                                           Neonatal Deaths with Complications week 37, 2024
+ 20,000
+   15,000          9,591                                           250    221
+   10,000                   6,359                                  200
+    5,000                            2,973  318    38       33
+
+             20    20       20       80      20    20       20     150       129  97
+                                                                   100              75  67  61
+
+
+    Family Planning:                                                                       50                                         16   8
+    In the 37th week of 2024, there were 49,106 family planning                            o
+    visits. Of these, 2% (965) were by women under 25, and 66%                                                20  20  20  20  20  20  20  20
+    (32,608) were new clients. Counseling visits accounted for 19%
+    (9,275), with 84% being new clients and 16% returning. Refer‐                                                     1Af
+    rals by LHWs made up 7% (3,623), postpartum visits 5% (2,422),
+    and post‐abortion visits 1% (482).
+                                  Regarding the methods used during family planning visits,
+    condoms were the most common 52% (20,611), followed by
+    COC cycles 24% (9,591). Less popular methods included POP
+    cycles, tubal ligation, and implants.
+
+                                                         Kangaroo Mother Care (KMC) Newborn Indicators, week 37, 2024
+     Sr  Babies Initiated with KMC Services            Total                Sr  Information on KMC Outcome            Total Sr  Information on KMC Follow-up    Total
+
+     1   No. of Babies initiated with KMC Services       55                 1 No. of Babies received KMC & discharge  32    1   No. of Babies received 1st follow-up    39
+                                                                            as per protocol
+     2 No. of Babies born in Facility initiated KMC      66                 2 No. of Babies received KMC & discharge  39    2 No. of Babies received 2nd follow-up      37
+         Services                                                               on request
+
+     3 No. of Babies born outside the Facility received  40                 3 No. of Babies initiated KMC& referred/  21    3 No. of Babies received 3rd follow-up      21
+         KMC Services                                                           discontinued due to complication
+
+                                                                            4 No. of Babies die during KMC            21    4 No. of Babies received 4th follow-up      19
+     * Note: This Section is Only for DHQ's where KMC Project is implemented
+     Note: This Section is Only for DHQ's where KMC Project is implemented
+    Kangaroo Mother Care (KMC):
+    We've also tabulated data regarding Kangaroo Mother Care (KMC) for newborns to monitor its implementation and impact.

@@ -1,0 +1,401 @@
+HEALTH    x
+REPORTING
+SYSTEM    SPECIALIZED HEALTHCARE &
+          MEDICAL EDUCATION DEPARTMENT
+
+           WEEKLY SITREP
+
+
+
+
+
+
+
+
+
+
+Patrons in Chief:
+KhawajaSalmanRafique (Minister for SHC&ME Punjab)
+ KhawajaImran    (Minister for P&SHC Punjab)
+               Nazir
+Syed                  (Secretary SHC&ME)
+ NajamAhmad Shah
+Ali Jaan (Secretary P&SHC)
+Dr. Umer Saif(Chairman PITB)
+Patrons:
+Dr. Salman Shahid (AS Technical SHC&ME)
+Faisal Yousaf (D.G IT Operations)
+Rizwan Rashid (D.G IT)
+Editors:
+Prof. Tajammal Mustafa I Prof. Waseem Akram
+Dr. Somia Iqtadar I Dr. Jamshaid Ahmad
+Saflain Haider I Dr. Anjum Razzaq
+Sub Editors:
+Arsalan Manzoor
+ Sundas Nasir
+ Moeen Akhter
+Designer:
+Nida Fatima
+
+           FOCUSING ACUTE (UPPER) RESPIRATORY INFECTIONS
+                      Epidemiological Week No.1, 2018 (31st Dec, 2017 to 6th Jan, 2018)
+
+
+52 ACUTE FLACCID                                 22 DIPHTHERIA                      03          NEONATAL TETANUS
+PARALYSIS
+39 Mianwali  4 Lahore                              10 Vehari   4 Faisalabad                     2 Faisalabad
+3 Faisalabad 2    P                                 4 Lahore             Bhakkar                Lahore
+2 Sahiwal 2 Toba    Tek Singh                                            Sahiwal
+                                                      Toba Tek Singh
+
+Instituteof       WorldHealth                       PunjabInformation     King Edward           University of
+Public Health     Organization                      Technology Board      Medical University    Agriculture Faisalabad
+                  Country office for Pakistan                             Lahore                CTAE
+
+---
+
+HEALTH REPORTING SYSTEM                                          WEEKLY SITREP
+Epidemiological Week No.1, 2018 (31st Dec, 2017 to 6th Jan, 2018)
+
+
+
+
+(Week 1, 2018)
+TOTAL CASES = 61622
+
+
+
+
+
+
+
+
+
+
+Acute Diarrhea: Cases which do not fit in the definition of Dysentery or Acute Watery Diarrhea
+
+
+
+* Data as reported from THQ, Non Teaching DHQ & Teaching Hospitals of Punjab    2/8
+
+World Health                   Punjab Information     KingEdward                University of
+Organization                   Technology Board       Medical University        Agriculture Faisalabad
+Country office for Pakistan                           Lahore
+
+---
+
+    HEALTH REPORTING SYSTEM                                          WEEKLY SITREP
+    Epidemiological Week No.1, 2018 (31st Dec, 2017 to 6th Jan, 2018)
+
+
+
+
+    (Week T, z0To)
+Total Entries = 37287
+
+
+
+    CASE DEFINITION
+    Any acute onset of fever, cough, runny nose, pharyngitis, laryngitis, bronchitis, otitis, tonsillitis, with
+    normal breathing and with or without danger signs.
+
+
+
+    WEEK WISE DISTRIBUTION
+
+
+
+
+
+
+
+
+
+
+    DISTRICT WISE DISTRIBUTION
+
+
+
+
+
+
+
+
+
+
+    * Data as reported from THQ, Non Teaching DHQ & Teaching Hospitals of Punjab    3/8
+
+    Institute of      World Health                   Punjab Information    King Edward    University of
+    Public Health     Organization                   Technology Board      Medical University    Agriculture Faisalabad
+                      Country office for Pakistan                          Lahore
+
+---
+
+    HEALTH REPORTING SYSTEM                                          WEEKLY SITREP
+    Epidemiological Week No.1, 2018 (31st Dec, 2017 to 6th Jan, 2018)
+
+
+
+    Week T,2oTo
+    Total Entries = 37287
+
+
+    AGE WISE DISTRIBUTION
+
+    6000                 Total No. of Males  Total No. of Females
+
+   5000
+20 4000
+3000
+
+2000
+
+1000
+
+   0
+            <1  1-4  5-9 10-14 15-19 20-24 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60-64 65+
+                                                 Age (Years)
+
+
+
+    GENDER WISE DISTRIBUTION
+
+
+
+
+
+
+  Male    Female
+  55%    45%
+
+
+
+
+
+
+
+
+
+
+    * Data as reported from THQ, Non Teaching DHQ & Teaching Hospitals of Punjab    4/8
+
+                                    King
+    World Health                    Edward                                          University of
+    Organization                    Medical University                              Agriculture Faisalabad
+    Country office for Pakistan     Lahore
+
+---
+
+HEALTH REPORTING SYSTEM                                          WEEKLY SITREP
+Epidemiological Week No.1, 2018 (31st Dec, 2017 to 6th Jan, 2018)
+
+
+                 (Week T,20To)
+             Total Entries = 37287
+
+CASES REPORTED FROM VARIOUS TYPES OF HEALTH FACILITIES
+
+   30000
+
+   25000             24947
+20 20000
+   15000
+
+   10000     9332
+
+   5000              3008
+
+   0
+             THQs    Non- Teaching DHQs    Tertiary
+
+
+                                           LEGEND
+
+ Acute Flaccid Paralysis                            (AFP)                 Diphtheria (Suspected)                (Diph)
+ Acute (Upper) Respiratory infections               (ARI)                 Dog Bite                              (DB)
+ Acute Viral Hepatitis (Suspected)                  (AVH)                 Enteric /Typhoid Fever (Suspected)    (TF)
+ Acute Watery Diarrhea/Cholera(Suspected)          (AWD)                  HIV/AIDS (Suspected)                (HIV/AIDS)
+ Tuberculosis (Suspected)                           (TB)                  Malaria (Suspected)                   (Mal)
+ Bloody Diarrhea/Dysentery (Suspected)              (BD)                  Measles (Suspected)                   (Meas)
+
+Influenza                                           (Inf)                  Crimean Congo Haemorrhagic Fever
+                                                                                                                (CCHF)
+ Pyrexia of Unknown Origin                          (PUO)                  Cutaneous Leishmaniasis (Suspected)  (CL)
+ Scabies (Suspected)                                (Scb)                  Diarrhoea (Acute)                    (AD)
+ Sexually Transmitted Infections                    (STIs)                 Meningitis(Suspected)                (Men)
+ Snake Bite (with signs/ symptoms of poisoning)     (SB)                   Neonatal Tetanus (Suspected)         (NNT)
+ Viral Hemorrhagic Fever (Suspected)                (VHF)                  Pertussis(Suspected)                 (Pert)
+ Pneumonia (Suspected)                              (Pneuo)
+
+  Tehsil Head Quarter        THQ           Rural Health Center  RHC                   H Teaching Hospital       Tertiary
+District Head Quarter        DHQ           Basic Health Unit    BHU                       Cheif Executive Officer  CEO(H)
+                                                                                          Health
+
+* Data as reported from THQ, Non Teaching DHQ & Teaching Hospitals of Punjab                                            5/8
+
+Institute of                                        Punjab Information      KingEdward                        University of
+Public Health                                       Technology Board        Medical University                Agriculture Faisalabad
+                                                                            Lahore
+
+---
+
+   HEALTH REPORTING SYSTEM                                               WEEKLY SITREP
+   Epidemiological Week No.1, 2018 (31st Dec, 2017 to 6th Jan, 2018)
+
+   FOCUSING ACUTE (UPPER) RESPIRATORY INFECTIONS
+                    (Week1,2018)
+                              Total Entries = 37287
+
+   EPIDEMIOLOGICAL MAP (based on the residential district of the patient)
+
+
+                      Attock  Rawalpind
+
+           :Mianwali  Chakwal  SmelumGuijrat
+                               Mand
+                               Bahrudai     Sialkot.
+                      KhushabSargodha    Guiraniwala  Naoval
+                               .:        tiattaba
+           Bhakkar            Chiniot    Sheikhupura
+
+                      Jhang   :2  aaa            Lanoe
+           Layyah            Toba                Kasur
+
+ Dera      Macaton   Khanewal            Okara
+ Gaz
+ Kha       Miian      Vehan
+                                 mme
+          Lodhran     :
+   Rajanpur
+
+Rahim    Bahawalpur                      Coordinates of 37287 (100%) cases are
+ Yar                                                  entered in the database
+   Khan
+
+
+
+
+   TOP REPORTING HOSPITALS
+
+
+
+
+
+
+
+
+
+
+   * Data as reported from THQ, Non Teaching DHQ & Teaching Hospitals of Punjab    6/8
+
+   World Health                   Punjab Information     KingEdward                University of
+   Organization                   Technology Board       Medical University        Agriculture Faisalabad
+   Country office for Pakistan                           Lahore                    ATE
+
+---
+
+   HEALTH REPORTING SYSTEM                                          WEEKLY SITREP
+   Epidemiological Week No.1, 2018 (31st Dec, 2017 to 6th Jan, 2018)
+
+   Oivea
+   Focusing Disease Wheel
+       (Week 1, 2018)
+                              TOTALCASES                            42015
+
+   DISEASE WISE DISTRIBUTION
+
+                                                                    Diseases with number of cases > 1000
+
+
+
+
+
+
+
+
+
+
+                                            Diseases with number of cases between 100 & 1000
+                                            591
+       600
+       400    276  314                                    242
+       200                                135  130    104
+       0      20   20                 2020     2020    20  20  2020
+
+                                          S0           20    M
+
+                                                       Diseases with number of cases < 100
+
+100                                                            84
+ 80                                   62        66             57
+ 60
+ 40                         6                                 13  25
+ 20            5     0          0                        0            0            0     0
+  0           20  20²⁰ 202020  20     20    20₂₀      20   20  20  20²⁰  202  20  20  2020
+
+
+
+
+
+   Acute Diarrhea: Cases which do not fit in the definition of Dysentery or Acute Watery Diarrhea
+
+   * Data as reported using disease wheel                                                        7/8
+
+   Institute of      World Health                   Punjab Information     KingEdward            University of
+   Public Health     Organization                   Technology Board       Medical University    Agriculture Faisalabad
+                     Country office for Pakistan                           Lahore                ATE
+
+---
+
+    HEALTH REPORTING SYSTEM                                                              WEEKLY SITREP
+    Epidemiological Week No.1, 2018 (31st Dec, 2017 to 6th Jan, 2018)
+
+                                      Focusing Dengue
+                                      (Week 1, 2018)
+
+                        Indoor Surveillance                          Outdoor Surveillance
+     Districts       Number of     Number       Total         Total        Number      Number       Total         Total
+                       Houses    of Houses    Containers    Containers    of Spots    of Spots    Containers    Containers
+                      Checked     Positive     Checked       Positive     Checked     Positive     Checked       Positive
+     ATTOCK             27472         0          82554           0          4117         0           12972          0
+     BAHAWALNAGAR       59224         0         207956           0         11149         0           17972          0
+     BAHAWALPUR         45447         0         106626           0          5588         0           16684          0
+     BHAKKAR             3314         0           7878           0           470         0            1434          0
+     CHAKWAL            29537         0         109511           0          6087         0           23497          0
+     CHINIOT             6071         0          29961           0          1765         0            8690          0
+     D.G.KHAN            3877         0           7760           0           838         0            4243          0
+     FAISALABAD         79926         6         303230           6         76195         2          185189          2
+     GUJRANWALA         59673         0         173492           0         15073         0           34952          0
+     GUJRAT             11990         0          53290           0          1598         0            3589          0
+     HAFIZABAD           2575         0           8006           0          1246         0            3268          0
+     JHELUM             16488         0          60314           0          5065         0            9423          0
+     JHANG                240         0           1136           0           345         0            1231          0
+     KASUR              74024         0         311539           0          4011         0           12791          0
+     KHANEWAL            9225         0          16598           0          2160         0            5962          0
+     KHUSHAB             2093         0          11689           0          2336         0            7890          0
+     LAHORE            180113        17        1115622          17         34622         0          153124          0
+     LAYYAH              5500         0          32015           0           307         0             895          0
+     LODHRAN             4715         0          18017           0          2104         0            5277          0
+     MANDI BAHAUDDIN     7900         0          19349           0          7900         0           10811          0
+     MIANWALI            1054         0           4512           0           407         0            1124          0
+     MULTAN             36626        17         224191          17          5572         1           39425          1
+     MUZAFFARGARH        1250         0           6146           0           502         0            1405          0
+     NANKANA SAHIB      26389         0          42713           0          6010         0           11285          0
+     NAROWAL            10651         0          48539           0          2416         0            9038          0
+     OKARA              27389         0          99864           0         10651         0           16175          0
+     PAKPATTAN          28350         0          49038           0         10554         0           18649          0
+     RAHIMYAR KHAN       5959         0          45280           0          4368         0           19210          0
+     RAJANPUR            2891         0           8964           0           846         0            4302          0
+     RAWALPINDI         71521        10         377606          10         14625         0           56094          0
+     SAHIWAL             9900         0          11699           0          3000         0            3676          0
+     SARGODHA           57805         0         110221           0         20557         0           26485          0
+     SHEIKHUPURA       110668         0         285930           0         31444         0           68296          0
+     SIALKOT            37200         0         187208           0         14985         0           77849          0
+     T.T.SINGH           6686         0          15177           0          3070         0            7553          0
+     VEHARI             31165         0          98773           0          2290         0            3639          0
+     Total                    1094908 50       4292404          50         314273        3          884099          3
+
+
+        World Health     Punjab Information     King Edward           University of
+        Organization     Technology Board       Medical University    Agriculture Faisalabad
+Country office for Pakistan                     Lahore

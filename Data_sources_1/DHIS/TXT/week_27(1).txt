@@ -1,0 +1,285 @@
+                     DIRECTORATE GENERAL HEALTH SERVICES
+                                                                                                PUNJAB-LAHORE
+                                                                                            24-Cooper Road, Lahore
+                                                                                 Ph. 042 -99200990; email: hmis.pb@yahoo.com
+unicef
+ everychild                                                                  DHIS2 Weekly Bulletin (Week 27, July 01 to 07, 2024)                          dhis2
+ for
+
+EGARDI         PORTI              It is a matter of great pleasure for me                  The weekly Bulletin would have not been
+&DI                          THA to write this message. The importance of           possible without support, guidance, and
+                      data planning and implementation is                           pertise of Dr. Muhammad Ilyas Gondal,
+                      mense. DHIS is a decision support system                      tor General Health Services Punjab. The regular
+ Fr                   that will help managers at all levels to make                 reviews, discussion, and modification of
+                      evidence based decisions. It will help in                                                             odological framework used to ensure that the
+                      ning & development, strategy                                  Weekly Bulletin meets the most rigorous
+                      ment, Budgeting and forecasting about                                                               tistical standards and accurately reflects the
+ future needs. The MIS team is praise-worthy to implement the                     status of our Provincial health system.
+ system in the whole province and bring reporting regularity to                                                      On behalf of MIS team, Dr. Khalid Mehmood (Director
+ more than 97%.                                                                                                   MIS), Dr. Muhammad Mohsan Wattoo (ADHS-MIS) Mr. Farooq
+                        The performances of the district management teams and     Ahmed (CPO MIS) and Miss Rukhsana Fawad (Data Analyst)
+ health facilities of the province are available for scrutiny and                 thank to the focal persons of Districts and public health
+ uation on DHIS. The issues of data validity and data accuracy                    fessionals who worked to improve our provincial health
+ needs more efforts and hard working The doctors and                                                     mation system with their tireless efforts and collaboration and
+ ics should pay heed to the plight of data quality and accuracy,                                              deserve deepest appreciation for continuing efforts, to be
+ so that correct and valid figures may be made available for the                  better orientation to address the public health challenges of
+ decision makers.                                                                 today and tomorrow.
+                                                Dr. Muhammad Ilyas Gondal                                                                             Dr. Khalid Mehmood
+                                             Director General Services Punjab                                                     Director Health Services (P&D and MIS)
+
+Key Findings: Health Indicators Analysis:                                          consistent, with the majority of visits       LBW <2.5 kg, and 0.5% (116) were Prema‐
+          During the 27th week of 2024, a com‐                                     coming from individuals aged between 15       ture Births. Tragically, 3% (721) of the
+prehensive data analysis was conducted,           and 49 years old.                                                              babies faced specific complications and
+revealing significant trends and key in‐                 This week, DHIS‐2 documented a                                          did not survive. We've also tabulated
+sights    through    detailed  tables      and                                      total of 68 diseases, encompassing 56%       data regarding Kangaroo Mother Care
+graphs. Across all 36 districts, the report‐                                       of all patient cases. Among the reported      (KMC) for newborns to monitor its imple‐
+ing compliance for Week 27 was com‐                                                illnesses, communicable diseases consti‐      mentation and impact.
+mendable at 91%. The total number of                                               tuted 55%, showcasing a slight increase,      Family Planning (FP) visits tallied
+OPD (Outpatient Department) visits dur‐                                             whereas non‐communicable diseases ac‐        49,502 this week. The largest share, com‐
+ing this week reached 2,021,207, marking          counted for 45%.                                                               prising 73% of the total visits, took place
+a modest decrease of approximately 5%              Regarding healthcare procedures,                                              in BHUs. The week‐wise comparison is
+from the previous week, Week 23, which                                           this week saw a total of 117,112 indoor ad‐     shown in the line chart. Chakwal, Sialkot,
+recorded 2,123,033 visits. Notably, new                                            missions recorded, with 59% of patients       and Faisalabad districts maintained their
+OPD patients constituted 96% of the                                               admitted due to specific diseases. Surger‐     leading positions with 4,771, 3,536, and
+visits, with follow‐up visits accounting for                                       ies conducted with anesthesia saw a var‐      3,507 FP visits, respectively, demonstrat‐
+the remaining 4%.                                                                 ied distribution: General Anesthesia (GA)      ing consistent engagement.
+       In terms of facility types, the average                                    was used in 19% (4,098), Local Anesthesia           In Week 27, several key indicators
+daily OPD visits were notably higher in                                           (LA) in 51% (10,813), Spinal Anesthesia in     showed a downward trend compared to
+THOS, with 964 visits per day. The highest                                         26% (5,612), and alternative anesthesia       the previous week. There was a decrease
+number of OPD visits were reported in Dis‐        methods in 4% (883).                                                           in outpatient department (OPD) visits,
+trict Lahore which led with 204,548 visits,          Within the maternal health domain,                                          antenatal care (ANC‐1) visits, deliveries
+closely followed by Faisalabad (175,671) and                                       ANC visits totaled 228,720 in Punjab for      and family planning visits. These down‐
+Multan (126,071) in terms of patient footfall.                                    Week 27, with ANC‐1 (n= 79,261) reporting      ward  trends  highlight  challenges  in
+    In the analysis of OPD visits during                                           16% (12,354) with Hb<10g/dl. Deliveries       healthcare services that need to be ad‐
+Week 27, there was a slight shift in                                                 numbered 24,476, comprising 80% Nor‐        dressed. The data from this week empha‐
+gender distribution, with females rep‐                                             mal deliveries, 20% C‐Section, and 0.29%      sizes the need for continued efforts and
+resenting 55% of visits and males 45%. In‐                                          Vacuum/Forceps. Among the live births        innovations to improve public health out‐
+terestingly, the age distribution remained                                         (24,106), 1% (333) babies were born with      comes in the future.
+Diseases on high alert in Punjab during the week‐27, 2024
+
+  Acute Diarrhea                                   Heatstroke                      Susp Diarrhea/Gastr.
+  Acute viral Hep (A & E)                          Leishmaniosis                   Naegleria
+  CCHF                                             Malaria                         Typhoid
+  Cholera                                          Infantile Diarrhea              Dengue
+                                                   Susp Measles                    Neonatal tetanus
+
+---
+
+DHIS2 Weekly Bulletin (Week 27, July 01 to 07, 2024)
+
+
+             Total OPD Visits: Comparative Weekly Data                         Average OPD perday Visits during week 27, 2024
+2500K                                                                  1200
+
+2000K    2A       N     20       2       A                2    20      1000                                              891  964.
+
+1500K                                                                   8oo
+
+1000K                                                                   600
+
+500K                                             1                      400                       465
+
+   oK                                                                   200    126
+          W2o     W21   W22      W23      W24    W25      W26   W27            34
+         2024     2024  2024     2024    2024    2024     2024 2024       o    BHUs  RHC          THQ                    DHQ  THOS
+
+OPD Visits Week Wise Comparison:
+In week 20, the highest number of OPD visits, totaling 2,365,787       Average OPD per day visits:
+were recorded compared to other weeks. However, in the Cur‐            In the assessment for week 27, the analysis showcased that, ac‐
+rent Week 27, there was 5% decrease in OPD visits (2,021,207)          cording to the bar chart, THOS facilities stood out with the high‐
+as compared to the preceding week 26.                                  est daily average of 964 OPD visits among various facility type.
+
+                Classification of Patients by                          Speciality wise OPD new cases during week 27, 2024
+                  Disease Transmission: (CD vs             1200 k 10
+                       NCD) Week 27, 2024
+                                                          100 0 k
+60%               56%                                       8oo k
+
+
+50%        60o k    $\Rra$
+       41%
+40%        400 k
+
+           200 k    1815$1010 ×5 x×
+30%       ok              1¥x 1 X 15 ¥ ^ 15 × × 3 ×
+
+
+20%    20 20 20 20 20 20 t E  2 20 20 DA 20 20 20 0 20 20 20 20 2020
+
+
+10%
+
+
+0%
+  CD  NCD     Specialty wise OPD cases:
+              OPD visits by specialty were distributed as follows
+
+
+District vise Suspected OPO-Communicable Diseases Veek 27. 202    Di emict vite Suspected CiPO-Commuricable Duseases Week 27, 2024
+
+   20    20                  20 20               20                  20      20 20 20                    20                       20  20              20
+20    20    20 20     20 20        20   20 20 20                  20  2   20    20    20  20  20              20 2 20                            20
+                20                    2                                                   20 20     20
+            22     20     20                                          A  A             1      2       20    2                         C     20      A
+N      A                                                                        N A    2                                                       2
+
+
+     Amock          46     9.096     10            287      2.103             969     34    286     10      22    11    1.972    376     19 Lodhran            87     6.732     12       92      1862   22      889     15                         165     230     277
+  2  Bahawahagae    30     6,522     43            200       U846       14  1,306           150                   29      501    302     20 Mandi Eahauddin    39     5,472              43       915           833                   12           153    7621     236
+3 Bahamalpot               8,882                   305      3,497       89  2,703     19    104     28     113    88      823    493     21 Miannali           29     7,867    263       m1      1628           677     38      68     2           191     953     313
+    Blakaf          41     4.047     28             16        607       20    746            32     10                    621    350     22  Multan                  15,931    161      320     5.824   38    4.416     25      12   113            52   1.364     443
+     Chakwal               6,651     25            176        865             604                                        1559    200     23 Mucallangarh             12,257     90      500     4,411   1i    3,904           t'mn    20           500   1.329    1217
+6 Chiniot                  5,234    179            215        983             703             3     35           162      350            24 Nankana Sahib             5,378      2      120     2,004    c    1,600                    n      20    n7     404     102
+    D.G Khan               7,490    162           1975      1.791        5    913     18     93     28           385     1143    725     25 Narowal                   5,654      6       45       778    3    1,824     91                         101     478     352
+    Faisalabad      76    31.276    102            282      6.763      145  6.268     20    259    106          1176     1819    428     26   Okara            30     8.188      3       66      1004    3    2.028     24      28                  33     629     265
+9 Guipanuala              16,523      n            533      5,305           3,142     66     44     57      42  4101     1390    126     27 Pakpattan          21     3,030     15      326       763    2    1,305     14                                 804     160
+10 Guj at                  71152     21            199      3,272       28  1,471    145     13      5           279    1,511    617     28 Rahimgar Khan       8    18,615    133      483     3.215  128     1722     61      54    57      55   293   1,030     467
+II Hafizabad               7.887     68            228       1683      203   1659     16            13            71      636    196     29 Rajanpur                  6.704     19      219      LU26   16    1.418             38     6                   162     163
+2 Jhang                    5,089     30            202       1600       57  2,040     19    361     35            54      581    400     30 Flawapindi                 1230    213      260     4,353    m      307     15    2003    24       4   007    2,78     467
+13 Jhelum                  5,467     43            200       1269       11    387     15    291     "1           209      875    260     31 Sahiwal                   9,588     36       49     1,921          1759     10      37    17           724     668     234
+1 Kasur            353    16.696    161            140      2.677           3,543    134            15             2      739    312     32 Sargodha            6    10,347     42    8 839     4.224   67    2.112     17      67    I1   2  24   438    1491     743
+ 15 Khaneval        44       a73     1n            120      2.116       12  1,402     21            56            40       sa    323     3 Sheikhupura                7,084     43      206    2,5801          U657    212     128     3      43  1049     539     275
+168  Khushab        55    10,803     45 .           15       1843            1137                   10            17    1,407    274     34 Sialkot                  19,596     76      151     2,643         3,687      3     141     7      50     1     814     325
+17 Lahore          722     21880    247 12         621      8.049      112  4,364    308    121    165     186  L8M4    2.476    547     36 Toba Tek Singh            1L742     12      860      1624   62    1.071      2      23     3      87    89     891     367
+    Laggash        267     6,266      T            323      2,003             156    164                          40      825    306     36 Vehari             80     8,455              40      1454         1,470             37    24           167     643     305
+
+---
+
+ DHIS2 Weekly Bulletin (Week 27, July 01 to 07, 2024)
+
+70% 61% Week 27, 2o24: Leading Communicable Diseases              35%  Week 27, 2o24: Leading Non-Communicable Diseases
+60%                                                               30%    31%
+50%                                                               25%
+40%                                                               20%
+30%                                                               15%       12% 10% 10%
+20%      15% 11%  6%                                              10%                    6%   6%  5% 5% 3%               3%
+10%                     2%     2%    1% 0.5%                       5%
+ 0%  MIT  20  80   m    20     20  2020 20    20        2020       0%     20 20  20  20  20 2020  20  2 20               20
+
+
+
+
+
+
+
+ Comparative Analysis of Top 10 CD and NCD:                                          Diseases were led by Fever of unknown origin, accounting
+ In the 27th week of 2024 in Punjab, there was a notable rise                        for 31% of cases. Peptic Ulcer and Hypertension followed,
+ in communicable diseases. Most common were Acute Upper                              each at 12% and 10%. These findings are based on data col‐
+ Respiratory Infections (AURI), making up 61% of cases, fol‐                         lected from outpatient departments treating both communi‐
+ lowed by Diarrhea/Gastrointestinal issues and Scabies at 15%                        cable and non‐communicable diseases during this specific
+ and 11% respectively. On the other hand, Non‐Communicable                           timeframe
+
+             Surgeries Categorized by Anesthesia Type: Week 27, 2024               Map showing suspected                        Punjab Map - OPD- Susp Measies
+                                                                                   Measles coverage by dis‐
+                                                                                   tricts (health facility‐
+ 60%                        51%                                                    wise):      of                                   Attock  watpindi
+ 50%                                                                               In week 27       2024, Punjab
+                                                                                   faced a significant measles
+ 40%                                                                               outbreak, with the highest
+ 30%                                       26%                                     number of cases reported
+             19%                                                                   in District Lahore (155) fol‐                Shaidar
+ 20%                                                                               lowed by Multan (113) and
+ 10%                                                            4%                 Faisalabad         (106).  Tragi‐                                       Kasu
+                                                                                   cally, the outbreak has re‐
+  0%                                                                               sulted in 04 deaths: 03 in           D.G Khan
+        General Anesthesia Local Anesthesia Spinal Anesthesia   Others             Bahawalpur and one in                                                   OPD-Susp Measles
+                                                                                   Sargodha. The disease has                                dawainagar     W27 2024
+                                                                                                                                                            1-16.8(55)
+ Surgeries with type of Anesthesia:                                                severely affected patients                                               16.8-32.4(3)
+ Throughout 21,406 surgeries, various anesthesia methods were                      under five years of age,                     Bahawalpur                  48.4-64.4(1)
+                                                                                                                                                            64.2-80(1)
+ employed. General anesthesia (GA) was used in 19% (4,098) of                      highlighting       the urgent                                              Deaths
+ surgeries, while local anesthesia (LA) was 51% (10,813). Spinal                   need for immediate and
+ anesthesia contributed to 26% (5,612) of procedures, with 4%                      serious action to address
+ (883) involving other alternative anesthesia methods.                             this crisis.
+ MNCH Services
+
+                                     Comparison of Anemia Among Women Attending First
+                                                      Antenatal Care                                  Distribution of Delivery Modes in week 27, 2024
+  100,000                                                                   18%
+   90,000                                                                   16%              25000    20,472 (80%)
+   80,000    NA      %AT             %A    SA                   %A  A       14%
+   70,000                   %A                                              12%              20000
+   60,000                                                                   10%
+   50,000                                                                    8%              15000
+   40,000                                                                    6%
+   30,000                                                                    4%
+   20,000                                                                    2%              10000                      5,002
+   10,000                                                                    0%                                         (20%)
+        -
+             W2o     W21    W22      W23   W24      W25     W26      W27                      5000
+             2024    2024   2024     2024  2024     2024    2024    2024
+                            ANC 1          ANC1 Hb. <10 g/dl                                                                                  43 (0.17%)
+                                                                                                 o
+ Weekly Comparative Analysis of Anemia in ANC‐1 Women                                                 Normal            C-Sections            Vacuum/Forceps
+ coming for Antenatal care:
+ The trend analysis of ANC‐1 visits indicates a noticeable de‐                      Delivery Modes:
+ crease compared to previous weeks. Week 20 stood out                               During the current week in Punjab, a total of 24,476 deliver‐
+ with the highest recorded ANC‐1 visits. However, in the cur‐                       ies were recorded. Of these, 80% (19,484) were normal deliv‐
+ rent Week 27, there was a clear 3% decline in ANC‐1 visits                         eries, 20% (4,921) were C‐sections, and a very small
+ compared to Week 26.                                                               proportion 0.29% (71) involved vacuum/forceps.
+
+---
+
+DHIS2 Weekly Bulletin (Week 27, July 01 to 07, 2024)
+
+
+           Total Deliveries Conducted, Live Births and PNC-1 Visits in                                                                  Analyzing Weekly Trends in Types of Deliveries
+                  Health Facilities Comparative weekly Analysis
+    12,000                                                                                                                   30K          C-Sections          Normal+Vacuum/Forceps
+    10,000         %O0                                                                                                       25K                                     19K                           21K          2oK
+     8,000                                                                                                               20K         18K  18K           16K   17K                 17K
+     6,000                                                                                                                   15K
+     4,000                              SBA         1S             13  FAT    R8       19     fAT                        10K
+     2,000                                                                                                                    5K     4K   4K            4K    4K          5K      3K               5K            5K
+       -           BHU                  RHC         THQ                DHQ             THOS                              oK         W20   W21           W22   W23    W24          W25              W26          W27
+
+                                                                                                                                    2024  2024          2024  2024   2024         2024             2024        2024
+                           C-Sections               Normal/Forceps
+
+Deliveries conducted in health facilities Type wise:                                                                  Analyzing Weekly Trends in Deliveries:
+       According to HF types, BHU accounted for 44% (10,820) of nor‐                                                  The bar chart compares week-wise delivery methods. Week 26
+mal/forceps deliveries, while THOS handled 8% (1,992) of C‐sections.                                                  shows the highest number of deliveries among all weeks, while
+It's important to note that these percentages are based on deliveries                                                 Week 25 has the lowest number of deliveries due to the closure
+within healthcare facilities.                                                                                         of health facilities. Additionally, in the current week (Week 27),
+                                                                                                                      there is a 5% decline compared to the previous week.
+           Maternal Complications in Obstetrics: Inpatient Admissions, Week 27, 2023
+  2500     2057                                                                                                                           Neonatal Deaths with Complications week 27, 2024
+  2000                                                                                                                300           282
+  1500                                                                                                                  250
+  1000                                                                                                                  200               150
+   500             261                                                                                                  150                             92     76
+                          176                157    138                130  93          92                       79     100                                                 74    41
+ o                                                                                                                       50                                                                           3           3
+           202202   20     20                202     20                 20  20          20                       20      o          20     20           20     20           20    20                 20             20
+                    20    202                202     20                202                                                           20                 SA                                                       20
+
+Maternal and Neonatal Deaths                                                                                         Hemorrhage (PPH) and 3 deaths were due to other obstetric
+Throughout this week, there were 10 reported cases of mater‐                                                         complications. Additionally, complications led to 721 neonatal
+nal deaths. Specifically, 2 deaths resulted from Postpartum                                                          deaths, which is 3% of the total 24,106 live births.
+                   Services wise FP Client visits week 27, zo24                                                                            Method wise Family Planning Clients Visits week 27, z024
+ 40,000                   33,600                                                                               12,000    9,982
+ 35,000                                                                                                        t0,000
+ 30,000
+ 25,000                                                                                                         8,000                      7,225
+ 20,000
+ 15,000                                 9,580                                                                   6,000
+ 10,000                                                            4,228                                        4,000                                   3,110
+  5,000       957                                                             2,119    805                      2,000                                          494                         37      35
+       Total FP Visits < New FP visits  No of FP visits FP Clients Ref by Total PPFP visits Total PAFP visits                                                                                                    1
+              25 y                      Counseling                 LHW                                                   coC cycles        DMPA Inj     IUCD  POP cycles                Implants  Tubal Ligatlon Vasectomy
+                                        (new/Old)
+                                                                   Kangaroo Mother Care (KMC) Newborn Indicators , week 27, 2024
+  Sr.                 Babies Initiated with KMC Services                               Total Sr.                 Information on KMC             Total Sr.                     Information on KMC Follow-up           Total
+                                                                                                                         Outcome
+   1  No. of Babies initiated with KMC Services                                        49     1                  No. of Babies received KMC          29 1 No. of Babies received 1st follow-up                   39
+                                                                                                                & discharge as per protocol
+
+ 2 No. of Babies born in Facility initiated KMC Services                               54 2 No. of Babies received KMC                               13 2 No. of Babies received 2nd follow-up                   8
+                                                                                                 & discharge on request
+                                                                                                 No. of Babies initiated KMC&
+ 3 No. of Babies born outside the Facility received KMC Services                       20     3 referred / discontinued due                         6   3 No. of Babies received 3rd follow-up                   7
+                                                                                                 to complication
+                                                                                              4 No. of Babies die during KMC                        6   4 No. of Babies received 4th follow-up                   7
+* Note: This Section is Only for DHQ's where KMC Project is implemented
+* Note: This Section is Only for DHQ's where KMC Project is implemented

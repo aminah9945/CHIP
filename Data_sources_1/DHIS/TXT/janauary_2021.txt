@@ -1,0 +1,293 @@
+    DHIS Analysis Report (Jan 2021)
+    Directorate General Health Services, Punjab (MIS Cell)
+ 24-Cooper Road Lahore
+  Tel: [+92-99200990]
+
+Email: Hmispb@yahoo.com
+
+
+                   DHIS                                                                *
+    District Health Information System
+
+    KEY HIGHLIGHTS
+
+    Due to pandemic COVID-19, there is a clear decline pattern observed from Oct to Dec 2020 in healthcare services
+    that are being reported in DHIS by Health facilities including Teaching Hospitals, DHQ, THQ, Civil Hospitals, RHCs,
+    BHUs, MCHC and Dispensaries. Total OPD visits in Oct to Dec were 32 Million, but from Oct (12.7 Million) OPD
+    is decreased to 4 Million in Dec 2020. This shows there is a decrease of 31% in OPD for the month of Dec as
+    compare to Oct 2020.
+    Similarly, a major decline is observed in rest of the major indictors that are being reported in DHIS i.e.
+    ANC-I, Deliveries, Family planning visits, Medicine Stock out and other indicators.
+
+                        OUT PATIENT DATA
+                                          Total OPD Visits
+    12.71                                 <u>The figure shows a graphical representation of OPD </u>
+
+                        10.58             <u>visits (New + Follow Up) for last three</u> <u>Months of </u>
+                                 8.83     2020.
+                                          <u>Total OPD visits in October to December were 32.12</u>
+                                          <u>Million which was almost 11 million lesser i.e., 42.9 </u>
+                                          <u>m than the same period 2019. The data reported </u>
+                                          <u>from all over Punjab shows there is a decrease of </u>
+                                          13% in OPD from the month of Oct to Dec.
+    Oct-20              Nov-20    Dec-20
+
+
+
+
+
+
+
+
+
+
+    1
+
+---
+
+EPIDEMIC TOP FIVE DISEASES
+                                   Oct-Dec
+                         Hypertension,
+                  Scabies,    2.48
+
+PepticUlcer       2.87             Peptic UIcer
+Diseases, 2.9                      Diseases, 3.02
+
+Others, 3.03                       AURI, 13.99    Scabies, 3.39                     AURI, 13.77
+
+                   Fever dueto                    Fever due to
+                  other causes,                   other causes,
+                  4.53                            4.38
+
+                  2019                                                 2020
+
+           1800000
+           1600000
+           1400000
+           1200000
+1000000
+            800000
+            600000
+            400000
+            200000
+                 O
+                  AURI             Fever due to  Scabies  Peptic Ulcer Hypertension Diabetes
+                                   other causes           Dise ases                 Mellitus
+                                                   NovDec
+                                                 Oct
+
+Figure shows the number of patients of top five epidemic diseases in Punjab Province for the month of Oct to Dec in both
+years 2019 and 2020. The highest number of patients were found in ARI-Acute (Upper) Respiratory Infections in all months
+and in both years in the same time of the year. The reported no. of patients in DHIS has also decreased due to 2ⁿᵈ wave of
+pandemic COVID-19.
+
+SUSPECTED MEASLES, TYPHOID FEVER, DIARRHEA <5 & >5 YEARS & PHENOMENA >5 & <5 yrs
+<u>Graph shows number of patients for the period of Oct-Dec 2020 for Suspected Measles, Typhoid Fever, Diarrhea </u>
+<u><5 & >5 years and Phenomena >5 & <5 years. It is observed that both Diarrhea <5 & >5 years cases are </u>
+<u>decreased during the period. It is also observed that this year we have less cases of these diseases than last </u>
+<u>year in the same time period</u>
+
+
+2
+
+---
+
+3
+
+---
+
+                           MATERNAL AND NEONATAL CHILD HEALTH
+Deliveries conducted in Health Facilities.
+
+           Oct-Dec Comparison Year to Year                        Deliveries
+400,000                                       120000
+350,000    287,036                            100000     90363            85769    86800
+300,000                            262,932     80000
+250,000                                       0
+200,000                                        60000
+150,000                                        40000
+100,000
+ 50,000    62,457    51,929                   20000      17476            17190    17263
+-                                                  0
+           2019       2020                              Oct-20    Nov-20           Dec-20
+                   Normal  C-Sections                             Normal  C-Sections
+
+The figure shows percentage of Total Deliveries conducted in Health Facilities of Punjab for the last three
+months of year 2020 i.e., Oct to Dec. Not more than 1% change can be overserved. The number of C-section
+performed were also analyzed and it was observed that the highest was in Oct Continuous decrease may be
+the result of 2ⁿᵈ wave of COVID-19.
+
+
+ANC-I VISITS
+290000    86%                                         88%     <u>This </u> <u>numbers </u> <u>are</u>  <u>calculated </u> <u>from </u> <u>the </u> <u>expected </u>
+285000                                                86%     <u>pregnancies during the year (3.4% of total Population). 80 </u>
+280000                                                84%     <u>above percentage can be seen through graph for the </u>
+275000
+270000                                                82%     <u>month of Oct but in Nov and Dec there is 77-79%</u>
+265000                                           79%  80%     <u>respectively which may be due to COVID-19 so directly </u>
+260000                     77%                        78%     ANC-I visits decreased.
+255000                                                76%
+250000
+245000                                                74%
+240000                                                72%
+          Oct              Nov                   Dec
+                 ANC-1     % of Services Provided
+
+
+
+
+
+
+
+
+
+
+4
+
+---
+
+   <u>FAMILY PLANNING VISITS</u>
+   Oct-Dec Comparison Year to Year     Figure shows a graphical representation of Family
+                                       Planning visits for three last months of 2020.
+   200000 I H                          <u>There is no specific pattern observed in year 2020 but </u>
+180000
+160000
+140000                                 <u>from previous year data shows that overall FP visits </u>
+120000
+100000                                 reduced in the time of the year.
+80000
+60000
+40000
+20000
+   O
+    Oct    Nov                  Dec
+           20192020
+
+
+   OBSTETRIC COMPLICATIONS
+
+
+                  Rupture Uterus                                  of Complications Abortion   Pre-Eclampsia/ Eclampsia
+                              Prolonged/ Obstructed Labour Ante partum (APH) Hemorrhage Postpartum (PPH) Hemorrhage
+          Puerperal Sepsis                 Ectopic Pregnancies
+
+   Oct     165     198              420     117            957     1098    956     706
+   Nov     195     326              445     221            781     913     820     818
+   Dec     149     283              597     155            759     1227    1165    1303
+          Above Table shows the number of Obstetric Complications for the Month of Oct to Dec.
+
+
+
+
+
+
+
+
+
+
+   5
+
+---
+
+    Still Birth, Neonatal and Maternal Deaths
+     I
+     2000                                                                Neonatel and Maternal Deaths
+                                                                 90
+     1500                                                        80
+                                                                 70
+                                                                 60
+     1000                                                        50                                  I
+                                                                 40
+                                                                 30
+     500                                                         20
+                                                                 10
+                                                                 O
+     O                                                                   Oct    Nov                  Dec
+             Oct            Nov  Dec                                     Neonatal deaths in the facility -  Maternal deaths reported -
+
+    Stillbirth graph shows number of Still Births in all health  Graph shows numbers of Neonatal and Maternal Deaths in
+    facilities for the Month of Oct to Dec 2020. It is observed  health  facilities.  The  number of maternal                         deaths  has
+    that the number of stillbirths has been decreased by         increased in the Month of Nov, whereas, in Dec there is a also
+    36% in Dec from Oct.                                         slight increase in neonatal deaths.
+
+
+
+        MEDICINE STOCK OUT
+
+6.0%
+        5.1%
+5.0%        4.6%    4.2%
+
+4.0%
+
+3.0%
+
+2.0%
+
+1.0%
+
+0.0%
+        Oct    Nov    Dec
+               Average Medicine Stockout
+
+    Figure shows a percentage of average stockouts for 18 tracer drugs in Facilities for the month of Oct, Nov and Dec 2020.
+
+
+
+
+
+
+
+
+
+
+    6
+
+---
+
+IMMUNIZATION COVERAGE
+
+                                                                                            Pregnant women
+Children fully immunized (Measles 2) -                                                received TT-2 vaccine
+                                                                                      200000
+
+                                                                                      190000
+Children received 1st Measles vaccine -                                               180000
+
+                                                                                      170000
+
+Children received 3rd Pentavalent vaccine -                                           160000
+
+                                                                                      150000
+                                               O 50000 100000 150000 200000250000     140000
+ Dec Nov                                         Oct                                        Oct  Nov      Dec
+
+
+
+
+
+<u>Figure shows a comparison of vaccination in the last three months of 2020. It seems that Full Immunized children </u>
+<u>in Oct decreased 16% in Dec from Oct 2020. Likewise, same in the case of TT-2 where same 16% vaccination </u>
+<u>dropped in Dec in comparison to Oct 2020.</u>
+
+
+This Report would not be possible without the collaboration,                 On behalf of MIS team, Mr. Farooq Ahmed (CPO), we thank to the focal
+guidance, and expertise of Dr. Haroon Jahangir Khan                      (Director   persons of Districts and public health professionals who worked to
+General Health Services Punjab), Dr. Shohail Arshad Rana (DHS MIS),                  improve our provincial health for their tireless efforts with timely
+Dr. Imtiaz Ahmed Rana (ADHS-Statt).                                                  collaboration. We are better prepared to address the public health
+                                                                                     challenges  of  today  and  tomorrow. They deserve  our  deepest
+The regularly reviews, discussion, and modification of methodological                appreciation.
+framework used to ensure that the Report meets the most rigorous statistical
+standards and accurately reflects the state of our Provincial health.                                            DHIS
+                                                                                                                 hirtHeal
+
+
+
+
+
+
+
+
+
+
+7

@@ -1,0 +1,256 @@
+                   DIRECTORATE GENERAL HEALTH SERVICES
+                                                                             PUNJAB-LAHORE
+                                                                         24-Cooper Road, Lahore
+                                                              Ph. 042 -99200990; email: hmis.pb@yahoo.com
+unicef
+for everychild                                           DHIS2 Weekly Bulletin (Week 32, 05 Aug ~ 11 Aug, 2024)                              dhis2
+EGARDI                 PORTI It is a matter of great     Highlights:
+&DIS                    THA pleasure for me to write                  During the 32nd week of 2024, we carefully analyzed our data report, discov‐
+                       this message. The                 ering valuable insights. By closely examining charts and graphs, we uncovered im‐
+                              tance of data planning     portant patterns and metrics, providing clarity on significant trends.
+Fr                     and implementation         is     The comprehensive analysis of Week 32, 2024, Exploring vital insights from our
+                       immense. DHIS is a                data report, this analysis employs tables and graphs to illustrate significant trends
+                            sion support system that     and essential indicators. The reporting compliance for Week 32, 2024, across all 36
+                           will help managers at all     districts, exhibited a remarkable improvement compared to the prior week, reach‐
+levels to make evidence based decisions. It              ing 91%. The total number of OPD visits during Week 32 of 2024 reached 2,359,927
+                                                         visits. This indicates an increase of 5% compared to the previous week, which
+will help in planning & development, strategy            recorded 2,237,575 visits in Week 31, while 96% are new OPD patients and only 4%
+management, Budgeting and forecasting                    are follow up visits in current week.
+about future needs. The MIS team is                                In terms of Facility types, the average daily OPD visits were notably higher in
+worthy to implement the system in the whole              DHQ at 598/day visits. The highest number of OPD visits were conducted in District
+province and bring reporting regularity to               Lahore (267,703) followed by Faisalabad (190,611) and Multan (135,341). Analyzing
+more than 97%.                                           OPD age and gender demographics, females constituted 55% of visits while males
+The performances of the district                         accounted for 45%. The majority of patients, spanning ages 15 to 49, comprised the
+agement teams and health facilities of the               largest age group
+province are available for scrutiny and                  In Week 32 of 2024, DHIS‐2 recorded a total of 68 diseases, comprising 55% of
+uation on DHIS. The issues of data validity              all patient cases. Among these reported illnesses, communicable diseases ac‐
+                                                         counted for 55%, while 45% were non‐communicable diseases identified as priority
+and data accuracy needs more efforts and                 areas. To visually illustrate the data, graphs and tables were used to highlight the
+hard working The doctors and paramedics                  top 10 communicable diseases. Punjab Map of OPD‐AWD/Susp Cholera outbreak
+should pay heed to the plight of data                    were also presented.
+ity and accuracy, so that correct and valid                         This week, there were 128,302 indoor admissions, with 59% of patients admitted
+figures may be made available for the                    for specific diseases. Of these, 54% were female and 46% were male, with the ma‐
+sion makers.                                             jority of patients falling within the 15‐49 year age category. A total of 23,516 surger‐
+                           Dr. Muhammad Ilyas Gondal     ies   were performed    under          anesthesia,    of which        19%       (4,470)         involved      General
+                    Director General Services Punjab     Anesthesia (GA), 49% (11,637) utilized             Local       Anesthesia (LA),     27% (6,243)          used  Spinal
+                                                         Anesthesia, and the remaining 5% (1,166) involved other alternative anesthesia
+                           The weekly Bulletin would     methods.      (235,555)                                               of              (n=
+                                                         Total ANC                   visits were recorded in the Punjab, out          total ANC‐1
+                   have  not  been          possible     80,889) women 16% (13,008) were reported with Hb<10g/dl. Total deliveries 27,277
+                   without support, guidance,            was conducted in Punjab, during current week, 80% Normal deliveries, 20% C‐Section
+                   and expertise of Dr.                  and only 0.32% were Vacuum/Forceps. Out of total live births i.e., 26,945, 1% babies
+                   hammad Ilyas Gondal,                  were born with LBW <2.5 kg and 0.5% were Premature Births. We've also tabulated
+                   rector    General          Health     data regarding Kangaroo Mother Care (KMC) for newborns to monitor its imple‐
+                   Services Punjab. The regular          mentation and impact.
+                   reviews,  discussion,         and     Family Planning (FP) visits tallied 50,049 this week. Week‐wise comparison
+modification of methodological framework                 shown in bar chart. Districts Chakwal, Faisalabad and Rahimyar Khan retained their
+used to ensure that the Weekly Bulletin meets            positions with 3,795, 3,511, and 3,458FP visits, respectively, marking consistent en‐
+the most rigorous statistical standards and              gagement.
+                                                         In Week 32nd, several key indicators showed an upward trend compared to
+curately reflects the status of our Provincial           the previous week. There was an increase in reporting compliance, outpatient de‐
+health system.                                           partment (OPD) visits, antenatal care (ANC‐1) visits, family planning visits, and de‐
+On        behalf   of  MIS  team,  Dr.        Khalid     liveries. These positive trends indicate progress in healthcare services. The data
+Mehmood (Director MIS), Dr. Muhammad                     from this week reflects improvements in healthcare and underscores the impor‐
+Mohsan Wattoo (ADHS-MIS)      Mr.             Farooq     tance of continued efforts and innovations to achieve better public health out‐
+Ahmed (CPO MIS) and Miss Rukhsana Fawad                  comes in the future
+(Data Analyst) thank to the focal persons of             Diseases on high alert in Punjab during the week‐32, 2024
+tricts           and public health professionals who
+worked to improve our provincial health                      Acute Diarrhea              Malaria         Diptheria
+mation system with their tireless efforts and
+laboration and deserve deepest appreciation                         Cholera           Leishmaniasis      Naegleria
+for continuing efforts, to be better orientation                Dysentery                Dengue           Typhoid
+to address the public health challenges of today
+and tomorrow.                                              Infantail Diarrhea           Dog bites       Snake bites
+                                  Dr. Khalid Mehmood
+              Director Health Services (P&D and MIS)     Acute viral Hep (A & E)    Neonatal tetanus    Heat Strock
+
+---
+
+                 DHIS2 Weekly Bulletin (Week 32, 05 Aug ~ 11 Aug, 2024)
+
+      Age and Gender Demographics of OPD Visits, Week 32,
+                              2024                                                    Speciality wise OPD new cases during week 32, 2024
+   60%    Female                      Male 52%                               1400k $\1
+   50%                                     43%                               1200k
+                                                                            1000k
+   40%                                                                       8ook     A
+   30%                                                          23%          6ook
+   20%                    13%17%                            21%              400k     1411158$\ra$\     8
+10% 6%       8%  8%10%                                                       20ok                   ¥8$\A 1   F1 8 ¥ 8 6 5 5 15 X
+                                                                               ok
+  0%      <1Y    1-4y     5-14Y       15-49y                5oy+                     20 20 20 20 20 20  20 E 2020 DAT 20 N 20 0 20 20 20 20 2020
+
+  OPD Attendance: Age and Gender Demographics:
+  Total OPD 2,359,927 visits were recorded in this week there
+  were more females (55%) visits than that of males (45%). As is
+  presented in the graph, the maximum number of patients be‐                Specialty wise OPD cases:
+  longed to age group (15‐49) yrs.                                          OPD visits by specialty were distributed as follows.
+
+          Average OPD perday Visits during week 32, 2024                      Punjab Map OPD AWD/
+                                                                              Susp Cholera
+                                                                              In week 32 of 2024, Pun‐
+                                                                              jab     faced a significant
+                                      1074                         1,150      AWD/Susp Cholera out‐
+                                                                              break, with the highest
+                                                                              number   of  cases        re‐
+                                                                              ported in District Lahore
+                                                                              (1,153), followed by Kasur
+
+
+
+  37    151                  523            .                       (202) and Vehari (164).
+  BHU   RHC                  THQ       DHQ  THOS
+
+  Average OPD per day visits:
+  In the assessment for week 32, the analysis showcased that, ac‐
+  cording to the bar chart, THOS facilities stood out with the high‐
+  est daily average of 1,150 OPD visits among various facility type.
+
+                                                                           Week32 2o24: Leading Non-Communicable
+
+  70%   Week 32, 2o24: Leading Communicable Diseases                    35%    31%        Diseases
+  60% 60%                                                               30%
+  50%                                                                   25%
+  40%                                                                   20%
+  30%
+  20%        15% 12% 6%                                                 15%           12% 10% 9%
+  10%                        2%  2% 1%    0.4% 0.4% 0.3%                10%                     6%    6%
+   0% MIT     20  80  m      20     20 20 2020  20 20                    5%                             5%     5% 3%    3%
+
+                                                       0%
+                                                      rA                       20     20⁰ 20  20  20  20  2020 2  20    20
+                                                                               20
+
+---
+
+                                                                                              DHIS2 Weekly Bulletin (Week 32, 05 Aug ~ 11 Aug, 2024)
+
+                                                                                                DISEASE WISE INDOOR ADMISSION WEEK 32 OF YEAR 2024
+sr.                          Medicine                                          Communicable Diseases                                            Gynaecological
+    1 Diarrhea                                         20,287  24 Dengue fever                                    9  44     Fibroid Uterus                                      175
+   2 Pneumonia                                            883  25 Seasonal Influenza I L I                       71  45     Inflam. Diseases of Female Pelvic Organs (PID)      314
+    3 Bloody Diarrhea/Dysentery                           232  26 Diptheria                                       3  46     Uterine Prolapse                                     69
+    4 Acute Watery Diarrhea / Cholera                     712  27 Meningitis                                     61  47     Vesico -Vaginal Fistula                             143
+   5 Asthma                                             1,626  28 Rabies                                         41                  Obstetrics/Maternal Complications
+    6 Chronic Obstructive Airways                         490               Neurological/Neurosurgical               48     Anti Partum Hemorrhage (APH)                        176
+   7 Pulmonary Tuberculosis                               343  29 CVA Stroke                                    790  49     Complication of Abortion                            142
+   8 Extra Pulmonary Tuberculosis                          64  30 Head Injury                                   556  50   Ectopic   Pregnancies                                  76
+   9 Sus Enteric / Typhoid Fever                        1,814   31 Heat Stroke                                    2  51 Postpartum     Hemorrhage (PPH)                         146
+  10 Diabetes Mellitus                                  1,986                              Eye                       52   Pre-Eclampsia/Eclampsia                               147
+  11 Chronic Liver Disease                              1,236  32 Cataract                                      297  53     Prolonged/ Obstructed Labour                        232
+  12 Chronic Renal Disease                              2,805  33 Chronic Renal Disease                       2,805  54 Puerperal     Sepsis                                     93
+                             Cancer Diseases                   34 Glaucoma                                       13  55   Rupture     Uterus                                     73
+  13 Silicosis                                              8  35 Allergic Conjunctivitis                        16  56     Other Obstetric Complications                     2,108
+  14 Breast Cancer                                         39                              ENT                                                         Surgical
+ 15 Prostate Cancer                                         4   36 Chronic Otitis Media                          58  57     Acu Appendicitis                                    718
+       Vaccine Preventable diseases/hepatitis                  37 DNS                                           113  58     Burns                                               306
+  16 Neonatal Tetanus                                       1                     Cardiac Diseases               Cholelithiasis / 59     Cholecystitis                          468
+  17 Acu Flaccid Paralysis (AFP                            11   38 Congestive Cardiac Failure (CCF)             593  60   Hernias                                               507
+ 18 Measles                                               274  39 Hypertension                                2,048  61     Hyperplasia of Prostate                              87
+ 19 Malaria                                                55  40 Ischemic Heart Disease (IHD)                2,051  62     Urolithiasis                                        129
+ 20 Viral Hepatitis A                                      86   41 Valvular Heart Dis                           171                             Psychiatric Diseases
+     21 Viral Hepatitis B                                   7                   Orthopedic Diseases                  63     Drug Abuse                                           65
+     22 Viral Hepatitis C                                  42   42 Arthropathies                                272  64 Psychiatric    Disorder                                  71
+     23 Viral Hepatitis E                                   2  43 Fractures                                   1,122  65     Other   Diseases                                 27,971
+
+                         Demographic Distribution of Indoor Admissions,
+                                         Week 32, 2024                                                           Surgeries Categorized by Anesthesia Type:
+                      60%                                                                                                            Week 32, 2024
+                      50%                                                                               60%                          49%
+                      40%                                                                               50%
+                      30%                                                                               40%                                                    27%
+                      20%                                                                               30%          19%
+                      10%                                                                               20%                                                            5%
+                                                                                                        10%
+                       0%     <5y               5-14Y  15-49Y   50-69Y          70Y+                    0%
+       Male                   28%                 14%     31%      19%            8%                                General          Local                   Spinal            Others
+       Female                 21%                 12%     49%      13%            4%                             Anesthesia                Anesthesia               Anesthesia
+
+MNCH Services
+
+                                                                                                                 Comparison of Anemia Among Women Attending First
+                       ANC Observations - Week 32, 2024                                                                              Antenatal Care
+
+    40%                                                                                                90,000        16%                                       16%   16%      16%     17%
+    35%                                                         ANC visits                             80,000                               1                    A             %O     16%
+    30%           34%                                           Hb. <10 g/dl                           70,000         20                               15%           1A0              16%
+                                         31%                                                           60,000                                          1A0                            15%
+    25%                                                                                                50,000                                                                         15%
+                                                                                                       40,000                                                                         14%
+    20%                                                                                                30,000                                                                         14%
+    15%                                                19%                                             20,000                                                                         13%
+    10%               16%                                                   15%                        10,000                                                                         13%
+     5%                                                                                                     -    Wk 25 Wk 26 Wk 27 Wk 28 Wk 29 Wk 30 Wk31 Wk 32                       12%
+   0%
+                  ANC-1                  ANC-2         ANC-3                ANC-4+                                                          ANC 1             ANC1 Hb. <10 g/dl
+
+ANC Detail:                                                                                       ANC‐1 constituted 34% (80,889), with 16% (13,008) showing
+During week 32, a total of 235,555 pregnant women received                                        Hb<10g/dl. ANC‐2, ANC‐3, and ANC‐4 comprised 31% (73,394),
+antenatal services at health centers. Out of these visits,                                        19% (44,790), and 15% (36,482) respectively.
+
+---
+
+DHIS2 Weekly Bulletin (Week 32, 05 Aug ~ 11 Aug, 2024)
+
+
+                                                                                                              Maternal Complications in Obstetrics: Inpatient Admissions, Week
+                 Distribution of Delivery Modes in week 32, 2024                                                                   32, 2023
+                                                                                                   2,500      2,106
+        25000     21,702 (80%)                                                                     2,000
+                                                                                                     1,500
+20000                                                                                                1,000
+                                                                                                       500          231  176  147      146     142     93  76                       73
+                                                                                                                              IIII     mm      1m
+        15000                                                                                                 2020  20    20  2020     20      20      20  20                       20
+
+10000                             5,489 (20%)                                                                       20   20            20      20
+
+         5000                                                             86                       Maternal and Neonatal Deaths
+
+        o                                                              (0.32%)                            This week, we tragically recorded 05 maternal deaths,
+                  Normal          C-Sections                           Vacuum/Forceps              with two attributed to other complications category and one
+                                                                                                   death due to Prolonged/ Obstructed Labor. Additionally, out
+Delivery Modes:                                                                                    of the 25,485 total live births, 4% (753 newborns) did not sur‐
+                                During the current week in Punjab, a total of 27,277 deliveries    vive due to complications during childbirth.
+were recorded. Of these, 80% (21,702) were normal deliveries, 20%                                       Neonatal Deaths           with Complications week 32, 2024
+(5,489) were C‐sections, and a very small proportion 0.32% (86) in‐                                 140       130
+volved vacuum/forceps.                                                                              120             105
+                                                                                                    100
+                                                                                                    8o                         65        52
+                  Services wise FP Client visits week 32, 2024                                      6o
+                                                                                                     40                                            30
+40k                34k                                                                               20                                                    3                        2
+35k                                                                                                 o         20    20         20        20        20      2020                     20
+ 3ok                                                                                                                    20
+ 25k
+ 2ok
+ 15k                              gk
+ 1ok
+  5k             1k                              5k                    zk            553                       Method wise Family Planning Clients Visits week
+  ok    Total FP Visits New FP visits No of FP visits FP Clients Ref Total PPFP  Total PAFP                                        32, 2024
+        < 25 y                    Counseling     by LHW                visits        visits         25000 −21364
+                                  (new/Old)
+                                                                                                    20000
+Family Planning: of                                      family                              Of     15000                9,073 6,625
+In the 32nd week       2024, there were 50,049                         planning visits.             10000
+these, 2% (910) were by women under 25 years old. Among these visits,                                5000                              3,084 369           54          51
+68% (33,995) were from new clients. Family planning counseling ac‐
+counted for 19% (9,492) of visits, with 83% (7,921) being new clients and                                     o
+17% (1,571) returning. 10% (4,765) were referrals by LHWs. Postpartum                                          202          20     0   0      20           20          20
+family planning (PPFP) visits made up 5% (2,476), with 2% (48) by
+women under 25 years old. Finally, Post‐Abortion Family Planning
+(PAFP) visits were 1% (553), with 3% (16) made by women under 25.
+
+                                                       Kangaroo Mother Care (KMC) Newborn Indicators, week 32, 2024
+Sr               Babies Initiated with KMC Services      TotalSr                 Information on KMC Outcome              TotalSr   Information on KMC Follow-up        Total
+
+    No. of Babies initiated with KMC Services            45            1 No. of Babies received KMC & discharge as per 29      1 No. of Babies received 1st follow-    38
+                                                                         protocol                                                  up
+2 No. of Babies born in Facility initiated KMC Services            39  2 No. of Babies received KMC & discharge on     16      2 No. of Babies received 2nd follow-                 13
+                                                                         request                                                   up
+3 No. of Babies born outside the Facility received KMC             24  3 No. of Babies initiated KMC& referred /       13                  3 No. of Babies received 3rd follow-     14
+    Services                                                             discontinued due to complication                          up
+                                                                       4 No. of Babies die during KMC                  15                  4 No. of Babies received 4th follow-     14
+                                                                                                                                   up
+* Note: This Section is Only for DHQ's where KMC Project is implemented
+* Note: This Section is Only for DHQ's where KMC Project is implemented
