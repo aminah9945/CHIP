@@ -1078,3 +1078,4 @@ For the prototype backfill, all extractors can be triggered as a single Dagster 
 |---|---|---|
 | 2026-07-15 | Architecture team | Initial Layer 3 zoomed-in design — MD table extractors for 4 prototype sources |
 | 2026-07-15 | Architecture team | Resolved L3-10, L3-11, L3-12. Extractors emit total rows. DHIS OPD table included. |
+| 2026-07-15 | Architecture team | Reconciled with Layer 2: `extractor_registry` and `extractor_status` schemas aligned with connector handoff. |

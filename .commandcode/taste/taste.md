@@ -1,4 +1,5 @@
 # Workflow
+- After completing a downstream architecture layer, proactively trace inconsistencies in upstream layers before the user asks. Present a clear comparison table showing what changed and what needs updating. Confidence: 0.70
 - Present options with pros, cons, and recommendations when design decisions are involved. Confidence: 0.85
 - Do not assume — ask questions when encountering ambiguities in requirements or design. Confidence: 0.85
 - Build prototypes with scalability in mind — design for the current static/demo case but keep the path to production real-time ingestion clear. Confidence: 0.80

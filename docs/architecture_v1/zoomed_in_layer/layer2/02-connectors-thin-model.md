@@ -38,10 +38,10 @@ The prototype data changes this assumption in two ways:
                                          │
                                          ▼
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  LAYER 3: DOCUMENT EXTRACTOR (separate document, future)                │
+│  LAYER 3: DOCUMENT EXTRACTOR (see layer3/03-document-extractors.md)     │
 │                                                                         │
-│  Poll ingestion.raw_documents WHERE status = 'pending' →                │
-│  Read bronze_uri from MinIO → Parse MD tables → Validate →              │
+│  Poll ingestion.extractor_status WHERE status = 'pending' →             │
+│  Read bronze_uri from MinIO → Parse MD tables →                         │
 │  Produce SourceRecords to Kafka                                         │
 └────────────────────────────────────────│────────────────────────────────┘
                                          │
@@ -178,7 +178,11 @@ class Connector(ABC):
 
 @dataclass(frozen=True)
 class RawDocumentRow:
-    """The row written to ingestion.raw_documents after archival."""
+    """The row written to ingestion.raw_documents after archival.
+
+    Does NOT carry a status field — extraction state is tracked in
+    the ingestion.extractor_status table (Layer 3).
+    """
     source: str
     identity: str
     bronze_uri: str
@@ -189,7 +193,6 @@ class RawDocumentRow:
     connector_version: str
     retrieved_at: datetime
     file_size_bytes: int
-    status: str = "pending"     # pending | extracting | extracted | failed
 
 
 @dataclass
@@ -282,9 +285,19 @@ def run_connector(conn: Connector, ctx: "RunContext") -> RunSummary:
             connector_version=conn.connector_version,
             retrieved_at=raw.fetched_at,
             file_size_bytes=len(raw.content),
-            status="pending",
         ))
         ctx.dedup.record_identity(conn.name, item.identity)
+
+        # ── Layer 7: Seed extractor_status rows via registry ─────────
+        # For each extractor registered for this source, create a
+        # pending row in extractor_status so the extractor knows this
+        # document exists and is ready for processing.
+        registered_extractors = ctx.handoff.get_registered_extractors(conn.name)
+        for extractor_name in registered_extractors:
+            ctx.handoff.seed_extractor_status(
+                raw_document_id=doc_id,      # returned by handoff.signal()
+                extractor_name=extractor_name,
+            )
 
     ctx.metrics.emit(summary)
     ctx.log.info("connector.run.completed", source=conn.name,
@@ -371,40 +384,61 @@ CREATE TABLE ingestion.raw_documents (
     connector_version TEXT NOT NULL,
     retrieved_at    TIMESTAMPTZ NOT NULL,
     file_size_bytes BIGINT NOT NULL,
-    status          TEXT NOT NULL DEFAULT 'pending',
-                    -- pending | extracting | extracted | failed
-    extractor_version TEXT,                  -- set when extraction begins
-    error_message   TEXT,                    -- set when status = 'failed'
-    error_at        TIMESTAMPTZ,
-    extracted_at    TIMESTAMPTZ,             -- set when status = 'extracted'
     created_at      TIMESTAMPTZ NOT NULL DEFAULT now(),
     UNIQUE (source, identity)
 );
 
-CREATE INDEX idx_raw_documents_pending
-    ON ingestion.raw_documents (status)
-    WHERE status = 'pending';
+-- Extraction state is tracked separately per (document, extractor)
+-- in ingestion.extractor_status (see Layer 3: 03-document-extractors.md)
 ```
 
-The extractor (Layer 3) queries:
+The extractor (Layer 3) polls for pending work:
 ```sql
-SELECT * FROM ingestion.raw_documents
-WHERE source = 'nih_idsr' AND status = 'pending'
-ORDER BY created_at;
+SELECT rd.*
+FROM ingestion.raw_documents rd
+JOIN ingestion.extractor_status es
+    ON es.raw_document_id = rd.id
+WHERE es.extractor_name = 'nih_idsr_disease_tables'
+  AND es.status = 'pending'
+  AND rd.content_type = 'text/markdown'
+ORDER BY rd.created_at;
 ```
 
-After successful extraction:
+### 1.8 `extractor_registry` — the handoff bridge table
+
+The connector doesn't know which extractors exist. The `extractor_registry` table maps each source to its registered extractors. When the connector signals a new document, it queries this table and creates `extractor_status` rows for every registered extractor.
+
 ```sql
-UPDATE ingestion.raw_documents
-SET status = 'extracted',
-    extractor_version = 'nih_idsr_extractor@1.0.0',
-    extracted_at = now()
-WHERE id = ?;
+CREATE TABLE ingestion.extractor_registry (
+    source          TEXT NOT NULL,
+    extractor_name  TEXT NOT NULL,
+    PRIMARY KEY (source, extractor_name)
+);
+
+-- Prototype seed data:
+INSERT INTO ingestion.extractor_registry VALUES
+    ('nih_idsr',            'nih_idsr_disease_tables'),
+    ('pitb_dss',            'pitb_dss_disease_tables'),
+    ('ajk_idsrs',           'ajk_idsrs_disease_tables'),
+    ('dhis_punjab_weekly',  'dhis_punjab_disease_tables');
 ```
 
-This is Option B from the architectural discussion — Postgres as the connector-to-extractor handoff bus for the prototype. When live ingestion arrives, this graduates to a Kafka topic. The connector SDK abstracts the handoff behind `ctx.handoff.signal()`, so the connector author's code never changes.
+Adding a new extractor later:
+```sql
+INSERT INTO ingestion.extractor_registry VALUES ('nih_idsr', 'nih_idsr_prose');
+-- Then backfill extractor_status for existing documents:
+INSERT INTO ingestion.extractor_status (raw_document_id, extractor_name)
+SELECT rd.id, 'nih_idsr_prose'
+FROM ingestion.raw_documents rd
+WHERE rd.source = 'nih_idsr';
+```
 
-### 1.8 Logging & metrics
+The `HandoffStore` SDK module provides:
+- `signal(row: RawDocumentRow) → doc_id` — INSERT into `raw_documents`
+- `get_registered_extractors(source: str) → list[str]` — query `extractor_registry`
+- `seed_extractor_status(raw_document_id, extractor_name)` — INSERT into `extractor_status`
+
+### 1.9 Logging & metrics
 
 Every connector run emits structured JSON logs via `structlog`:
 ```json
@@ -967,11 +1001,6 @@ The connector's dedup makes re-running any partition a no-op — identity-seen s
 | `connector_version` | `TEXT` | Semver of connector code | `"1.0.0"` |
 | `retrieved_at` | `TIMESTAMPTZ` | When the file was read | `"2026-07-15T10:30:00Z"` |
 | `file_size_bytes` | `BIGINT` | Size of raw content | `124800` |
-| `status` | `TEXT` | `pending`, `extracting`, `extracted`, `failed` | `"pending"` |
-| `extractor_version` | `TEXT` | Semver of extractor that processed it | `"nih_idsr_extractor@1.0.0"` |
-| `error_message` | `TEXT` | Extraction error if status=`failed` | `"Unknown layout signature: ..."` |
-| `error_at` | `TIMESTAMPTZ` | When extraction failed | `"2026-07-15T10:31:00Z"` |
-| `extracted_at` | `TIMESTAMPTZ` | When extraction succeeded | `"2026-07-15T10:30:45Z"` |
 | `created_at` | `TIMESTAMPTZ` | When row was inserted | `"2026-07-15T10:30:30Z"` |
 
 ---
@@ -982,3 +1011,4 @@ The connector's dedup makes re-running any partition a no-op — identity-seen s
 |---|---|---|
 | 2026-07-15 | Architecture team | Initial Layer 2 zoomed-in design — thin connector model for prototype |
 | 2026-07-15 | Architecture team | Resolved L2-11, L2-12, L2-13. All open questions closed. |
+| 2026-07-15 | Architecture team | Reconciled with Layer 3: removed `status` column from `raw_documents`, added `extractor_registry`, connector now seeds `extractor_status` rows. |

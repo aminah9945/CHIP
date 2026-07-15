@@ -27,9 +27,9 @@ Layer 1 of the CHIP architecture is the set of external data sources the platfor
 
 ### 0.2 What this document is NOT
 
-- It is NOT a connector design document (that's Layer 2, see `02-ingestion-connectors.md`)
-- It is NOT a parsing strategy document (that's ADR-012)
-- It is NOT a data normalization plan (that's Layer 4, see `01-data-model-and-schemas.md`)
+- It is NOT a connector design document (that's Layer 2, see `../layer2/02-connectors-thin-model.md`)
+- It is NOT an extractor design document (that's Layer 3, see `../layer3/03-document-extractors.md`)
+- It is NOT a data normalization plan (that's Layer 4, see `../../architecture/subsystems/01-data-model-and-schemas.md`)
 - It specifies nothing about _how_ we ingest — only _what_ there is to ingest
 
 ### 0.3 Conventions
@@ -1256,3 +1256,4 @@ See Appendix A for the full crosswalk table (available as a separate CSV file at
 | 2026-07-15 | Architecture team | Initial complete catalog from `Data_sources_1/` |
 | 2026-07-15 | Architecture team | Resolved L1-01 through L1-08; restructured into Resolved Decisions + Open Questions sections |
 | 2026-07-15 | Architecture team | Resolved OQ-1, OQ-5, L1-09, L1-10. All open questions closed or deferred to downstream layers. |
+| 2026-07-15 | Architecture team | Updated cross-references to Layer 2 (thin connectors) and Layer 3 (extractors). |
