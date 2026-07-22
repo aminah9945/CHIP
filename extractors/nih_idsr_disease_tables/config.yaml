@@ -1,0 +1,7 @@
+extractor_name: nih_idsr_disease_tables
+extractor_version: "1.0.0"
+kafka:
+  topic: chip.health.nih_idsr.disease_case_report.v1
+  bootstrap_servers: localhost:9094
+input_sources:
+  - nih_idsr

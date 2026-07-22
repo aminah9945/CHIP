@@ -1,0 +1,23 @@
+source: dhis_punjab_weekly
+connector_version: "1.0.0"
+content_type: text/markdown
+discovery:
+  source_directory: Data_sources_1/DHIS/MD
+  file_extension: .md
+  identity_patterns:
+    - regex: "[Ww]eek[_ ]?(\\d+)"
+      week_group: 1
+      year_from_content: true
+  content_year_extraction:
+    scan_lines: 30
+    year_regex: "(20\\d{2})"
+    era_hints:
+      - pattern: "DHIS-II"
+        year: 2022
+      - pattern: "DHIS2|DHIS-2"
+        year_hint: "skip"
+  fallback_behavior: skip
+schedule:
+  cron: "0 6 * * 3"
+  timezone: Asia/Karachi
+freshness_max_lag_hours: 8760

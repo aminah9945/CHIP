@@ -1,0 +1,112 @@
+@startuml CHIP_Layer3_Extractors
+!include <C4/C4_Container>
+!include <C4/C4_Component>
+
+LAYOUT_TOP_DOWN()
+
+title CHIP — Layer 3: Document Extractors\nFormat Adapters: Read Bronze → Parse Structured Data → Produce to Kafka
+
+' ══════════════════════════════════════════════════════════════
+' EXTRACTOR SDK
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(extractor_sdk, "Extractor SDK (libs/chip_extractors/)") {
+
+  Container(extr_base, "base.py", "Python ABC", "Extractor · SourceRecord · ExtractionInput\nRecords carry source-native labels only")
+  Container(extr_runner, "runner.py", "Template Method", "run_extractor() — THE ALGORITHM\nPoll → Fetch Bronze → Extract → Kafka → Update Status")
+  Container(extr_handoff, "handoff.py", "Postgres client", "poll_pending() — JOIN raw_documents WHERE status='pending'\nupdate_status() — pending/extracting/extracted/failed")
+  Container(extr_kafka, "kafka.py", "CloudEvents 1.0", "KafkaEnvelope producer · ADR-007 compliant\nchip_epiweek + chip_pcode envelope hints\nFull provenance chain in payload")
+  Container(extr_logging, "logging.py", "structlog", "JSON structured log emission")
+  Container(extr_metrics, "metrics.py", "RunSummary", "extractor_runs table")
+}
+
+' ══════════════════════════════════════════════════════════════
+' INPUT: BRONZE + POSTGRES
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(input_sources, "Input Sources") {
+
+  Container(input_minio, "MinIO Bronze", "S3 API · Read-only", "Fetch raw bytes by bronze_uri\nImmutable · Permanent")
+  Container(input_postgres, "PostgreSQL", "ingestion schema", "ingestion.raw_documents (metadata)\ningestion.extractor_status (per doc, per extractor)\nPoll: WHERE status='pending' AND source IN (...)")
+}
+
+' ══════════════════════════════════════════════════════════════
+' PER-SOURCE EXTRACTORS
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(per_source_extractors, "Per-Source Extractors (extractors/<slug>/)") {
+
+  Container(nih_extr, "nih_idsr_disease_tables", "4 tables extracted\n~30 diseases × ~90 districts × 174 weeks", "Table Finding Strategy:\n  Table 1: Province Summary (first data table)\n  Tables 2-4: Sindh·Balochistan·KP District Detail\n  Detection: province keyword + known district names\n  Skip: compliance, labs, trend figures\n──────\nEra Detection:\n  2021-2022: Transposed (diseases=rows, districts=cols)\n    Heuristic: first header contains 'Disease'\n  2023-2026: Pivoted (districts=rows, diseases=cols)\n    Heuristic: first header contains 'District'\n  Fallback: majority vote (known labels vs known districts)\n──────\nKafka topic: chip.health.nih_idsr.disease_case_report.v1")
+
+  Container(pitb_extr, "pitb_dss_disease_tables", "1 table extracted\n~15 diseases × 36 districts × 169 weeks", "Single disease×district matrix after masthead\nAlways transposed (diseases=rows, 36 district cols)\nNo era detection needed\n──────\nKafka topic: chip.health.pitb_dss.disease_case_report.v1")
+
+  Container(ajk_extr, "ajk_idsrs_disease_tables", "3 tables extracted\n~18 diseases × 10 districts × 3 weeks", "Table A: Overall Suspected Cases & Deaths\nTable B: District Wise Detail (main data table)\nTable C: Weekly Comparisons (3-week trends)\nDeaths tracked explicitly (separate column)\nDistrict abbreviations: MZD, JV (emitted as-is)\n──────\nKafka topic: chip.health.ajk_idsrs.disease_case_report.v1")
+
+  Container(dhis_extr, "dhis_punjab_disease_tables", "2 tables extracted\n~12-68 diseases × 31 districts × 52 weeks", "Table A: Prone Epidemic Diseases (district-level)\n  31 districts (ALL CAPS) × 12 epidemic diseases\n  Detection: >=6 of 12 known disease headers present\nTable B: OPD Disease Table (province-level)\n  ~68 diseases across 15 categories\n  Detection: headers contain 'Disease Category'/'Disease Name'\n──────\nKafka topic: chip.health.dhis_punjab_weekly.disease_case_report.v1")
+}
+
+' ══════════════════════════════════════════════════════════════
+' RUNNER ALGORITHM
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(runner_algo, "run_extractor() — The SDK-Owned Algorithm") {
+
+  Container(ex_step1, "Step 1: Poll Pending", "handoff.poll_pending()", "SELECT rd.* FROM raw_documents rd\nJOIN extractor_status es\nWHERE es.extractor_name=?\nAND es.status='pending'\nAND rd.content_type='text/markdown'")
+  Container(ex_step2, "Step 2: Mark Extracting", "handoff.update_status()", "UPDATE extractor_status\nSET status='extracting', started_at=NOW()\nWHERE raw_document_id=? AND extractor_name=?")
+  Container(ex_step3, "Step 3: Fetch Bronze", "bronze.get(bronze_uri)", "Read raw bytes from MinIO\ncontent-addressed object\nImmutable · Replay-safe")
+  Container(ex_step4, "Step 4: Extract Records", "ext.extract()", "Parse MD HTML tables\nDetect orientation (era detection)\nLocate correct tables (skip non-data)\nYield SourceRecord per data point\nSource-native labels ONLY\nTotal rows emitted with row_type:'total'")
+  Container(ex_step5, "Step 5: CloudEvents Envelope", "kafka.produce()", "Wrap in CloudEvents 1.0 (ADR-007):\n· specversion: 1.0\n· type: pk.chip.health.{source}.disease_case_report.v1\n· source: /chip/extractors/{name}\n· chip_epiweek: 202501 (hint)\n· chip_pcode: null (normalizer fills)\n· data.payload: source-native labels\n· data.provenance: full chain")
+  Container(ex_step6, "Step 6: Mark Complete", "handoff.update_status()", "UPDATE extractor_status\nSET status='extracted', records_produced=N,\ncompleted_at=NOW()\nWHERE raw_document_id=? AND extractor_name=?")
+
+  Container(ex_step_fail, "Step 6 (alt): Mark Failed", "handoff.update_status()", "ON EXCEPTION:\nUPDATE extractor_status\nSET status='failed', error_message=?\n--> Operator notified\n--> Fix extractor --> reset to pending --> replay")
+}
+
+' ══════════════════════════════════════════════════════════════
+' KAFKA OUTPUT
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(kafka_output, "Kafka Output → Layer 4 (Normalizers)") {
+
+  Container(kafka_broker, "Apache Kafka", "KRaft · CloudEvents 1.0", "Topics (1 per source):\n· chip.health.nih_idsr.disease_case_report.v1\n· chip.health.pitb_dss.disease_case_report.v1\n· chip.health.ajk_idsrs.disease_case_report.v1\n· chip.health.dhis_punjab_weekly.disease_case_report.v1\nMessage key: district|disease|year-Wweek\n(Kafka log compaction + deterministic UPSERT)")
+
+  Container(normalizer, "Normalizer (Layer 4)", "Dagster batch drain", "Consumes from all 4 topics\nMaps source-native → canonical:\n· District → P-code (location_alias)\n· Disease label → disease_code\n· Date → epi-week (WHO/ISO)\n· Reconciles district totals = printed totals\n→ fact_disease_cases")
+}
+
+' ══════════════════════════════════════════════════════════════
+' EXTRACTOR STATUS TRACKING
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(status_tracking, "Extractor Status & Registry") {
+
+  Container(status_table, "ingestion.extractor_status", "Per (document, extractor)", "States:\n· pending (auto-seeded by connector)\n· extracting (in progress)\n· extracted (success)\n· failed (error --> human triage)\n--> Reset to pending --> replay")
+
+  Container(registry_table, "ingestion.extractor_registry", "Source → Extractor mapping", "nih_idsr → nih_idsr_disease_tables\npitb_dss → pitb_dss_disease_tables\najk_idsrs → ajk_idsrs_disease_tables\ndhis_punjab_weekly → dhis_punjab_disease_tables\n────────\nFuture additions:\nnih_idsr → nih_idsr_prose_extractor\nnih_idsr → nih_idsr_compliance_extractor")
+}
+
+' ══════════════════════════════════════════════════════════════
+' RELATIONSHIPS
+' ══════════════════════════════════════════════════════════════
+
+Rel(input_postgres, ex_step1, "poll pending docs", "JOIN raw_documents")
+Rel(input_minio, ex_step3, "fetch bronze_uri", "S3 GET object")
+
+Rel(ex_step1, ex_step2, "pending found", "")
+Rel(ex_step2, ex_step3, "fetch from MinIO", "")
+Rel(ex_step3, ex_step4, "parse MD content", "")
+Rel(ex_step4, ex_step5, "SourceRecords yielded", "")
+Rel(ex_step5, ex_step6, "Kafka produce + flush", "")
+Rel(ex_step4, ex_step_fail, "parse error", "--> status=failed")
+
+Rel(ex_step5, kafka_broker, "produce CloudEvents envelope", "")
+Rel(kafka_broker, normalizer, "Dagster batch drain\nConsume per-source topics", "")
+
+Rel(ex_step2, status_table, "UPDATE status=extracting", "")
+Rel(ex_step6, status_table, "UPDATE status=extracted", "")
+Rel(ex_step_fail, status_table, "UPDATE status=failed", "")
+Rel(registry_table, status_table, "seeds rows per (doc, extractor)", "connector trigger")
+
+Rel(status_table, ex_step1, "replay: reset to pending\n--> re-extract from bronze", "replay-safe, dashed")
+
+SHOW_LEGEND()
+
+@enduml

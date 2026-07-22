@@ -1,0 +1,182 @@
+@startuml CHIP_Main_Architecture
+!include <C4/C4_Container>
+!include <C4/C4_Context>
+
+' ── Color scheme ────────────────────────────────────────────
+!define LIGHTBLUE #B3E5FC
+!define LIGHTGREEN #C8E6C9
+!define LIGHTORANGE #FFE0B2
+!define BROWN #D7CCC8
+!define LIGHTPINK #F8BBD0
+!define LIGHTPURPLE #D1C4E9
+!define LIGHTYELLOW #FFF9C4
+!define LIGHTRED #FFCDD2
+!define TEAL #B2DFDB
+!define BLUEGREY #B0BEC5
+
+LAYOUT_TOP_DOWN()
+
+title Climate–Health Intelligence Platform — Updated Main Architecture\n(Thin Connector + Extractor Model)
+
+' ══════════════════════════════════════════════════════════════
+' BAND 1: DATA SOURCES
+' ══════════════════════════════════════════════════════════════
+
+Person(stakeholder, "Stakeholder Dashboard", "District choropleths · Epi curves vs climate overlays\nAlert center with evidence · Urdu/English")
+
+' ══════════════════════════════════════════════════════════════
+' BAND 2: CONNECTORS (Thin)
+' ══════════════════════════════════════════════════════════════
+
+System_Ext(disease_bulletins, "Disease Surveillance\nBulletins", "NIH IDSR (weekly PDFs)\nPITB-DSS · AJK IDSRS\nDHIS Punjab")
+System_Ext(climate_weather, "Climate & Weather\nRecords", "Open-Meteo / ERA5\n(PMD via MOU pending)")
+System_Ext(disaster_reports, "Disaster Situation\nReports", "NDMA / PDMA sitreps\nIncident + situation reports")
+System_Ext(news_feed, "Relevance-Filtered\nNews Feed", "NAaaS API\nMultilingual · Urdu/English\nKeyword + date pre-filtered")
+
+' ══════════════════════════════════════════════════════════════
+' BAND 3: CONNECTORS (Thin archival gateways)
+' ══════════════════════════════════════════════════════════════
+
+Container_Boundary(connectors_boundary, "Data Collection Connectors") {
+  Container(conn_nih, "nih_idsr", "Python · Dagster-scheduled", "discover → fetch → archive_raw → signal\n174 bulletins · 2021–2026")
+  Container(conn_weather, "weather_connector\n(future)", "Python · Dagster-scheduled", "API poll → archive → signal\nOpen-Meteo / ERA5")
+  Container(conn_ndma, "ndma_connector (future)", "Python · Dagster-scheduled", "PDF download → archive → signal\nNDMA sitreps")
+  Container(conn_naaas, "naaas_connector (future)", "Python · Dagster-scheduled", "Query API → archive → signal\nNAaaS relevance-filtered feed")
+}
+
+' ══════════════════════════════════════════════════════════════
+' BAND 4: STORAGE LAYER
+' ══════════════════════════════════════════════════════════════
+
+Container_Boundary(storage_boundary, "Storage Layer") {
+  Container(minio_bronze, "MinIO Bronze", "S3 API · WORM · Content-addressed", "Permanent Raw Archive\nImmutable · System of Record\ns3://chip-bronze/<source>/<identity>/<hash>/")
+  Container(kafka_backbone, "Apache Kafka", "KRaft · CloudEvents 1.0", "Message Backbone\nTransport only · 90-day retention\nchip.health.<source>.disease_case_report.v1")
+}
+
+' ══════════════════════════════════════════════════════════════
+' BAND 5: EXTRACTORS (Layer 3 — NEW)
+' ══════════════════════════════════════════════════════════════
+
+Container_Boundary(extractors_boundary, "Document Extractors") {
+  Container(extr_nih, "nih_idsr_extractor", "Python · Dagster · Kafka", "Disease table extraction\nEra detection (transposed↔pivoted)\nMarks total rows for reconciliation")
+  Container(extr_pitb, "pitb_dss_extractor", "Python · Dagster · Kafka", "Disease×district matrix\nTransposed orientation\n36 Punjab districts")
+  Container(extr_ajk, "ajk_idsrs_extractor", "Python · Dagster · Kafka", "3 tables per bulletin\nDeaths tracked explicitly\nWeekly comparison trends")
+  Container(extr_dhis, "dhis_punjab_extractor", "Python · Dagster · Kafka", "Epidemic disease table\n31 districts · ALL CAPS\nOPD disease table (province)")
+}
+
+' ══════════════════════════════════════════════════════════════
+' BAND 6: HARMONIZE & UNDERSTAND
+' ══════════════════════════════════════════════════════════════
+
+Container_Boundary(harmonize_boundary, "Harmonize & Understand") {
+  Container(harmonizers, "Harmonizers", "Python · Dagster batch drains", "District → P-code (location_alias)\nDate → epi-week (WHO/ISO Mon-start)\nDisease label → disease_code\nNormalized per-source silver tables")
+  Container(nlp_pipeline, "News NLP Pipeline", "Spark · Dagster", "Lang-ID · NER/RE (BGE-M3)\nHeidelTime temporal resolution\nGeo entity-linking → P-code\nMedia signals → gold panel")
+}
+
+' ══════════════════════════════════════════════════════════════
+' BAND 7: CENTRAL DATABASE
+' ══════════════════════════════════════════════════════════════
+
+Container_Boundary(database_boundary, "Central Analytical Database") {
+  Container(postgres_db, "PostgreSQL", "PostGIS · TimescaleDB\npgvector (BGE-M3 1024-dim)", "Silver: normalized per-source tables\nGold: unified district × epi-week panel\nfact_disease_cases (with full provenance)")
+}
+
+' ══════════════════════════════════════════════════════════════
+' BAND 8: ANALYSIS & KNOWLEDGE GRAPH
+' ══════════════════════════════════════════════════════════════
+
+Container_Boundary(analysis_boundary, "Analysis · Knowledge Graph · Reasoning") {
+  Container(analytics, "Analytics & Forecasting", "Python · MLflow · GPU1", "GLM/DLNM baselines → Prophet → LSTM\nSurveillance anomaly detection\nAlert candidates (human review)")
+  Container(kg_builder, "Knowledge Graph Builder", "Dagster batch", "Evidence-reified assertions (:Assertion nodes)\nCHKG ontology population")
+  Container(neo4j_kg, "Neo4j — CHKG", "Neo4j · ~2-3M nodes", "Climate–Health Knowledge Graph\nEvidence-backed edges\nCypher query interface")
+  Container(graph_rag, "Cited-Summary Assistant", "Self-hosted LLM · GPU0 (24 GB)", "Graph-RAG over CHKG\nCited, auditable answers\nSource provenance trail")
+}
+
+' ══════════════════════════════════════════════════════════════
+' BAND 9: SERVING & USERS
+' ══════════════════════════════════════════════════════════════
+
+Container_Boundary(serving_boundary, "Serving Application") {
+  Container(fastapi_app, "FastAPI Server", "Modular Monolith · Python 3.12", "Auth · Indicators · Forecasts · Alerts\nKG Explorer · RAG Summaries\nPolicy Briefs · Admin · Audit Logging")
+}
+
+' ══════════════════════════════════════════════════════════════
+' RELATIONSHIPS
+' ══════════════════════════════════════════════════════════════
+
+' Sources → Connectors (poll via Dagster)
+Rel(disease_bulletins, conn_nih, "Poll (Dagster)\n6 filename patterns\ncontent-based fallback", "pull")
+Rel(climate_weather, conn_weather, "Poll (future)\nHTTP API", "pull")
+Rel(disaster_reports, conn_ndma, "Poll (future)\nPDF download", "pull")
+Rel(news_feed, conn_naaas, "Poll (future)\nNAaaS query API", "pull")
+
+' Connectors → Storage (archive-first principle)
+Rel(conn_nih, minio_bronze, "archive_raw\nRaw bytes + .meta.json sidecar", "content-addressed")
+Rel(conn_weather, minio_bronze, "archive_raw", "")
+Rel(conn_ndma, minio_bronze, "archive_raw", "")
+Rel(conn_naaas, minio_bronze, "archive_raw", "")
+
+' Connectors → Signal handoff
+Rel(conn_nih, kafka_backbone, "signal downstream\nseed extractor_status", "Postgres handoff")
+Rel(conn_weather, kafka_backbone, "signal", "")
+Rel(conn_ndma, kafka_backbone, "signal", "")
+Rel(conn_naaas, kafka_backbone, "signal", "")
+
+' MinIO → Extractors (read from bronze)
+Rel(minio_bronze, extr_nih, "read bronze_uri\nparse MD tables", "replay-safe")
+Rel(minio_bronze, extr_pitb, "read bronze_uri", "")
+Rel(minio_bronze, extr_ajk, "read bronze_uri", "")
+Rel(minio_bronze, extr_dhis, "read bronze_uri", "")
+
+' Extractors → Kafka (produce source-native records)
+Rel(extr_nih, kafka_backbone, "produce SourceRecords\nCloudEvents envelope", "chip.health.nih_idsr.disease_case_report.v1")
+Rel(extr_pitb, kafka_backbone, "produce SourceRecords", "chip.health.pitb_dss.disease_case_report.v1")
+Rel(extr_ajk, kafka_backbone, "produce SourceRecords", "chip.health.ajk_idsrs.disease_case_report.v1")
+Rel(extr_dhis, kafka_backbone, "produce SourceRecords", "chip.health.dhis_punjab_weekly.disease_case_report.v1")
+
+' Kafka → Harmonizers (batch drain)
+Rel(kafka_backbone, harmonizers, "Dagster batch drain\nNormalize to canonical grain", "Kafka consumer")
+
+' Kafka → NLP
+Rel(kafka_backbone, nlp_pipeline, "Spark batch/stream\nNews text enrichment", "Kafka Spark consumer")
+
+' Harmonizers → Postgres
+Rel(harmonizers, postgres_db, "UPSERT silver tables\nfact_disease_cases", "timescaledb")
+
+' NLP → Postgres
+Rel(nlp_pipeline, postgres_db, "media_signal facts\nembedding vectors", "pgvector")
+
+' Postgres → Analytics
+Rel(postgres_db, analytics, "read gold panel\nunified district×week view", "forecast input")
+
+' Postgres → KG Builder
+Rel(postgres_db, kg_builder, "read panel + NLP results\nbuild assertions", "batch job")
+
+' KG Builder → Neo4j
+Rel(kg_builder, neo4j_kg, "populate CHKG\n:Assertion nodes", "evidence-reified")
+
+' Neo4j → Graph-RAG
+Rel(neo4j_kg, graph_rag, "Cypher queries\nTraverse evidence edges", "cited answers")
+
+' Analytics → Postgres (write forecasts)
+Rel(analytics, postgres_db, "write forecasts\nalert candidates", "MLflow registry")
+
+' Postgres → FastAPI
+Rel(postgres_db, fastapi_app, "read indicators\nforecasts, alerts", "SQL queries")
+
+' Neo4j → FastAPI
+Rel(neo4j_kg, fastapi_app, "KG explorer\nCypher queries", "read-only")
+
+' Graph-RAG → FastAPI
+Rel(graph_rag, fastapi_app, "cited summaries\nRAG endpoint", "API call")
+
+' FastAPI → Dashboard
+Rel(fastapi_app, stakeholder, "serve dashboard\nindicators + alerts + evidence", "HTTPS")
+
+' Replay arrow (dashed)
+Rel(minio_bronze, extr_nih, "replay_from_bronze\nre-extract with fixed extractor", "replay-safe, dashed")
+
+' Annotation: System boundary notes
+SHOW_LEGEND()
+
+@enduml

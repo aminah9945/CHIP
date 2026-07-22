@@ -1,0 +1,14 @@
+source: ajk_idsrs
+connector_version: "1.0.0"
+content_type: text/markdown
+discovery:
+  source_directory: Data_sources_1/AJK/out/MD
+  file_extension: .md
+  identity_patterns:
+    - regex: "IDSR-WEEKLY-BULLETIN-AJK_EPI-Week-(\\d+)_(\\d{4})"
+      year_group: 2
+      week_group: 1
+schedule:
+  cron: "0 6 * * 2"
+  timezone: Asia/Karachi
+freshness_max_lag_hours: 192

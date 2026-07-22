@@ -1,0 +1,92 @@
+@startuml CHIP_Layer2_Connectors
+!include <C4/C4_Container>
+!include <C4/C4_Component>
+
+LAYOUT_TOP_DOWN()
+
+title CHIP — Layer 2: Data Collection Connectors\nThin Connector Model: discover → fetch → archive_raw → signal
+
+' ══════════════════════════════════════════════════════════════
+' CONNECTOR SDK
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(connector_sdk, "Connector SDK (libs/chip_connectors/)") {
+
+  Container(base_py, "base.py", "Python ABC", "Connector · DiscoveredItem · RawArtifact\nRawDocumentRow · RunSummary")
+  Container(runner_py, "runner.py", "Template Method", "run_connector() — THE ALGORITHM\n7-step pipeline owned by SDK")
+  Container(bronze_py, "bronze.py", "MinIO client", "BronzeClient.archive()\nContent-addressed path · .meta.json")
+  Container(dedup_py, "dedup.py", "Postgres-backed", "identity_seen() + content_seen()\nrecord_identity() + record_content()")
+  Container(handoff_py, "handoff.py", "Postgres-backed", "signal() → INSERT raw_documents\nseed_extractor_status() via registry")
+  Container(logging_py, "logging.py", "structlog", "JSON structured log emission")
+  Container(metrics_py, "metrics.py", "RunSummary", "connector_runs table INSERT")
+}
+
+' ══════════════════════════════════════════════════════════════
+' PER-SOURCE CONNECTORS
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(per_source_connectors, "Per-Source Connectors (connectors/<slug>/)") {
+
+  Container(nih_conn, "nih_idsr", "discover + fetch + derive_identity", "6 regex patterns for filename parsing\nContent fallback (scan first 50 lines)\nIdentity: idsr:2025:W01\nRead .md bytes from filesystem\n174 bulletins · 2021–2026\n──────\nEdge Cases: 6+ naming patterns · NR NULL\n2023 Punjab=NR · Table orientation pivot")
+
+  Container(pitb_conn, "pitb_dss", "discover + fetch + derive_identity", "3 regex patterns (DSS/2015, DSS/2016, HRS/2017-18)\nYear from parent directory + filename\nIdentity: pitb_dss:2015:W11\nRead .md bytes: 2015(38), 2016(52), 2017(53), 2018(26)\n169 bulletins total\n──────\nEdge Cases: partial year 2018 (W1-26)\nDistrict abbreviations (D.G KHAN)")
+
+  Container(ajk_conn, "ajk_idsrs", "discover + fetch + derive_identity", "1 clean pattern:\nIDSR-WEEKLY-BULLETIN-AJK_EPI-Week-{NN}_{YYYY}\nIdentity: ajk_idsrs:2026:W18\nRead .md bytes: 3 bulletins (W18-20, 2026)\n──────\nEdge Cases: small sample (3 weeks)\nDistrict abbreviations (MZD, JV)")
+
+  Container(dhis_conn, "dhis_punjab_weekly", "discover + fetch + derive_identity", "Parse week from filename: [Ww]eek[_ ]?(\\\\d+)\nOpen file → extract year from content (first 30 lines)\nFilter: year=2022 (DHIS-II) · Skip year={2024,2025} (DHIS2)\nIdentity: dhis_punjab_weekly:2022:W18\nRead .md bytes: ~52 weeklies (2022 DHIS-II era)\n──────\nEdge Cases: up to 4 files per week number\nFilename case mismatch · Content-based dedup")
+}
+
+' ══════════════════════════════════════════════════════════════
+' THE RUNNER ALGORITHM
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(runner_algorithm, "run_connector() — The SDK-Owned Algorithm") {
+
+  Container(step1, "Step 1: Identity Dedup", "dedup.identity_seen()", "SELECT FROM ingestion.dedup_state\nWHERE source=? AND identity=?\n→ skip if already ingested")
+  Container(step2, "Step 2: Fetch", "conn.fetch()", "Read raw bytes from source\nLocal .md files (prototype)\nFuture: HTTP PDF download")
+  Container(step3, "Step 3: Content Dedup", "dedup.content_seen()", "SELECT WHERE source=? AND content_hash=?\nCatches same bytes under different filenames\nCritical for DHIS: Week_18.md = week_18.md")
+  Container(step4, "Step 4: Archive to Bronze", "bronze.archive()", "MinIO PUT object\ns3://chip-bronze/<source>/<identity>/<hash>/\nOriginal filename + .meta.json sidecar\nBucket versioning ON · Object lock ON")
+  Container(step5, "Step 5: Signal Downstream", "handoff.signal()", "INSERT INTO ingestion.raw_documents\n(source, identity, bronze_uri, content_hash,\ncontent_type, original_filename, source_uri,\nconnector_version, retrieved_at, file_size_bytes)")
+  Container(step6, "Step 6: Seed Extractors", "handoff.seed_extractor_status()", "INSERT INTO ingestion.extractor_status\n(raw_document_id, extractor_name)\nFor each extractor in extractor_registry\nfor this source")
+  Container(step7, "Step 7: Record Dedup", "dedup.record_*()", "dedup.record_identity()\ndedup.record_content()\nPrevents re-ingestion in future runs")
+}
+
+' ══════════════════════════════════════════════════════════════
+' OUTPUTS
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(outputs, "Outputs & Sink") {
+
+  Container(minio_output, "MinIO Bronze", "S3 API · WORM", "s3://chip-bronze/<source>/<identity>/<hash>/\nRaw bytes + .meta.json sidecar\nSystem of Record · Permanent")
+  Container(postgres_output, "PostgreSQL", "ingestion schema", "ingestion.raw_documents\nUNIQUE (source, identity)\ningestion.dedup_state\nPRIMARY KEY (source, identity)\ningestion.extractor_status\nPer (doc, extractor) · auto-seeded\ningestion.connector_runs\nRunSummary emissions")
+  Container(dagster_output, "Dagster", "Orchestration", "WeeklyPartitionsDefinition per source\nCron: Tue/Wed 06:00 PKT\nBackfill: dagster asset backfill\nAsset checks: freshness, zero-discovery guard")
+}
+
+' ══════════════════════════════════════════════════════════════
+' RELATIONSHIPS
+' ══════════════════════════════════════════════════════════════
+
+Rel(nih_conn, step1, "for each item", "")
+Rel(pitb_conn, step1, "for each item", "")
+Rel(ajk_conn, step1, "for each item", "")
+Rel(dhis_conn, step1, "for each item", "")
+
+Rel(step1, step2, "identity not seen", "")
+Rel(step2, step3, "fetch succeeded", "")
+Rel(step3, step4, "content not seen", "")
+Rel(step4, step5, "archive succeeded", "")
+Rel(step5, step6, "doc_id returned", "")
+Rel(step6, step7, "status seeded", "")
+
+Rel(step1, minio_output, "identity seen → skip", "skip-path")
+
+Rel(step4, minio_output, "PUT bronze object", "")
+Rel(step5, postgres_output, "INSERT raw_documents", "")
+Rel(step6, postgres_output, "INSERT extractor_status", "")
+Rel(step7, postgres_output, "INSERT dedup_state", "")
+
+Rel(step7, dagster_output, "emit RunSummary", "connector_runs")
+
+SHOW_LEGEND()
+
+@enduml

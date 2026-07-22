@@ -1,0 +1,21 @@
+source: pitb_dss
+connector_version: "1.0.0"
+content_type: text/markdown
+discovery:
+  source_directory: Data_sources_1/PITB-DSS
+  file_extension: .md
+  recursive: true
+  identity_patterns:
+    - regex: "DSS-Bulletin-Week-(\\d+)"
+      year_from_path: true
+      week_group: 1
+    - regex: "DSS Bulletin Week (\\d+)-(\\d{4})"
+      year_group: 2
+      week_group: 1
+    - regex: "HRS Bulletin Week (\\d+)[,-](\\d{4})"
+      year_group: 2
+      week_group: 1
+schedule:
+  cron: "0 6 * * 3"
+  timezone: Asia/Karachi
+freshness_max_lag_hours: 8760

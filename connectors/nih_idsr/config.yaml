@@ -1,0 +1,31 @@
+source: nih_idsr
+connector_version: "1.0.0"
+content_type: text/markdown
+discovery:
+  source_directory: Data_sources_1/NIH/MD
+  file_extension: .md
+  identity_patterns:
+    - regex: "Week-(\\d{2})-(\\d{4})"
+      year_group: 2
+      week_group: 1
+    - regex: "Weekly[_ ]Report-(\\d+)-(\\d{4})"
+      year_group: 2
+      week_group: 1
+    - regex: "IDSR-Weekly-Report-(\\d+)-(\\d{4})"
+      year_group: 2
+      week_group: 1
+    - regex: "IDSRS Weekly Report[- ](\\d+)-(\\d{4})"
+      year_group: 2
+      week_group: 1
+    - regex: "Weekly_Report_(\\d+)[_ ](\\d{4})"
+      year_group: 2
+      week_group: 1
+    - regex: "IDSR Week (\\d+) Bulletin \\((\\d{4})\\)"
+      year_group: 2
+      week_group: 1
+  content_fallback: true
+  content_fallback_scan_lines: 50
+schedule:
+  cron: "0 6 * * 2"
+  timezone: Asia/Karachi
+freshness_max_lag_hours: 192

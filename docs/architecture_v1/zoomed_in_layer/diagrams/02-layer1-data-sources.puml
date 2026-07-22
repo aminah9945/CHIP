@@ -1,0 +1,91 @@
+@startuml CHIP_Layer1_Data_Sources
+!include <C4/C4_Container>
+!include <C4/C4_Component>
+
+LAYOUT_TOP_DOWN()
+
+title CHIP — Layer 1: Data Sources Complete Schema Catalog\n7 Sources Classified by Temporal Granularity
+
+' ══════════════════════════════════════════════════════════════
+' WEEKLY SURVEILLANCE
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(weekly_surveillance, "Weekly Surveillance (core disease data)") {
+
+  Container(nih_idsr, "NIH IDSR", "174 bulletins · 2021–2026\n~40 priority diseases", "District-level: Sindh✅ Balochistan✅ KP✅\nPunjab❌ AJK❌ GB❌ ICT❌\nMD (parsed from PDF) · 6+ naming patterns\nOrientation: transposed(2021-22)→pivoted(2023-26)\n────────\nQuality: district name inconsistency (9+ variants)\nNR vs blank semantics ambiguous")
+
+  Container(pitb_dss, "PITB-DSS / HRS", "169 bulletins · 2015–2018\n~15 communicable diseases", "District-level: all 36 Punjab districts✅\nMD (parsed from PDF)\nStable naming by year (DSS→HRS transition)\n────────\nBest Punjab district source\nFills the NIH IDSR Punjab gap")
+
+  Container(who_dews, "WHO DEWS", "94 bulletins · 2013–2014\n17 priority diseases", "District-level: ❌ (national aggregate only)\nMD (parsed from PDF)\nConsistent structure across 94 bulletins\n────────\nCross-validation signal for NIH totals\nHistorical coverage only (2013-2014)")
+
+  Container(ajk_idsrs, "AJK IDSRS", "3 bulletins · 2026 (W18-20)\n~18 priority diseases", "District-level: all 10 AJK districts✅\nMD (parsed from PDF)\nClean single filename pattern\n────────\nMost well-structured source overall\nDeaths tracked explicitly\nSmall sample (3 weeks)")
+}
+
+' ══════════════════════════════════════════════════════════════
+' MONTHLY & ANNUAL
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(monthly_annual, "Monthly & Annual Reports") {
+
+  Container(dhis_punjab, "DHIS Punjab", "111 unique docs · 2013–2025", "ERA 1 (DHIS-II, 2022): 31 Punjab districts✅\n12 epidemic diseases · weekly granularity\nOPD, MNCH, FP, ANC tables present\n────────\nERA 2 (DHIS2, 2024-25): province only❌\n68 diseases across 15 categories\n────────\nTwo incompatible formats → separate connectors\nFilenames don't encode year → content extraction")
+
+  Container(kpk_report, "KPK Report 2017", "1 annual report · 2017", "District-level: 25 KPK districts✅ (but annual)\n43 priority diseases (20 CD + 23 NCD)\nHealthcare utilization, not surveillance\n────────\nCannot contribute to weekly panel\nValuable for annual validation & baseline burden")
+}
+
+' ══════════════════════════════════════════════════════════════
+' CLINICAL SCREENING
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(clinical_screening, "Clinical Screening Campaigns") {
+
+  Container(phw, "Punjab Health Week", "2 campaign waves · 2017–2018", "District-level: 36 Punjab districts✅ (point-in-time)\nNCD: Hb, BP, BSR, PEFR, BMI\nBlood-borne: Hepatitis B/C, HIV, Malaria\n────────\nPrevalence rates WITH explicit denominator\nStored in separate fact_screening_campaign table\nPopulation screening, not routine surveillance")
+}
+
+' ══════════════════════════════════════════════════════════════
+' FUTURE SOURCES
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(future_sources, "Future Data Sources (not yet available)") {
+
+  Container(climate_future, "Climate & Weather", "Open-Meteo / ERA5", "PMD via MOU pending")
+  Container(disaster_future, "Disaster Reports", "NDMA / PDMA sitreps", "Incident + situation reports")
+  Container(news_future, "News Feed (NAaaS)", "Relevance-filtered API", "Multilingual · Urdu/English · Keyword + date gate")
+}
+
+' ══════════════════════════════════════════════════════════════
+' CONNECTORS DOWNSTREAM
+' ══════════════════════════════════════════════════════════════
+
+System_Boundary(connector_boundary, "→ Layer 2: Connectors") {
+  Container(next_layer, "Connector per source", "See Layer 2 diagram", "")
+}
+
+Rel(nih_idsr, next_layer, "nih_idsr connector", "174 docs")
+Rel(who_dews, next_layer, "who_dews connector", "94 docs")
+Rel(pitb_dss, next_layer, "pitb_dss connector", "169 docs")
+Rel(ajk_idsrs, next_layer, "ajk_idsrs connector", "3 docs")
+Rel(dhis_punjab, next_layer, "dhis_punjab_weekly connector", "~52 docs (2022)")
+Rel(kpk_report, next_layer, "kpk_report connector (deferred)", "1 doc · annual")
+Rel(phw, next_layer, "phw_connector (deferred)", "2 docs · separate schema")
+
+' ══════════════════════════════════════════════════════════════
+' COVERAGE HEATMAP NOTE
+' ══════════════════════════════════════════════════════════════
+
+note as coverage_heatmap
+  <b>Coverage Heatmap (2013-2026)</b>
+  NIH IDSR:  ████████████████████████████  2021-2026  (174 weeks)
+  WHO DEWS:  ████████                      2013-2014  (94 weeks)
+  PITB-DSS:  ██████████████████            2015-2018  (169 weeks)
+  AJK IDSRS:                          ██   2026       (3 weeks)
+  DHIS Punjab:████████████████████████████████████████████████  2013-2025
+  KPK 2017:            █                   2017       (annual)
+  PHW:                  ██                 2017-2018  (2 campaigns)
+  ──────
+  <b>Key gap:</b> NIH IDSR + PITB-DSS have NO temporal overlap
+  <b>Best overlap:</b> NIH(2021-26) × DHIS-II(2022) — Punjab, weekly
+end note
+
+SHOW_LEGEND()
+
+@enduml

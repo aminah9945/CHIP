@@ -1,0 +1,7 @@
+extractor_name: ajk_idsrs_disease_tables
+extractor_version: "1.0.0"
+kafka:
+  topic: chip.health.ajk_idsrs.disease_case_report.v1
+  bootstrap_servers: localhost:9094
+input_sources:
+  - ajk_idsrs

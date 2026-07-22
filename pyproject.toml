@@ -1,0 +1,54 @@
+[project]
+name = "chip-monorepo"
+version = "0.1.0"
+description = "Climate-Health Intelligence Platform (CHIP)"
+requires-python = ">=3.12"
+dependencies = [
+    "chip-connectors",
+    "chip-extractors",
+    "psycopg[binary]>=3.1.0",
+    "minio>=7.2.0",
+    "structlog>=24.1.0",
+    "pyyaml>=6.0.1",
+    "pydantic>=2.6.0",
+    "confluent-kafka>=2.3.0",
+    "beautifulsoup4>=4.12.0",
+    "lxml>=5.1.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "libs/chip_connectors",
+    "libs/chip_extractors",
+    "connectors/*",
+    "extractors/*",
+]
+
+[tool.uv.sources]
+chip-connectors = { workspace = true }
+chip-extractors = { workspace = true }
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0",
+    "pytest-cov>=4.1.0",
+    "testcontainers[postgres,minio]>=4.0.0",
+    "dagster>=1.7.0",
+    "dagster-webserver>=1.7.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = [
+    "libs/chip_connectors",
+    "libs/chip_extractors",
+    "connectors/ajk_idsrs",
+    "connectors/pitb_dss",
+    "connectors/dhis_punjab_weekly",
+    "connectors/nih_idsr",
+    "extractors/ajk_idsrs_disease_tables",
+    "extractors/pitb_dss_disease_tables",
+    "extractors/dhis_punjab_disease_tables",
+    "extractors/nih_idsr_disease_tables",
+    ".",
+]
